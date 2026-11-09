@@ -1,0 +1,78 @@
+# Production stack for a CertiFind server: PostgreSQL, the API and the importer.
+# Run from this folder:
+#   cp .env.example .env   # then set real passwords
+#   docker compose -f docker-compose.prod.yml up -d postgres
+#   docker compose -f docker-compose.prod.yml build backend
+#   docker compose -f docker-compose.prod.yml run --rm importer
+#   docker compose -f docker-compose.prod.yml up -d backend
+# (README, "Deploying to a server", explains the order and updates.)
+#
+# Differences from the development docker-compose.yml:
+#   * passwords come from .env (never committed), no defaults
+#   * port 5432 is bound to 127.0.0.1 only: reachable from the server itself
+#     and through an SSH tunnel, never from the internet
+#   * on a new volume, postgres-init/ creates the certifind_import (schema owner,
+#     writes) and certifind_app (read-only) roles
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: certifind-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-certifind_db}
+      POSTGRES_USER: ${POSTGRES_USER:-certifind_admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD in deploy/.env}
+      CERTIFIND_IMPORT_PASSWORD: ${CERTIFIND_IMPORT_PASSWORD:?set CERTIFIND_IMPORT_PASSWORD in deploy/.env}
+      CERTIFIND_APP_PASSWORD: ${CERTIFIND_APP_PASSWORD:?set CERTIFIND_APP_PASSWORD in deploy/.env}
+    ports:
+      - "127.0.0.1:${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./postgres-init:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  # The API, logged in as the read-only role. Bound to 127.0.0.1: put a reverse
+  # proxy with HTTPS (nginx, Caddy) in front of it to serve it publicly.
+  backend:
+    build: ../backend
+    image: certifind-backend
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      SPRING_PROFILES_ACTIVE: prod
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/${POSTGRES_DB:-certifind_db}
+      SPRING_DATASOURCE_USERNAME: certifind_app
+      SPRING_DATASOURCE_PASSWORD: ${CERTIFIND_APP_PASSWORD:?set CERTIFIND_APP_PASSWORD in deploy/.env}
+      CERTIFIND_CORS_ALLOWED_ORIGINS: ${CERTIFIND_CORS_ALLOWED_ORIGINS:-}
+    ports:
+      - "127.0.0.1:${BACKEND_PORT:-8080}:8080"
+
+  # One-off: applies Flyway migrations and loads ../data, then exits. Not started by
+  # "up"; run it with
+  #   docker compose -f docker-compose.prod.yml run --rm importer --certifind.import.dry-run=true
+  #   docker compose -f docker-compose.prod.yml run --rm importer
+  importer:
+    image: certifind-backend
+    profiles: ["tools"]
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      SPRING_PROFILES_ACTIVE: import
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/${POSTGRES_DB:-certifind_db}
+      SPRING_DATASOURCE_USERNAME: certifind_import
+      SPRING_DATASOURCE_PASSWORD: ${CERTIFIND_IMPORT_PASSWORD:?set CERTIFIND_IMPORT_PASSWORD in deploy/.env}
+      CERTIFIND_IMPORT_PATHS: /data
+    volumes:
+      - ../data:/data:ro
+
+volumes:
+  pgdata:
+    name: certifind_pgdata
