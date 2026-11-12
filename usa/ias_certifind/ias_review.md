@@ -1,0 +1,210 @@
+# IAS conversion review
+
+Generated 2026-11-10: 220 bodies, 452 accreditations, 830 scope rows before pruning.
+
+## Notes
+
+- SRAC CERT SRL (MSCB-353): reuses body row 'SRAC CERT SRL' from renar-romania
+- 3CERT AMERICAS, S de RL de CV (MSCB-280): address has broken words from the PDF text ('BLVD. DÍAZ ORDAZ 130 INT A, COL. SANTA MARÍA; MONTERREY, NUE...'); kept as published
+- 3core2 Certification Ltd (MSCB-226): reuses body row '3Core2 Certification Limited' from ukas-united-kingdom
+- ACCEDERE INC. (MSCB-255): address has broken words from the PDF text ('999, 18TH STREE T , #3000; DENVER, COLORADO 80202, U.S.A....'); kept as published
+- AIQ CERT INTERNATIONAL CERTIFICATION SERVICES LLC (MSCB-301): address has broken words from the PDF text ('8 THE GREEN S UI TE B; DOVER, DE LAWARE 19901 , U.S.A....'); kept as published
+- AITAIWAN CERTIFICATION CO., LTD. (MSCB-407): address has broken words from the PDF text ('3F. - 10, NO. 57, NANJING W EST R OAD; DATONG DIST RICT , TA...'); kept as published
+- ARES INTERNATIONAL CERTIFICATION CO., LTD (MSCB-171): reuses body row 'Ares International Certification Ltd' from taf-taiwan
+- ASSURANCEPOINT, LLC (MSCB-376): address has broken words from the PDF text ('4880 LOWER ROSWELL R OA D, S UI TE 165; MARIETTA, G EORGIA ,...'); kept as published
+- BEIJING NGV CERTIFICATION CENTER CO., LTD. (MSCB-432): reuses body row 'Beijing NGV Certification Center Co., Ltd.' from jasanz-australia
+- BSCIC Certifications Pvt. Ltd. (MSCB-239): address has broken words from the PDF text ('§WORK, PLOT 5B, SECTOR 15A, FIRST FLOOR, CROWN PLAZA MALL; F...'); kept as published
+- BSCIC Certifications Pvt. Ltd. (MSCB-239): reuses body row 'BSCIC Certifications Pvt. Ltd.' from eiac-uae
+- BUREAU VERITAS (INDIA) PVT. LTD. (MSCB-419): reuses body row 'Bureau Veritas (India) Pvt. Ltd.' from nabcb-india
+- Best ISO Certification Co., Ltd. (MSCB-166): address has broken words from the PDF text ('RM. 5, 8F., NO. 925, SEC. 4, TAIWAN B OU L E V AR D, XITUN D...'); kept as published
+- Bohan Testing & Certification Group Co., Ltd. (MSCB-268): reuses body row 'Bohan Testing & Certification Group Co., Ltd.' from gac-saudi-arabia
+- CERTINSPECT REGISTER SRL (MSCB-401): reuses body row 'CERTINSPECT REGISTER SRL' from renar-romania
+- CFE CERTIFICATION LIMITED (MSCB-258): reuses body row 'CFE Certification Limited' from ukas-united-kingdom
+- Certhia Limitada (MSCB-253): address has broken words from the PDF text ('AVENIDA APOQUINDO 6410, OF F IC E 212; LAS CONDES,...'); kept as published
+- Cyber AI Certification Inc. (MSCB-429): address has broken words from the PDF text ('50 HARRISON STREET; HOBOKEN, N EW J ERSEY 07030 , UNITED STA...'); kept as published
+- DCI CERTIFICATION LTD. (MSCB-241): reuses body row 'DCI Certification Ltd' from ukas-united-kingdom
+- Dominite Management Systems Ltd. (DMSL) (MSCB-152): address has broken words from the PDF text ('S UITE 18, FIRST FLOOR, HAMIO SUITE , 22 CHANNEL TV AVENUE; ...'); kept as published
+- EAST STANDARD TEST CERTIFICATION CO., LTD. (MSCB-378): address has broken words from the PDF text ('ROOM 2107 - 2108, BLOCK C, WANDA COMMERCIAL CENTER,; GONGSHU...'); kept as published
+- EBS REGISTRARS LLC. (MSCB-347): address has broken words from the PDF text ('400 RELLA BOULEVARD , SUITE 207 - 298; MONTEBELLO, N EW YORK...'); kept as published
+- FAHSS (MSCB-254): address has broken words from the PDF text ('PO BOX 46030, OFFICE NO.1, FLOOR M, DANAT TOWER A, AIRPORT R...'); kept as published
+- FIDES VERITAS REGISTER INC (MSCB-444): address has broken words from the PDF text ('7550 W INTERSTATE 10 SUITE 800 - 159; SAN ANTONIO , T E X AS...'); kept as published
+- GBR CERTIFICATION LLP (MSCB-300): address has broken words from the PDF text ('B - 11, BLOCK H - 25, SECTOR - 63, NOIDA; GAUTAM BUDDH NAGAR...'); kept as published
+- GCAI INC (MSCB-392): address has broken words from the PDF text ('30 N ORTH GOULD ST REET S UIT E N; SHERIDAN, W YOMING 82801 ...'); kept as published
+- GLOBAL REGISTRAR OF SYSTEMS PTY. LTD. (MSCB-339): reuses body row 'Global Registrar of Systems Pty Ltd' from jasanz-australia
+- Global Business Bureau Certification LLC (MSCB-331): reuses body row 'Global Business Bureau Certification LLC' from eiac-uae
+- Gongbo Certification Services (Shaanxi) Co., Ltd. (MSCB-351): address has broken words from the PDF text ('ROOM B - 401, 4TH FLOOR, BUILDING B, XIONGHUA SCIENCE AND TE...'); kept as published
+- Government and Military Certification Systems, Inc. (MSCB-101): address has broken words from the PDF text ('1200 G STREET, NORTHWEST, SUITE 800, PMB#8354; WASHINGTON, D...'); kept as published
+- HaoBo Jiangsu Certification Co.,Ltd (MSCB-346): reuses body row 'HaoBo Jiangsu Certification Co., Ltd' from gac-saudi-arabia
+- INVICTA ASSURANCE INTERNATIONAL LLC (SHPK) (MSCB-136): address has broken words from the PDF text ('ITALDRURI ELBASAN / AFZE – ALBANIAN FREE ZONE ELBASAN (TEDA)...'); kept as published
+- IOTA GLOBAL CERTIFICATION INC (MSCB-333): address has broken words from the PDF text ('5055 WEST PARK B OU L E V AR D, SUITE 400; PLANO, TEXAS 7509...'); kept as published
+- IQM INTERNATIONAL CERTIFICATION LTD (MSCB-234): address has broken words from the PDF text ('C/O ANATOLIAN ACCOUNTANCY, 25 ELECTRIC AVENUE,; ENFIELD EN3 ...'); kept as published
+- ISO Certifications Group (MSCB-398): address has broken words from the PDF text ('3934 CYPRESS CREEK PARKWAY, SUITE 151; HOUSTON, T E X AS 770...'); kept as published
+- International Industrial Certification (MSCB-297): reuses body row 'International Industrial Certification Co. Limited' from jasanz-australia
+- JOHANSON GROUP LLP (MSCB-314): address has broken words from the PDF text ('6547 NORTH ACADEMY B OU L E V AR D #105; COLORADO SPRINGS, C...'); kept as published
+- KING CERT INTERNATIONAL CERTIFICATION LTD. (MSCB-196): address has broken words from the PDF text ('TSARIGRADSKO SHOSE B OULEVARD NO. 133, BIC IZOT FL OOR 6, OF...'); kept as published
+- KOTRIC CERTIFICATION CENTER (MSCB-156): reuses body row 'KOTRIC Certification Center' from kab-south-korea
+- LBMC CERTIFICATION SERVICES, LLC (MSCB-394): address has broken words from the PDF text ('201 FRANKLIN R OA D; BRENTWOOD , TENNESSEE 37027 , U.S.A....'); kept as published
+- Lianming Certification Co.,Ltd. (MSCB-322): address has broken words from the PDF text ('ROOM 1813 - 15, 18TH FLOOR, BUILDING A, NO. 18, LIUJIANG ROA...'); kept as published
+- MONCERTF LLC (MSCB-372): reuses body row 'Moncertf LLC' from mnas-mongolia
+- MS CERTIFICATION SERVICES PRIVATE LIMITED (MSCB-240): reuses body row 'MS Certification Services Pvt. Ltd.' from jasanz-australia
+- MSECB MANAGEMENT SYSTEMS INC. (MSCB-111): address has broken words from the PDF text ('306 - 1555, BOUL. DE L'AVENIR; LAVAL, QC H7S 2N5 CANADA...'); kept as published
+- Magistratus and Proctor (MSCB-338): address has broken words from the PDF text ('J HUB BUILDING AL NADHA STREET AL ROWDAH DIST; JEDDAH, 21593...'); kept as published
+- Montlake Partner Group LLC DBA Advantage Partners (MSCB-389): address has broken words from the PDF text ('1617 N ORTH E AST 80TH ST REET; SEATTLE, WA SHINGTON 98115 ,...'); kept as published
+- Nama Quality Certification (MSCB-364): address has broken words from the PDF text ('AL NAHDA TOWERS 2, 6TH FLOOR, OFFICE NO - 6 GHALA P.O.BOX: 3...'); kept as published
+- OSTIA MANAGEMENT PVT LTD (MSCB-284): address has broken words from the PDF text ('PLOT NO. 1A RK EXTENSION G/F MOHAN GARDEN, UTTAM NAGAR NEAR ...'); kept as published
+- PIAQ Inc. (MSCB-327): address has broken words from the PDF text ('2125 BISCAYNE B OU L E V AR D 3RD FLOOR; MIAMI, FLORIDA 3313...'); kept as published
+- QA TECHNIC INTERNATIONAL LLC (MSCB-208): address has broken words from the PDF text ('30 N ORTH GOULD ST REET, S UI TE 45590; SHERIDAN, WY OMING 8...'); kept as published
+- QRC Assurance and Solutions Inc. (MSCB-218): register country IN, address says United States; used United States
+- RICI US LLC (MSCB-104): address has broken words from the PDF text ('254 CHAPMAN R OA D, S UI TE 208 #17519; NEWARK, DELAWARE, 19...'); kept as published
+- RIR Certification Private Limited (MSCB-127): address has broken words from the PDF text ('UNIT NO. 323, TOWER B - 4, SPAZE IT PARK, SECTOR - 49, SOHNA...'); kept as published
+- RIR Certification Private Limited (MSCB-127): reuses body row 'RIR CERTIFICATION PVT. LTD.' from nabcb-india
+- SHANDONG CHUANGAN TESTING AND CERTIFICATION GROUP CO.,LTD (MSCB-380): address has broken words from the PDF text ('ROOM 507, BUILDING A1, BOHAI ADVANCED TECHNOLOGY RESEARCH IN...'); kept as published
+- STANDARDS ORGANISATION OF NIGERIA (MSCB-340): address has broken words from the PDF text ('13 VICTORIA AROBIEKE STREET LEKKI PHASE I; LAGOS , 900287 NI...'); kept as published
+- Shanghai POSI Certification Co., Ltd. (MSCB-295): reuses body row 'Shanghai POSI Certification Co., Ltd.' from anab-usa
+- Shenzhen Huakai Inspection & Certification Co., Ltd. (MSCB-250): reuses body row 'Shenzhen Huakai Inspection & Certification Co., Ltd' from gac-saudi-arabia
+- Shenzhen Onelink Certification Center Co., Ltd (MSCB-375): address has broken words from the PDF text ('ROOM 403, BUILDING E3, TCL INTERNATIONAL E CITY, XILI STREET...'); kept as published
+- Shenzhen Zhongxin certification testing Co., Ltd (MSCB-374): reuses body row 'Shenzhen Zhongxin Certification Testing Co., Ltd.' from gac-saudi-arabia
+- TGS INTERNATIONAL CERTIFICATION TECHNICAL CONTROL AND SURVEILLANCE SERVICES LTD (MSCB-139): address has broken words from the PDF text ('284 CHASE ROAD, A BLOCK 2ND FLOOR SUITE 341; LONDON , UNITED...'); kept as published
+- THEMIS INSPECTION AND CERTIFICATION (GUANGDONG) CO., LTD. (MSCB-434): address has broken words from the PDF text ('ROOM 3A09, BUILDING B, NO. 33 HENGYI ROAD, SILIAN COMMUNITY,...'); kept as published
+- TNV System Certification Pvt. Ltd. (MSCB-154): reuses body row 'TNV SYSTEM CERTIFICATION PVT. LTD' from sae-ecuador
+- TRANSPACIFIC CERTIFICATIONS LIMITED (MSCB-404): reuses body row 'Transpacific Certifications Limited' from jasanz-australia
+- UAC International Certification and Training Services LLC (MSCB-186): address has broken words from the PDF text ('950 RIDGE R OA D S UI TE D11,; CLAYMONT 19703, DELAWARE, UNI...'); kept as published
+- UNI Certification Inc. (UNI-CERT) (MSCB-210): address has broken words from the PDF text ('RM#2411, B GIDC 43, ILJIK - RO, KWANGMYEONG - SI; GYEONGGI -...'); kept as published
+- W3 SOLUTIONZ FZE. DBA ACS W3 SOLUTIONZ (MSCB-158): address has broken words from the PDF text ('OFFICE M - 02, BUILDING C - 70, SECTOR ME10; ABU DHABI, UNIT...'); kept as published
+- WANJIA STANDARD CERTIFICATION (HUBEI) CO., LTD (MSCB-423): address has broken words from the PDF text ('2ND FLOOR, BUILDING K - 6, AREA A, DOUBLE CREATION STAR INDU...'); kept as published
+- ZHONGCI INTERNATIONAL CERTIFICATION CO., LTD. (MSCB-283): register country SA, address says China; used China
+- ZOZEN International Certification (Shenzhen)Co., Ltd. (MSCB-282): address has broken words from the PDF text ('1601, BUILDING 1, BAIWANG R§D BUILDING, NO. 5298 SHAHE XI RO...'); kept as published
+- ZOZEN International Certification (Shenzhen)Co., Ltd. (MSCB-282): reuses body row 'ZOZEN International Certification (Shenzhen) Co., Ltd.' from gac-saudi-arabia
+- Zenith Quality Assessors Private Limited (MSCB-128): address has broken words from the PDF text ('OFFICE #01A, B WING, SIDDHESH OPTIMUS, OPP. LUNKAD QUEENSLAN...'); kept as published
+- Zenith Quality Assessors Private Limited (MSCB-128): reuses body row 'Zenith Quality Assessors Pvt. Ltd.' from nabcb-india
+- ZhongJian Zhuoyue International Certification (Beijing) Co., Ltd. (MSCB-304): address has broken words from the PDF text ('RM A219 - 2, F2, SEC. A, DUFU JINYUAN, SW OF HONGYAN S1ST RD...'); kept as published
+- Zhongguang Testing and Certification (Shenzhen) Co., Ltd. (MSCB-383): address has broken words from the PDF text ('NO. 308 - 316, MAIN B UI LD IN G, QIXIN SCIENCE PARK, NO.18,...'); kept as published
+
+## Schemes not imported (scheme: bodies)
+
+- ISO/IEC TS 17021-10 is a competence requirement, not a certification standard; not in the standards table: KIOSCERT CERTIFICATION SERVICES LIMITED (MSCB-230)
+
+## Removed by prune_inactive
+
+- accreditation MSCB-128 (22000) (ISO 22003-1) Zenith Quality Assessors Pvt. Ltd.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-136 (ISO/IEC 17021-1) INVICTA ASSURANCE INTERNATIONAL LLC (SHPK): expired 2026-10-01
+- accreditation MSCB-136 (20000) (ISO/IEC 20000-6) INVICTA ASSURANCE INTERNATIONAL LLC (SHPK): expired 2026-10-01
+- accreditation MSCB-136 (22000) (ISO 22003-1) INVICTA ASSURANCE INTERNATIONAL LLC (SHPK): expired 2026-10-01
+- accreditation MSCB-136 (27006) (ISO/IEC 27006) INVICTA ASSURANCE INTERNATIONAL LLC (SHPK): expired 2026-10-01
+- accreditation MSCB-136 (50003) (ISO 50003) INVICTA ASSURANCE INTERNATIONAL LLC (SHPK): expired 2026-10-01
+- accreditation MSCB-196 (ISO/IEC 17021-1) KING CERT INTERNATIONAL CERTIFICATION LTD.: expired 2026-10-01
+- accreditation MSCB-196 (22000) (ISO 22003-1) KING CERT INTERNATIONAL CERTIFICATION LTD.: expired 2026-10-01
+- accreditation MSCB-196 (22301) (ISO/IEC 17021-6) KING CERT INTERNATIONAL CERTIFICATION LTD.: expired 2026-10-01
+- accreditation MSCB-196 (27006) (ISO/IEC 27006) KING CERT INTERNATIONAL CERTIFICATION LTD.: expired 2026-10-01
+- accreditation MSCB-196 (37001) (ISO/IEC 17021-9) KING CERT INTERNATIONAL CERTIFICATION LTD.: expired 2026-10-01
+- accreditation MSCB-206 (20000) (ISO/IEC 20000-6) RIGCERT MS: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-206 (22301) (ISO/IEC 17021-6) RIGCERT MS: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-206 (50003) (ISO 50003) RIGCERT MS: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-213 (27006) (ISO/IEC 27006) SAHAA SOLUTIONS, LLC DBA DATABRACKETS: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-231 (ISO/IEC 17021-1) Swiss Approval North America: expired 2026-09-01
+- accreditation MSCB-231 (22000) (ISO 22003-1) Swiss Approval North America: expired 2026-09-01
+- accreditation MSCB-231 (22301) (ISO/IEC 17021-6) Swiss Approval North America: expired 2026-09-01
+- accreditation MSCB-231 (27006) (ISO/IEC 27006) Swiss Approval North America: expired 2026-09-01
+- accreditation MSCB-231 (37001) (ISO/IEC 17021-9) Swiss Approval North America: expired 2026-09-01
+- accreditation MSCB-231 (39001) (ISO/IEC 17021-7) Swiss Approval North America: expired 2026-09-01
+- accreditation MSCB-231 (42001) (ISO/IEC 42006) Swiss Approval North America: expired 2026-09-01
+- accreditation MSCB-231 (50003) (ISO 50003) Swiss Approval North America: expired 2026-09-01
+- accreditation MSCB-234 (ISO/IEC 17021-1) IQM INTERNATIONAL CERTIFICATION LTD: expired 2026-04-01
+- accreditation MSCB-234 (20000) (ISO/IEC 20000-6) IQM INTERNATIONAL CERTIFICATION LTD: expired 2026-04-01
+- accreditation MSCB-234 (22000) (ISO 22003-1) IQM INTERNATIONAL CERTIFICATION LTD: expired 2026-04-01
+- accreditation MSCB-234 (22301) (ISO/IEC 17021-6) IQM INTERNATIONAL CERTIFICATION LTD: expired 2026-04-01
+- accreditation MSCB-234 (27006) (ISO/IEC 27006) IQM INTERNATIONAL CERTIFICATION LTD: expired 2026-04-01
+- accreditation MSCB-239 (20000) (ISO/IEC 20000-6) BSCIC Certifications Pvt. Ltd.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-239 (22301) (ISO/IEC 17021-6) BSCIC Certifications Pvt. Ltd.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-253 (37001) (ISO/IEC 17021-9) Certhia Limitada: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-253 (50003) (ISO 50003) Certhia Limitada: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-255 (22301) (ISO/IEC 17021-6) ACCEDERE INC.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-255 (27006) (ISO/IEC 27006) ACCEDERE INC.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-277 (ISO/IEC 17021-1) Adriacert d.o.o.: suspended
+- accreditation MSCB-277 (22301) (ISO/IEC 17021-6) Adriacert d.o.o.: suspended
+- accreditation MSCB-277 (27006) (ISO/IEC 27006) Adriacert d.o.o.: suspended
+- accreditation MSCB-294 (ISO/IEC 17021-1) FAP Certification (Shanghai) Co.,Ltd.: suspended
+- accreditation MSCB-306 (27006) (ISO/IEC 27006) Insight Assurance: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-306 (42001) (ISO/IEC 42006) Insight Assurance: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-312 (27006) (ISO/IEC 27006) AARC-360: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-312 (42001) (ISO/IEC 42006) AARC-360: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-314 (27006) (ISO/IEC 27006) JOHANSON GROUP LLP: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-320 (22301) (ISO/IEC 17021-6) CERTIND S.A.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-320 (39001) (ISO/IEC 17021-7) CERTIND S.A.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-335 (ISO/IEC 17021-1) FQC FIRST QUALITY CERTIFICATION PRIVATE LIMITED: suspended
+- accreditation MSCB-335 (22000) (ISO 22003-1) FQC FIRST QUALITY CERTIFICATION PRIVATE LIMITED: suspended
+- accreditation MSCB-335 (27006) (ISO/IEC 27006) FQC FIRST QUALITY CERTIFICATION PRIVATE LIMITED: suspended
+- accreditation MSCB-335 (50003) (ISO 50003) FQC FIRST QUALITY CERTIFICATION PRIVATE LIMITED: suspended
+- accreditation MSCB-336 (27006) (ISO/IEC 27006) BAY MOUNTAIN SECURITY CERTIFICATIONS, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-352 (27006) (ISO/IEC 27006) CONSILIUM LABS INC.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-352 (42001) (ISO/IEC 42006) CONSILIUM LABS INC.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-353 (20000) (ISO/IEC 20000-6) SRAC CERT SRL: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-353 (22301) (ISO/IEC 17021-6) SRAC CERT SRL: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-356 (27006) (ISO/IEC 27006) Mastermind Assurance, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-356 (42001) (ISO/IEC 42006) Mastermind Assurance, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-360 (ISO/IEC 17021-1) China Standards Institute Guolian (Beijing) Certification Center: suspended
+- accreditation MSCB-365 (27006) (ISO/IEC 27006) Decrypt Compliance: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-372 (27006) (ISO/IEC 27006) Moncertf LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-376 (27006) (ISO/IEC 27006) ASSURANCEPOINT, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-376 (42001) (ISO/IEC 42006) ASSURANCEPOINT, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-379 (27006) (ISO/IEC 27006) SENSIBA AUSTRALIA PTY LTD: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-382 (22000) (ISO 22003-1) GFS Cert: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-389 (27006) (ISO/IEC 27006) Montlake Partner Group LLC DBA Advantage Partners: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-389 (42001) (ISO/IEC 42006) Montlake Partner Group LLC DBA Advantage Partners: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-391 (27006) (ISO/IEC 27006) IGNYTE ASSURANCE LLC.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-392 (27006) (ISO/IEC 27006) GCAI INC: expired 2026-11-01
+- accreditation MSCB-393 (39001) (ISO/IEC 17021-7) ALL ABOUT ESG SHPK: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-397 (27006) (ISO/IEC 27006) risk3sixty ISO Certifications, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-399 (22000) (ISO 22003-1) SINO CONFIDENCE INTERNATIONAL CERTIFICATION (GUANGZHOU) CO., LTD.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-401 (20000) (ISO/IEC 20000-6) CERTINSPECT REGISTER SRL: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-401 (22301) (ISO/IEC 17021-6) CERTINSPECT REGISTER SRL: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-407 (27006) (ISO/IEC 27006) AITAIWAN CERTIFICATION CO., LTD.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-412 (ISO/IEC 17021-1) SHENZHEN HUAYANG CERTIFICATION CO., LTD.: expired 2026-06-01
+- accreditation MSCB-417 (27006) (ISO/IEC 27006) ERM CERTIFICATION AND VERIFICATION SERVICES LIMITED: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-419 (27006) (ISO/IEC 27006) Bureau Veritas (India) Pvt. Ltd.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-422 (27006) (ISO/IEC 27006) THOROPASS CERTIFICATION LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-425 (ISO/IEC 17021-1) BEIJING ZHONG AN ZHI HUAN CERTIFICATION CENTER CO., LTD: expired 2026-06-01
+- accreditation MSCB-428 (27006) (ISO/IEC 27006) Securisea CB, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MSCB-433 (22000) (ISO 22003-1) DELTA CERT - KRITIKES PISTOPOIISEIS DOULGERAKI SINGLE MEMBER P.C.: no valid ISO/IEC 17021-1 accreditation
+- body AARC-360 (United States)
+- body ACCEDERE INC. (United States)
+- body Adriacert d.o.o. (Croatia)
+- body AITAIWAN CERTIFICATION CO., LTD. (Taiwan)
+- body ALL ABOUT ESG SHPK (Albania)
+- body ASSURANCEPOINT, LLC (United States)
+- body BAY MOUNTAIN SECURITY CERTIFICATIONS, LLC (United States)
+- body BEIJING ZHONG AN ZHI HUAN CERTIFICATION CENTER CO., LTD (China)
+- body BSCIC Certifications Pvt. Ltd. (India)
+- body Bureau Veritas (India) Pvt. Ltd. (India)
+- body Certhia Limitada (Chile)
+- body CERTIND S.A. (Romania)
+- body CERTINSPECT REGISTER SRL (Romania)
+- body China Standards Institute Guolian (Beijing) Certification Center (China)
+- body CONSILIUM LABS INC. (United States)
+- body Decrypt Compliance (United States)
+- body DELTA CERT - KRITIKES PISTOPOIISEIS DOULGERAKI SINGLE MEMBER P.C. (Greece)
+- body ERM CERTIFICATION AND VERIFICATION SERVICES LIMITED (United Kingdom)
+- body FAP Certification (Shanghai) Co.,Ltd. (China)
+- body FQC FIRST QUALITY CERTIFICATION PRIVATE LIMITED (India)
+- body GCAI INC (United States)
+- body GFS Cert (China)
+- body IGNYTE ASSURANCE LLC. (United States)
+- body Insight Assurance (United States)
+- body INVICTA ASSURANCE INTERNATIONAL LLC (SHPK) (Albania)
+- body IQM INTERNATIONAL CERTIFICATION LTD (United Kingdom)
+- body JOHANSON GROUP LLP (United States)
+- body KING CERT INTERNATIONAL CERTIFICATION LTD. (Bulgaria)
+- body Mastermind Assurance, LLC (United States)
+- body Moncertf LLC (Mongolia)
+- body Montlake Partner Group LLC DBA Advantage Partners (United States)
+- body RIGCERT MS (Romania)
+- body risk3sixty ISO Certifications, LLC (United States)
+- body SAHAA SOLUTIONS, LLC DBA DATABRACKETS (United States)
+- body Securisea CB, LLC (United States)
+- body SENSIBA AUSTRALIA PTY LTD (Australia)
+- body SHENZHEN HUAYANG CERTIFICATION CO., LTD. (China)
+- body SINO CONFIDENCE INTERNATIONAL CERTIFICATION (GUANGZHOU) CO., LTD. (China)
+- body SRAC CERT SRL (Romania)
+- body Swiss Approval North America (United States)
+- body THOROPASS CERTIFICATION LLC (United States)
+- body Zenith Quality Assessors Pvt. Ltd. (India)

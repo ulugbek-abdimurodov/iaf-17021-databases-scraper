@@ -1,0 +1,46 @@
+# SCC review
+
+- 8060: skipped CyberSecure Canada (CAN/CIOSC 104 / CAN/DGSI 104) - national scheme
+- 1415045 Ontario Inc. Cyber Security Canada (8060): no ISO/IEC 17021-1 row; dropped (prune)
+- Beijing Kun Biao Certification & Inspection Co. Ltd. (KBRZ) (8068): register areas ['EMS', 'OH&SMS', 'QMS']; imported ['ISO 14001', 'ISO 45001', 'ISO 9001']
+- 8002: skipped SFI 2022 forest management / fiber sourcing - North American forestry scheme
+- Bureau de Normalisation Du Québec (8002): register areas ['EMS', 'QMS']; imported ['ISO 14001', 'ISO 22301', 'ISO 45001', 'ISO 50001', 'ISO 9001']
+- 8078: skipped CyberSecure Canada (CAN/CIOSC 104 / CAN/DGSI 104) - national scheme
+- Complade Canada Inc. (8078): no ISO/IEC 17021-1 row; dropped (prune)
+- CSA Group Testing & Certification Inc. (8086): register areas ['MDMS', 'QMS']; imported ['ISO 13485', 'ISO 9001']
+- CWB Registration (a Division of CWB Group Industry Solutions): extension dropped from phone '(800) 844-6790 ext. 246'
+- CWB Registration (a Division of CWB Group Industry Solutions) (8013): register areas ['EMS', 'ISMS', 'OH&SMS', 'QMS']; imported ['ISO 14001', 'ISO 45001', 'ISO 9001', 'ISO/IEC 27001']
+- DQS Medizinprodukte GmbH (8047): reuses existing body row 'DQS Medizinprodukte GmbH' (Germany)
+- DQS Medizinprodukte GmbH (8047): register areas ['MDMS']; imported ['ISO 13485']
+- 8062: skipped CyberSecure Canada (CAN/CIOSC 104 / CAN/DGSI 104) - national scheme
+- Gaming Laboratories International, LLC (8062): no ISO/IEC 17021-1 row; dropped (prune)
+- INTERCERT INC. (8070): register areas ['EMS', 'QMS']; imported ['ISO 14001', 'ISO 37001', 'ISO 45001', 'ISO 50001', 'ISO 9001', 'ISO/IEC 27001']
+- 8052: skipped AS9120 - not in the standards table
+- International Quality Registrars Corporation (8052): register areas ['AQMS', 'QMS']; imported ['AS 9100', 'ISO 9001']
+- Intertek Testing Services NA Inc. (8006): register areas ['MDMS']; imported ['ISO 13485']
+- 8029: skipped PEFC Canada (PEFC CAN ST 1001) - national forestry scheme
+- 8029: skipped SFI 2022 forest management / fiber sourcing - North American forestry scheme
+- 8029: skipped SFI 2022 forest management / fiber sourcing - North American forestry scheme
+- KPMG Performance Registrar Inc. (8029): register areas ['EMS', 'OH&SMS', 'QMS']; imported ['ISO 14001', 'ISO 45001', 'ISO 9001']
+- KVQA CERTIFICATION SERVICES PRIVATE LIMITED (8077): reuses existing body row 'KVQA Certification Services PVT. LTD.' (India)
+- KVQA CERTIFICATION SERVICES PRIVATE LIMITED (8077): register areas ['EMS', 'ISMS', 'OH&SMS', 'QMS']; imported ['ISO 14001', 'ISO 45001', 'ISO 9001', 'ISO/IEC 27001']
+- 8072: no certification standard line in the EMS section; taken from the base program as ISO 14001
+- LMS Certifications FZE LLC (8072): register areas ['EMS', 'EnMS', 'ISMS', 'OH&SMS', 'QMS']; imported ['ISO 14001', 'ISO 45001', 'ISO 50001', 'ISO 9001', 'ISO/IEC 27001']
+- Metal Industries Research & Development Centre (8091): reuses existing body row 'Metal Industries Research & Development Centre' (Taiwan)
+- Metal Industries Research & Development Centre (8091): register areas ['EMS', 'OH&SMS', 'QMS']; imported ['ISO 14001', 'ISO 45001', 'ISO 9001']
+- MHM Advisory Ltd. (8074): no ISO/IEC 17021-1 row; dropped (prune)
+- National Standards Authority of Ireland (NSAI) (8028): reuses existing body row 'NSAI' (Ireland)
+- National Standards Authority of Ireland (NSAI) (8028): register areas ['MDMS', 'QMS']; imported ['ISO 13485', 'ISO 9001']
+- 8058: skipped SFI 2022 forest management / fiber sourcing - North American forestry scheme
+- Preferred By Nature OÜ (8058): nothing importable; dropped
+- 8039: skipped ATFS (American Tree Farm System) - national forestry scheme
+- 8039: skipped ATFS (American Tree Farm System) - national forestry scheme
+- 8039: skipped PEFC Canada (PEFC CAN ST 1001) - national forestry scheme
+- 8039: skipped SFI 2022 forest management / fiber sourcing - North American forestry scheme
+- 8039: skipped SFI 2022 forest management / fiber sourcing - North American forestry scheme
+- PricewaterhouseCoopers LLP (8039): register areas ['AIMS', 'EMS', 'ISMS', 'ITSMS', 'OH&SMS', 'QMS']; imported ['ISO 14001', 'ISO 45001', 'ISO 9001', 'ISO/IEC 20000-1', 'ISO/IEC 27001', 'ISO/IEC 42001']
+- QFS MANAGEMENT SYSTEMS LLP: phone register and PDF give '+1 919716006477' / '+1-91-9716006477'; an Indian mobile in Noida, corrected to +91
+- QFS MANAGEMENT SYSTEMS LLP (8073): register areas ['ABMS', 'BCMS', 'EMS', 'ISMS', 'OH&SMS', 'QMS']; imported ['ISO 14001', 'ISO 22301', 'ISO 37001', 'ISO 45001', 'ISO 9001', 'ISO/IEC 27001']
+- 8082: skipped CyberSecure Canada (CAN/CIOSC 104 / CAN/DGSI 104) - national scheme
+- SAV Advisory Inc. (8082): register areas ['CSC', 'ISMS', 'QMS']; imported ['ISO 9001', 'ISO/IEC 27001']
+- TÜV SÜD America Inc. (8023): register areas ['MDMS', 'QMS']; imported ['ISO 13485', 'ISO 9001']

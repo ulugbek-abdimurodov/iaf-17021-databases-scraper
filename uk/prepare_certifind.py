@@ -30,6 +30,11 @@ from pathlib import Path
 
 import pdfplumber
 
+# Shared website check (../database/contact_check.py).
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from contact_check import website as checked_website  # noqa: E402
+
+
 logging.getLogger("pdfminer").setLevel(logging.ERROR)
 HERE = Path(__file__).resolve().parent
 
@@ -387,8 +392,7 @@ def main() -> None:
         address = ", ".join(parts[:-1])
         wm = re.search(r"Website:\s*(\S+)", first)
         website = wm.group(1).rstrip(".,;") if wm else ""
-        if website and not re.match(r"https?://", website, re.I):
-            website = "https://" + website
+        website = checked_website(website)
         # The schedule's contact address first; the listing's (Cloudflare-encoded) one is often a
         # UKAS liaison mailbox.
         em = re.search(r"E-?Mail:\s*(\S+@\S+)", first, re.I)

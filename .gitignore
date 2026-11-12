@@ -1,86 +1,26 @@
-# Python bytecode & caches
-__pycache__/
-*.py[cod]
-*$py.class
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-
-# Virtual environments
-.venv/
-venv/
-env/
-
-# IDE & OS files
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
-
-# Logs & archives
-*.log
-*.zip
-
-# Scraped output directories per country
-/datasets/
-/albania/dpa_output/
-/armenia/output/
-/austria/akkreditierung_output/
-/belgium/belac_qms_data/
-/bulgaria/nab_management_system_bodies/
-/croatia/haa_data/
-/czechia/cai_output/
-/denmark/danak_ms_output/
-/egypt/egac_ms_bodies/
-/estonia/eak_data/
-/finland/fi_ms_output/
-/france/cofrac_ms_output/
-/germany/dakks_ZM/
-/greece/output/
-/hungary/nah_management_systems_*/
-/hungary/nah_output/
-/india/nabcb_output/
-/ireland/inab_output/
-/italy/accredia_output/
-/italy/accredia_bodies/accredia_out/
-/italy/laboratori/accredia_output/
-/latvia/latak_S2/
-/lithuania/nab_ms_bodies/
-/luxembourg/olas_17021/
-/macedonia/iarm_cb_management/
-/netherlands/rva_output/
-/norway/no_ms_output/
-/poland/pca_ac_bodies/
-/portugal/ipac_data/
-/portugal/ipac_management_systems/
-/portugal/ipac_qms_data/
-/romania/output/
-/slovakia/snas_output/
-/sweden/se_ms_output/
-/switzerland/sas_data/
-/tunisia/tunac_data/
-/turkey/turkak_data/
-/uk/ukas_ms_data/
-/ukraine/naau_ms_certification_bodies/
-
-# Downloaded documents, generated review files & intermediate scraped data
+# Scraped / generated results — keep local, don't push
 *.pdf
+*.html
+*.htm
+*.json
+*.txt
 *.doc
 *.docx
-*.xlsx
-*.xml
-*.html
-*.json
 *.csv
-*_review.md
-REVIEW.md
+*.tsv
+*.psv
+*.xlsx
+*.xls
+*.xml
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.sql
 
-# Exceptions: keep curated reference files & test fixtures tracked in Git
-!/germany/contacts_overrides.csv
-!**/tests/fixtures/**
-!**/tests/samples/**
-
-# Always ignore Python bytecode even inside tests
-**/__pycache__/
-**/*.py[cod]
-
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env

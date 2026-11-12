@@ -1,0 +1,169 @@
+# UAF conversion review
+
+Generated 2026-11-10: 63 bodies, 167 accreditations, 295 scope rows before pruning.
+
+## Notes
+
+- Aaranaya Management Services Pvt. Ltd (AMSPL): ISO 14001 accreditation 51908510324 merged into 51908510127
+- Absolute Quality Certification Private Limited: ISO 14001 accreditation 52311790337 merged into 52311790143
+- Absolute Quality Certification Private Limited: ISO 45001 accreditation 52311790733 merged into 52311790143
+- Accredify Global LLC: ISO 14001 accreditation 526041230364 merged into 526041230173
+- Accredify Global LLC: ISO 45001 accreditation 526041230756 merged into 526041230173
+- Accredify Global LLC: ISO 13485 accreditation 526041230633 merged into 526041230173
+- Accredify Global LLC: ISO/IEC 27701 accreditation 726041231810 merged into 526041230250 (27006)
+- ACCURATE GLOBAL INC: ISO 14001 accreditation 524101030348 merged into 524101030158
+- ACCURATE GLOBAL INC: ISO 45001 accreditation 524101030743 merged into 524101030158
+- Active Business International FZE: ISO 14001 accreditation 51810410319 merged into 51810410121
+- Active Business International FZE: ISO 45001 accreditation 71810410705 merged into 51810410121
+- A-MARK RATINGS PRIVATE LIMITED: ISO 14001 accreditation 51806310315 merged into 51806310117
+- A-MARK RATINGS PRIVATE LIMITED: ISO 45001 accreditation 5206310718 merged into 51806310117
+- A-MARK RATINGS PRIVATE LIMITED: ISO 13485 accreditation 52311310618 merged into 51806310117
+- AMERICO QUALITY STANDARDS REGISTECH PRIVATE LIMITED: ISO 14001 accreditation 52310780336 merged into 52310780142
+- AMERICO QUALITY STANDARDS REGISTECH PRIVATE LIMITED: ISO 45001 accreditation 52310780732 merged into 52310780142
+- ANS System Certification Private Limited: ISO 14001 accreditation 52308560335 merged into 52308560138
+- ANS System Certification Private Limited: ISO 45001 accreditation 52308560731 merged into 52308560138
+- ANS System Certification Private Limited: ISO 13485 accreditation 52308560616 merged into 52308560138
+- ANS System Certification Private Limited: ISO/IEC 27701 accreditation 72510561807 merged into 52308560217 (27006)
+- ARS Assessment Private Ltd: ISO 14001 accreditation 52006390326 merged into 51901390123
+- ARS Assessment Private Ltd: ISO 45001 accreditation 52006390719 merged into 51901390123
+- ARS Assessment Private Ltd: ISO 13485 accreditation 52201390612 merged into 51901390123
+- ARS Assessment Private Ltd: ISO/IEC 27701 accreditation 72503391806 merged into 52404390232 (27006)
+- ASSURANCE QUALITY CERTIFICATION LLC: reuses body row 'Assurance Quality Certification LLC' from egac-egypt
+- ASSURANCE QUALITY CERTIFICATION LLC: ISO 14001 accreditation 52404740344 merged into 52404740152
+- ASSURANCE QUALITY CERTIFICATION LLC: ISO 45001 accreditation 52404740739 merged into 52404740152
+- ASSURANCE QUALITY CERTIFICATION LLC: ISO 13485 accreditation 52404740625 merged into 52404740152
+- BLUESTAR MANAGEMENT SYSTEMS PVT. LTD.: ISO 14001 accreditation 51810110318 merged into 51703110103
+- BQSR Systems Registech Pvt Ltd.: ISO 14001 accreditation 52403880342 merged into 52403880150
+- BQSR Systems Registech Pvt Ltd.: ISO 45001 accreditation 52403880737 merged into 52403880150
+- COAE International Pvt. Ltd.: reuses body row 'COAE International Pvt. Ltd.' from nabcb-india
+- CQI CERTIFICATION PRIVATE LIMITED: ISO 14001 accreditation 526011200360 merged into 526011200168
+- CQI CERTIFICATION PRIVATE LIMITED: ISO 45001 accreditation 526011200753 merged into 526011200168
+- EUROLAB INC: ISO 14001 accreditation 52402550340 merged into 52402550148
+- EUROLAB INC: ISO 45001 accreditation 52402550735 merged into 52402550148
+- EUROLAB INC: ISO 13485 accreditation 52402550621 merged into 52402550148
+- FQC FIRST QUALITY CERTIFICATION PVT.LTD: ISO 14001 accreditation 52303590328 merged into 52303590131
+- Gabriel Registrar Certificate Issuing Services LLC: reuses body row 'Gabriel Registrar Certificate Issuing Services LLC' from eiac-uae
+- Gabriel Registrar Certificate Issuing Services LLC: ISO 14001 accreditation 51707270304 merged into 51707270105
+- Gabriel Registrar Certificate Issuing Services LLC: ISO 45001 accreditation 71808270702 merged into 51707270105
+- Global Inter Certification(GIC): ISO 14001 accreditation 526021270362 merged into 526021270171
+- Global Inter Certification(GIC): ISO 45001 accreditation 526021270754 merged into 526021270171
+- Global Inter Certification(GIC): ISO 13485 accreditation 526021270631 merged into 526021270171
+- Global Management Certification Services Pvt. Ltd.: ISO 14001 accreditation 52501870353 merged into 52501870161
+- Global Management Certification Services Pvt. Ltd.: ISO 45001 accreditation 52501870747 merged into 52501870161
+- Global Management Certification Services Pvt. Ltd.: ISO 13485 accreditation 52501870629 merged into 52501870161
+- Globus Certifications Private Limited: ISO 14001 accreditation 51803170312 merged into 51803170113
+- Globus Certifications Private Limited: ISO 45001 accreditation 52011170720 merged into 51803170113
+- Globus Certifications Private Limited: ISO/IEC 27001 accreditation 52501170239 merged into 72501171805 (27006)
+- Gradient Certification INC: ISO/IEC 27701 accreditation 72405751804 merged into 52405750234 (27006)
+- GSCI Services USA LLC: ISO 14001 accreditation 52003540325 merged into 52003540128
+- GSCI Services USA LLC: ISO 45001 accreditation 52003540716 merged into 52003540128
+- Guanghui Lianhe (Beijing) Certification Service Co., Ltd.: ISO 14001 accreditation 525051100354 merged into 525051100163
+- Guanghui Lianhe (Beijing) Certification Service Co., Ltd.: ISO 45001 accreditation 525051100748 merged into 525051100163
+- Guardian Assessment Pvt. Ltd: reuses body row 'GUARDIAN ASSESSMENT PVT. LTD.' from ias-usa
+- Guardian Assessment Pvt. Ltd: ISO 14001 accreditation 51809380317 merged into 51809380119
+- Guardian Assessment Pvt. Ltd: ISO 45001 accreditation 71809380704 merged into 51809380119
+- Hawk Eye Certifications Pvt. Ltd.: ISO 14001 accreditation 52312670339 merged into 52312670146
+- Hawk Eye Certifications Pvt. Ltd.: ISO 45001 accreditation 52312670734 merged into 52312670146
+- Hawk Eye Certifications Pvt. Ltd.: ISO 13485 accreditation 52312670620 merged into 52312670146
+- IFC GLOBAL LLC: ISO 14001 accreditation 52405810347 merged into 52405810156
+- IFC GLOBAL LLC: ISO 45001 accreditation 52405810742 merged into 52405810156
+- IFC GLOBAL LLC: ISO 13485 accreditation 52411810627 merged into 52405810156
+- INNOBIZ Global Certification: ISO 14001 accreditation 525061130355 merged into 525061130164
+- INNOBIZ Global Certification: ISO 45001 accreditation 525061130749 merged into 525061130164
+- Institute of Global Certification Co., Ltd.: ISO 14001 accreditation 525102000358 merged into 525102000166
+- Institute of Global Certification Co., Ltd.: ISO 45001 accreditation 525102000752 merged into 525102000166
+- Institute of Global Certification Co., Ltd.: ISO 13485 accreditation 525102000630 merged into 525102000166
+- Institute of Global Certification Co., Ltd.: ISO/IEC 27701 accreditation 726032001809 merged into 525102000245 (27006)
+- INTER CERT PRIVATE LIMITED: reuses body row 'Inter Cert Private Limited' from nabcb-india
+- INTER CERT PRIVATE LIMITED: ISO 14001 accreditation 52402610341 merged into 52402610149
+- INTER CERT PRIVATE LIMITED: ISO 45001 accreditation 52402610736 merged into 52402610149
+- INTER CERT PRIVATE LIMITED: ISO/IEC 27701 accreditation 72302611801 merged into 52302610212 (27006)
+- INTER CERT PRIVATE LIMITED: ISO 13485 accreditation 52302610614 merged into 52402610149
+- International Conformity Assessment services Inc: no accreditation table parsed; dropped
+- IQR International Certification Services LLC: reuses body row 'IQR INTERNATIONAL CERTIFICATION SERVICES LLC' from ias-usa
+- IQR International Certification Services LLC: ISO 14001 accreditation 525011150352 merged into 525011150160
+- IQR International Certification Services LLC: ISO 45001 accreditation 525011150746 merged into 525011150160
+- IQR International Certification Services LLC: ISO 13485 accreditation 525011150628 merged into 525011150160
+- KVQA ASSESSMENT PRIVATE LIMITED: ISO 14001 accreditation 52305570332 merged into 52305570135
+- KVQA ASSESSMENT PRIVATE LIMITED: ISO 45001 accreditation 52305570728 merged into 52305570135
+- LMS Assessment Services Private Limited: reuses body row 'LMS Assessment Services Private Limited' from egac-egypt
+- PDCA Certification Private Limited: ISO 14001 accreditation 526031210363 merged into 526031210172
+- PDCA Certification Private Limited: ISO 45001 accreditation 526031210755 merged into 526031210172
+- PDCA Certification Private Limited: ISO 13485 accreditation 526031210632 merged into 526031210172
+- PDCA Certification Private Limited: ISO/IEC 27701 accreditation 726031211808 merged into 526031210249 (27006)
+- QACS International Pvt. Ltd: reuses body row 'QACS International Private Limited' from ias-usa
+- QACS International Pvt. Ltd: ISO 14001 accreditation 52306630332 merged into 52306630135
+- QACS International Pvt. Ltd: ISO 45001 accreditation 52306630728 merged into 52306630135
+- Quality Control Certification: ISO 14001 accreditation 526101330367 merged into 526101330176
+- Quality Control Certification: ISO 45001 accreditation 526101330757 merged into 526101330176
+- ROYALCERT INTERNATIONAL REGISTRARS LLC: ISO 14001 accreditation 52304690330 merged into 52304690133
+- ROYALCERT INTERNATIONAL REGISTRARS LLC: ISO 45001 accreditation 52304690726 merged into 52304690133
+- Royal Impact Certification Ltd: ISO 14001 accreditation 51708260305 merged into 51708260106
+- Royal Impact Certification Ltd: ISO 45001 accreditation 52003260717 merged into 51708260106
+- Royal Impact Certification Ltd: ISO 13485 accreditation 52303260615 merged into 51708260106
+- SAARA Management System Private Limited: ISO 14001 accreditation 51712280308 merged into 51712280109
+- SAARA Management System Private Limited: ISO 45001 accreditation 51905280712 merged into 51712280109
+- SCK CERTIFICATIONS PRIVATE LIMITED: ISO 14001 accreditation 52404910345 merged into 52404910153
+- SCK CERTIFICATIONS PRIVATE LIMITED: ISO 45001 accreditation 52404910740 merged into 52404910153
+- SIS Certifications Private Limited: reuses body row 'SIS Certifications Pvt. Ltd.' from ias-usa
+- Sistema Management Services Private Limited ISO 14001: no sectors parsed; recorded for all EA sectors
+- Sistema Management Services Private Limited: ISO 14001 accreditation 52509620357 merged into 52311620144
+- Sistema Management Services Private Limited: ISO 45001 accreditation 52509620751 merged into 52311620144
+- SQC Certification Co., Ltd. ISO 9001: no sectors parsed; recorded for all EA sectors
+- SQC Certification Services Private Limited: ISO 14001 accreditation 52404760346 merged into 52404760154
+- SQC Certification Services Private Limited: ISO 45001 accreditation 52404760741 merged into 52404760154
+- TNV Global Limited (TNV): ISO 14001 accreditation 51708220306 merged into 51708220107
+- TNV Global Limited (TNV): ISO 45001 accreditation 51901220708 merged into 51708220107
+- TNV Global Limited (TNV): ISO 13485 accreditation 51901220607 merged into 51708220107
+- TNV Global Limited (TNV): ISO/IEC 27701 accreditation 72404221803 merged into 52404220233 (27006)
+- TRANS CONTINENTAL CERTIFICATIONS PVT. LTD: ISO 14001 accreditation 51702070302 merged into 51702070102
+- TRANS CONTINENTAL CERTIFICATIONS PVT. LTD: ISO 45001 accreditation 51808070703 merged into 51702070102
+- UMS CERTIFICATIONS PRIVATE LIMITED: ISO 14001 accreditation 52501710351 merged into 52308710139
+- UMS CERTIFICATIONS PRIVATE LIMITED: ISO 45001 accreditation 52501710745 merged into 52308710139
+- UNICERT CERTIFICATION LTD: ISO 14001 accreditation 526041280366 merged into 526041280175
+- UNICERT CERTIFICATION LTD: ISO 45001 accreditation 526041280756 merged into 526041280175
+- V3 QUALITY CERTIFICATION PRIVATE LIMITED: ISO 14001 accreditation 525071010356 merged into 525071010165
+- V3 QUALITY CERTIFICATION PRIVATE LIMITED: ISO 45001 accreditation 525071010750 merged into 525071010165
+- Veritas System Quality Certificates Issuing LLC: reuses body row 'Veritas System Quality Certificates Issuing LLC' from eiac-uae
+- Veritas System Quality Certificates Issuing LLC: ISO 14001 accreditation 52304640329 merged into 52304640132
+- Veritas System Quality Certificates Issuing LLC: ISO 45001 accreditation 52304640725 merged into 52304640132
+- ZEPPY CERTIFICATION LIMITED ISO 14001: no sectors parsed; recorded for all EA sectors
+- ZEPPY CERTIFICATION LIMITED: phone '+44790118441' could not be made a valid international number; left empty
+- ZEPPY CERTIFICATION LIMITED: ISO 14001 accreditation 524111070350 merged into 524111070159
+- ZEPPY CERTIFICATION LIMITED: ISO 45001 accreditation 524111070744 merged into 524111070159
+- Zhongda Excellence International Certification (Beijing) Co., Ltd.: ISO 14001 accreditation 526041300365 merged into 526041300174
+- Zhongda Excellence International Certification (Beijing) Co., Ltd.: ISO 45001 accreditation 526041300757 merged into 526041300174
+
+## Schemes not imported (scheme: bodies)
+
+- I (not a management system standard in the standards table): EUROLAB INC; TNV Global Limited (TNV)
+- I nformation Security Management System (not a management system standard in the standards table): KVQA ASSESSMENT PRIVATE LIMITED
+- ISO 20121 (no accreditation number or dates in the scrape for its own ISO/IEC 17021-4 row): Gabriel Registrar Certificate Issuing Services LLC
+- ISO 37001 (no accreditation number or dates in the scrape for its own ISO/IEC 17021-9 row): ACCURATE GLOBAL INC; A-MARK RATINGS PRIVATE LIMITED; AMERICO QUALITY STANDARDS REGISTECH PRIVATE LIMITED; ANS System Certification Private Limited; ARS Assessment Private Ltd; Certi-Trust Africa & Middle East; CQI CERTIFICATION PRIVATE LIMITED; Gabriel Registrar Certificate Issuing Services LLC; Global Inter Certification(GIC); Guardian Assessment Pvt. Ltd; IFC GLOBAL LLC; Institute of Global Certification Co., Ltd.; LMS Assessment Services Private Limited; PDCA Certification Private Limited; QACS International Pvt. Ltd; SCK CERTIFICATIONS PRIVATE LIMITED; Sistema Management Services Private Limited; SQC Certification Services Private Limited; TNV Global Limited (TNV); ZEPPY CERTIFICATION LIMITED
+- ISO 55001 (no accreditation number or dates in the scrape for its own ISO/IEC 17021-5 row): ANS System Certification Private Limited; Gabriel Registrar Certificate Issuing Services LLC; INTER CERT PRIVATE LIMITED; TNV Global Limited (TNV)
+- ISO/IEC 42001 (no accreditation number or dates in the scrape for its own ISO/IEC 42006 row): Accredify Global LLC; ACCURATE GLOBAL INC; Gabriel Registrar Certificate Issuing Services LLC; INTER CERT PRIVATE LIMITED; KVQA ASSESSMENT PRIVATE LIMITED; PDCA Certification Private Limited; SQC Certification Services Private Limited; TNV Global Limited (TNV)
+- Product Certification Scheme (not a management system standard in the standards table): Guardian Assessment Pvt. Ltd
+- Safety Management Systems (not a management system standard in the standards table): BLUESTAR MANAGEMENT SYSTEMS PVT. LTD.; FQC FIRST QUALITY CERTIFICATION PVT.LTD
+- Verification of GHG statements at the organization level (not a management system standard in the standards table): Guardian Assessment Pvt. Ltd
+
+## Removed by prune_inactive
+
+- accreditation 51810410121 (ISO/IEC 17021-1) Active Business International FZE: expired 2026-10-30
+- accreditation 51904410408 (22000) (ISO 22003-1) Active Business International FZE: no valid ISO/IEC 17021-1 accreditation
+- accreditation 52306580215 (27006) (ISO/IEC 27006) A CUBE TIC LIMITED TRADING AS ACT & A CUBE: no valid ISO/IEC 17021-1 accreditation
+- accreditation 52401890226 (27006) (ISO/IEC 27006) LMS Assessment Services Private Limited: no valid ISO/IEC 17021-1 accreditation
+- accreditation 525041050243 (27006) (ISO/IEC 27006) Accorp Partners Cert Inc: no valid ISO/IEC 17021-1 accreditation
+- accreditation 525121190247 (27006) (ISO/IEC 27006) Zhongbiaotong International Certification (Shenzhen) Co., Ltd.: no valid ISO/IEC 17021-1 accreditation
+- accreditation 525121191220 (50003) (ISO 50003) Zhongbiaotong International Certification (Shenzhen) Co., Ltd.: no valid ISO/IEC 17021-1 accreditation
+- accreditation 52512930246 (27006) (ISO/IEC 27006) Certi-Trust Africa & Middle East: no valid ISO/IEC 17021-1 accreditation
+- accreditation 526081320251 (27006) (ISO/IEC 27006) GCAI Certification Services LLP: no valid ISO/IEC 17021-1 accreditation
+- accreditation 71810410206 (27006) (ISO/IEC 27006) Active Business International FZE: expired 2026-10-30
+- accreditation 72509931109 (22301) (ISO/IEC 17021-6) Certi-Trust Africa & Middle East: no valid ISO/IEC 17021-1 accreditation
+- accreditation 725121190816 (20000) (ISO/IEC 20000-6) Zhongbiaotong International Certification (Shenzhen) Co., Ltd.: no valid ISO/IEC 17021-1 accreditation
+- body A CUBE TIC LIMITED TRADING AS ACT & A CUBE (United Kingdom)
+- body Accorp Partners Cert Inc (United States)
+- body Active Business International FZE (United Arab Emirates)
+- body Certi-Trust Africa & Middle East (Morocco)
+- body GCAI Certification Services LLP (India)
+- body LMS Assessment Services Private Limited (India)
+- body Zhongbiaotong International Certification (Shenzhen) Co., Ltd. (China)

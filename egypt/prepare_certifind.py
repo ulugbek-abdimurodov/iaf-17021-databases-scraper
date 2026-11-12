@@ -39,6 +39,11 @@ from pathlib import Path
 
 import pdfplumber
 
+# Shared website check (../database/contact_check.py).
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from contact_check import website as checked_website  # noqa: E402
+
+
 HERE = Path(__file__).resolve().parent
 
 
@@ -453,7 +458,7 @@ def run(args: argparse.Namespace) -> int:
         c = entry.get("contacts") or {}
         bodies.append({"name": name, "country": entry["country"], "registration_no": "",
                        "phone": phone(c.get("Phone No.")), "email": (c.get("Email") or "").strip(),
-                       "website": website(c.get("Website")), "address": (c.get("Address") or "").strip(),
+                       "website": checked_website(website(c.get("Website"))), "address": (c.get("Address") or "").strip(),
                        "source_url": entry["detail_url"] or REGISTER_URL, "verified_at": ""})
 
         sections: dict[str, Section] = {}

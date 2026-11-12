@@ -1,0 +1,190 @@
+# EMA conversion review
+
+Generated 2026-11-10: 101 bodies, 251 accreditations, 451 scope rows before pruning.
+
+## Notes
+
+- Technology Global Certification, S.A de C.V.: EMA registrations 131/21, SGC-131/26 merged under 131/21
+- Technology Global Certification, S.A de C.V.: no client record in the register (no address/email); country taken as Mexico
+- TECNOLOGIA APLICADA A LA CALIBRACIÓN Y MEDICION, S.A. DE C.V.: EMA registrations 231/23, SGAS-231/24 merged under 231/23
+- TECNOLOGIA APLICADA A LA CALIBRACIÓN Y MEDICION, S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- TESTING CONFORMITY CERTIFICATION MEXICO, S.A. DE C.V.: EMA registrations 174/20, 174/24, 174/25 merged under 174/20
+- TESTING CONFORMITY CERTIFICATION MEXICO, S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- The Quality Alliance, S.A. de C.V.: EMA registrations 109/16, 109/19, 109/21, 109/23, 109/24, SGDM-109/25 merged under 109/16
+- The Quality Alliance, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- TRUST GLOBAL ENTITY S. C.: EMA registrations 240/24, 240/25, SGAS-240/25, SGSI-240/25 merged under 240/24
+- TRUST GLOBAL ENTITY S. C.: no client record in the register (no address/email); country taken as Mexico
+- TüV Rheinland de México, S.A. de C.V.: EMA registrations 22/10, 22/11 merged under 22/10
+- TüV Rheinland de México, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- TüV SüD América de México, S.A. de C.V.: EMA registrations 40/11, 40/12, 40/13, SGOE-40/21 merged under 40/11
+- TüV SüD América de México, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- VALORTECNIA S.A.S. DE C.V.: EMA registrations 206/22, 206/24, SGIA-206/25, SGSST-206/26 merged under 206/22
+- VERCOMER, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- World Register, S.A. de C.V.: EMA registrations 82/11, 82/23 merged under 82/11
+- World Register, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- Zhentyk International, S.A. de C.V.: EMA registrations SGA-127/25, SGAS-127/23, SGC-127/17, SGS-127/21, SGSP-127/23, SGSST-127/25 merged under SGC-127/17
+- Zhentyk International, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- OBJETIVOS Y RESULTADOS CLAVE, S.A. DE C.V.: EMA registrations SGSST-260/26, SGA-260/26, SGC-260/26 merged under SGSST-260/26
+- OBJETIVOS Y RESULTADOS CLAVE, S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- OC en Calidad y Comercio Exterior, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- OLA CERTIFICACIÓN INTERNACIONAL, S.A. DE C.V.: EMA registrations 180/20, 180/22, 180/25, SGAS-180/23, SGSI-180/24 merged under 180/20
+- OLA CERTIFICACIÓN INTERNACIONAL, S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- Organismo Nacional de Normalización y Certificación de la Construcción y Edificación, S. C.: no client record in the register (no address/email); country taken as Mexico
+- OSG Organismo de Certificación, S.A. de C.V.: EMA registrations 154/19, 154/21, SGAS-154/20 merged under 154/19
+- OSG Organismo de Certificación, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- Perry Johnson Registrars, Inc.: reuses body row from jab-japan
+- QAC, Certificación, S.A. de C.V.: EMA registrations 90/13, 90/15, 90/17, 90/20, 90/22, 90/23, 90/25, SGAC-90/26, SGAS-90/20, SGCM-90/25, SGSV-90/25 merged under 90/13
+- QAC, Certificación, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- QMS Global Corp.: EMA registrations 102/15, 102/25 merged under 102/15
+- QMS Global Corp.: no client record in the register (no address/email); country taken as Mexico
+- Quality & Competitive College S.C.: no client record in the register (no address/email); country taken as Mexico
+- QUALITY ACI, S.A.S. DE C.V: EMA registrations 248/24, 248/25, SGAS-248/26, SGIA-248/26, SGSI-248/26 merged under 248/24
+- QUALITY ACI, S.A.S. DE C.V: no client record in the register (no address/email); country taken as Mexico
+- Quality International Compliance, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- SA AMERIKA ZERTIFIZIERUNG S.A.S. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- SEEMAN Certificadora, S.A. DE C.V.: EMA registrations 138/18, 138/22 merged under 138/18
+- SEEMAN Certificadora, S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- SGS de México, S.A. de C.V.: EMA registrations 08/10, 08/12 merged under 08/10
+- SGS de México, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- SIDE CERTIFICACIONES, S.A.DE C.V: EMA registrations 191/21, 191/24, 191/25, SGAS-191/24, SGSI-191/21 merged under SGSI-191/21
+- SIDE CERTIFICACIONES, S.A.DE C.V: no client record in the register (no address/email); country taken as Mexico
+- SMARTH INSPECCION & CERTIFICACION, S.C.: no client record in the register (no address/email); country taken as Mexico
+- Sociedad Mexicana de Normalización y Certificación, S.C.: EMA registrations 06/10, 06/11, 06/21 merged under 06/10
+- Sociedad Mexicana de Normalización y Certificación, S.C.: no client record in the register (no address/email); country taken as Mexico
+- Sociedad por la Conformidad CIM, S. de R.L. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- SQS AMERICA SC: no client record in the register (no address/email); country taken as Mexico
+- INTERNATIONAL QUALIFIED SOLUTIONS, S. DE R.L. DE C.V.: EMA registrations SGAS-10/24, SGOE-10/23, 10/11, 10/12 merged under 10/11
+- INTERNATIONAL QUALIFIED SOLUTIONS, S. DE R.L. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- INTERNATIONAL QUALITY SOLUTION REGISTER, S.A. DE C.V.: EMA registrations 128 /21, 128 /23, 128/17, 128/19, 128/24, 128/25, 29/10, SGAS-128/23, SGSI-128/21 merged under 29/10
+- INTERNATIONAL QUALITY SOLUTION REGISTER, S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- JM Alliance International Certification, S. A. de C. V.: EMA registrations 119/17, 119/24 merged under 119/17
+- JM Alliance International Certification, S. A. de C. V.: no client record in the register (no address/email); country taken as Mexico
+- Latin American Certification & Systems, A.C.: EMA registrations SGAS-96/20, SGC-96/13, SGSI-96/20 merged under SGC-96/13
+- Latin American Certification & Systems, A.C.: no client record in the register (no address/email); country taken as Mexico
+- LAUREL Certificación, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- LENOR OEC S.A DE C.V.: EMA registrations SGC-241/26, SGSI-241/26 merged under SGSI-241/26
+- LENOR OEC S.A DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- LLOYD INTERNATIONAL, S. DE R.L. DE C.V.: EMA registrations 100 /21, 100/15, 100/19, SGAS-100/21 merged under 100/15
+- LLOYD INTERNATIONAL, S. DE R.L. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- Management and International Register. S.C: EMA registrations 103/15, 103/21, 103/23, SGE-103/25 merged under 103/15
+- Management and International Register. S.C: no client record in the register (no address/email); country taken as Mexico
+- MB Certification México, S.C.: EMA registrations 105/15, 105/19, 105/24, 105/24, SGAS-105/23, SGS-105/25 merged under 105/15
+- MB Certification México, S.C.: no client record in the register (no address/email); country taken as Mexico
+- Mexcer, S.A. de C.V.: EMA registrations 99/15, 99/16, 99/19 merged under 99/15
+- Mexcer, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- MEXIKO Q. S. A. G. S.A. DE C.V.: EMA registrations 30/10, 30/24 merged under 30/10
+- MEXIKO Q. S. A. G. S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- NEMT Register, S.A. DE C.V.: EMA registrations 101/15, 101/16 merged under 101/15
+- NEMT Register, S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- Normalización y Certificación NYCE, S.C.: EMA registrations 02/12, 02/13, 02/17, 02/20, 02/24, SGAS-02/18, SGCM-02/26, SGOE-02/21, SGSI-02/17, SGSP-02/ 26, SGSV-02/25 merged under 02/12
+- Normalización y Certificación NYCE, S.C.: no client record in the register (no address/email); country taken as Mexico
+- NOVATERRA PROCESSES & CONTROL S.A. DE C.V.: EMA registrations 228/23, SGAS-228/23 merged under 228/23
+- NOVATERRA PROCESSES & CONTROL S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- Factual Services, S.C.: EMA registrations SGSI-20/25, 20/10, 20/11, 20/15, 20/25, SGAS-20/19, SGCM-20/26, SGOS-20/26 merged under 20/10
+- Factual Services, S.C.: no client record in the register (no address/email); country taken as Mexico
+- FARA INSPECTION & CERTIFICATION S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- Fundación de la Industria de la Construcción para el Desarrollo Tecnológico y de la Productividad, A. C.: EMA registrations SGA-133/18, SGC-133/18, SGSST-133/18 merged under SGSST-133/18
+- Fundación de la Industria de la Construcción para el Desarrollo Tecnológico y de la Productividad, A. C.: no client record in the register (no address/email); country taken as Mexico
+- FWC CERTIFICACION EN LA INDUSTRIA DE ALIMENTOS, S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- GENERAL CERTIFICATIONS HOUSE, S. DE R.L. DE C.V.: EMA registrations 222/23, 222/24, SGA-222/25, SGSST-222/25 merged under 222/23
+- GENERAL CERTIFICATIONS HOUSE, S. DE R.L. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- Global Certification Bureau, S.A.: EMA registrations 112 /19, 112/16, 112/17, 112/20, 112/22, 112/24, MSAI-112/26, SGAS-112/19, SGPI-112/26, SGSI-112/19 merged under 112/16
+- Global Certification Bureau, S.A.: no client record in the register (no address/email); country taken as Mexico
+- Global Consulting Verification S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- Global Standards S.C.: EMA registrations 153/20, 153/21, 153/22, 153/23, 153/24, 153/25, SGES-153/26, SGOE-153/19 merged under SGOE-153/19
+- Global Standards S.C.: no client record in the register (no address/email); country taken as Mexico
+- GW CERTIFIED, S.C.: EMA registrations 173/20, 173/21, 173/22, 173/23, 173/25 merged under 173/20
+- GW CERTIFIED, S.C.: no client record in the register (no address/email); country taken as Mexico
+- INGEDESA, S.A. DE C.V.: EMA registrations 185/21, 185/23, SGAS-185/24, SGS-185/26, SGSI-185/24, SGSV-185/26 merged under 185/21
+- INGEDESA, S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- INSTITUTO BOLIVIANO DE NORMALIZACION Y CALIDAD: no client record in the register (no address/email)
+- Instituto Dominicano para la Calidad (INDOCAL): EMA registrations 107 /23, 107/18, SGAS-107/23 merged under 107/18
+- Instituto Dominicano para la Calidad (INDOCAL): no client record in the register (no address/email)
+- Instituto Mexicano de Normalización y Certificación, A.C.: EMA registrations 04/10, 04/12, 04/14, 04/24 merged under 04/10
+- Instituto Mexicano de Normalización y Certificación, A.C.: no client record in the register (no address/email); country taken as Mexico
+- Inter-Americas Standards Services, S.C.: EMA registrations 68/09, 68/17 merged under 68/09
+- Inter-Americas Standards Services, S.C.: no client record in the register (no address/email); country taken as Mexico
+- Certificadora Mexicana Internacional S.A.P.I. de C.V.: EMA registrations SGAS-163/20, 163/24 merged under SGAS-163/20
+- Certificadora Mexicana Internacional S.A.P.I. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- CERTIFICADORA POR UNA INDUSTRIA GRÁFICA SUSTENTABLE S.C.: no importable scheme (SGBG-258/25); dropped
+- CERTIFICATION GLOBAL SERVICES DIADECOR S DE RL DE CV: no client record in the register (no address/email); country taken as Mexico
+- Certification With Added Value, S. C.: EMA registrations 135/18, 135/19, 135/20, 135/23, 135/24, SGAS-135/19, SGOE-135/23, SGSI-135/20 merged under 135/18
+- Certification With Added Value, S. C.: no client record in the register (no address/email); country taken as Mexico
+- CERTIFICATIONS BODY, S.A. DE C.V.: EMA registrations 209 /23, 209/22, SGAS-209/22, SGSI-209/23 merged under SGAS-209/22
+- CERTIFICATIONS BODY, S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- CERTIFY 360 S.A. DE C.V.: EMA registrations 242/24, 242/25 merged under 242/24
+- CERTIFY 360 S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- Comisión Federal de Electricidad: no client record in the register (no address/email); country taken as Mexico
+- COMPECER, S.C.: EMA registrations 81 /21, 81/11, 81/18, SGAS-81/19, SGOE-81/21, SGSI-81/19, SGTI- 81/26 merged under 81/11
+- COMPECER, S.C.: no client record in the register (no address/email); country taken as Mexico
+- CONSEJO NACIONAL DE AUDITORIA Y CERTIFICACION,S. DE R.L. DE C.V.: EMA registrations 181/21, SGAS-181/26, SGDM-181/26, SGSI-181/23 merged under 181/21
+- CONSEJO NACIONAL DE AUDITORIA Y CERTIFICACION,S. DE R.L. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- DNV MÉXICO, S.A. DE C.V.: EMA registrations 31/11, 38/09 merged under 38/09
+- DNV MÉXICO, S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- DQS de México, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- EDUCERT, EDUCACIÓN CERTIFICADA SC: EMA registrations 212/22, SGOE-212/23 merged under 212/22
+- EDUCERT, EDUCACIÓN CERTIFICADA SC: no client record in the register (no address/email); country taken as Mexico
+- Enterprise Verification and Evaluation, S.C.: EMA registrations 160/19, 160/21, 160/25, SGAS-160/24 merged under 160/19
+- EQA GROUP S.A. DE C.V.: EMA registrations 53/09, 53/11, 53/11, SGAS-53/20, SGSI-53/18 merged under 53/09
+- EQA GROUP S.A. DE C.V.: reuses body row from sae-ecuador
+- EVALION CERTIFICATION SYSTEM AND HUMAN, S.C.: no client record in the register (no address/email); country taken as Mexico
+- Asociación de Normalización Aduanera y de Comercio Exterior, A.C.: EMA registrations 79/23, SGAS-79/21, 79/10 merged under 79/10
+- Asociación de Normalización Aduanera y de Comercio Exterior, A.C.: no client record in the register (no address/email); country taken as Mexico
+- ASOCIACIÓN DE NORMALIZACIÓN Y CERTIFICACIÓN, S.A. DE C.V.: EMA registrations 01/21, 01/11, 01/13, 01/16, 01/19, 01/20, SGAS-01/21 merged under 01/11
+- ASOCIACIÓN DE NORMALIZACIÓN Y CERTIFICACIÓN, S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- ASSAY REGISTER, S DE R.L. DE C.V.: EMA registrations 215/22, 215/23, MSAI-215/25, SGAS-215/23, SGC-215/25, SGDM-215/26, SGSI-215/23 merged under 215/22
+- ASSAY REGISTER, S DE R.L. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- Auditores Asociados de México, S.C.: EMA registrations 47/10, 47/11, 47/12, 47/13, 47/17, 47/19, 47/21, 47/23, 47/25, SGOE-47/22 merged under 47/10
+- Auditores Asociados de México, S.C.: no client record in the register (no address/email); country taken as Mexico
+- BGI CERTIFICATION, S.C.: EMA registrations 236 /24, 236/25, SGA-236/26, SGAS-236/24, SGSI-236/24, SGSST-236/26 merged under SGAS-236/24
+- BGI CERTIFICATION, S.C.: no client record in the register (no address/email); country taken as Mexico
+- BICERT, S.C.: EMA registrations 106/15, 106/16, 106/18, SGAS-106/20, SGOE-106/24, SGPG-106/26 merged under 106/15
+- BICERT, S.C.: no client record in the register (no address/email); country taken as Mexico
+- BOOST CERTIFICATION BODY S.A. DE C.V.: no client record in the register (no address/email); country taken as Mexico
+- BSI Group America Inc.: no client record in the register (no address/email)
+- Buro de Certificaciones Internacionales y Sistemas Integrados S.A de C.V: EMA registrations 148/19, 148/21, SGOE-148/24 merged under 148/19
+- Buro de Certificaciones Internacionales y Sistemas Integrados S.A de C.V: no client record in the register (no address/email); country taken as Mexico
+- Buró para la Excelencia en Procesos de Calidad, S. DE R.L. MI: EMA registrations 123/17, 123/21-, 123/23, SGAS-123/25 merged under 123/17
+- Buró para la Excelencia en Procesos de Calidad, S. DE R.L. MI: no client record in the register (no address/email); country taken as Mexico
+- BVQI Mexicana, S.A. de C.V.: EMA registrations 21/09, 21/11, 21/12 merged under 21/09
+- BVQI Mexicana, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- CEMA INTERNATIONAL COMPLIANCE SERVICES, SA DE CV: EMA registrations SGC-195/26, SGIA-195/26 merged under SGC-195/26
+- CEMA INTERNATIONAL COMPLIANCE SERVICES, SA DE CV: no client record in the register (no address/email); country taken as Mexico
+- Certificación e Innovación de Empresas, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- Certificación Mexicana, S.C.: EMA registrations 18/10, 18/12 merged under 18/10
+- Certificación Mexicana, S.C.: no client record in the register (no address/email); country taken as Mexico
+- 360 ASSURANCE BUREAU: EMA registrations 182/21, SGAS-182/25, SGSI-182/26 merged under 182/21
+- A&EE CERTIFICACIÓN INTERNACIONAL, S.A. DE C.V.: EMA registrations SGA-177/24, SGAS-177/26, SGC-177/20, SGOE-177/26, SGSI-177/26, SGSP-177/24, SGSST-177/24 merged under SGC-177/20
+- ABSCERT CERTIFICACIÓN, S.A. DE C.V.: EMA registrations 245/24, SGDM-245/26 merged under 245/24
+- ACCENT ÉDITION, S.A. DE C.V: EMA registrations 256/25, SGAS-256/25 merged under 256/25
+- ACCM América, S.de R.L. de C.V.: EMA registrations 49/11, 49/14, 49/21, SGAS-49/21, SGOE-49/19, SGSI-49/21 merged under 49/11
+- AENOR-MEXICO, S.A. DE C.V.: EMA registrations 226/23, 25/09, 25/10 merged under 25/09
+- Alliance Trust Certification ATC, S.A. de C.V.: EMA registrations 132/18, 132/21, SGAS-132/22 merged under 132/18
+- Alliance Veritas Register AVR, S.C.: EMA registrations SGA-72/13, SGAS-72/24, SGC-72/10, SGIA-72/12, SGOS-72/26, SGSI-72/24, SGSST-72/14, SGSV-72/21 merged under SGC-72/10
+- AMERICAN BIG CERTIFICATIONS, S.A DE C.V.: EMA registrations 198/24, SGA-198/25, SGOE-198/24, SGSI-198/26 merged under 198/24
+- American Registrar of Management Systems, LLC: EMA registrations 65/09, 65/11, 65/14, 65/17, 65/19, SGAS-65/21, SGOE-65/21 merged under 65/09
+- American Registrar of Management Systems, LLC: no client record in the register (no address/email)
+- American Trust Register, S. C.: EMA registrations 34/10, 34/11, 34/12, 34/12, 34/22, 34/23, 34/24, SGAS-34/18, SGOE-34/21, SGS-34/25 merged under 34/10
+- Applus México, S.A. de C.V.: EMA registrations 32/10, 32/11, 32/23, SGAS-32/23, SGSI-32/20 merged under 32/10
+- Applus México, S.A. de C.V.: no client record in the register (no address/email); country taken as Mexico
+- ASIC Asociación Internacional de Certificación, S.C.: EMA registrations 116/16, 116/24, SGSV-116/25 merged under 116/16
+- ASIC Asociación Internacional de Certificación, S.C.: no client record in the register (no address/email); country taken as Mexico
+
+## Scheme codes not imported (code: registrations)
+
+Codes without a name in the register and not identifiable to a standard in the standards table.
+
+- SGAC: QAC, Certificación, S.A. de C.V. (SGAC-90/26)
+- SGBG: CERTIFICADORA POR UNA INDUSTRIA GRÁFICA SUSTENTABLE S.C. (SGBG-258/25)
+- SGCD: Normalización y Certificación NYCE, S.C. (02/20); ASOCIACIÓN DE NORMALIZACIÓN Y CERTIFICACIÓN, S.A. DE C.V. (01/20)
+- SGES: Global Standards S.C. (SGES-153/26); ASOCIACIÓN DE NORMALIZACIÓN Y CERTIFICACIÓN, S.A. DE C.V. (01/21)
+- SGOS: Global Standards S.C. (153/25); Certification With Added Value, S. C. (135/24); Factual Services, S.C. (SGOS-20/26); Alliance Veritas Register AVR, S.C. (SGOS-72/26)
+- SGPG: SIDE CERTIFICACIONES, S.A.DE C.V (191/24); Auditores Asociados de México, S.C. (47/23); BICERT, S.C. (SGPG-106/26); American Trust Register, S. C. (34/24); ASIC Asociación Internacional de Certificación, S.C. (116/24)
+- SGPI: Normalización y Certificación NYCE, S.C. (02/20); Global Certification Bureau, S.A. (SGPI-112/26)
+- SGRH: Auditores Asociados de México, S.C. (47/25)
+- SMSC: Global Standards S.C. (153/24)
+
+## Removed by prune_inactive
+
+- accreditation SGIA-263/26 (22000) (ISO 22003-1) FWC CERTIFICACION EN LA INDUSTRIA DE ALIMENTOS, S.A. DE C.V.: no valid ISO/IEC 17021-1 accreditation
+- body FWC CERTIFICACION EN LA INDUSTRIA DE ALIMENTOS, S.A. DE C.V. (Mexico)

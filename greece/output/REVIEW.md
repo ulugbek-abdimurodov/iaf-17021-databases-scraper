@@ -1,0 +1,391 @@
+# ESYD dataset review
+
+60 bodies, 196 accreditations, 368 scope rows from 389 register rows.
+Category-to-EA mappings are drafts; see ENERGY_AREAS, FOOD_CATEGORIES, MEDICAL_AREAS and DIRECTIVE_FAMILIES in prepare_certifind.py.
+
+## Draft EA mappings (check these) (75)
+
+- 18112 A CERT European Organization for Certification S.A. (Α CERT S.A.) ISO 50001: ISO 50003 technical areas A, E, H (classified to EA by sector)
+- 18112 A CERT European Organization for Certification S.A. (Α CERT S.A.) ISO 22000: ISO 22003-1 categories B, C, E, F, G (classified to EA by sector)
+- 18112 A CERT European Organization for Certification S.A. (Α CERT S.A.) FSSC 22000: ISO 22003-1 categories B, C, E, F (classified to EA by sector)
+- 17810 BUREAU VERITAS HELLAS SINGLE PERSON SOCIETE ANONYME (BUREAU VERITAS HELLAS S.P. S.A.) ISO 22000: ISO 22003-1 categories B, C, D, E, F, G, I, K (classified to EA by sector)
+- 17810 BUREAU VERITAS HELLAS SINGLE PERSON SOCIETE ANONYME (BUREAU VERITAS HELLAS S.P. S.A.) ISO 50001: ISO 50003 technical areas A, B, C, D, E, F (classified to EA by sector)
+- 17963 CYPRUS CERTIFICATION COMPANY (CCC) ISO 22000: ISO 22003-1 categories C, E, F, I (classified to EA by sector)
+- 17963 CYPRUS CERTIFICATION COMPANY (CCC) ISO 50001: ISO 50003 technical areas B, C, D, H (classified to EA by sector)
+- 17839 DIO, Inspection and Certification Organization of Organic Products ISO 22000: ISO 22003-1 categories B, C, D, F, G (classified to EA by sector)
+- 17820 EQA – ΗELLAS CERTIFICATION & INSPECTION BODY SINGLE MEMBER SOCIETE ANONYME (EQA – ΗELLAS SINGLE MEMBER S.A.) ISO 22000: ISO 22003-1 categories B, C, E, F, G, I (classified to EA by sector)
+- 17820 EQA – ΗELLAS CERTIFICATION & INSPECTION BODY SINGLE MEMBER SOCIETE ANONYME (EQA – ΗELLAS SINGLE MEMBER S.A.) ISO 14001: Annex lists NACE codes; classified to EA with the IAF ID 1 table
+- 17820 EQA – ΗELLAS CERTIFICATION & INSPECTION BODY SINGLE MEMBER SOCIETE ANONYME (EQA – ΗELLAS SINGLE MEMBER S.A.) ISO 50001: ISO 50003 technical areas A, C, D, E (classified to EA by sector)
+- 17820 EQA – ΗELLAS CERTIFICATION & INSPECTION BODY SINGLE MEMBER SOCIETE ANONYME (EQA – ΗELLAS SINGLE MEMBER S.A.) ISO 13485: ISO 13485 main technical areas: Parts or services (classified to EA by sector)
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) ISO 22000: ISO 22003-1 categories A, B, C, D, E, F, G, H, I (classified to EA by sector)
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) ISO 14001: Annex lists NACE codes; classified to EA with the IAF ID 1 table
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) ISO 50001: ISO 50003 technical areas A, B, C, D, E, F, G, H (classified to EA by sector)
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) FSSC 22000: ISO 22003-1 categories B, C, I (classified to EA by sector)
+- 17793 INSPECTION INSTITUTE for ORGANIC PRODUCTS S.A. - BIOHELLAS S.A. ISO 22000: ISO 22003-1 categories B, C, F (classified to EA by sector)
+- 17931 LETRINA S.A. ISO 22000: ISO 22003-1 categories C, E, F, G, I (classified to EA by sector)
+- 17931 LETRINA S.A. ISO 14001: Annex lists NACE codes; classified to EA with the IAF ID 1 table
+- 17885 National Evaluation Center of Quality and Technology in Health S.A. (EKAPTY SA) ISO 13485: ISO 13485 main technical areas: Non-active medical devices; Active (non-implantable) medical devices; In vitro diagnostic medical devices; Sterilization methods; Devices incorporating specific substances / technologies; Parts or services (classified to EA by sector)
+- 17715 QMSCERT AUDITS-INSPECTIONS-CERTIFICATIONS SA (Q-CERT SA) FSSC 22000: ISO 22003-1 categories B, C, I (classified to EA by sector)
+- 17715 QMSCERT AUDITS-INSPECTIONS-CERTIFICATIONS SA (Q-CERT SA) ISO 22000: ISO 22003-1 categories A, B, C, D, E, F, G, I, J (classified to EA by sector)
+- 17715 QMSCERT AUDITS-INSPECTIONS-CERTIFICATIONS SA (Q-CERT SA) ISO 50001: ISO 50003 technical areas A, B, C, E, F, H (classified to EA by sector)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO 13485: ISO 13485 main technical areas: Non-active medical devices; Active (non-implantable) medical devices; In vitro diagnostic medical devices; Sterilization methods; Devices incorporating specific substances / technologies; Parts or services (classified to EA by sector)
+- 17722 TÜV AUSTRIA HELLAS LTD FSSC 22000: ISO 22003-1 categories B, C, E, F, I, K (classified to EA by sector)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO 50001: ISO 50003 technical areas A, B, C, D, E, F, H (classified to EA by sector)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO 22000: ISO 22003-1 categories A, B, C, D, E, F, G, H, I, J, K (classified to EA by sector)
+- 17463 MIRTEC S.A. - MATERIALS INDUSTRIAL RESEARCH AND TECHNOLOGY CENTER S.A. (MIRTEC S.A.) ISO 22000: ISO 22003-1 categories C, E, I, K (classified to EA by sector)
+- 17463 MIRTEC S.A. - MATERIALS INDUSTRIAL RESEARCH AND TECHNOLOGY CENTER S.A. (MIRTEC S.A.) ISO 14001: Annex lists NACE codes; classified to EA with the IAF ID 1 table
+- 17463 MIRTEC S.A. - MATERIALS INDUSTRIAL RESEARCH AND TECHNOLOGY CENTER S.A. (MIRTEC S.A.) ISO 50001: ISO 50003 technical areas A, B (classified to EA by sector)
+- 17902 THEODYNAMICS LTD ISO 22000: ISO 22003-1 categories B, C, E, F, G (classified to EA by sector)
+- 17902 THEODYNAMICS LTD ISO 50001: ISO 50003 technical areas A, C, E (classified to EA by sector)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO 22000: ISO 22003-1 categories A, B, C, D, E, F, G, I (classified to EA by sector)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO 50001: ISO 50003 technical areas A, B, C, D, E, H (classified to EA by sector)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO 13485: ISO 13485 main technical areas: Non-active medical devices; In vitro diagnostic medical devices; Parts or services; Active (non-implantable) medical devices; Sterilization methods (classified to EA by sector)
+- 28211 BQC PRIVATE COMPANY (BQC) ISO 22000: ISO 22003-1 categories B, C, E, F, G, H, I (classified to EA by sector)
+- 18083 DQS HELLAS Ltd (DQS HELLAS Ltd) ISO 22000: ISO 22003-1 categories C, E, F, G, I (classified to EA by sector)
+- 18083 DQS HELLAS Ltd (DQS HELLAS Ltd) ISO 13485: ISO 13485 main technical areas: Non-active medical devices; Active (non-implantable) medical devices; In vitro diagnostic medical devices; Parts or services (classified to EA by sector)
+- 70139 AVRV Inspection Audit and Certification Societe Anonyme (AVRV S.A.) ISO 22000: ISO 22003-1 categories C, E, F, G, I (classified to EA by sector)
+- 70139 AVRV Inspection Audit and Certification Societe Anonyme (AVRV S.A.) ISO 14001: Annex lists NACE codes; classified to EA with the IAF ID 1 table
+- 70139 AVRV Inspection Audit and Certification Societe Anonyme (AVRV S.A.) ISO 50001: ISO 50003 technical areas C, D (classified to EA by sector)
+- 88741 REAL TIME AUDITS LTD (RTA HELLAS) ISO 22000: ISO 22003-1 categories C, F (classified to EA by sector)
+- 161424 COSMOCERT S.A. - CERTIFICATION SERVICES ISO 22000: ISO 22003-1 categories B, C, E, F (classified to EA by sector)
+- 155773 ESQ CERT Ltd ISO 50001: ISO 50003 technical areas A, C, E (classified to EA by sector)
+- 67952 Q-check PRIVATE COMPANY - Q-check P.C. (Q-check) ISO 22000: ISO 22003-1 categories B, C, D, E, F, G, I (classified to EA by sector)
+- 67952 Q-check PRIVATE COMPANY - Q-check P.C. (Q-check) FSSC 22000: ISO 22003-1 categories C, G, I (classified to EA by sector)
+- 18184 TOTAL Q ARM HELLENIC CERTIFICATION COMPANY Ltd (TOTAL Q ARM Ltd) ISO 14001: Annex lists NACE codes; classified to EA with the IAF ID 1 table
+- 186097 Libero Assurance, Hellenic Register ISO 50001: ISO 50003 technical areas A, C, E (classified to EA by sector)
+- 178326 QS QUALITY SERVICES LTD ISO 50001: ISO 50003 technical areas C, D, E (classified to EA by sector)
+- 178326 QS QUALITY SERVICES LTD ISO 13485: ISO 13485 main technical areas: Non-active medical devices; Active (non-implantable) medical devices; Devices incorporating specific substances / technologies; Parts or services (classified to EA by sector)
+- 17915 SWISS APPROVAL TECHNISCHE BEWERTUNG SOCIETE ANONYME ISO 13485: ISO 13485 main technical areas: Parts or services (classified to EA by sector)
+- 145872 TÜV CYPRUS (TÜV NORD) LIMITED ISO 22000: ISO 22003-1 categories B, C, E, F, G (classified to EA by sector)
+- 145872 TÜV CYPRUS (TÜV NORD) LIMITED FSSC 22000: ISO 22003-1 categories B, C, E, F, G (classified to EA by sector)
+- 145872 TÜV CYPRUS (TÜV NORD) LIMITED ISO 14001: Annex lists NACE codes; classified to EA with the IAF ID 1 table
+- 178012 W.C.S. - WORLDWIDE CERTIFICATION STANDARDS LTD (WORLDWIDE CERTIFICATION STANDARDS LTD) ISO 50001: ISO 50003 technical areas A, C (classified to EA by sector)
+- 224134 AXIA CERT LTD ISO 50001: ISO 50003 technical areas A, C, E (classified to EA by sector)
+- 224134 AXIA CERT LTD ISO 13485: ISO 13485 main technical areas: Parts or services (classified to EA by sector)
+- 234989 BM CERT - BUSINESS MANAGEMENT CERTIFICATION - PCC ISO 22000: ISO 22003-1 categories B, C, E, F, I (classified to EA by sector)
+- 234989 BM CERT - BUSINESS MANAGEMENT CERTIFICATION - PCC FSSC 22000: ISO 22003-1 categories C, F (classified to EA by sector)
+- 172265 GLOBAL CERT S.A. ISO 50001: ISO 50003 technical areas C, D (classified to EA by sector)
+- 172265 GLOBAL CERT S.A. ISO 14001: Annex lists NACE codes; classified to EA with the IAF ID 1 table
+- 18232 NORTEST (CYPRUS) LTD ISO 22000: ISO 22003-1 categories B, C, E, F (classified to EA by sector)
+- 293532 BUSINESS QUALITY VERIFICATION TESTING INSPECTION AND CERTIFICATION SERVICES PRIVATE COMPANY - BQV (BQV) ISO 50001: ISO 50003 technical areas A, C, E (classified to EA by sector)
+- 293532 BUSINESS QUALITY VERIFICATION TESTING INSPECTION AND CERTIFICATION SERVICES PRIVATE COMPANY - BQV (BQV) ISO 22000: ISO 22003-1 categories E (classified to EA by sector)
+- 285061 ICDQ GREECE P.C. (ICDQ P.C.) ISO 22000: ISO 22003-1 categories B, C, E, F, G, K (classified to EA by sector)
+- 285061 ICDQ GREECE P.C. (ICDQ P.C.) ISO 50001: ISO 50003 technical areas A, B, C, E, F, G (classified to EA by sector)
+- 320374 PAPADAKIS IOANNIS CERTIFICATIONS & CO L.P. (IQCERT L.P.) ISO 50001: ISO 50003 technical areas C, D (classified to EA by sector)
+- 320374 PAPADAKIS IOANNIS CERTIFICATIONS & CO L.P. (IQCERT L.P.) ISO 22000: ISO 22003-1 categories A, B, C, E, F, G (classified to EA by sector)
+- 356719 CERTIFY STANDARDS LTD ISO 22000: ISO 22003-1 categories C, E (classified to EA by sector)
+- 348475 KYROS PRIVATE COMPANY (KYROS IKE) ISO 22000: ISO 22003-1 categories E (classified to EA by sector)
+- 377093 HEALTH CERT ΠΙΣΤΟΠΟΙΗΣΗ ΥΓΕΙΑΣ Ι.Κ.Ε. ISO 13485: ISO 13485 main technical areas: Non-active medical devices; In vitro diagnostic medical devices; Parts or services (classified to EA by sector)
+- 428168 NB INSPECTION SERVICES ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ (NBIS) ISO 22000: ISO 22003-1 categories C, E, F, G, I (classified to EA by sector)
+- 437365 ATTESTAR ΜΟΝΟΠΡΟΣΩΠΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ (ATTESTAR) ISO 22000: ISO 22003-1 categories B, F, G, I (classified to EA by sector)
+- 437365 ATTESTAR ΜΟΝΟΠΡΟΣΩΠΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ (ATTESTAR) ISO 13485: ISO 13485 main technical areas: Non-active medical devices; Active (non-implantable) medical devices; Parts or services (classified to EA by sector)
+- 444089 KRITIKES PISTOPOIISEIS DOULGERAKI SINGLE MEMBER P.C. (Delta Cert) ISO 22000: ISO 22003-1 categories C (classified to EA by sector)
+
+## Merged duplicates (6)
+
+- body 432090 `CRETAN CERTIFICATIONS DOULGERAKI L.P. (DELTA CERT)` merged into 444089 `KRITIKES PISTOPOIISEIS DOULGERAKI SINGLE MEMBER P.C. (Delta Cert)` (same owner and brand; contact details filled from the older entry)
+- 224134 AXIA CERT LTD: second register row for ISO 41001 (`FACILITY MANAGEMENT SYSTEMS ACCORDING TO ΕLΟΤ EN ISO 41001`); sectors combined
+- 224285 ISONIKE Ltd: second register row for ISO 37001 (`ANTI-BRIBERY MANAGEMENT SYSTEMS IN ACCORDANCE WITH ELOT ISO 37001 STAN`); sectors combined
+- 293532 BUSINESS QUALITY VERIFICATION TESTING INSPECTION AND CERTIFICATION SERVICES PRIVATE COMPANY - BQV (BQV): second register row for ISO 50001 (`ΔΙΑΧΕΙΡΙΣΗ ΣΥΣΤΗΜΑΤΩΝ ΕΝΕΡΓΕΙΑΣ ΕΝ ISO 50003:2021`); sectors combined
+- 444089 KRITIKES PISTOPOIISEIS DOULGERAKI SINGLE MEMBER P.C. (Delta Cert): second register row for ISO 22000 (`FOOD SAFETY MANAGEMENT SYSTEMS ACCORDING TO ELOT EN ISO 22000`); sectors combined
+- 444089 KRITIKES PISTOPOIISEIS DOULGERAKI SINGLE MEMBER P.C. (Delta Cert): second register row for ISO 9001 (`QUALITY MANAGEMENT SYSTEMS ACCORDING TO ELOT EN ISO 9001`); sectors combined
+
+## Annexes not read (18)
+
+- 17810 BUREAU VERITAS HELLAS SINGLE PERSON SOCIETE ANONYME (BUREAU VERITAS HELLAS S.P. S.A.) ISO 39001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.471286_en.doc); recorded as ALL
+- 224285 ISONIKE Ltd ISO 37001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.415998_en.doc); recorded as ALL
+- 293507 UCERT ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ ISO 22000: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.303770_en.doc); no scope row written (sector scheme)
+- 293532 BUSINESS QUALITY VERIFICATION TESTING INSPECTION AND CERTIFICATION SERVICES PRIVATE COMPANY - BQV (BQV) ISO 50001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.374732_en.doc); no scope row written (sector scheme)
+- 293532 BUSINESS QUALITY VERIFICATION TESTING INSPECTION AND CERTIFICATION SERVICES PRIVATE COMPANY - BQV (BQV) ISO 37001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.447085_en.doc); recorded as ALL
+- 293532 BUSINESS QUALITY VERIFICATION TESTING INSPECTION AND CERTIFICATION SERVICES PRIVATE COMPANY - BQV (BQV) ISO 14001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.443989_en.doc); no scope row written (sector scheme)
+- 377093 HEALTH CERT ΠΙΣΤΟΠΟΙΗΣΗ ΥΓΕΙΑΣ Ι.Κ.Ε. ISO/IEC 27001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.377095_en.doc); recorded as ALL
+- 17649 HELLENIC LLOYD’S SOCIETE ANONYME (HELLENIC LLOYD’S) ISO 50001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.475264_en.doc); no scope row written (sector scheme)
+- 428424 MEGNUSCERT ISO/IEC 27001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.428429_en.doc); recorded as ALL
+- 446899 ΔΕΗ ΕΡΓΑΣΤΗΡΙΑ, ΠΙΣΤΟΠΟΙΗΣΗ & ΕΠΙΘΕΩΡΗΣΗ ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. (PPC INSPECTRA) ISO 9001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.452365_en.doc); no scope row written (sector scheme)
+- 446899 ΔΕΗ ΕΡΓΑΣΤΗΡΙΑ, ΠΙΣΤΟΠΟΙΗΣΗ & ΕΠΙΘΕΩΡΗΣΗ ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. (PPC INSPECTRA) ISO 14001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.452366_en.doc); no scope row written (sector scheme)
+- 446899 ΔΕΗ ΕΡΓΑΣΤΗΡΙΑ, ΠΙΣΤΟΠΟΙΗΣΗ & ΕΠΙΘΕΩΡΗΣΗ ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. (PPC INSPECTRA) ISO 45001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.452367_en.doc); no scope row written (sector scheme)
+- 444089 KRITIKES PISTOPOIISEIS DOULGERAKI SINGLE MEMBER P.C. (Delta Cert) ISO 9001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.432093_en.doc); no scope row written (sector scheme)
+- 444089 KRITIKES PISTOPOIISEIS DOULGERAKI SINGLE MEMBER P.C. (Delta Cert) ISO 22000: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.432094_en.doc); no scope row written (sector scheme)
+- 446835 SI CERT ELEGHON KAI PISTOPOIISEON LTD (SI CERT LTD) ISO 22000: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.447113_en.doc); no scope row written (sector scheme)
+- 446835 SI CERT ELEGHON KAI PISTOPOIISEON LTD (SI CERT LTD) ISO/IEC 27001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.475579_en.doc); recorded as ALL
+- 451101 BOUDAKIDIS P.-PAPPOS D. GENERAL PARTNERSHIP (FQM) ISO 9001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.451102_en.doc); no scope row written (sector scheme)
+- 451101 BOUDAKIDIS P.-PAPPOS D. GENERAL PARTNERSHIP (FQM) ISO 14001: annex not on the ESYD site in English or Greek (http://www.esydops.gr/eped/1.451103_en.doc); no scope row written (sector scheme)
+
+## Annexes without a sector table (recorded as ALL) (123)
+
+- 18112 A CERT European Organization for Certification S.A. (Α CERT S.A.) ISO/IEC 27001 (1.458779_en.doc)
+- 17810 BUREAU VERITAS HELLAS SINGLE PERSON SOCIETE ANONYME (BUREAU VERITAS HELLAS S.P. S.A.) ISO 37301 (1.390481_en.doc)
+- 17810 BUREAU VERITAS HELLAS SINGLE PERSON SOCIETE ANONYME (BUREAU VERITAS HELLAS S.P. S.A.) EN 15224 (1.337430_en.doc)
+- 17963 CYPRUS CERTIFICATION COMPANY (CCC) ISO/IEC 27001 (1.184310_en.doc)
+- 17963 CYPRUS CERTIFICATION COMPANY (CCC) ISO 37001 (1.317036_en.doc)
+- 17820 EQA – ΗELLAS CERTIFICATION & INSPECTION BODY SINGLE MEMBER SOCIETE ANONYME (EQA – ΗELLAS SINGLE MEMBER S.A.) ISO/IEC 27001 (1.281006_en.doc)
+- 17820 EQA – ΗELLAS CERTIFICATION & INSPECTION BODY SINGLE MEMBER SOCIETE ANONYME (EQA – ΗELLAS SINGLE MEMBER S.A.) ISO 37001 (1.345930_en.doc)
+- 17820 EQA – ΗELLAS CERTIFICATION & INSPECTION BODY SINGLE MEMBER SOCIETE ANONYME (EQA – ΗELLAS SINGLE MEMBER S.A.) EN 15224 (1.400068_en.doc)
+- 17820 EQA – ΗELLAS CERTIFICATION & INSPECTION BODY SINGLE MEMBER SOCIETE ANONYME (EQA – ΗELLAS SINGLE MEMBER S.A.) ISO 39001 (1.400072_en.doc)
+- 17820 EQA – ΗELLAS CERTIFICATION & INSPECTION BODY SINGLE MEMBER SOCIETE ANONYME (EQA – ΗELLAS SINGLE MEMBER S.A.) ISO 41001 (1.438589_en.doc)
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) ISO 37301 (1.462066_en.doc)
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) ISO 39001 (1.317301_en.doc)
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) ISO/IEC 27001 (1.106369_en.doc)
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) ISO/IEC 20000-1 (1.229897_en.doc)
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) ISO 37001 (1.317298_en.doc)
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) ISO 41001 (1.309356_en.doc)
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) EN 15224 (1.317281_en.doc)
+- 17931 LETRINA S.A. ISO/IEC 27001 (1.147696_en.doc)
+- 17885 National Evaluation Center of Quality and Technology in Health S.A. (EKAPTY SA) ISO 37001 (1.431236_en.doc)
+- 17715 QMSCERT AUDITS-INSPECTIONS-CERTIFICATIONS SA (Q-CERT SA) ISO/IEC 27001 (1.179906_en.doc)
+- 17715 QMSCERT AUDITS-INSPECTIONS-CERTIFICATIONS SA (Q-CERT SA) ISO 39001 (1.361035_en.doc)
+- 17715 QMSCERT AUDITS-INSPECTIONS-CERTIFICATIONS SA (Q-CERT SA) ISO/IEC 20000-1 (1.361041_en.doc)
+- 17715 QMSCERT AUDITS-INSPECTIONS-CERTIFICATIONS SA (Q-CERT SA) ISO 37001 (1.361042_en.doc)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO 55001 (1.444425_en.doc)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO 46001 (1.388602_en.doc)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO 21001 (1.388601_en.doc)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO 29993 (1.388600_en.doc)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO 3834 (1.358288_en.doc)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO 37301 (1.350312_en.doc)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO 41001 (1.320923_en.doc)
+- 17722 TÜV AUSTRIA HELLAS LTD EN 15224 (1.317921_en.doc)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO 39001 (1.317918_en.doc)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO 37001 (1.304542_en.doc)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO/IEC 20000-1 (1.289981_en.doc)
+- 17722 TÜV AUSTRIA HELLAS LTD ISO/IEC 27001 (1.24960_en.doc)
+- 17463 MIRTEC S.A. - MATERIALS INDUSTRIAL RESEARCH AND TECHNOLOGY CENTER S.A. (MIRTEC S.A.) ISO/IEC 27001 (1.317149_en.doc)
+- 17902 THEODYNAMICS LTD ISO/IEC 27001 (1.281765_en.doc)
+- 17902 THEODYNAMICS LTD ISO 39001 (1.361489_en.doc)
+- 17902 THEODYNAMICS LTD ISO 37001 (1.363525_en.doc)
+- 17902 THEODYNAMICS LTD ISO 41001 (1.445708_en.doc)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO 41001 (1.309347_en.doc)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO 55001 (1.472360_en.doc)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO/IEC 42001 (1.464133_en.doc)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO/IEC 27001 (1.396702_en.doc)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO 37301 (1.361698_en.doc)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO 29993 (1.359397_en.doc)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO 21001 (1.359396_en.doc)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO 21401 (1.346548_en.doc)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO 39001 (1.317269_en.doc)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. EN 15224 (1.317266_en.doc)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO 37001 (1.304461_en.doc)
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ISO/IEC 20000-1 (1.229949_en.doc)
+- 28211 BQC PRIVATE COMPANY (BQC) ISO 37001 (1.317061_en.doc)
+- 28211 BQC PRIVATE COMPANY (BQC) ISO/IEC 27001 (1.345045_en.doc)
+- 28211 BQC PRIVATE COMPANY (BQC) ISO 41001 (1.345054_en.doc)
+- 28211 BQC PRIVATE COMPANY (BQC) ISO 39001 (1.431026_en.doc)
+- 18083 DQS HELLAS Ltd (DQS HELLAS Ltd) EN 15224 (1.317045_en.doc)
+- 70139 AVRV Inspection Audit and Certification Societe Anonyme (AVRV S.A.) ISO/IEC 27001 (1.228661_en.doc)
+- 70139 AVRV Inspection Audit and Certification Societe Anonyme (AVRV S.A.) ISO 39001 (1.364050_en.doc)
+- 155773 ESQ CERT Ltd ISO 37001 (1.363929_en.doc)
+- 155773 ESQ CERT Ltd ISO 39001 (1.363930_en.doc)
+- 127739 EUCI EUROPEAN CERTIFICATION INSTITUTE Ltd (EUCI) ISO 37001 (1.388805_en.doc)
+- 17613 KRONOS GREEK CERTIFICATION S.A. (K.C. HELLAS) ISO/IEC 27001 (1.380617_en.doc)
+- 67952 Q-check PRIVATE COMPANY - Q-check P.C. (Q-check) ISO 39001 (1.429685_en.doc)
+- 18184 TOTAL Q ARM HELLENIC CERTIFICATION COMPANY Ltd (TOTAL Q ARM Ltd) ISO 37001 (1.304456_en.doc)
+- 186097 Libero Assurance, Hellenic Register ISO/IEC 27001 (1.423110_en.doc)
+- 186097 Libero Assurance, Hellenic Register ISO 39001 (1.423112_en.doc)
+- 186097 Libero Assurance, Hellenic Register ISO 37001 (1.423114_en.doc)
+- 178326 QS QUALITY SERVICES LTD ISO/IEC 27001 (1.220623_en.doc)
+- 178326 QS QUALITY SERVICES LTD ISO/IEC 20000-1 (1.363801_en.doc)
+- 17915 SWISS APPROVAL TECHNISCHE BEWERTUNG SOCIETE ANONYME EN 15224 (1.436706_en.doc)
+- 17915 SWISS APPROVAL TECHNISCHE BEWERTUNG SOCIETE ANONYME ISO/IEC 27001 (1.444453_en.doc)
+- 178012 W.C.S. - WORLDWIDE CERTIFICATION STANDARDS LTD (WORLDWIDE CERTIFICATION STANDARDS LTD) ISO/IEC 27001 (1.438533_en.doc)
+- 178012 W.C.S. - WORLDWIDE CERTIFICATION STANDARDS LTD (WORLDWIDE CERTIFICATION STANDARDS LTD) ISO/IEC 20000-1 (1.472651_en.doc)
+- 179677 UNICERT SA - Ν. NOULAS S.A. (UNIVERSAL CERTIFICATION SOLUTIONS S.A- UNICERT S.A.) ISO/IEC 27001 (1.225762_en.doc)
+- 224134 AXIA CERT LTD ISO/IEC 27001 (1.309396_en.doc)
+- 224134 AXIA CERT LTD ISO 37001 (1.316308_en.doc)
+- 224134 AXIA CERT LTD ISO 41001 (1.316309_en.doc)
+- 224134 AXIA CERT LTD ISO 39001 (1.319992_en.doc)
+- 224134 AXIA CERT LTD ISO 41001 (1.342939_en.doc)
+- 224134 AXIA CERT LTD ISO 37301 (1.438443_en.doc)
+- 224134 AXIA CERT LTD ISO/IEC 20000-1 (1.438444_en.doc)
+- 224134 AXIA CERT LTD ISO 55001 (1.444466_en.doc)
+- 224134 AXIA CERT LTD ISO/IEC 42001 (1.454052_en.doc)
+- 234989 BM CERT - BUSINESS MANAGEMENT CERTIFICATION - PCC ISO/IEC 27001 (1.447219_en.doc)
+- 172265 GLOBAL CERT S.A. ISO 21001 (1.359620_en.doc)
+- 172265 GLOBAL CERT S.A. ISO 29993 (1.359621_en.doc)
+- 172265 GLOBAL CERT S.A. ISO/IEC 27001 (1.293751_en.doc)
+- 172265 GLOBAL CERT S.A. ISO 37001 (1.359929_en.doc)
+- 224285 ISONIKE Ltd ISO/IEC 20000-1 (1.285451_en.doc)
+- 224285 ISONIKE Ltd ISO 37001 (1.352310_en.doc)
+- 224285 ISONIKE Ltd ISO/IEC 27001 (1.438839_en.doc)
+- 215877 RIGCERT IKE (RIGCERT) ISO/IEC 27001 (1.225328_en.doc)
+- 215877 RIGCERT IKE (RIGCERT) ISO 39001 (1.317121_en.doc)
+- 215877 RIGCERT IKE (RIGCERT) ISO 37001 (1.452546_en.doc)
+- 290308 TOTALCERT IKE ISO 37001 (1.382891_en.doc)
+- 290308 TOTALCERT IKE ISO/IEC 27001 (1.382890_en.doc)
+- 290308 TOTALCERT IKE ISO 21001 (1.382960_en.doc)
+- 290308 TOTALCERT IKE ISO 29993 (1.382962_en.doc)
+- 293507 UCERT ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ ISO/IEC 27001 (1.293952_en.doc)
+- 293507 UCERT ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ ISO 37001 (1.304463_en.doc)
+- 293507 UCERT ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ ISO 21001 (1.356533_en.doc)
+- 293507 UCERT ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ ISO 29993 (1.356538_en.doc)
+- 293532 BUSINESS QUALITY VERIFICATION TESTING INSPECTION AND CERTIFICATION SERVICES PRIVATE COMPANY - BQV (BQV) ISO 46001 (1.374731_en.doc)
+- 293532 BUSINESS QUALITY VERIFICATION TESTING INSPECTION AND CERTIFICATION SERVICES PRIVATE COMPANY - BQV (BQV) ISO 55001 (1.449568_en.doc)
+- 293532 BUSINESS QUALITY VERIFICATION TESTING INSPECTION AND CERTIFICATION SERVICES PRIVATE COMPANY - BQV (BQV) ISO 39001 (1.317129_en.doc)
+- 280866 EP CERTIFICATION Single Member P.C. ISO/IEC 27001 (1.437069_en.doc)
+- 285061 ICDQ GREECE P.C. (ICDQ P.C.) ISO 37301 (1.413106_en.doc)
+- 285061 ICDQ GREECE P.C. (ICDQ P.C.) ISO 39001 (1.360383_en.doc)
+- 285061 ICDQ GREECE P.C. (ICDQ P.C.) ISO/IEC 27001 (1.360384_en.doc)
+- 320374 PAPADAKIS IOANNIS CERTIFICATIONS & CO L.P. (IQCERT L.P.) ISO 37001 (1.415831_en.doc)
+- 377093 HEALTH CERT ΠΙΣΤΟΠΟΙΗΣΗ ΥΓΕΙΑΣ Ι.Κ.Ε. EN 15224 (1.379563_en.doc)
+- 428168 NB INSPECTION SERVICES ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ (NBIS) ISO/IEC 27001 (1.430140_en.doc)
+- 428168 NB INSPECTION SERVICES ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ (NBIS) ISO 37001 (1.442186_en.doc)
+- 428424 MEGNUSCERT ISO 39001 (1.428427_en.doc)
+- 428424 MEGNUSCERT ISO 37001 (1.428428_en.doc)
+- 369814 PROFESSIONAL AWARDING SERVICES SOLUTIONS - PASS ISO 37001 (1.432828_en.doc)
+- 369814 PROFESSIONAL AWARDING SERVICES SOLUTIONS - PASS ISO 29993 (1.444331_en.doc)
+- 369814 PROFESSIONAL AWARDING SERVICES SOLUTIONS - PASS ISO 21001 (1.444338_en.doc)
+- 369814 PROFESSIONAL AWARDING SERVICES SOLUTIONS - PASS ISO/IEC 27001 (1.444347_en.doc)
+- 398676 Quality Services L.L.C Certification & Notification Body (QS HELLAS L.L.C.) ISO 37001 (1.398677_en.doc)
+- 398676 Quality Services L.L.C Certification & Notification Body (QS HELLAS L.L.C.) ISO 39001 (1.398678_en.doc)
+- 437365 ATTESTAR ΜΟΝΟΠΡΟΣΩΠΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ (ATTESTAR) ISO 37001 (1.452462_en.doc)
+
+## Fallback dates and numbers (28)
+
+- 18112 A CERT European Organization for Certification S.A. (Α CERT S.A.): latest expiry in the annexes is 2026-01-05, in the past, while ESYD still lists the body; treated as expired and removed
+- 18112 A CERT European Organization for Certification S.A. (Α CERT S.A.) 396 (50003): no register date for these schemes; issue_date 2008-07-24 taken from other schemes of the body
+- 18112 A CERT European Organization for Certification S.A. (Α CERT S.A.) 396 (27006): no register date for these schemes; issue_date 2008-07-24 taken from other schemes of the body
+- 17820 EQA – ΗELLAS CERTIFICATION & INSPECTION BODY SINGLE MEMBER SOCIETE ANONYME (EQA – ΗELLAS SINGLE MEMBER S.A.): annexes give several expiry dates {'2029-09-16': 10, '2025-09-16': 2}; using the latest, 2029-09-16
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.): annexes give several expiry dates {'2029-11-29': 5, '2025-05-29': 9}; using the latest, 2029-11-29
+- 17931 LETRINA S.A.: annexes give several expiry dates {'2021-09-14': 1, '2024-09-14': 2, '2025-03-14': 3}; using the latest, 2025-03-14
+- 17931 LETRINA S.A.: latest expiry in the annexes is 2025-03-14, in the past, while ESYD still lists the body; treated as expired and removed
+- 17463 MIRTEC S.A. - MATERIALS INDUSTRIAL RESEARCH AND TECHNOLOGY CENTER S.A. (MIRTEC S.A.): latest expiry in the annexes is 2025-03-14, in the past, while ESYD still lists the body; treated as expired and removed
+- 28211 BQC PRIVATE COMPANY (BQC): annexes give several expiry dates {'2026-05-14': 1, '2030-05-14': 8}; using the latest, 2030-05-14
+- 18083 DQS HELLAS Ltd (DQS HELLAS Ltd): latest expiry in the annexes is 2025-05-20, in the past, while ESYD still lists the body; treated as expired and removed
+- 17854 NOVA CERTIFICATIONS Ltd (NOVA CERTIFICATIONS Ltd): latest expiry in the annexes is 2025-06-24, in the past, while ESYD still lists the body; treated as expired and removed
+- 18180 ERGOCERT HELLAS ΑΕ: latest expiry in the annexes is 2026-10-18, in the past, while ESYD still lists the body; treated as expired and removed
+- 161424 COSMOCERT S.A. - CERTIFICATION SERVICES: latest expiry in the annexes is 2026-09-01, in the past, while ESYD still lists the body; treated as expired and removed
+- 155773 ESQ CERT Ltd: annexes give several expiry dates {'2027-05-23': 4, '2027-05-13': 2}; using the latest, 2027-05-23
+- 17915 SWISS APPROVAL TECHNISCHE BEWERTUNG SOCIETE ANONYME: latest expiry in the annexes is 2025-05-10, in the past, while ESYD still lists the body; treated as expired and removed
+- 172265 GLOBAL CERT S.A.: latest expiry in the annexes is 2026-02-08, in the past, while ESYD still lists the body; treated as expired and removed
+- 293532 BUSINESS QUALITY VERIFICATION TESTING INSPECTION AND CERTIFICATION SERVICES PRIVATE COMPANY - BQV (BQV) 1222 (22000): no register date for these schemes; issue_date 2020-10-02 taken from other schemes of the body
+- 293532 BUSINESS QUALITY VERIFICATION TESTING INSPECTION AND CERTIFICATION SERVICES PRIVATE COMPANY - BQV (BQV) 1222 (37001): no register date for these schemes; issue_date 2020-10-02 taken from other schemes of the body
+- 320374 PAPADAKIS IOANNIS CERTIFICATIONS & CO L.P. (IQCERT L.P.): annexes give several expiry dates {'2026-09-22': 4, '2026-03-22': 1, '2030-09-22': 2}; using the latest, 2030-09-22
+- 348475 KYROS PRIVATE COMPANY (KYROS IKE): latest expiry in the annexes is 2026-08-03, in the past, while ESYD still lists the body; treated as expired and removed
+- 428168 NB INSPECTION SERVICES ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ (NBIS): annexes give several expiry dates {'2029-10-30': 6, '2029-03-30': 1}; using the latest, 2029-10-30
+- 17649 HELLENIC LLOYD’S SOCIETE ANONYME (HELLENIC LLOYD’S): no certificate number in the register or the annexes; using `ESYD-17649`
+- 17649 HELLENIC LLOYD’S SOCIETE ANONYME (HELLENIC LLOYD’S): no expiry date in the annexes; left empty
+- 17649 HELLENIC LLOYD’S SOCIETE ANONYME (HELLENIC LLOYD’S) ESYD-17649 (50003): no register date for these schemes; issue_date (none) taken from the annex date
+- 369814 PROFESSIONAL AWARDING SERVICES SOLUTIONS - PASS: annexes give several expiry dates {'2029-09-04': 1, '2029-04-26': 5}; using the latest, 2029-09-04
+- 446899 ΔΕΗ ΕΡΓΑΣΤΗΡΙΑ, ΠΙΣΤΟΠΟΙΗΣΗ & ΕΠΙΘΕΩΡΗΣΗ ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. (PPC INSPECTRA): no expiry date in the annexes; left empty
+- 451101 BOUDAKIDIS P.-PAPPOS D. GENERAL PARTNERSHIP (FQM): no certificate number in the register or the annexes; using `ESYD-451101`
+- 451101 BOUDAKIDIS P.-PAPPOS D. GENERAL PARTNERSHIP (FQM): no expiry date in the annexes; left empty
+
+## Bodies without scopes (1)
+
+- HELLENIC LLOYD’S SOCIETE ANONYME (HELLENIC LLOYD’S): no dated accreditation; body not written
+
+## Excluded schemes (24)
+
+- 17810 BUREAU VERITAS HELLAS SINGLE PERSON SOCIETE ANONYME (BUREAU VERITAS HELLAS S.P. S.A.) ELOT 1435: Greek national standard
+- 17810 BUREAU VERITAS HELLAS SINGLE PERSON SOCIETE ANONYME (BUREAU VERITAS HELLAS S.P. S.A.) EU Directives QA: EU-directive notified-body module, not a management-system standard
+- 17820 EQA – ΗELLAS CERTIFICATION & INSPECTION BODY SINGLE MEMBER SOCIETE ANONYME (EQA – ΗELLAS SINGLE MEMBER S.A.) ELOT 1435: Greek national standard
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) ELOT 1435: Greek national standard
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) ELOT 1429: Greek national standard
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) AGRO 2: Greek national scheme
+- 17589 EUROCERT Α.Ε.- European Inspection and Certification Company SA (EUROCERT Α.Ε.) EU Directives QA: EU-directive notified-body module, not a management-system standard
+- 17931 LETRINA S.A. ELOT 1429: Greek national standard
+- 17885 National Evaluation Center of Quality and Technology in Health S.A. (EKAPTY SA) EU Directives QA: EU-directive notified-body module, not a management-system standard
+- 17715 QMSCERT AUDITS-INSPECTIONS-CERTIFICATIONS SA (Q-CERT SA) EU Directives QA: EU-directive notified-body module, not a management-system standard
+- 17715 QMSCERT AUDITS-INSPECTIONS-CERTIFICATIONS SA (Q-CERT SA) ELOT 1435: Greek national standard
+- 17722 TÜV AUSTRIA HELLAS LTD AGRO 2: Greek national scheme
+- 17722 TÜV AUSTRIA HELLAS LTD ELOT 1429: Greek national standard
+- 17722 TÜV AUSTRIA HELLAS LTD EU Directives QA: EU-directive notified-body module, not a management-system standard
+- 17463 MIRTEC S.A. - MATERIALS INDUSTRIAL RESEARCH AND TECHNOLOGY CENTER S.A. (MIRTEC S.A.) EU Directives QA: EU-directive notified-body module, not a management-system standard
+- 17463 MIRTEC S.A. - MATERIALS INDUSTRIAL RESEARCH AND TECHNOLOGY CENTER S.A. (MIRTEC S.A.) ELOT 1429: Greek national standard
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ELOT 1435: Greek national standard
+- 17741 TÜV HELLAS (TÜV NORD) S.A. ELOT 1429: Greek national standard
+- 17741 TÜV HELLAS (TÜV NORD) S.A. EU Directives QA: EU-directive notified-body module, not a management-system standard
+- 17741 TÜV HELLAS (TÜV NORD) S.A. AGRO 2: Greek national scheme
+- 28211 BQC PRIVATE COMPANY (BQC) ELOT 1435: Greek national standard
+- 30010 KR HELLAS LTD EU Directives QA: EU-directive notified-body module, not a management-system standard
+- 17915 SWISS APPROVAL TECHNISCHE BEWERTUNG SOCIETE ANONYME ELOT 1435: Greek national standard
+- 428168 NB INSPECTION SERVICES ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ (NBIS) ELOT 1429: Greek national standard
+
+## Normalised values (88)
+
+- 18112 name `A CERT European Organization for Certification S.A. (Α CERT S.A. )` -> `A CERT European Organization for Certification S.A. (Α CERT S.A.)`
+- 18112 phone `2310 210777` -> `+30 2310210777`
+- 17810 phone `210 4063000` -> `+30 2104063000`
+- 17810 email `george.dilintas@gr.bureauveritas.com, grc_scscer@gr.bureauveritas.com` -> `george.dilintas@gr.bureauveritas.com`
+- 17963 email `certification@cycert.org.cy info@cycert.org.cy ieleftheriou@cycert.org.cy vvassiliou@cycert.org.cy` -> `info@cycert.org.cy`
+- 17839 phone `210 822 4384` -> `+30 2108224384`
+- 17820 phone `210 6834012, 210 6800552` -> `+30 2106834012`
+- 17820 email `galatsanos@eqa.gr, eqa@eqa.gr, info@eqa.gr, iolog@eqa.gr` -> `info@eqa.gr`
+- 17589 phone `210 625 3927` -> `+30 2106253927`
+- 17589 website `www.eurocert.gr` -> `https://www.eurocert.gr`
+- 17793 phone `210 8211940` -> `+30 2108211940`
+- 17793 email `ydp@bio-hellas.gr food_safety@bio-hellas.gr` -> `ydp@bio-hellas.gr`
+- 17931 phone `210 684 8190` -> `+30 2106848190`
+- 17885 phone `213 2026200, 213 2026205` -> `+30 2132026200`
+- 17885 website `www.ekapty.gr` -> `https://www.ekapty.gr`
+- 17715 phone `2310-535765, 2310-535198 κ. Λ. Kαρανίκας 6944698860` -> `+30 2310535765`
+- 17722 phone `210 5220920` -> `+30 2105220920`
+- 17463 phone `24210 95340- 2` -> `+30 2421095340`
+- 17463 email `volos.office@mirtec.gr; a.piga@mirtec.gr` -> `volos.office@mirtec.gr`
+- 17902 phone `23920 63656` -> `+30 2392063656`
+- 17902 email `tdltd@otenet.gr, p631@otenet.gr` -> `tdltd@otenet.gr`
+- 17741 phone `210 6540195` -> `+30 2106540195`
+- 28211 phone `211 2213726` -> `+30 2112213726`
+- 28211 website `www.bqc.gr` -> `https://www.bqc.gr`
+- 18083 phone `210 6233493-5` -> `+30 2106233493`
+- 18083 website `www.dqs.gr` -> `https://www.dqs.gr`
+- 31893 phone `210 6033377` -> `+30 2106033377`
+- 17854 phone `231 231 6682, 234 107 0380` -> `+30 2312316682`
+- 17854 email `info@novacert.com,novacert@tee.gr` -> `info@novacert.com`
+- 17854 website `www.novacert.com` -> `https://www.novacert.com`
+- 99094 name `A. GALANOPOULOU Ε.E. ( S.Q.S.S. SOLUTIONS FOR QUALITY - ENVIRONMENTAL AND SHIPPING SAFETY)` -> `A. GALANOPOULOU Ε.E. (S.Q.S.S. SOLUTIONS FOR QUALITY - ENVIRONMENTAL AND SHIPPING SAFETY)`
+- 99094 phone `6944344546` -> `+30 6944344546`
+- 99094 email `info@sqss.gr, a.galanop@hotmail.com` -> `info@sqss.gr`
+- 70139 phone `210 6047411, 210 6046508` -> `+30 2106047411`
+- 18180 phone `2310 552167` -> `+30 2310552167`
+- 18180 website `www.ergocert.gr` -> `https://www.ergocert.gr`
+- 161424 phone `210-6712855` -> `+30 2106712855`
+- 155773 website `www.esqcert.com` -> `https://www.esqcert.com`
+- 127739 phone `0035625466042` -> `+356 25466042`
+- 30010 phone `210 4286736` -> `+30 2104286736`
+- 30010 email `krhellas@krs.co.kr, athens@krs.co.kr` -> `krhellas@krs.co.kr`
+- 17613 phone `210 531 7875, 210-5316054` -> `+30 2105317875`
+- 67952 phone `2410 538835` -> `+30 2410538835`
+- 18184 phone `0040216274155` -> `+40 216274155`
+- 18184 email `info@totalqarm.ro , asistent.manager@totalqarm.com , roxana.murariu@totalqarm.com` -> `info@totalqarm.ro`
+- 186097 phone `210-9561103` -> `+30 2109561103`
+- 178326 phone `356-77615441` -> `+356 77615441`
+- 178326 email `info@qualityservices.com.mt, qualityservices.mt@gmail.com` -> `info@qualityservices.com.mt`
+- 17915 phone `210 5562130-1` -> `+30 2105562130`
+- 17915 email `tuv@gr.tuv.com info@swissapproval.gr xenofon.roumpis@swissapproval.gr` -> `info@swissapproval.gr`
+- 145872 phone `00357-22442840` -> `+357 22442840`
+- 178012 phone `210-3838252` -> `+30 2103838252`
+- 179677 phone `210-3801129,30` -> `+30 2103801129`
+- 224134 phone `00357 99467969 - 0030 6947790790` -> `+357 99467969`
+- 224134 email `xbakol@gmail.com, qa@axiacert.com` -> `qa@axiacert.com`
+- 234989 phone `2414003039` -> `+30 2414003039`
+- 172265 phone `210-3300010` -> `+30 2103300010`
+- 224285 phone `+357 96 288 534, +357 26 222 172, +30694 730209` -> `+357 96 288 534`
+- 224285 email `info@isonike.com, irene.vasilakaki@isonike.com` -> `info@isonike.com`
+- 224285 website `www.isonike.com` -> `https://www.isonike.com`
+- 18232 email `nortest@nortest.com.cy, ioanna.panayiotou@nortest.com.cy` -> `nortest@nortest.com.cy`
+- 215877 phone `0040744315213` -> `+40 744315213`
+- 215877 email `rigcert@gmail.com, office@rigcert.org` -> `office@rigcert.org`
+- 290308 phone `210 9916500, 210 9916600` -> `+30 2109916500`
+- 293507 phone `210 7101410` -> `+30 2107101410`
+- 293532 phone `6932222907` -> `+30 6932222907`
+- 280866 phone `210 9569617, 6936922986` -> `+30 2109569617`
+- 285061 phone `2310525600` -> `+30 2310525600`
+- 285061 email `icdqike@gmail.com c.pellegrino@icdq.it info@icdq.al` -> `info@icdq.al`
+- 320374 phone `2109895862` -> `+30 2109895862`
+- 320374 website `210 9427270` -> `(empty)`
+- 356719 phone `0035722269301` -> `+357 22269301`
+- 348475 phone `2351303876` -> `+30 2351303876`
+- 377093 phone `2109657700` -> `+30 2109657700`
+- 377093 website `https://esyd.gr/health-cert/` -> `(empty)`
+- 428168 phone `210 6848190` -> `+30 2106848190`
+- 17649 phone `2119907700` -> `+30 2119907700`
+- 17649 email `Piraeus-qa-services@lr.org` -> `piraeus-qa-services@lr.org`
+- 428424 phone `2107522100-6932218456` -> `+30 2107522100`
+- 369814 phone `2104933538` -> `+30 2104933538`
+- 437365 name `ATTESTAR ΜΟΝΟΠΡΟΣΩΠΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ ( ATTESTAR)` -> `ATTESTAR ΜΟΝΟΠΡΟΣΩΠΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ (ATTESTAR)`
+- 437365 phone `2741075775` -> `+30 2741075775`
+- 437365 email `info@attestar.eu, billzolo@outlook.com` -> `info@attestar.eu`
+- 446899 name `ΔΕΗ ΕΡΓΑΣΤΗΡΙΑ, ΠΙΣΤΟΠΟΙΗΣΗ & ΕΠΙΘΕΩΡΗΣΗ ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. (PPC INSPECTRA) (PPC INSPECTRA)` -> `ΔΕΗ ΕΡΓΑΣΤΗΡΙΑ, ΠΙΣΤΟΠΟΙΗΣΗ & ΕΠΙΘΕΩΡΗΣΗ ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. (PPC INSPECTRA)`
+- 446899 phone `210 6601742, 210 6601832, 210 6601727, 210 6601837 (Βαλσαμάκης)` -> `+30 2106601742`
+- 431967 phone `2109273744 6973660100` -> `(empty)`
+- 444089 phone `2810319135, 6974730630` -> `+30 2810319135`
+- 451101 phone `6936843160` -> `+30 6936843160`

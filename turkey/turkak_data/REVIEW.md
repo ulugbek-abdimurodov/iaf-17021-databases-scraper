@@ -1,0 +1,277 @@
+# TÜRKAK dataset review
+
+100 bodies, 275 accreditations, 430 scope rows.
+84 bodies have scopes from their certificate PDF.
+
+Category-to-EA mappings are drafts copied from the RENAR/DPA datasets; see ENERGY_AREAS, FOOD_CATEGORIES and MEDICAL_AREAS in prepare_certifind.py.
+
+## Draft EA mappings (check these) (104)
+
+- AB-0001-YS ISO 50001: areas A, B, C, D
+- AB-0002-YS ISO 22000: categories A, B, C, D, E, F, G, H, I, J, K
+- AB-0002-YS ISO 50001: areas A, B, C
+- AB-0002-YS FSSC 22000: categories B, C, I, K
+- AB-0002-YS ISO 13485: Non-active medical devices; Active (non-implantable) medical devices; In vitro diagnostic medical devices; Sterilization methods; Devices incorporating specific substances / technologies
+- AB-0004-YS ISO 22000: categories C, D
+- AB-0006-YS ISO 50001: areas A, B, C, D, F, H
+- AB-0006-YS ISO 13485: Non-active medical devices; Active (non-implantable) medical devices; Active implantable medical devices; In vitro diagnostic medical devices; Sterilization methods; Devices incorporating specific substances / technologies; Parts or services
+- AB-0006-YS ISO 22000: categories C, D, E, F, G
+- AB-0009-YS ISO 22000: categories A, B, C, D, E, F, G, H, I, J, K
+- AB-0009-YS ISO 50001: areas A, B, C, D
+- AB-0009-YS FSSC 22000: categories B, C, I, K
+- AB-0011-YS ISO 50001: areas A, B
+- AB-0012-YS ISO 50001: areas A, B
+- AB-0014-YS ISO 50001: areas A, B, C, D
+- AB-0017-YS ISO 50001: areas A, B, C, D, E, H
+- AB-0017-YS ISO 13485: Non-active medical devices; Active (non-implantable) medical devices; Active implantable medical devices; In vitro diagnostic medical devices; Sterilization methods; Parts or services
+- AB-0017-YS ISO 22000: categories C, D, E, F, G, H, I, K
+- AB-0018-YS ISO 50001: areas A, B, C, D
+- AB-0018-YS ISO 22000: categories A, B, C, D, E, F, G, H, I
+- AB-0021-YS ISO 50001: areas A, B, C, D, H
+- AB-0021-YS ISO 22000: categories C, D, E, F, G, K
+- AB-0029-YS ISO 22000: categories A, B, C, D, E
+- AB-0029-YS ISO 50001: areas A, B, C, D, H
+- AB-0037-YS ISO 50001: areas B
+- AB-0039-YS ISO 50001: areas A
+- AB-0044-YS ISO 13485: Non-active medical devices; Active (non-implantable) medical devices; In vitro diagnostic medical devices; Sterilization methods; Devices incorporating specific substances / technologies; Parts or services
+- AB-0044-YS ISO 50001: areas A, B, D, H
+- AB-0047-YS ISO 50001: areas B, C
+- AB-0047-YS ISO 22000: categories C, D, E, F, G, H, I
+- AB-0049-YS ISO 13485: Non-active medical devices; Active (non-implantable) medical devices; Sterilization methods; Devices incorporating specific substances / technologies; Parts or services
+- AB-0051-YS ISO 50001: areas A, C, D, H
+- AB-0055-YS ISO 50001: areas A, B, C, D, H
+- AB-0056-YS ISO 22000: categories A, B, C, D, E, F, G, H, I, J, K
+- AB-0056-YS ISO 50001: areas A, B, C, F, H
+- AB-0056-YS FSSC 22000: categories C, I, K
+- AB-0060-YS ISO 50001: areas A, C, H
+- AB-0060-YS ISO 22000: categories C, D, E, F, G, I, J
+- AB-0066-YS ISO 22000: categories E
+- AB-0074-YS ISO 50001: areas A
+- AB-0076-YS ISO 50001: areas A, B, C, D, H
+- AB-0081-YS ISO 22000: categories C, D, E, F, G
+- AB-0081-YS ISO 50001: areas A, B, C, D, E, F, H
+- AB-0088-YS ISO 50001: areas A, B, C
+- AB-0089-YS ISO 50001: areas A, C, D, E, H
+- AB-0089-YS ISO 22000: categories C, D, E, F, G, I, K
+- AB-0094-YS ISO 50001: areas A, B, C, H
+- AB-0098-YS ISO 22000: categories A, B, C, D, E, F, G
+- AB-0098-YS ISO 50001: areas A, B, C, D, H
+- AB-0102-YS ISO 50001: areas A, B
+- AB-0104-YS ISO 22000: categories C, E
+- AB-0104-YS ISO 50001: areas A, B, C, D, E, H
+- AB-0106-YS FSSC 22000: categories B, C, D, F, G, I, K
+- AB-0106-YS ISO 22000: categories A, B, C, D, E, F, G, I, K
+- AB-0108-YS ISO 22000: categories C, D, E, F, G
+- AB-0108-YS ISO 50001: areas A, B, C, D, H
+- AB-0111-YS ISO 50001: areas A, B, C, D, H
+- AB-0111-YS ISO 22000: categories C, D, E, G, I
+- AB-0127-YS ISO 13485: Non-active medical devices; Active (non-implantable) medical devices; Sterilization methods; Devices incorporating specific substances / technologies; Parts or services
+- AB-0128-YS ISO 22000: categories C, E, F
+- AB-0130-YS ISO 22000: categories C, D, E, F, G, K
+- AB-0130-YS ISO 50001: areas A, C, D, H
+- AB-0130-YS ISO 22000: categories C, D, E, F, G
+- AB-0132-YS ISO 50001: areas A, B, H
+- AB-0138-YS ISO 22000: categories A, B, C, D, E, F, I, K
+- AB-0138-YS ISO 50001: areas A, B, C, D, E, H
+- AB-0140-YS ISO 50001: areas A, B, C, D, F, H
+- AB-0140-YS ISO 22000: categories C, D, E
+- AB-0143-YS ISO 50001: areas A, B, C
+- AB-0144-YS ISO 50001: areas A, B, C, D
+- AB-0149-YS ISO 22000: categories C, K
+- AB-0149-YS FSSC 22000: categories K
+- AB-0150-YS ISO 22000: categories C, E, F, G
+- AB-0151-YS ISO 22000: categories E
+- AB-0151-YS ISO 50001: areas A, C, D, E, H
+- AB-0155-YS ISO 50001: areas A, C
+- AB-0155-YS ISO 22000: categories C, D, E, F, G
+- AB-0155-YS ISO 22000: categories C, D, E, F, G
+- AB-0162-YS ISO 50001: areas A, B, C, D, E, H
+- AB-0162-YS ISO 22000: categories C, D, E
+- AB-0163-YS ISO 50001: areas A, C
+- AB-0172-YS ISO 50001: areas C, D, H
+- AB-0179-YS ISO 50001: areas A, C, D, H
+- AB-0182-YS ISO 22000: categories A, B, C, D, E, F, G, H, I, J, K
+- AB-0182-YS ISO 50001: areas A, B, C, D, H
+- AB-0184-YS ISO 22000: categories C, D, E, F, G
+- AB-0184-YS ISO 50001: areas A, C, D, H
+- AB-0187-YS ISO 22000: categories C
+- AB-0189-YS ISO 50001: areas A, C, E, H
+- AB-0189-YS ISO 22000: categories C, D
+- AB-0197-YS ISO 13485: Non-active medical devices; Active (non-implantable) medical devices; Sterilization methods
+- AB-0198-YS ISO 13485: Non-active medical devices; Active (non-implantable) medical devices; In vitro diagnostic medical devices; Sterilization methods; Devices incorporating specific substances / technologies; Parts or services
+- AB-0199-YS ISO 22000: categories C, D, E, F, G, I, K
+- AB-0201-YS ISO 22000: categories C, E, F, G
+- AB-0204-YS ISO 50001: areas A, B, C
+- AB-0207-YS ISO 50001: areas A, B, C, D
+- AB-0214-YS ISO 50001: areas A, C, D
+- AB-0215-YS ISO 22000: categories C, E, I
+- AB-0215-YS ISO 50001: areas A, C
+- AB-0216-YS ISO 50001: areas A, B, C, H
+- AB-0220-YS ISO 50001: areas A, B
+- AB-0220-YS ISO 22000: categories C, D, F, G
+- AB-0221-YS ISO 22000: categories C, E
+- AB-0221-YS ISO 50001: areas C, D
+
+## Annexes not converted (14)
+
+- AB-0001-YS (AB-0001-YS_EN.pdf, p.4): EU directive / notified-body scope `Accreditation for Notification/Pressure Equipment Directive (2014/68/EU)-Additional assess`
+- AB-0001-YS (AB-0001-YS_EN.pdf, p.5): unrecognised annex table `Quality Management System: QMS- Aviation, Space and Defense Organizations (AS 9100 Series) Accreditation Scope`
+- AB-0002-YS (AB-0002-YS_EN.pdf, p.4): EU directive / notified-body scope `Accreditation for Notification/Pressure Equipment Directive (2014/68/EU)-Additional assess`
+- AB-0003-YS (AB-0003-YS_EN.pdf, p.3): EU directive / notified-body scope `Pressure Equipment Directive (2014/68/EU)-Additional assessment document for this scope: E`
+- AB-0006-YS (AB-0006-YS_EN.pdf, p.10): EU directive / notified-body scope `Pressure Equipment Directive (2014/68/EU)-Additional assessment document for this scope: E`
+- AB-0017-YS (AB-0017-YS_EN.pdf, p.9): unrecognised annex table `Quality Management System: QMS- Aviation, Space and Defense Organizations (AS 9100 Series) Accreditation Scope`
+- AB-0044-YS (AB-0044-YS_EN.pdf, p.2): EU directive / notified-body scope `Pressure Equipment Directive (2014/68/EU)-Additional assessment document for this scope: E`
+- AB-0044-YS (AB-0044-YS_EN.pdf, p.11): EU directive / notified-body scope `Noise emission in the environment by equipment for use outdoors (2000/14/EC)-Additional as`
+- AB-0044-YS (AB-0044-YS_EN.pdf, p.12): EU directive / notified-body scope `Machinery Directive (2006/42/EC) -Additional assessment document for this scope: EA 2/17 -`
+- AB-0074-YS (AB-0074-YS_EN.pdf, p.4): EU directive / notified-body scope `Pressure Equipment Directive (2014/68/EU)`
+- AB-0132-YS (AB-0132-YS_EN.pdf, p.2): EU directive / notified-body scope `Accreditation for Notification/Pressure Equipment Directive (2014/68/EU)-Additional assess`
+- AB-0140-YS (AB-0140-YS_TR.pdf, p.10): `TS ISO 46001:2021 Su Verimliliği Yönetim Sistemleri` (ISO 46001 is not in CertiFind's standards)
+- AB-0144-YS (AB-0144-YS_EN.pdf, p.10): EU directive / notified-body scope `Accreditation for Notification/Pressure Equipment Directive (2014/68/EU)-Additional assess`
+- AB-0181-YS (AB-0181-YS_EN.pdf, p.2): EU directive / notified-body scope `Noise emission in the environment by equipment for use outdoors (2000/14/EC)-Additional as`
+
+## Bodies without scopes (16)
+
+- AB-0015-YS UKS ULUSLARARASI KALİTE SİSTEMLERİ VE BELG. LTD. ŞTİ. [Suspend, Withdraw Some Scopes]: no certificate published; body and 17021-1 accreditation only
+- AB-0058-YS NAVİGA ULUSLARARASI BELGELENDİRME VE EĞİTİM HİZMETLERİ LİMİTED ŞİRKETİ [Accreditation Withdrawn]: no certificate published; body and 17021-1 accreditation only
+- AB-0061-YS AVACERT ANADOLU ULUSLARARASI BELGELENDİRME DENETİM TEKNİK KONTROL EĞİTİM VE TEST HİZMETLERİ LİMİTED ŞİRKETİ [Accreditation Withdrawn]: no certificate published; body and 17021-1 accreditation only
+- AB-0067-YS TB BELGELENDİRME VE DIŞ TİCARET LİMİTED ŞİRKETİ [Accreditation Withdrawn]: no certificate published; body and 17021-1 accreditation only
+- AB-0079-YS DENETİK BELGELENDİRME ANONİM ŞİRKETİ [Accreditation Withdrawn (By Assessment)]: no certificate published; body and 17021-1 accreditation only
+- AB-0092-YS INSPECT ULUSLARARASI BELGELENDİRME VE GÖZETİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ [Suspend]: no certificate published; body and 17021-1 accreditation only
+- AB-0097-YS CTR ULUSLARARASI BELGELENDİRME VE DENETİM LİMİTED ŞİRKETİ [Accreditation Withdrawn (As Requested)]: no certificate published; body and 17021-1 accreditation only
+- AB-0136-YS IQM ULUSLARARASI BELGELENDİRME EĞİTİM VE GÖZETİM HİZMETLERİ LİMİTED ŞİRKETİ [Accreditation Withdrawn (By Assessment)]: no certificate published; body and 17021-1 accreditation only
+- AB-0160-YS SİGMACERT GLOBAL GÖZETİM BELGELENDİRME EĞİTİM AŞ [Suspend]: no certificate published; body and 17021-1 accreditation only
+- AB-0171-YS STA BELGELENDİRME HİZMETLERİ LİMİTED ŞİRKETİ [Accreditation Withdrawn]: no certificate published; body and 17021-1 accreditation only
+- AB-0174-YS ICT CERTIFY TEST VE BELGELENDİRME HİZMETLERİ LİMİTED ŞİRKETİ [Suspend (By Assessment)]: no certificate published; body and 17021-1 accreditation only
+- AB-0177-YS FQC STANDARD UYGUNLUK DEĞERLENDİRME ANONİM ŞİRKETİ [Accreditation Withdrawn (As Requested)]: no certificate published; body and 17021-1 accreditation only
+- AB-0181-YS TESTPLUS TEKNİK KONTROL VE BELGELENDİRME TİCARET LİMİTED ŞİRKETİ: PDF AB-0181-YS_EN.pdf gave no convertible scope
+- AB-0196-YS CFE BELGELENDİRME GÖZETİM VE EĞİTİM HİZMETLERİ LİMİTED ŞİRKETİ [Accreditation Withdrawn (By Assessment)]: no certificate published; body and 17021-1 accreditation only
+- AB-0208-YS ANCS SERTİFİKASYON HİZMETLERİ ANONİM ŞİRKETİ [Active]: no certificate published; body and 17021-1 accreditation only
+- AB-0209-YS DVN CERT BELGELENDİRME HİZMETLERİ LİMİTED ŞİRKETİ [Accreditation Withdrawn (By Assessment)]: no certificate published; body and 17021-1 accreditation only
+
+## Partial suspensions / withdrawals (10)
+
+- AB-0015-YS UKS ULUSLARARASI KALİTE SİSTEMLERİ VE BELG. LTD. ŞTİ.: TÜRKAK status `Suspend, Withdraw Some Scopes`. The PDF annex is assumed to list only the scopes still held; check which ones are affected.
+- AB-0018-YS ISOQAR BELGELENDİRME LİMİTED ŞİRKETİ: TÜRKAK status `Active, Withdraw Some Scopes`. The PDF annex is assumed to list only the scopes still held; check which ones are affected.
+- AB-0029-YS AND ULUSLARARASI DENETİM VE GÖZETİM HİZMETLERİ ANONİM ŞİRKETİ: TÜRKAK status `Active, Withdraw Some Scopes`. The PDF annex is assumed to list only the scopes still held; check which ones are affected.
+- AB-0052-YS EUROGAP ULUSLARARASI STANDART SERTİFİKASYON ENSTİTÜSÜ LİMİTED ŞİRKETİ: TÜRKAK status `Active, Withdraw Some Scopes`. The PDF annex is assumed to list only the scopes still held; check which ones are affected.
+- AB-0102-YS INTERTEK TEST HİZMETLERİ ANONİM ŞİRKETİ: TÜRKAK status `Active, Withdraw Some Scopes (By Assessment)`. The PDF annex is assumed to list only the scopes still held; check which ones are affected.
+- AB-0106-YS EAC BELGELENDİRME VE EĞİTİM HİZMETLERİ ANONİM ŞİRKETİ: TÜRKAK status `Active, Withdraw Some Scopes, Suspend Some Scopes`. The PDF annex is assumed to list only the scopes still held; check which ones are affected.
+- AB-0138-YS IFC GLOBAL SERTİFİKASYON MUAYENE VE EĞİTİM HİZMETLERİ ANONİM ŞİRKETİ: TÜRKAK status `Active, Withdraw Some Scopes`. The PDF annex is assumed to list only the scopes still held; check which ones are affected.
+- AB-0150-YS TUNA KURUMSAL HİZMETLER BELGELENDİRME VE DIŞ TİCARET SANAYİ LİMİTED ŞİRKETİ: TÜRKAK status `Active, Withdraw Some Scopes`. The PDF annex is assumed to list only the scopes still held; check which ones are affected.
+- AB-0162-YS BUREAU VERITAS GÖZETİM HİZMETLERİ LİMİTED ŞİRKETİ: TÜRKAK status `Active, Withdraw Some Scopes`. The PDF annex is assumed to list only the scopes still held; check which ones are affected.
+- AB-0186-YS APROVA BELGELENDİRME VE GÖZETİM HİZMETLERİ LİMİTED ŞİRKETİ: TÜRKAK status `Active, Withdraw Some Scopes (By Assessment)`. The PDF annex is assumed to list only the scopes still held; check which ones are affected.
+
+## Normalised values (85)
+
+- AB-0001-YS website `www.turkloydu.org` -> `https://www.turkloydu.org`
+- AB-0002-YS website `www.tse.org.tr` -> `https://www.tse.org.tr`
+- AB-0003-YS website `www.tuv-nord.com` -> `https://www.tuv-nord.com`
+- AB-0004-YS phone `902626420402` -> `+90 2626420402`
+- AB-0004-YS website `www.becturkey.com` -> `https://www.becturkey.com`
+- AB-0006-YS website `www.kiwa.com.tr` -> `https://www.kiwa.com.tr`
+- AB-0009-YS website `www.nissert.com.tr` -> `https://www.nissert.com.tr`
+- AB-0011-YS website `tuv.com` -> `https://tuv.com`
+- AB-0014-YS website `www.tr.royalcert.com` -> `https://www.tr.royalcert.com`
+- AB-0015-YS website `www.uksbelgelendirme.com.tr` -> `https://www.uksbelgelendirme.com.tr`
+- AB-0018-YS phone `2165982000` -> `+90 2165982000`
+- AB-0018-YS website `www.isoqarturkey.com` -> `https://www.isoqarturkey.com`
+- AB-0023-YS website `www.universalcert.com` -> `https://www.universalcert.com`
+- AB-0029-YS website `www.andbelgelendirme.com` -> `https://www.andbelgelendirme.com`
+- AB-0037-YS phone `03122650900` -> `+90 3122650900`
+- AB-0037-YS website `www.k-c-k.org` -> `https://www.k-c-k.org`
+- AB-0039-YS website `www.tqs.com.tr` -> `https://www.tqs.com.tr`
+- AB-0043-YS website `www.sisbel.com` -> `https://www.sisbel.com`
+- AB-0044-YS website `www.szutest.com.tr` -> `https://www.szutest.com.tr`
+- AB-0047-YS website `www.artibel.com.tr` -> `https://www.artibel.com.tr`
+- AB-0049-YS website `www.udem.com.tr` -> `https://www.udem.com.tr`
+- AB-0051-YS website `www.ybm.com.tr` -> `https://www.ybm.com.tr`
+- AB-0055-YS website `www.tcscert.com` -> `https://www.tcscert.com`
+- AB-0056-YS website `www.vericert.com.tr` -> `https://www.vericert.com.tr`
+- AB-0058-YS website `www.navigaltd.com` -> `https://www.navigaltd.com`
+- AB-0060-YS website `www.asbcert.com.tr` -> `https://www.asbcert.com.tr`
+- AB-0061-YS website `www.avacert.com` -> `https://www.avacert.com`
+- AB-0065-YS website `www.bva.tc` -> `https://www.bva.tc`
+- AB-0066-YS website `www.odakbelge.com` -> `https://www.odakbelge.com`
+- AB-0067-YS website `www.tbbelgelendirme.com` -> `https://www.tbbelgelendirme.com`
+- AB-0072-YS website `kbm.com.tr` -> `https://kbm.com.tr`
+- AB-0074-YS website `www.inspecco.com` -> `https://www.inspecco.com`
+- AB-0076-YS website ` www.pca-tr.com ` -> `https://www.pca-tr.com`
+- AB-0077-YS website `WWW.NETSERT.NET` -> `https://WWW.NETSERT.NET`
+- AB-0079-YS website `www.denetik.com` -> `https://www.denetik.com`
+- AB-0081-YS website `www.qsi.com.tr` -> `https://www.qsi.com.tr`
+- AB-0082-YS website `www.gcnturk.com` -> `https://www.gcnturk.com`
+- AB-0088-YS website `www.cpcert.org` -> `https://www.cpcert.org`
+- AB-0089-YS website `www.aliment.com.tr` -> `https://www.aliment.com.tr`
+- AB-0090-YS website `www.benart.com.tr` -> `https://www.benart.com.tr`
+- AB-0094-YS website `www.cicert.com.tr` -> `https://www.cicert.com.tr`
+- AB-0097-YS website `www.ctr.com.tr` -> `https://www.ctr.com.tr`
+- AB-0098-YS website `www.bqs.com.tr` -> `https://www.bqs.com.tr`
+- AB-0104-YS website `www.a1cert.com` -> `https://www.a1cert.com`
+- AB-0106-YS website `www.eacert.com.tr` -> `https://www.eacert.com.tr`
+- AB-0108-YS website `www.mscbelgelendirme.com` -> `https://www.mscbelgelendirme.com`
+- AB-0110-YS website `www.bqcert.co.uk` -> `https://www.bqcert.co.uk`
+- AB-0111-YS website `www.proks.co` -> `https://www.proks.co`
+- AB-0117-YS website `www.digicert.com.tr` -> `https://www.digicert.com.tr`
+- AB-0127-YS website `www.notice.com.tr` -> `https://www.notice.com.tr`
+- AB-0128-YS website `www.gfsistem.com` -> `https://www.gfsistem.com`
+- AB-0130-YS website `www.iq-norm.com` -> `https://www.iq-norm.com`
+- AB-0132-YS website `www.tuv.at/tr` -> `https://www.tuv.at/tr`
+- AB-0134-YS website `www.dsrbelgelendirme.com.tr` -> `https://www.dsrbelgelendirme.com.tr`
+- AB-0136-YS website `www.https://www.iqm.com.tr/` -> `https://www.https://www.iqm.com.tr/`
+- AB-0138-YS website `www.ifcglobal.com.tr` -> `https://www.ifcglobal.com.tr`
+- AB-0140-YS website `www.trb.com.tr` -> `https://www.trb.com.tr`
+- AB-0149-YS website `www.bosscert.com` -> `https://www.bosscert.com`
+- AB-0150-YS website `www.tunakurumsal.com` -> `https://www.tunakurumsal.com`
+- AB-0155-YS website `www.controlunion.com.tr` -> `https://www.controlunion.com.tr`
+- AB-0162-YS phone `++90 216 518 4050` -> `+90 216 518 4050`
+- AB-0162-YS website `www.bureauveritas.com.tr/` -> `https://www.bureauveritas.com.tr/`
+- AB-0172-YS website `www.qplus.cc` -> `https://www.qplus.cc`
+- AB-0177-YS website `www.fqcstandard.com.tr` -> `https://www.fqcstandard.com.tr`
+- AB-0179-YS website `www.gamacert.com` -> `https://www.gamacert.com`
+- AB-0181-YS website `www.testplus.com.tr` -> `https://www.testplus.com.tr`
+- AB-0182-YS website `www.cas-tr.org` -> `https://www.cas-tr.org`
+- AB-0184-YS website `www.mayabelgelendirme.com` -> `https://www.mayabelgelendirme.com`
+- AB-0187-YS website `www.orser.com.tr` -> `https://www.orser.com.tr`
+- AB-0189-YS website `www.cybercert.com.tr` -> `https://www.cybercert.com.tr`
+- AB-0190-YS website `www.srscert.com` -> `https://www.srscert.com`
+- AB-0197-YS website `www.fqcglobal.org` -> `https://www.fqcglobal.org`
+- AB-0198-YS website `www.ifccert.com.tr` -> `https://www.ifccert.com.tr`
+- AB-0200-YS website `www.gcl-intl.com.tr` -> `https://www.gcl-intl.com.tr`
+- AB-0201-YS website `www.pibelgelendirme.com.tr` -> `https://www.pibelgelendirme.com.tr`
+- AB-0206-YS website `www.dcert.com.tr` -> `https://www.dcert.com.tr`
+- AB-0207-YS website `www.objective.com.tr` -> `https://www.objective.com.tr`
+- AB-0208-YS website `www.an-cs.org` -> `https://www.an-cs.org`
+- AB-0209-YS website `www.dvncert.com` -> `https://www.dvncert.com`
+- AB-0214-YS website `www.tqc.com.tr` -> `https://www.tqc.com.tr`
+- AB-0215-YS website `www.symbelgelendirme.com` -> `https://www.symbelgelendirme.com`
+- AB-0216-YS website `www.tynovacert.com` -> `https://www.tynovacert.com`
+- AB-0218-YS website `www.ankaglobal.com` -> `https://www.ankaglobal.com`
+- AB-0220-YS website `www.danem-test.com` -> `https://www.danem-test.com`
+- AB-0221-YS website `www.ctr.com.tr` -> `https://www.ctr.com.tr`
+
+## Foreign bodies (2)
+
+- AB-0091-YS Azərbaycan Standartlaşdırma İnstitutu Publik Hüquqi Şəxs.: city `Bakü`, recorded as Azerbaijan
+- AB-0115-YS OZBEK-TURK TEST MARKAZI' JV: city `Taşkent`, recorded as Uzbekistan
+
+## Branches (not imported) (19)
+
+- AB-0002-YS ANTALYA BELGELENDİRME MÜDÜRLÜĞÜ – Antalya, +90 242 248 7273
+- AB-0002-YS BURSA BELGELENDİRME MÜDÜRLÜĞÜ – Bursa, +90 224 243 8324
+- AB-0002-YS GAZİANTEP BELGELENDİRME MÜDÜRLÜĞÜ – Gaziantep, +90 342 337 9508
+- AB-0002-YS İSTANBUL BELGELENDİRME MÜDÜRLÜĞÜ – İstanbul, +90 262 723 1313
+- AB-0002-YS İZMİR BELGELENDİRME MÜDÜRLÜĞÜ – İzmir, +90 232 376 2425
+- AB-0002-YS KAYSERİ BELGELENDİRME MÜDÜRLÜĞÜ – Kayseri, +90 352 321 1106
+- AB-0002-YS KONYA BELGELENDİRME MÜDÜRLÜĞÜ – Konya, +90 332 239 0480
+- AB-0002-YS SAMSUN BELGELENDİRME MÜDÜRLÜĞÜ – Samsun, +90 362 266 4020
+- AB-0021-YS İzmir İrtibat – İzmir, +90 232 218 1439
+- AB-0044-YS İZMİR İLETİŞİM OFİSİ – İzmir, +90 232 435 5438
+- AB-0055-YS ANKARA İrtibat Ofisi - Asansör PK – Ankara, +90 312 319 1319
+- AB-0055-YS ELAZIĞ İrtibat Ofisi - Asansör PK – Elâzığ, +90 424 238 0003
+- AB-0055-YS MERSİN İrtibat Ofisi - Asansör PK – Mersin, +90 552 611 6176
+- AB-0079-YS BAKÜ ŞUBE / DENETİK BELGELENDİRME ANONİM ŞİRKETİ – Bakü, +90 532 264 
+- AB-0097-YS CTR Ürün & Sistem – Ankara, +90 312 397 8200
+- AB-0132-YS ANKARA İLETİŞİM OFİSİ – Ankara, +90 312 220 1394
+- AB-0140-YS TRB GLOBAL GROUP BG LTD. – Varna, +90 359 888 9844
+- AB-0140-YS Ekmekcioglu, Ali (COMPANY) – Langenfeld, +49 491 771 7440
+- AB-0155-YS CONTROL UNION GÖZETİM VE BELGELENDİRME LİMİTED ŞİRKETİ - İZMİR ŞUBESİ – İzmir, +90 232 347 0712

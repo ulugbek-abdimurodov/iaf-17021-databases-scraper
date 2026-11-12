@@ -1,0 +1,1452 @@
+# EGAC dataset review
+
+129 bodies, 414 accreditations, 832 scopes
+
+## Headings (827)
+
+- 0105002: IAF Codes No. Quality Management System ISO 9001:2015 according to ISO/IEC 17021-3:2017
+- 0105002: IAF Codes No. Environmental Management System ISO 14001:2015 according to ISO/IEC 17021-2:2016
+- 0105002: IAF Codes No. Health and Safety Management System ISO 45001:2018 according to ISO/IEC TS 17021-10:2018
+- 0105002: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 0105002: Educational organizations Management Systems ISO 21001:2018 According to ISO/IEC 17021-1:2015
+- 0105002: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 011004/1: IAF Codes No. Quality Management System ISO 9001:2015
+- 011004/1: IAF Codes No. Environmental Management System ISO 14001:2015
+- 011004/1: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018
+- 011004/1: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011201: IAF Codes No. Quality Management System ISO 9001:2015
+- 011201: IAF Codes No. Environmental Management System ISO14001:2015
+- 011201: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 011201: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011201: Information Security Management System ISO/IEC 27001:2022 According to ISO/IEC 27006:2015
+- 011201: Energy Management Systems ISO 50001:2018 According to 50003:2021
+- 0113002: IAF Codes No. Quality Management System ISO 9001:2015
+- 0113002: IAF Codes No. Environmental Management System ISO14001:2015
+- 0113002: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 0113002: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 0113002: Educational organizations Management Systems ISO 21001:2018
+- 011401: Codes Quality Management System ISO 9001:2015
+- 011401: IAF Codes Environmental Management System ISO14001:2015
+- 011401: IAF Codes Health and Safety Management System ISO 45001:2018
+- 011401: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011401: Food Safety System Certification FSSC 22000 scheme Version 6:2019 According to ISO/TS 22003-1:2022
+- 011401: Energy Management Systems ISO 50001:2018 According to 50003:2021
+- 011401: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 011401: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 011402/1: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 011402/1: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 011402/1: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 011402/1: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 011402/1: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 011402/1: Educational organizations Management Systems ISO 21001:2018 According to ISO/TS 21030:2023
+- 011501/1: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 011501/1: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 011501/1: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 011501/1: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011501/1: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 011501/1: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015& ISO/IEC 27006-1:2024
+- 011501/1: Information Technology Management Systems ISO 20000-1:2018 According to ISO 20000-6:2017
+- 011501/1: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 011501/1: Educational organizations Management Systems ISO 21001:2018 According to ISO/TS 21030:2023
+- 011501/1: Business Continuity Management Systems — ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 011501/1: Information technology — Artificial intelligence Management System AIMS ISO/IEC 42001:2023 According to ISO/IEC 42006:2025
+- 011602: IAF Codes No. Quality Management System ISO 9001:2015
+- 011602: IAF Codes No. Environmental Management System ISO14001:2015
+- 011602: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 011602: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 011602: Energy Management Systems ISO 50001:2018 According to 50003:2021
+- 011602: Medical Device Quality Management Systems ISO 13485 :2016 According to IAF MD 9
+- 011602: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1: 2024
+- 011602: Anti-Bribery Management Systems ISO 37001:2016 In accordance with ISO/IEC TS 17021-9: 2016
+- 011603: IAF Codes No. Quality Management System ISO 9001:2015
+- 011603: IAF Codes No. Environmental Management System ISO 14001:2015
+- 011603: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 011603: Food Safety Management System ISO 22000:2018 according to ISO/TS 22003-1:2022
+- 011603: Food Safety Management System ISO 22000:2018 according to ISO/TS 22003-1:2022
+- 011603: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 011603: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1: 2024
+- 011701: IAF Codes No. Quality Management System ISO 9001:2015
+- 011701: IAF Codes No. Environmental Management System ISO14001:2015
+- 011701: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018
+- 011701: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 011701: Food Safety System Certification FSSC 22000 scheme Version 6:2023 According to ISO/TS 22003-1:2022
+- 011701: Medical Device Quality Management Systems ISO 13485 :2016 According to IAF MD 9
+- 011701: Medical Device Quality Management Systems ISO 13485 :2016 According to IAF MD 9
+- 011701: Information Technology Management Systems ISO 20000-1:2018 According to ISO 20000-6:2017
+- 011701: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 011701: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 011701: Educational organizations Management Systems ISO 21001:2025 According to ISO/TS 21030:2023
+- 011701: Business Continuity Management Systems — ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 011701: Supply Chain Security Management Systems ISO 28001:2007 According to ISO 28003:2007
+- 011701: Asset Management System ISO 55001:2014 According to ISO/IEC TS 17021-5:2014
+- 011701: Facility Management Systems ISO 41001:2018 According to ISO/IEC 17021-11:2018
+- 011702: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 011702: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 011702: IAF Codes No. Occupational Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 011702: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 22003-1:2022
+- 011702: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 011702: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 011702: Educational organizations Management System ISO 21001 According to ISO/IEC 17021-1: 2015
+- 011702: Information Security Management Systems ISO 27001:2013 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006: 2015
+- 011702: Information Technology Management Systems ISO 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6: 2017
+- 011704: IAF Codes No. Quality Management System ISO 9001:2015
+- 011704: IAF Codes No. Environmental Management System ISO14001:2015
+- 011704: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 011704: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011704: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 011704: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 011704: Information Security Management System ISO/IEC 27001:2022 According to ISO/IEC 27006-1:2024
+- 011704: Information Technology Management System ISO 20000-1:2018 According to ISO/IEC 20000-6:2017
+- 011704: Educational Organization Management System ISO 21001:2018 According to ISO/TS 21030:2023
+- 011704: Business Continuity Management System ISO 22301:2019 According to ISO/IEC 17021-6
+- 011704: Asset Management Systems ISO 55001:2014 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-5:2014
+- 011704: Facility Management Systems ISO 41001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-11: 2018
+- 011704: Management system for private security operations ISO 18788:2015 According to ISO/IEC 17021-1:2015
+- 011705/1: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-3:2017
+- 011705/1: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-2:2016
+- 011705/1: Occupational Health and Safety Management System ISO 45001:2018 According to ISO/IEC 17021-1:2015 &ISO/IEC TS 17021-10:2018
+- 011705/1: Food Safety Management System ISO 22000:2018 According to ISO/IEC 17021-1:2015 & ISO 22003-1:2022
+- 011705/1: Business Continuity Management Systems According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-6:2014
+- 011705/1: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 011706: IAF Codes No. Quality Management System ISO 9001:2015
+- 011706: IAF Codes No. Environmental Management System ISO14001:2015
+- 011706: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018
+- 011706: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011801/1: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 011801/1: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 011801/1: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 011802: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 011802: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 011802: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 011802: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011802: Information Security Management System ISO/IEC 27001:2022 According to ISO/IEC 27006-1:2024
+- 011804: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3: 2017
+- 011804: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2: 2016
+- 011804: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10: 2018
+- 011804: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011804: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 011804: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 011804: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 011804: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 011804: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006: 2015
+- 011804: Information Technology Management Systems ISO 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 20000-6: 2017
+- 011804: Educational organizations Management System ISO 21001:2018 According to ISO/IEC 17021-1: 2015
+- 011804: Facility Management Systems ISO 41001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-11:2018
+- 011804: Security and resilience — Business continuity management systems — Requirements ISO 22301:2019 to ISO/IEC TS 17021-6: 2014
+- 011804: Anti- Beriberry Management System (ISO 37001:2025) According to ISO/IEC 17021-1:2015, ISO/IEC TS 17021-9:2016
+- 011804: Privacy Information Management System (ISO/IEC 27701:2019) According to ISO/IEC 17021-1:2015
+- 011804: Artificial Intelligence Management System (ISO/IEC 42001:2023) According to ISO/IEC 17021-1:2015 & ISO/IEC 42006:2025
+- 011805: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 011805: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 011805: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 011805: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011805: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 011805: Information Technology Management Systems ISO 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6: 2017
+- 011805: Information Security Management Systems ISO/IEC 27001:2022 In accordance with ISO/IEC 17021-1: 2015 ISO/IEC 27006:2015 /Amd 1:2020
+- 011807/1: IAF Codes No. Quality Management System ISO 9001:2015
+- 011807/1: IAF Codes No. Environmental Management System ISO14001:2015
+- 011807/1: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018
+- 011903: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 011903: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 011903: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 011903: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011903: Food Safety System Certification FSSC 22000 scheme Version 6:2023 According to ISO/TS 22003-1:2022
+- 011903: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 011903: Security management systems for the supply chain ISO 28000:2007 According to 28003:2007
+- 011903: Asset Management Systems ISO 55001:2014 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-5:2014
+- 011903: Facility Management Systems ISO 41001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-11: 2018
+- 011903: Educational organizations Management System ISO 21001:2018 According to ISO/IEC 17021-1: 2015
+- 011903: Information technology Management Systems ISO/IEC 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6:2017
+- 011903: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006: 2015
+- 011903: Management system for private security operations ISO 18788:2015 According to ISO/IEC 17021-1:2015
+- 011905: IAF Codes No. Quality Management System ISO 9001:2015
+- 011905: IAF Codes No. Environmental Management System ISO14001:2015
+- 011905: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 011905: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011905: Medical Device Quality Management Systems ISO 13485 :2016 According to IAF MD 9
+- 011905: Information Security Management Systems ISO/IEC 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1:2015 /AMD 1:2020
+- 011905: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 011905: Information technology Management Systems ISO/IEC 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 20000-6:2017
+- 011905: Business continuity Management Systems ISO 22301:2019 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-6:2014
+- 011905: Educational organization Management Systems ISO 21001:2018 In accordance with ISO/IEC 17021-1: 2015
+- 011905: Anti-Bribery Management Systems ISO 37001:2025 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-9:2016
+- 011905: Privacy Information Management System ISO/IEC 27701:2025 According to ISO/IEC 27701:2025
+- 011905: Artificial Intelligence Management System ISO/IEC 42001:2023 According to ISO/IEC 42006:2025
+- 011905: Facility Management System ISO 41001:2018 According to ISO/IEC TS 17021-11:2018
+- 011907: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 011907: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 011907: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 011907: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011907: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 011907: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 011907: Information Security Management Systems ISO/IEC 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1: 2024
+- 011908: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 011908: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 011908: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 011908: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011910: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 011910: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 011910: IAF Codes No. Occupational Healthand Safety Management System ISO 45001:2018 According to ISO/IEC 17021-10:2018
+- 011910: Information Security Management Systems ISO/IEC 27001:2022 According to ISO/IEC 27006-1:2024
+- 011910: Business Continuity Management Systems According ISO 22301:2019 to ISO/IEC TS 17021-6:2014
+- 011911: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 011911: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 011911: IAF Codes No. Occupational Health and Safety Management System ISO45001:2018 According to ISO/IEC 17021-10:2018
+- 011911: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 011911: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1:2024
+- 011914: IAF Codes No. Quality Management System ISO 9001:2015
+- 011914: IAF Codes No. Environmental Management System ISO14001:2015
+- 011914: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 011914: Food Safety Management System ISO 22000:2018 According to ISO 22003:2022-1
+- 011914: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 011914: Educational organizations Management System ISO 21001 According to ISO/IEC 17021-1: 2015
+- 011914: Information Security Management Systems ISO 27001:2013 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006: 2015
+- 011914: Business continuity management systems — Requirements ISO 22301:2019 to ISO/IEC 17021-1: 2015 & ISO/IEC 17021-6:2014
+- 011914: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012005: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012005: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012005: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012005: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 012005: Food Safety System Certification FSSC 22000 scheme Version 6:2023 According to ISO/IEC 17021-1:2015 & ISO/TS 22003-1:2022
+- 012005: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012005: Educational organizations Management System ISO 21001 According to ISO/IEC 17021-1: 2015
+- 012005: Security and resilience — Business continuity management systems — Requirements ISO 22301:2019 to ISO/IEC TS 17021-6: 2014
+- 012005: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1: 2024
+- 012005: Information Technology Management Systems ISO 20000-1:2018 In accordance with ISO 20000-6:2017
+- 012005: Asset Management Systems ISO 55001:2014 In accordance with ISO /IEC TS 17021-5:2014
+- 012005: Supply Chain Security Management Systems ISO 28001:2007 In accordance with ISO 28003:2007
+- 012007: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012007: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012007: IAF Codes No. Health and Safety Management System (ISO 45001:2018) According to ISO/IEC TS 17021-10:2018
+- 012007: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012007: Medical Device Quality Management Systems ISO 13485 :2016 According to IAF MD 9
+- 012007: Educational organizations Management Systems ISO 21001:2018
+- 012008: IAF Codes No. Quality Management System ISO 9001:2015 ISO/IEC 17021-3:2017
+- 012008: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012008: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012008: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 012008: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012008: Information Technology Management Systems ISO 20000-1:2018 According to ISO 20000-6:2017
+- 012008: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 012008: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006:2015
+- 012008: Road Traffic Safety RTSMS - ISO 39001:2012 According to ISO/IEC 17021-7:2014
+- 012008: Facility Management Systems ISO 41001:2018 According to ISO/IEC 17021-11:2018
+- 012008: Educational Organizations Management Systems ISO 21001:2025 According to ISO/TS 21030:2025
+- 012008: ISO 21001:2018 & ISO 29993:2017 According to ISO/TS 21030:2025
+- 012008: ISO 21001:2018, ISO 29993:2017 & ISO 29994:2021 According to ISO/TS 21030:2025
+- 012008: Business continuity management systems — ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 012008: Anti-Bribery Management System - ISO 37001:2025 According to ISO/IEC 17021-9:2016
+- 012008: Health Care Management System - ISO 7101:2023 According to ISO/IEC 17021-15:2023
+- 012008: Artificial Intelligence- ISO 42001:2023 According to ISO/IEC 42006:2025
+- 012008: Compliance Management System ISO 37301:2021 According to ISO/IEC TS 17021-13:2021
+- 012008: Innovation Management System ISO 56001:2024 According to ISO/IEC 17021-1: 2015
+- 012008: Asset Management System - ISO 55001:2014 According to ISO/IEC 17021-5:2014
+- 0121006: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 0121006: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 0121006: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 0121006: Food Safety Management System ISO 22000:2005 & ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 22003-1:2022
+- 0121006: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 0121006: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006: 2015
+- 0121006: Information Technology Management Systems ISO 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6: 2017
+- 0121006: Business continuity management systems — Requirements ISO 22301:2019 to ISO/IEC 17021-1: 2015 & ISO/IEC 17021-6:2014
+- 0121006: Facility Management Systems ISO 41001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-11:2018
+- 0121006: Asset Management Systems ISO 55001:2014 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-5 :2014
+- 0121006: ISO 21001:2018 Educational organizations Management Systems According to ISO/IEC 17021-1: 2015
+- 0121006: Anti-Bribery Management System ISO 37001:2025 According to ISO/IEC TS 17021-9:2016
+- 0121006: Compliance Management Systems ISO 37301:2021 In accordance with ISO/IEC TS 17021-13:2021
+- 0121006: Artificial Intelligence Management System ISO/IEC 42001:2023 According to ISO/IEC 42006:2025
+- 0121006: Privacy Information Management System ISO/IEC 27701:2025 According to ISO/IEC 27701:2025
+- 0121006: Collaborative Business Relationship Management Systems — ISO 44001:2017 According to ISO/IEC 17021-12:2020
+- 0121006: Innovation Management System ISO 56001:2024 in accordance with ISO/IEC 17021-1:2015
+- 0121006: ISO 30401:2018 – Knowledge management systems in accordance with ISO/IEC 17021-1:2015
+- 0121006: Healthcare Management Systems ISO 7101:2023 In accordance with ISO/IEC TS 17021-15:2023 & ISO/IEC 17021-1:2015
+- 012101: IAF Codes No. Quality Management System ISO 9001:2015
+- 012101: IAF Codes No. Environmental Management System ISO14001:2015
+- 012101: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 012101: Food Safety Management System ISO 22003-1:2022 According to ISO 22000:2018
+- 012101: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012101: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012101: Information Security Management Systems ISO 27006-1:2024 In accordance with ISO/IEC 27006: 2022
+- 012101: Security Management Systems for Supply Chain ISO 28000:2007 According to 28003:2007
+- 012103: IAF Codes No. Quality Management System ISO 9001:2015
+- 012103: IAF Codes No. Environmental Management System ISO 14001:2015
+- 012103: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018
+- 012103: Food Safety System Certification FSSC 22000 scheme Version 6:2023 According to ISO/TS 22003-1:2022
+- 012103: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012103: Educational organizations Management Systems According to ISO/IEC 17021-1: 2015
+- 012103: ISO 21001:2018 & ISO 29993:2017
+- 012103: ISO 21001:2018, ISO 29993:2017 & ISO 29994:2021
+- 012103: Business continuity management systems — Requirements ISO 22301:2019 to ISO/IEC 17021-1: 2015 & ISO/IEC 17021-6:2014
+- 012103: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1:2024
+- 012103: Information Technology Management Systems ISO 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6: 2017
+- 012103: Road traffic safety (RTS) MS - ISO 39001: 2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-7:2014
+- 012103: Facility Management Systems ISO 41001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-11:2018
+- 012103: Asset Management Systems ISO 55001:2014 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-5 :2014
+- 012103: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012109: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012109: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012109: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012109: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 012109: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 012109: Educational organizations Management Systems ISO 21001:2025 In accordance with ISO/TS 21030:2023
+- 012109: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012109: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006: 2015
+- 012109: Information Technology Management Systems ISO 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6: 2017
+- 012109: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012109: Business continuity management systems — Requirements ISO 22301:2019‎‎to ISO/IEC 17021-1: 2015 & ISO/IEC 17021-6:2014
+- 012109: Road Traffic Safety (RTS) MS - ISO 39001:2012‎‎In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-7:2014
+- 012109: Supply Chain Security MS - ISO 28001:2007 In accordance with ISO/IEC 17021-1: 2015 & ISO 28003:2007
+- 012109: Facility MS - ISO 41001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-11:2018
+- 012109: Anti-Bribery MS - ISO 37001:2025 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-9:2016
+- 012109: Artificial Intelligence MS - ISO 42001:2023 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 42006:2025
+- 012111: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012111: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012111: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012111: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012111: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012111: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012111: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012111: Food Safety System Certification FSSC 22000 scheme Version 6:2023 According to ISO/TS 22003-1:2022
+- 012111: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012111: Educational organizations Management System ISO 21001 According to ISO/IEC 17021-1: 2015
+- 012111: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012111: Information Technology Management Systems ISO 20000-1:2018 According to ISO 20000-6:2017
+- 012111: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 012111: Road traffic safety RTSMS - ISO 39001:2012 According to ISO/IEC 17021-7:2014
+- 012111: Business Continuity Management Systems — ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 012111: Anti-Bribery Management System - ISO 37001:2025 According to ISO/IEC 17021-9:2016
+- 012111: Compliance Management System ISO 37301:2021 According to ISO/IEC TS 17021-13:2021
+- 012114: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012114: Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012114: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012114: Educational organizations Management System ISO 21001 According to ISO/IEC 17021-1: 2015
+- 012114: Business continuity management systems — Requirements ISO 22301:2019 to ISO/IEC 17021-1: 2015 & ISO/IEC 17021-6:2014
+- 012114: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1:2024
+- 012116: Quality Management System ISO 9001:2015 In accordance with ISO/IEC 17021-3:2017 & ISO/IEC 17021-1:2015
+- 012116: Environment Management Systems ISO14001:2015 In accordance with ISO/IEC 17021-2:2016 & ISO/IEC 17021-1:2015
+- 012116: Health and Safety Management System ISO 45001:2018 In accordance with ISO/IEC TS 17021-10:2018 & ISO/IEC 17021-1:2015
+- 012116: Food Safety Management Systems ISO 22000:2018 In accordance with ISO 22003-1:2022 & ISO/IEC 17021-1:2015
+- 012116: Information Security Management Systems ISO/IEC 27001:2022 In accordance with ISO/IEC 27006-1: 2024 & ISO/IEC 17021-1:2015
+- 012116: Business Continuity Management Systems ISO 22301:2019 In accordance with ISO/IEC 17021-6:2014 & ISO/IEC 17021-1:2015
+- 012116: Facility Management Systems ISO 41001:2018 In accordance with ISO/IEC TS 17021-11:2018 & ISO/IEC 17021-1:2015
+- 012116: Anti-Bribery Management Systems ISO 37001:2025 In accordance with ISO/IEC TS 17021-9:2016 & ISO/IEC 17021-1:2015
+- 012116: Asset Management Systems ISO55001:2024 In accordance with ISO/IEC TS 17021-5:2024 & ISO/IEC 17021-1:2015
+- 012116: Information Technology Management Systems ISO/IEC 20000-1:2018 In accordance with ISO/IEC TS 20000-6:2017 & ISO/IEC 17021-1:2015
+- 012116: Healthcare Management Systems ISO 7101:2023 In accordance with ISO/IEC TS 17021-15:2023 & ISO/IEC 17021-1:2015
+- 012116: Education Management Systems ISO 21001:2025 In accordance with ISO/TS 21030:2023 & ISO/IEC 17021-1:2015
+- 012116: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021 & ISO/IEC 17021-1:2015
+- 012116: Medical Device Quality Management Systems ISO 13485 :2016 According to IAF MD 9 & ISO/IEC 17021-1:2015
+- 0122001: IAF Codes No. Quality Management System ISO 9001:2015 In accordance with ISO/IEC 17021-3:2017
+- 0122001: Environmental Management System ISO14001:2015 In accordance with ISO/IEC TS 17021-2:2016
+- 0122001: IAF Codes No. Health and Safety Management System ISO 45001:2018 In accordance with ISO/IEC TS 17021-10:2018
+- 0122001: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 0122001: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 0122001: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 0122001: Business Continuity Management Systems ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 0122001: Educational organizations Management System ISO 21001 :2025 According to ISO/IEC 17021-1: 2015 & ISO/TS 21030:2023
+- 0122001: Information Technology Management Systems ISO 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6: 2017
+- 0122006: IAF Codes No. Quality Management System ISO 9001:2015 In accordance with ISO/IEC 17021-3:2017
+- 0122006: IAF Codes No. Environmental Management System ISO14001:2015 In accordance with ISO/IEC 17021-2:2016
+- 0122006: IAF Codes No. Health and Safety Management System ISO 45001:2018 In accordance with ISO/IEC TS 17021-10:2018 IAF MD 22
+- 0122006: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 22003-1:2022
+- 0122006: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 0122006: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 0122006: Educational organizations Management System ISO 21001 According to ISO/IEC 17021-1: 2015
+- 0122006: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1:2024
+- 0122006: Business continuity management systems ISO 22301:2019 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-6:2014
+- 0122006: Facility Management Systems ISO 41001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-11:2018
+- 0122006: Knowledge Management Systems ISO 30401:2018 According to ISO/IEC 17021-1:2015
+- 0122007: IAF Codes No. Quality Management System ISO 9001:2015 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-3:2017
+- 0122007: IAF Codes No. Environmental Management System ISO14001:2026 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-2:2016
+- 0122007: Occupational Health and Safety Management Systems ISO 45001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS
+- 0122007: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 0122007: Educational organizations Management Systems ISO 21001:2025 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 21030:2023
+- 0122007: Facility Management Systems ISO 41001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-11: 2018
+- 0122007: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 0122007: Business Continuity Management Systems ISO 22301:2019 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-6: 2014
+- 0122007: Anti-Bribery Management Systems ISO 37001:2025 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-9: 2016
+- 0122007: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1: 2024
+- 0122007: Health Care Management Systems ISO 7101:2023 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-15: 2023
+- 0122012: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 0122012: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 0122012: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 0122012: Food Safety Management System ISO 22000:2018 In accordance with ISO 22003-1:2022
+- 0122012: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 0122012: Information Technology Management Systems ISO 20000-1:2018 According to ISO 20000-6:2017
+- 0122012: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 0122012: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 0122012: Educational organizations Management Systems ISO 21001:2025According to ISO/TS 21030:2023
+- 0122012: Anti-Bribery Management System - ISO 37001:2025 According to ISO/IEC 17021-9:2016
+- 012202: IAF Codes No. Quality Management System ISO 9001:2015
+- 012202: IAF Codes No. Environmental Management System ISO14001:2015
+- 012202: IAF Codes No. Occupational Health and Safety Management System ISO 45001:2018
+- 012202: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012202: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012202: Energy Management System ISO 50001:2018 According to ISO 50003:2021
+- 012202: Information Security Management System ISO/IEC 27006-1:2024 According to ISO/IEC 27001:2022
+- 012202: Business Continuity Management System ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 012202: Facility Management System ISO 41001:2018 According to ISO/IEC TS 17021-11:2018
+- 012203: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012203: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012203: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012203: Educational organizations Management System ISO 21001:2025 According to ISO/IEC 17021-1: 2015
+- 012203: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012203: Facility Management Systems ISO 41001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-11:2018
+- 012203: Asset Management Systems ISO 55001:2024 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-5 :2014
+- 012203: Business Continuity Management Systems ISO 22301:2019 In accordance with ISO/IEC TS 17021-6:2014
+- 012203: Anti-Bribery Management Systems ISO 37001:2016 In accordance with ISO/IEC TS 17021-9:2016
+- 012205: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012205: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012205: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012205: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012205: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015& ISO 50003:2021
+- 012205: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1: 2024
+- 012205: Business Continuity Management System ISO 22301:219 In accordance with ISO/IEC 17021-6:2014
+- 012205: Information Technology Management Systems ISO 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6:2017
+- 012205: Artificial Intelligence Management System ISO 42001:2023 In accordance with ISO/IEC 42006:2025
+- 012208: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012208: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012208: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012208: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 012208: Educational organizations Management System ISO 21001:2025 According to ISO/TS 21030:2023
+- 012209: IAF Codes No. Quality Management System ISO 9001:2015
+- 012214: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012214: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012214: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012214: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 012214: Educational Organization Management Systems ISO 21001:2025 According to ISO/ TS 21030:2023
+- 012214: Facility Management Systems ISO 41001:2018 According to ISO/IEC TS 17021-11:2018
+- 012216: IAF Codes No. Quality Management System ISO 9001:2015
+- 012216: IAF Codes No. Environmental Management System ISO14001:2015
+- 012216: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 012222: IAF Codes No. Quality Management System ISO 9001:2015
+- 012222: IAF Codes No. Environmental Management System ISO14001:2015
+- 012222: IAF Codes No. Occupational Health and Safety Management System ISO 45001:2018
+- 012222: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012222: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012222: Educational organizations Management System ISO 21001:2018 According to ISO/IEC 17021-1: 2015
+- 012223: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012223: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012223: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012223: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012223: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 012224: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012224: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012224: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012224: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 22003-1:2022
+- 012224: Medical Device Quality Management Systems ISO 13485 :2016 According to IAF MD 9
+- 012224: Information Security Management Systems ISO/IEC 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006:2015 /Amd 1:2020
+- 012224: Energy Management Systems ISO 50001:2018 According to 50003:2021
+- 012224: Information technology Management Systems ISO/IEC 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6:2017
+- 012224: Anti-Bribery Management Systems ISO 37001:2025 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-9:2016
+- 012224: Privacy Information Management System ISO/IEC 27701:2025 According to ISO/IEC 27701:2025
+- 012224: Artificial Intelligence Management System ISO/IEC 42001:2023 According to ISO/IEC 42006:2025
+- 012226: IAF Codes No. Quality Management System ISO 9001:2015
+- 012226: IAF Codes No. Environmental Management System ISO14001:2015
+- 012226: IAF Codes No. Occupational Health and Safety Management System ISO 45001:2018
+- 012226: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012226: Food Safety System Certification FSSC 22000 scheme Version 6:2019 According to ISO/TS 22003-1:2022
+- 012226: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006: 2015
+- 012226: Information Technology Management Systems ISO 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6: 2017
+- 012226: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012226: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012226: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012226: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012227: IAF Codes No. Quality Management System ISO 9001:2015
+- 012227: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 012227: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012301: IAF Codes No. Quality Management System ISO 9001:2015
+- 012301: IAF Codes No. Environmental Management System ISO14001:2015
+- 012301: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018
+- 012301: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 012302: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012302: IAF Codes No. Environmental Management System ISO14001:2015
+- 012302: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018
+- 012302: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012304: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012304: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012304: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012304: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012305: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012305: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012305: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012305: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 012306: IAF Codes No. Quality Management System ISO 9001:2015
+- 012306: IAF Codes No. Environmental Management System ISO14001:2015
+- 012306: IAF Codes No. Occupational Health and Safety Management System ISO 45001:2018
+- 012306: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012306: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012306: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006: 2015
+- 012306: Information Technology Service Management Systems ISO/IEC 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6:2017
+- 012306: Business continuity management systems — Requirements ISO 22301:2019‎ In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-6:2014
+- 012307: IAF Codes No. Quality Management System ISO 9001:2015
+- 012307: IAF Codes No. Environmental Management System ISO14001:2015
+- 012307: IAF Codes No. Occupational Health and Safety Management System ISO 45001:2018
+- 012307: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 012308: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012308: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012308: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012308: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 22003-1:2022
+- 012308: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012308: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012308: Information Technology Management Systems ISO 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6: 2017
+- 012308: Educational organizations Management Systems ISO 21001:2025 In accordance with ISO/TS 21030:2023
+- 012308: Facility Management Systems ISO 41001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-11:2018
+- 012308: Anti-Bribery Management Systems ISO 37001:2025 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 17021-9:2016
+- 012308: Compliance Management Systems ISO 37301:2021 According to ISO/IEC 17021-1: 2015 & ISO/IEC 17021-13:2021.
+- 012308: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1:2024
+- 012309: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-3:2017
+- 012309: IAF Codes No. Environmental Management System ISO 14001:2015 According ISO/IEC 17021-1:2015 & ISO/IEC 17021-2:2016
+- 012309: Health and Safety Management System ISO 45001:2018 According to ISO/IEC 17021-1:2015 & ISO/IEC TS 17021-10:2018 IAF MD 22
+- 012309: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012309: Asset Management System ISO 55001:2024 According to ISO/IEC TS 17021-5:2014
+- 012310: IAF Codes No. Quality Management System ISO 9001:2015
+- 012310: IAF Codes No. Environmental Management System ISO14001:2015
+- 012310: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018
+- 012310: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 22003-1:2022
+- 012310: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012310: Information Technology Management Systems ISO 20000-1:2018 According to ISO 20000-6:2017
+- 012310: Private Security operations MS ISO 18788:2015 According to ISO/IEC 17021-1:2015
+- 012310: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 012310: Facility Management Systems ISO 41001:2018 According to ISO/IEC 17021-11:2018
+- 012310: Educational organizations Management Systems ISO 21001:2018 According to ISO/TS 21030:2023
+- 012310: Business Continuity Management Systems — ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 012310: Collaborative Business Relationship Management Systems — ISO 44001:2017 According to ISO/IEC 17021-12:2020
+- 012310: Asset Management System ISO 55001:2014 According to ISO/IEC TS 17021-5:2014
+- 012310: Compliance Management System ISO 37301:2021 According to ISO/IEC TS 17021-13:2021
+- 012311: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012311: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012311: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012311: Business Continuity Management Systems According to ISO/IEC TS 17021-6:2014
+- 012311: Information Security Management Systems According to ISO/IEC 27006-1:2024
+- 012311: Anti-Bribery Management Systems According to ISO/IEC TS 17021-9:2016
+- 012312: IAF Codes No. Quality Management System ISO 9001:2015
+- 012312: IAF Codes No. Environmental Management System ISO14001:2015
+- 012312: IAF Codes No. Occupational Health and Safety Management System ISO 45001:2018
+- 012312: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012312: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012312: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012312: Information Security Management Systems ISO/IEC 27001:2022 In accordance with ISO/IEC 17021-1: 2015 ISO/IEC 27006:2015 /Amd 1:2020
+- 012312: Anti-Bribery Management Systems ISO 37001:2025 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-9:2016
+- 012312: Information Technology Management Sysytem ISO/IEC 20000-1:2018 in accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 20000-6:2017
+- 012312: Artificial Intelligence management system ISO 42001:2023 in accordance with ISO/IEC 17021-1: 2015 & 17021-9:2016 & ISO/IEC TS 20000-6:2017
+- 012314: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012314: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012314: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012314: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 012314: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 012314: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 012314: Educational organizations Management Systems ISO 21001:2025 According to ISO/TS 21030:2023
+- 012315: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012315: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012315: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012315: Quality management systems for the application of ISO 9001:2015 by organizations in the supply chain of the nuclear energy sector supplying products and services
+- 012316: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012316: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012316: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012316: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012316: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 012317: IAF Codes No. Quality Management System ISO 9001:2015
+- 012317: IAF Codes No. Environmental Management System ISO14001:2015
+- 012317: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 012317: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 012317: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006: 2015
+- 012317: Information Technology Management Systems ISO 20000-1:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 20000-6: 2017
+- 012317: Business continuity management systems - Requirements ISO 22301:2019‎‎to ISO/IEC 17021-1: 2015 & ISO/IEC 17021-6:2014
+- 012318: IAF Codes No. Quality Management System ISO 9001:2015
+- 012318: IAF Codes No. Environmental Management System ISO 14001:2015
+- 012318: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018
+- 012318: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015& ISO/IEC 27006: 2015
+- 012319: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-3:2017
+- 012319: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-2:2016
+- 012319: Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-10:2018
+- 012319: Food Safety Management System ISO 22000:2018 According to ISO/IEC 17021-1:2015 & ISO 22003-1:2022
+- 012319: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012319: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006: 2015
+- 012320: IAF Codes No. Quality Management System ISO 9001:2015
+- 012320: IAF Codes No. Environmental Management System ISO14001:2015
+- 012320: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 012320: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012401: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-3:2017
+- 012401: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-2:2016
+- 012401: Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-10:2018
+- 012401: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012401: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012401: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012401: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015& ISO/IEC 27006: 2015
+- 012402: IAF Codes No. Quality Management System ISO 9001:2015
+- 012402: IAF Codes No. Environmental Management System ISO 14001:2015
+- 012402: Health and Safety Management System ISO 45001:2018
+- 012402: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 012403: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012403: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012403: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012403: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 012404: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012404: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012404: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012404: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012404: Energy Management Systems ISO 50001:2018 According to ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012404: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1: 2024
+- 012405: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012405: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 22003-1:2022
+- 012406: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012406: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012406: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012406: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 012409: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012409: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012409: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012409: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012409: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012409: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012409: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 012409: Information Security Management Systems ISO/IEC 27001:2022 in According to ISO/IEC 27006:2024
+- 012409: Energy Management Systems ISO 50001:2018 in According to ISO 50003:2021
+- 012412: Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012412: Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012412: Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012412: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012412: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012412: Information Technology Management Systems ISO 20000-1:2018 According to ISO 20000-6:2017
+- 012412: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 012412: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 012412: Road traffic safety RTSMS - ISO 39001:2012 According to ISO/IEC 17021-7:2014
+- 012412: Facility Management Systems ISO 41001:2018 According to ISO/IEC 17021-11:2018
+- 012412: Educational organizations Management Systems ISO 21001:2018 According to ISO/TS 21030:2023
+- 012412: Business Continuity Management Systems — ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 012412: Anti-Bribery Management System - ISO 37001:2025 According to ISO/IEC 17021-9:2016
+- 012412: Compliance Management System ISO 37301:2021 According to ISO/IEC TS 17021-13:2021
+- 012414: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012414: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012414: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012414: Food Safety Management System ISO 22000:2018 According to ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 012415: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012415: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012415: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC 17021-1:2015 & ISO/IEC TS 17021-10:2018
+- 012415: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC 17021-1:2015 & ISO/IEC TS 17021-10:2018
+- 012415: Food Safety Management System ISO 22000:2018 According to ISO/IEC 17021-1:2015 & ISO 22003-1:2022
+- 012415: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012415: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 012415: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 012415: Facility Management Systems ISO 41001:2018 According to ISO/IEC 17021-11:2018
+- 012415: Educational organizations Management Systems ISO 21001:2025 According to ISO/TS 21030:2023
+- 012415: Business Continuity Management Systems — ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 012415: Anti-Bribery Management System - ISO 37001:2025 According to ISO/IEC 17021-9:2016
+- 012415: Information Technology Management Systems ISO 20000-1:2018 According to ISO 20000-6:2017
+- 012415: Asset Management System ISO 55001:2014 According to ISO/IEC TS 17021-5:2014
+- 012415: Compliance Management System ISO 37301:2021 According to ISO/IEC TS 17021-13:2021
+- 012417: IAF Codes No. Quality Management System According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-3:2017
+- 012417: Environmental Management System ISO14001:2015 In accordance with ISO/IEC 17021-1:2015 & ISO/IEC 17021-2:2016
+- 012417: Health and Safety Management System ISO 45001:2018 In accordance with ISO/IEC 17021-1:2015 & ISO/IEC TS 17021-10:2018 IAF MD 22
+- 012417: Food Safety Management System ISO 22000:2018 According to ISO/IEC 17021-1:2015 & ISO 22003-1:2022
+- 012417: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012418: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012418: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012418: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012418: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 012418: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 012418: Business Continuity Management Systems — ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 012419: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012419: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012419: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012419: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012419: Information Technology Management Systems ISO/IEC 20000-1:2018 According to ISO/IEC 20000-6:2017
+- 012419: Information Security Management Systems ISO/IEC 27001:2022 According to ISO/IEC 27006-1:2024
+- 012419: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 012419: Facility Management Systems ISO 41001:2018 According to ISO/IEC 17021-11:2018
+- 012419: Asset Management Systems ISO 55001:2014 According to ISO/IEC TS 17021-5:2014
+- 012419: Educational Organization Management Systems ISO 21001:2025 According to ISO/TS 21030:2023
+- 012420: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-3:2017
+- 012420: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-2:2016
+- 012420: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012420: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012420: Medical Device Quality Management Systems ISO 13485 :2016 According to IAF MD 9
+- 012420: Information Technology Management Systems ISO 20000-1:2018 According to ISO 20000-6:2017
+- 012420: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 012420: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 012420: Educational organizations Management Systems ISO 21001:2025 According to ISO/TS 21030:2023
+- 012421: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012421: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 22003-1:2022
+- 012501: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012501: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012501: IAF Codes No. Occupational Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 0125011: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-3:2017
+- 0125011: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-1:2015 ISO/IEC 17021-2:2016
+- 0125011: IAF Codes No. Occupational Health and Safety Management System ISO 45001:2018 According to ISO/IEC 17021-1:2015 ISO/IEC TS 17021-10:2018
+- 0125011: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 0125014: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 0125014: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 0125014: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 0125014: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 0125015: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 0125015: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 0125015: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 0125019: IAF Codes No. Quality Management System ISO 9001:2015
+- 0125019: IAF Codes No. Environmental Management System ISO14001:2015
+- 0125019: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018
+- 0125019: Food Safety Management System ISO 22000:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 22003-1:2022
+- 0125019: Education Management Systems ISO 21001:2025 In accordance with ISO/TS 21030:2023 & ISO/IEC 17021-1:2015
+- 012502: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012502: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012502: IAF Codes No. Environmental Management System ISO 14001:2015 According to ISO/IEC 17021-2:2016
+- 012502: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012502: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012502: Energy Management Systems ISO 50001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO 50003:2021
+- 012502: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015& ISO/IEC 27006-1: 2024
+- 012502: Educational organization Management Systems ISO 21001:2025 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 21030:2023
+- 012502: Business Continuity Management Systems ISO 22301:2019 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-6:2014
+- 012502: Anti-Bribery Management System ISO 37001:2025 According to ISO/IEC TS 17021-9:2016
+- 012502: Asset Management System ISO 55001:2024 According to ISO/IEC 17021-5:2014
+- 012502: Facility Management System ISO 41001:2018 According to ISO/IEC TS 17021-11:2018
+- 012502: Compliance Management Systems ISO 37301:2021 In accordance with ISO/IEC TS 17021-13:2021
+- 012502: Management System for Sustainable Development in Communities ISO 37101:2016 According to ISO/IEC TS 17021-8:2019
+- 012502: Artificial Intelligence Management System ISO/IEC 42001:2023 According to ISO/IEC 42006:2025
+- 012502: Privacy Information Management System ISO/IEC 27701:2025 According to ISO/IEC 27701:2025
+- 012502: Information Technology Management System ISO/IEC 20000-1:2018 According to ISO/IEC 20000-6:2017
+- 012502: Security and resilience - Security management systems ISO 28000:2022 According to ISO 28003:2007
+- 0125020: Quality Management System ISO 9001:2015 In accordance with ISO/IEC 17021-3:2017 & ISO/IEC 17021-1:2015
+- 0125020: Environment Management Systems ISO14001:2015 In accordance with ISO/IEC 17021-2:2016 & ISO/IEC 17021-1:2015
+- 0125020: Health and Safety Management System ISO 45001:2018 In accordance with ISO/IEC TS 17021-10:2018 & ISO/IEC 17021-1:2015
+- 0125020: Food Safety Management Systems ISO 22000:2018 In accordance with ISO 22003-1:2022 & ISO/IEC 17021-1:2015
+- 0125020: Education Management Systems ISO 21001:2025 In accordance with ISO/TS 21030:2023 & ISO/IEC 17021-1:2015
+- 0125020: Medical Device Quality Management Systems ISO 13485 :2016 According to IAF MD 9 & ISO/IEC 17021-1:2015
+- 0125025: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 0125025: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 0125025: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 0125025: Health Care Management System - ISO 7101:2023 According to ISO/IEC 17021-15:2023
+- 0125027: IAF Codes No. Quality Management System ISO 9001:2015
+- 0125027: IAF Codes No. Environmental Management System ISO14001:2015
+- 0125027: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 0125027: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 0125027: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 0125027: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1: 2024
+- 0125027: AntiBeriberry Managament System ISO 37001:2025 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC TS 17021-9:2016
+- 0125027: Artificial intelligence Management System ISO/IEC 42001:2023 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 42006:2025
+- 012503: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012503: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012503: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012503: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 012503: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012503: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 012503: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 012503: Educational organizations Management Systems ISO 21001:2025 According to ISO/TS 21030:2023
+- 012504: IAF Codes No. Quality Management System ISO 9001:2015
+- 012504: IAF Codes No. Environmental Management System ISO 14001:2015
+- 012504: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018
+- 012504: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012504: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012504: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015& ISO/IEC 27006: 2015
+- 012506: Quality Management System ISO 9001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-3:2017
+- 012506: Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-10:2018
+- 012506: Energy Management Systems ISO 50001:2018 According to ISO/IEC 17021-1:2015 & ISO 50003:2021
+- 012506: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 17021-1:2015 & ISO/IEC 27006-1:2024
+- 012506: Educational organization Management Systems ISO 21001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 21030:2023
+- 012507: Quality Management System ISO 9001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-3:2017
+- 012507: IAF Codes Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC 17021-1:2015 & ISO/IEC TS 17021-
+- 012507: Business Continuity Management System ISO 22301:2019 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-6:2014
+- 012507: Educational organizayion Management System ISO 21001:2018 According to ISO/IEC 17021-1:2015 & ISO/TS 21030:2023
+- 012507: Anti Bribery Management System ISO 37001:2016 According to ISO/IEC 17021-1:2015 & ISO/IEC TS 17021-9:2016
+- 012507: Compliance Management System ISO 37301:2021 According to ISO/IEC 17021-1:2015 & ISO/IEC TS 17021-13:2021
+- 012508: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-3:2017
+- 012508: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-10:2018
+- 012508: Educational organization Management Systems ISO 21001:2018 In accordance with ISO/IEC 17021-1: 2015 & ISO/TS 21030:2023
+- 012509: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012509: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012509: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012509: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012509: Information Technology Management Systems ISO/IEC 20000-1:2018 According to ISO/IEC 20000-6:2017
+- 012509: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 012509: Information Security Management Systems ISO/IEC 27001:2022 According to ISO/IEC 27006-1:2024
+- 012509: Educational organizations Management Systems ISO 21001:2018 According to ISO/TS 21030:2023
+- 012509: Asset Management System ISO 55001:2014 According to ISO/IEC TS 17021-5:2014
+- 012509: Compliance Management System ISO 37301:2021 According to ISO/IEC TS 17021-13:2021
+- 012510: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012510: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012510: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012510: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012510: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012510: Information Technology Management Systems ISO 20000-1:2018 According to ISO 20000-6:2017
+- 012510: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 012510: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 012510: Educational organizations Management Systems ISO 21001:2018 According to ISO/TS 21030:2023
+- 012510: Business Continuity Management Systems — ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 012510: Asset Management System ISO 55001:2024 According to ISO/IEC TS 17021-5:2014
+- 012510: Knowledge Management System ISO 30401:2018
+- 012512: Quality Management System ISO 9001:2015 According to ISO/IEC 17021-1:2015 & ISO/IEC 17021-3:2017
+- 012512: Information Security Management Systems ISO 27001:2022 In accordance with ISO/IEC 17021-1: 2015 & ISO/IEC 27006-1: 2024
+- 012513: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012513: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012513: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012513: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012513: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012513: IAF Codes No. Health and Safety Management System ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012513: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012513: Energy Management Systems ISO 50001:2018 According to 50003:2021
+- 012513: Educational organization Management System ISO 21001:2018 According to ISO/TS 21030:2023
+- 012513: Information Security Management System ISO/IEC 27001:2022 According to ISO/IEC 27006-1:2024
+- 012513: Medical Device Quality Management Systems ISO 13485 :2016 According to IAF MD 9
+- 012516: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012516: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012516: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012516: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 012516: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 012517: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012517: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012517: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012517: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 012517: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012517: Information Security Management System – ISO/IEC 27001:2022 According to ISO/IEC 27006-1:2024
+- 012517: Anti-Bribery Management System - ISO 37001:2025 According to ISO/IEC 17021-9:2016
+- 012518: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 012518: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 012518: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 012518: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 012518: Medical Device Quality Management Systems ISO 13485 :2016 According to ISO/IEC 17021-1: 2015 & IAF MD 9
+- 012518: Business Continuity Management Systems ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 012518: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 012518: Educational organizations Management Systems ISO 21001:2025 According to ISO/TS 21030:2023
+- 012518: Information Technology Management Systems ISO 20000-1:2018 According to ISO 20000-6:2017
+- 0126001: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 0126001: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 0126001: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 0126001: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 0126001: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 0126001: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 0126001: Food Safety Management System ISO 22000:2018 According to ISO 22003-1:2022
+- 0126004: IAF Codes No. Quality Management System ISO 9001:2015 According to ISO/IEC 17021-3:2017
+- 0126004: IAF Codes No. Environmental Management System ISO14001:2015 According to ISO/IEC 17021-2:2016
+- 0126004: IAF Codes No. Occupational Health and Safety Management Systems ISO 45001:2018 According to ISO/IEC TS 17021-10:2018
+- 0126004: Food Safety Management System ISO 22000:2018 According to ISO/TS 22003-1:2022
+- 0126004: Information Technology Management Systems ISO 20000-1:2018 According to ISO 20000-6:2017
+- 0126004: Energy Management Systems ISO 50001:2018 According to ISO 50003:2021
+- 0126004: Information Security Management Systems ISO 27001:2022 According to ISO/IEC 27006-1:2024
+- 0126004: Road traffic safety RTSMS - ISO 39001:2012 According to ISO/IEC 17021-7:2014
+- 0126004: Business Continuity Management Systems — ISO 22301:2019 According to ISO/IEC 17021-6:2014
+- 119012: IAF Codes No. Quality Management System ISO 9001:2015
+- 119012: IAF Codes No. Environmental Management System ISO14001:2015
+- 119012: IAF Codes No. Health and Safety Management System ISO 45001:2018
+- 119013: IAFCodesNo. QualityManagementSystemISO9001:2015
+- 119013: IAFCodesNo. EnvironmentalManagementSystemISO14001:2015
+- 119013: IAFCodesNo. HealthandSafetyManagementSystemISO45001:2018
+- 119013: Food Safety Management SystemISO 22000:2018Accordingto ISO/TS 22003:2013
+- 119013: EducationalorganizationsManagementSystem ISO21001:2018AccordingtoISO/IEC17021-1:2015
+
+## Recorded as ALL (356)
+
+- 0105002 ISO 21001
+- 0105002 ISO 50001
+- 011201 ISO/IEC 27001
+- 011201 ISO 50001
+- 0113002 ISO 21001
+- 011401 ISO 50001
+- 011402/1 ISO 21001
+- 011501/1 ISO/IEC 27001
+- 011501/1 ISO/IEC 20000-1
+- 011501/1 ISO 50001
+- 011501/1 ISO 21001
+- 011501/1 ISO 22301
+- 011501/1 ISO/IEC 42001
+- 011602 ISO 50001
+- 011602 ISO/IEC 27001
+- 011602 ISO 37001
+- 011603 ISO 50001
+- 011603 ISO/IEC 27001
+- 011701 ISO/IEC 20000-1
+- 011701 ISO 50001
+- 011701 ISO/IEC 27001
+- 011701 ISO 21001
+- 011701 ISO 22301
+- 011701 ISO 28001
+- 011701 ISO 55001
+- 011701 ISO 41001
+- 011702 ISO 50001
+- 011702 ISO 21001
+- 011702 ISO/IEC 27001
+- 011702 ISO/IEC 20000-1
+- 011704 ISO 50001
+- 011704 ISO/IEC 27001
+- 011704 ISO/IEC 20000-1
+- 011704 ISO 21001
+- 011704 ISO 22301
+- 011704 ISO 55001
+- 011704 ISO 41001
+- 011704 ISO 18788
+- 011705/1 ISO 22301
+- 011705/1 ISO 50001
+- 011802 ISO/IEC 27001
+- 011804 ISO 50001
+- 011804 ISO/IEC 27001
+- 011804 ISO/IEC 20000-1
+- 011804 ISO 21001
+- 011804 ISO 41001
+- 011804 ISO 22301
+- 011804 ISO 37001
+- 011804 ISO/IEC 27701
+- 011804 ISO/IEC 42001
+- 011805 ISO 50001
+- 011805 ISO/IEC 20000-1
+- 011805 ISO/IEC 27001
+- 011903 ISO 50001
+- 011903 ISO 28000
+- 011903 ISO 55001
+- 011903 ISO 41001
+- 011903 ISO 21001
+- 011903 ISO/IEC 20000-1
+- 011903 ISO/IEC 27001
+- 011903 ISO 18788
+- 011905 ISO/IEC 27001
+- 011905 ISO 50001
+- 011905 ISO/IEC 20000-1
+- 011905 ISO 22301
+- 011905 ISO 21001
+- 011905 ISO 37001
+- 011905 ISO/IEC 27701
+- 011905 ISO/IEC 42001
+- 011905 ISO 41001
+- 011907 ISO 50001
+- 011907 ISO/IEC 27001
+- 011910 ISO/IEC 27001
+- 011910 ISO 22301
+- 011911 ISO/IEC 27001
+- 011914 ISO 21001
+- 011914 ISO/IEC 27001
+- 011914 ISO 22301
+- 011914 ISO 50001
+- 012005 ISO 21001
+- 012005 ISO 22301
+- 012005 ISO/IEC 27001
+- 012005 ISO/IEC 20000-1
+- 012005 ISO 55001
+- 012005 ISO 28001
+- 012007 ISO 21001
+- 012008 ISO/IEC 20000-1
+- 012008 ISO 50001
+- 012008 ISO/IEC 27001
+- 012008 ISO 39001
+- 012008 ISO 41001
+- 012008 ISO 21001
+- 012008 ISO 29993
+- 012008 ISO 29994
+- 012008 ISO 22301
+- 012008 ISO 37001
+- 012008 ISO 7101
+- 012008 ISO/IEC 42001
+- 012008 ISO 37301
+- 012008 ISO 56001
+- 012008 ISO 55001
+- 0121006 ISO 50001
+- 0121006 ISO/IEC 27001
+- 0121006 ISO/IEC 20000-1
+- 0121006 ISO 22301
+- 0121006 ISO 41001
+- 0121006 ISO 55001
+- 0121006 ISO 21001
+- 0121006 ISO 37001
+- 0121006 ISO 37301
+- 0121006 ISO/IEC 42001
+- 0121006 ISO/IEC 27701
+- 0121006 ISO 44001
+- 0121006 ISO 56001
+- 0121006 ISO 30401
+- 0121006 ISO 7101
+- 012101 ISO 50001
+- 012101 ISO/IEC 27001
+- 012101 ISO 28000
+- 012103 ISO 21001
+- 012103 ISO 29993
+- 012103 ISO 29994
+- 012103 ISO 22301
+- 012103 ISO/IEC 27001
+- 012103 ISO/IEC 20000-1
+- 012103 ISO 39001
+- 012103 ISO 41001
+- 012103 ISO 55001
+- 012103 ISO 50001
+- 012109 ISO 21001
+- 012109 ISO 50001
+- 012109 ISO/IEC 27001
+- 012109 ISO/IEC 20000-1
+- 012109 ISO 22301
+- 012109 ISO 39001
+- 012109 ISO 28001
+- 012109 ISO 41001
+- 012109 ISO 37001
+- 012109 ISO/IEC 42001
+- 012111 ISO 21001
+- 012111 ISO 50001
+- 012111 ISO/IEC 20000-1
+- 012111 ISO/IEC 27001
+- 012111 ISO 39001
+- 012111 ISO 22301
+- 012111 ISO 37001
+- 012111 ISO 37301
+- 012114 ISO 21001
+- 012114 ISO 22301
+- 012114 ISO/IEC 27001
+- 012116 ISO/IEC 27001
+- 012116 ISO 22301
+- 012116 ISO 41001
+- 012116 ISO 37001
+- 012116 ISO 55001
+- 012116 ISO/IEC 20000-1
+- 012116 ISO 7101
+- 012116 ISO 21001
+- 012116 ISO 50001
+- 0122001 ISO/IEC 27001
+- 0122001 ISO 22301
+- 0122001 ISO 21001
+- 0122001 ISO/IEC 20000-1
+- 0122006 ISO 50001
+- 0122006 ISO 21001
+- 0122006 ISO/IEC 27001
+- 0122006 ISO 22301
+- 0122006 ISO 41001
+- 0122006 ISO 30401
+- 0122007 ISO 21001
+- 0122007 ISO 41001
+- 0122007 ISO 50001
+- 0122007 ISO 22301
+- 0122007 ISO 37001
+- 0122007 ISO/IEC 27001
+- 0122007 ISO 7101
+- 0122012 ISO/IEC 20000-1
+- 0122012 ISO 50001
+- 0122012 ISO/IEC 27001
+- 0122012 ISO 21001
+- 0122012 ISO 37001
+- 012202 ISO 50001
+- 012202 ISO/IEC 27001
+- 012202 ISO 22301
+- 012202 ISO 41001
+- 012203 ISO 21001
+- 012203 ISO 50001
+- 012203 ISO 41001
+- 012203 ISO 55001
+- 012203 ISO 22301
+- 012203 ISO 37001
+- 012205 ISO 50001
+- 012205 ISO/IEC 27001
+- 012205 ISO 22301
+- 012205 ISO/IEC 20000-1
+- 012205 ISO/IEC 42001
+- 012208 ISO 21001
+- 012214 ISO 21001
+- 012214 ISO 41001
+- 012220 ISO 50001
+- 012220 ISO 37001
+- 012220 ISO 37301
+- 012220 ISO 44001
+- 012220 ISO/IEC 20000-1
+- 012220 ISO 56001
+- 012220 ISO 30401
+- 012222 ISO 50001
+- 012222 ISO 21001
+- 012223 ISO 50001
+- 012224 ISO/IEC 27001
+- 012224 ISO 50001
+- 012224 ISO/IEC 20000-1
+- 012224 ISO 37001
+- 012224 ISO/IEC 27701
+- 012224 ISO/IEC 42001
+- 012226 ISO/IEC 27001
+- 012226 ISO/IEC 20000-1
+- 012226 ISO 50001
+- 012306 ISO/IEC 27001
+- 012306 ISO/IEC 20000-1
+- 012306 ISO 22301
+- 012308 ISO 50001
+- 012308 ISO/IEC 20000-1
+- 012308 ISO 21001
+- 012308 ISO 41001
+- 012308 ISO 37001
+- 012308 ISO 37301
+- 012308 ISO/IEC 27001
+- 012309 ISO 50001
+- 012309 ISO 55001
+- 012310 ISO/IEC 20000-1
+- 012310 ISO 18788
+- 012310 ISO/IEC 27001
+- 012310 ISO 41001
+- 012310 ISO 21001
+- 012310 ISO 22301
+- 012310 ISO 44001
+- 012310 ISO 55001
+- 012310 ISO 37301
+- 012311 ISO 22301
+- 012311 ISO/IEC 27001
+- 012311 ISO 37001
+- 012312 ISO 50001
+- 012312 ISO/IEC 27001
+- 012312 ISO 37001
+- 012312 ISO/IEC 20000-1
+- 012312 ISO/IEC 42001
+- 012314 ISO 50001
+- 012314 ISO/IEC 27001
+- 012314 ISO 21001
+- 012315 ISO 19443
+- 012316 ISO 50001
+- 012316 ISO/IEC 27001
+- 012317 ISO/IEC 27001
+- 012317 ISO/IEC 20000-1
+- 012317 ISO 22301
+- 012318 ISO/IEC 27001
+- 012319 ISO/IEC 27001
+- 012401 ISO 50001
+- 012401 ISO/IEC 27001
+- 012404 ISO 50001
+- 012404 ISO/IEC 27001
+- 012409 ISO/IEC 27001
+- 012409 ISO 50001
+- 012412 ISO/IEC 20000-1
+- 012412 ISO 50001
+- 012412 ISO/IEC 27001
+- 012412 ISO 39001
+- 012412 ISO 41001
+- 012412 ISO 21001
+- 012412 ISO 22301
+- 012412 ISO 37001
+- 012412 ISO 37301
+- 012415 ISO 50001
+- 012415 ISO/IEC 27001
+- 012415 ISO 41001
+- 012415 ISO 21001
+- 012415 ISO 22301
+- 012415 ISO 37001
+- 012415 ISO/IEC 20000-1
+- 012415 ISO 55001
+- 012415 ISO 37301
+- 012417 ISO 50001
+- 012418 ISO 50001
+- 012418 ISO 22301
+- 012419 ISO/IEC 20000-1
+- 012419 ISO/IEC 27001
+- 012419 ISO 50001
+- 012419 ISO 41001
+- 012419 ISO 55001
+- 012419 ISO 21001
+- 012420 ISO/IEC 20000-1
+- 012420 ISO 50001
+- 012420 ISO/IEC 27001
+- 012420 ISO 21001
+- 0125019 ISO 21001
+- 012502 ISO 50001
+- 012502 ISO/IEC 27001
+- 012502 ISO 21001
+- 012502 ISO 22301
+- 012502 ISO 37001
+- 012502 ISO 55001
+- 012502 ISO 41001
+- 012502 ISO 37301
+- 012502 ISO 37101
+- 012502 ISO/IEC 42001
+- 012502 ISO/IEC 27701
+- 012502 ISO/IEC 20000-1
+- 012502 ISO 28000
+- 0125020 ISO 21001
+- 0125025 ISO 7101
+- 0125027 ISO/IEC 27001
+- 0125027 ISO 37001
+- 0125027 ISO/IEC 42001
+- 012503 ISO 50001
+- 012503 ISO/IEC 27001
+- 012503 ISO 21001
+- 012504 ISO/IEC 27001
+- 012506 ISO 50001
+- 012506 ISO/IEC 27001
+- 012506 ISO 21001
+- 012507 ISO 22301
+- 012507 ISO 21001
+- 012507 ISO 37001
+- 012507 ISO 37301
+- 012508 ISO 21001
+- 012509 ISO/IEC 20000-1
+- 012509 ISO 50001
+- 012509 ISO/IEC 27001
+- 012509 ISO 21001
+- 012509 ISO 55001
+- 012509 ISO 37301
+- 012510 ISO/IEC 20000-1
+- 012510 ISO 50001
+- 012510 ISO/IEC 27001
+- 012510 ISO 21001
+- 012510 ISO 22301
+- 012510 ISO 55001
+- 012510 ISO 30401
+- 012512 ISO/IEC 27001
+- 012513 ISO 50001
+- 012513 ISO 21001
+- 012513 ISO/IEC 27001
+- 012516 ISO 50001
+- 012517 ISO/IEC 27001
+- 012517 ISO 37001
+- 012518 ISO 22301
+- 012518 ISO/IEC 27001
+- 012518 ISO 21001
+- 012518 ISO/IEC 20000-1
+- 0126004 ISO/IEC 20000-1
+- 0126004 ISO 50001
+- 0126004 ISO/IEC 27001
+- 0126004 ISO 39001
+- 0126004 ISO 22301
+- 119013 ISO 21001
+
+## Scanned schedules classified by hand (7)
+
+- 010601/1 Intertek International Ltd Egypt
+- 011806 INNOVATIVE SYSTEMCERT PVT LTD
+- 011902 GLOBAL STANDARDS
+- 0121004 ARL Middle East
+- 012219 EQUALITAS
+- 012220 Pioneers of Quality Systems and Certifications KSA
+- 012303 GCL International
+
+## Limited scopes (149)
+
+- 010601/1 ISO 9001 EA 7: Limited to “Paper products”
+- 010601/1 ISO 14001 EA 7: Limited to “Paper products”
+- 010601/1 ISO 45001 EA 7: Limited to “Paper products”
+- 011004/1 ISO 9001 EA 7: Limited to “Paper products”
+- 011004/1 ISO 14001 EA 7: Limited to “Paper products”
+- 011201 ISO 9001 EA 7: Limited to “Paper products”
+- 0113002 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing
+- 0113002 ISO 9001 EA 19: Electrical Equipment (excluding Medical)
+- 0113002 ISO 14001 EA 19: Electrical Equipment (excluding Medical)
+- 0113002 ISO 45001 EA 19: Electrical Equipment (excluding Medical)
+- 011401 ISO 45001 EA 17: Limited to “Base metals production”
+- 011704 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 011704 ISO 14001 EA 7: Limited to “Pulp and paper manufacturing”
+- 011704 ISO 45001 EA 7: Limited to “Pulp and paper manufacturing”
+- 011705/1 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing
+- 011705/1 ISO 9001 EA 19: Electrical Equipment (excluding Medical)
+- 011705/1 ISO 14001 EA 7: Limited to “Paper products”
+- 011705/1 ISO 14001 EA 17: Limited to “Base metals production”
+- 011705/1 ISO 45001 EA 7: Limited to “Paper products”
+- 011705/1 ISO 45001 EA 17: Limited to “Base metals production”
+- 011705/1 ISO 45001 EA 19: Electrical Equipment (excluding Medical)
+- 011801/1 ISO 9001 EA 19: Electrical Equipment (excluding Medical)
+- 011801/1 ISO 14001 EA 17: Limited to “Base metals production”
+- 011801/1 ISO 45001 EA 17: Limited to “Base metals production”
+- 011802 ISO 9001 EA 7: Limited to “Paper products”
+- 011802 ISO 14001 EA 7: Limited to “Paper products”
+- 011802 ISO 45001 EA 7: Limited to “Paper products”
+- 011805 ISO 9001 EA 7: Limited to “Paper products”
+- 011805 ISO 45001 EA 7: Limited to “Paper products”
+- 011905 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 011905 ISO 14001 EA 7: Limited to “Pulp and paper manufacturing”
+- 011905 ISO 45001 EA 7: Limited to “Pulp and paper manufacturing”
+- 011907 ISO 9001 EA 7: Limited to “Paper products”
+- 011907 ISO 14001 EA 7: Limited to “Paper products”
+- 011907 ISO 45001 EA 7: Limited to “Paper products”
+- 011908 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 011908 ISO 14001 EA 17: Limited to “Base metals production”
+- 011910 ISO 9001 EA 7: Limited to “Paper products”
+- 011910 ISO 14001 EA 7: Limited to “Paper products”
+- 011910 ISO 14001 EA 17: Limited to “Base metals production”
+- 011910 ISO 45001 EA 7: Limited to “Paper products”
+- 011910 ISO 45001 EA 17: Limited to “Base metals production”
+- 011911 ISO 9001 EA 7: Limited to “Paper products”
+- 012007 ISO 14001 EA 17: Limited to “Base metals production”
+- 012109 ISO 14001 EA 7: Limited to “Pulp and paper manufacturing
+- 012109 ISO 45001 EA 7: Limited to “Pulp and paper manufacturing
+- 012116 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 0122001 ISO 9001 EA 7: Limited to “Paper products”
+- 0122001 ISO 9001 EA 17: Limited to “Fabricated metal products”
+- 0122001 ISO 14001 EA 17: Limited to “Fabricated metal products”
+- 0122001 ISO 45001 EA 17: Limited to “Fabricated metal products”
+- 0122006 ISO 9001 EA 7: Limited to “Paper products”
+- 0122007 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 0122007 ISO 14001 EA 17: Limited to “Base metals production”
+- 0122007 ISO 45001 EA 17: Limited to “Fabricated metal products”
+- 012202 ISO 45001 EA 17: Limited to “Fabricated metal products”
+- 012203 ISO 9001 EA 7: Limited to “Paper products”
+- 012203 ISO 14001 EA 7: Limited to “Paper products”
+- 012203 ISO 45001 EA 7: Limited to “Paper products”
+- 012214 ISO 45001 EA 17: Limited to “Base metals production”
+- 012222 ISO 9001 EA 7: Limited to pulp and paper manufacturing
+- 012224 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012224 ISO 14001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012224 ISO 45001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012226 ISO 45001 EA 17: Limited to “Fabricated metal products
+- 012301 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012301 ISO 14001 EA 17: Limited to “Base metals production”
+- 012301 ISO 45001 EA 17: Limited to “Base metals production”
+- 012305 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing
+- 012305 ISO 9001 EA 17: ”Limited to “Fabricated metal products
+- 012305 ISO 14001 EA 7: Limited to “Paper products”
+- 012305 ISO 14001 EA 17: Limited to “Fabricated metal products”
+- 012305 ISO 45001 EA 7: Limited to “Paper products”
+- 012305 ISO 45001 EA 17: Limited to “Fabricated metal products”
+- 012307 ISO 9001 EA 7: Limited to “Paper products”
+- 012307 ISO 14001 EA 7: Limited to “Paper products”
+- 012307 ISO 14001 EA 17: Limited to “Base metals production”
+- 012307 ISO 45001 EA 7: Limited to “Paper products”
+- 012307 ISO 45001 EA 17: Limited to “Base metals production”
+- 012310 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing
+- 012314 ISO 14001 EA 17: Limited to “Fabricated metal products”
+- 012314 ISO 45001 EA 17: Limited to “Fabricated metal products”
+- 012316 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012316 ISO 14001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012316 ISO 45001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012317 ISO 14001 EA 17: Limited to “Base metals production”
+- 012317 ISO 45001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012317 ISO 45001 EA 17: Limited to “Base metals production”
+- 012318 ISO 9001 EA 7: Limited to “Paper products”
+- 012318 ISO 14001 EA 7: Limited to “Paper products”
+- 012318 ISO 14001 EA 17: Limited to “Fabricated metal products”
+- 012318 ISO 45001 EA 7: Limited to “Paper products
+- 012318 ISO 45001 EA 17: Limited to “Base metals production
+- 012320 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012320 ISO 14001 EA 17: Limited to “Base metals production”
+- 012320 ISO 45001 EA 7: Limited to “Pulp and paper manufacturing”(cid:13)
+- 012320 ISO 45001 EA 17: Limited to “Base metals production”
+- 012401 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012401 ISO 9001 EA 17: Limited to “Base metals production”
+- 012401 ISO 14001 EA 17: Limited to “Base metals production”
+- 012401 ISO 45001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012401 ISO 45001 EA 17: Limited to “Base metals production”
+- 012402 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012402 ISO 14001 EA 7: Limited to “Paper products”
+- 012402 ISO 14001 EA 17: Limited to “Base metals production”
+- 012402 ISO 45001 EA 7: Limited to “Paper products”
+- 012403 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012403 ISO 14001 EA 7: Limited to “Paper products”
+- 012403 ISO 14001 EA 17: Limited to “Fabricated metal products”
+- 012403 ISO 45001 EA 7: Limited to “Paper products”
+- 012403 ISO 45001 EA 17: Limited to “Fabricated metal products”
+- 012406 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012409 ISO 14001 EA 17: Limited to “Fabricated metal products”
+- 012409 ISO 45001 EA 17: Limited to “Fabricated metal products”
+- 012412 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012412 ISO 14001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012412 ISO 45001 EA 7: Limited to “Paper products”
+- 012414 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012414 ISO 14001 EA 17: Limited to “Base metals production”
+- 012415 ISO 9001 EA 7: Limited to “Paper products”
+- 012415 ISO 14001 EA 7: Limited to “Paper products”
+- 012415 ISO 45001 EA 7: Limited to “Paper products”
+- 012419 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012419 ISO 14001 EA 17: Limited to “Fabricated metal products”
+- 012419 ISO 45001 EA 17: Limited to “Fabricated metal products”
+- 012420 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing
+- 012420 ISO 14001 EA 17: Limited to “Base metals production”
+- 012420 ISO 45001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012420 ISO 45001 EA 17: Limited to “Base metals production”
+- 0125011 ISO 14001 EA 17: Limited to “Base metals production”
+- 012502 ISO 9001 EA 7: Limited to “Paper products”
+- 012502 ISO 14001 EA 7: Limited to “Paper products”
+- 012502 ISO 14001 EA 17: Limited to “Fabricated metal products”
+- 012502 ISO 45001 EA 7: Limited to “Paper products”
+- 012502 ISO 45001 EA 17: Limited to “Fabricated metal products”
+- 0125027 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing
+- 0125027 ISO 9001 EA 19: Electrical Equipment (excluding Medical)
+- 0125027 ISO 14001 EA 7: Limited to “Pulp and paper manufacturing
+- 0125027 ISO 14001 EA 19: Electrical Equipment (excluding Medical)
+- 0125027 ISO 45001 EA 7: Limited to “Pulp and paper manufacturing
+- 0125027 ISO 45001 EA 19: Electrical Equipment (excluding Medical)
+- 012504 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012508 ISO 45001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012512 ISO 9001 EA 7: Limited to “Paper products”
+- 012513 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012513 ISO 14001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012513 ISO 45001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012517 ISO 9001 EA 7: Limited to “Pulp and paper manufacturing”
+- 012518 ISO 45001 EA 17: Limited to “Base metals production”
+
+## Code column and sector names disagree (67)
+
+- 011004/1 ISO 9001: only numbers [7], only names []
+- 011004/1 ISO 14001: only numbers [7], only names []
+- 011201 ISO 9001: only numbers [7], only names []
+- 011602 ISO 14001: only numbers [2, 10], only names []
+- 011603 ISO 45001: only numbers [8], only names []
+- 011705/1 ISO 9001: only numbers [9], only names []
+- 011705/1 ISO 14001: only numbers [7], only names []
+- 011705/1 ISO 45001: only numbers [7], only names []
+- 011801/1 ISO 9001: only numbers [17], only names []
+- 011802 ISO 9001: only numbers [7], only names []
+- 011802 ISO 14001: only numbers [7], only names []
+- 011802 ISO 45001: only numbers [7], only names []
+- 011805 ISO 9001: only numbers [7], only names []
+- 011805 ISO 45001: only numbers [7], only names []
+- 011907 ISO 9001: only numbers [7], only names []
+- 011907 ISO 14001: only numbers [7], only names []
+- 011907 ISO 45001: only numbers [7], only names []
+- 011910 ISO 9001: only numbers [7], only names []
+- 011910 ISO 14001: only numbers [7], only names []
+- 011910 ISO 45001: only numbers [7], only names []
+- 011911 ISO 9001: only numbers [7], only names []
+- 011914 ISO 9001: only numbers [17], only names []
+- 011914 ISO 14001: only numbers [17], only names []
+- 011914 ISO 45001: only numbers [17], only names []
+- 012109 ISO 9001: only numbers [22], only names []
+- 0122001 ISO 9001: only numbers [7, 17], only names []
+- 0122001 ISO 14001: only numbers [17], only names []
+- 0122001 ISO 45001: only numbers [17], only names []
+- 0122006 ISO 9001: only numbers [7], only names []
+- 0122007 ISO 45001: only numbers [17], only names []
+- 012202 ISO 45001: only numbers [17], only names []
+- 012203 ISO 9001: only numbers [7], only names []
+- 012203 ISO 14001: only numbers [7], only names []
+- 012203 ISO 45001: only numbers [7], only names []
+- 012226 ISO 45001: only numbers [17], only names []
+- 012305 ISO 9001: only numbers [17], only names []
+- 012305 ISO 14001: only numbers [7, 17], only names []
+- 012305 ISO 45001: only numbers [7, 17], only names []
+- 012307 ISO 9001: only numbers [7], only names []
+- 012307 ISO 14001: only numbers [7], only names []
+- 012307 ISO 45001: only numbers [7], only names []
+- 012314 ISO 14001: only numbers [17], only names []
+- 012314 ISO 45001: only numbers [17], only names []
+- 012318 ISO 9001: only numbers [7], only names []
+- 012318 ISO 14001: only numbers [7, 17], only names []
+- 012318 ISO 45001: only numbers [7], only names []
+- 012402 ISO 14001: only numbers [7], only names []
+- 012402 ISO 45001: only numbers [7], only names []
+- 012403 ISO 14001: only numbers [7, 17], only names []
+- 012403 ISO 45001: only numbers [7, 17], only names []
+- 012409 ISO 14001: only numbers [17], only names []
+- 012409 ISO 45001: only numbers [17], only names []
+- 012412 ISO 45001: only numbers [7], only names []
+- 012415 ISO 9001: only numbers [7], only names []
+- 012415 ISO 14001: only numbers [7], only names []
+- 012415 ISO 45001: only numbers [7], only names []
+- 012419 ISO 14001: only numbers [17, 33], only names []
+- 012419 ISO 45001: only numbers [17], only names []
+- 0125019 ISO 14001: only numbers [34], only names []
+- 0125019 ISO 45001: only numbers [34], only names []
+- 012502 ISO 9001: only numbers [7], only names []
+- 012502 ISO 14001: only numbers [7], only names []
+- 012502 ISO 45001: only numbers [7, 17], only names []
+- 012512 ISO 9001: only numbers [7], only names []
+- 119013 ISO 9001: only numbers [3, 17, 22, 35, 36], only names []
+- 119013 ISO 14001: only numbers [17, 22], only names []
+- 119013 ISO 45001: only numbers [17, 22], only names []
+
+## Parser notes (7)
+
+- 011914: excluded (ISO 10002, not a certification standard): Quality Management – Customer Satisfaction ISO 10002:2018 in accordance with ISO/IEC 17021-1: 2015
+- 012005: heading without a known standard: Facility Management Systems ISO 410001:2014 In accordance with ISO /IEC TS 17021-11:2014
+- 012214: ISO 9001: numbers [1, 1] outside the code column, not taken as codes
+- 012214: ISO 14001: numbers [1, 1] outside the code column, not taken as codes
+- 012214: ISO 45001: numbers [1] outside the code column, not taken as codes
+- 012308: excluded (ISO 37000, not a certification standard): Governance of Organization Management Systems ISO 37000:2021 According to ISO/IEC 17021-1: 2015.
+- 012502: excluded (ISO 10002, not a certification standard): Quality Management Customer Satisfaction ISO 10002:2018 According to ISO/IEC 17021-1:2015
+
+## Withdrawn or expired (no scopes written) (11)
+
+- 012006 International American Quality Certification IAQC (Withdrawn)
+- 012110 NATIONAL TRAINING And EDUCATION COUNCIL (Expired)
+- 012115 Afaq for certification and inspection ACI (Expired)
+- 012210 Bureau Veritas Certification (Withdrawn)
+- 012215 MAKS GENERAL TRADING LLC (Withdrawn)
+- 012217 National Nutrition Institute certification center (NNICC) (Withdrawn)
+- 012225 QUALITY ACADEMY (QA) (Withdrawn)
+- 012407 ENERGY-UP (Withdrawn)
+- 119004 SRK System and Services Pvt Ltd (Expired)
+- 120002 ECCO for Certification (Expired)
+- 120004 Horticultural Export Improvement Association Certification Services HEIACert (Withdrawn)
+
+## Detail page not scraped (no schedule, no scopes) (1)
+
+- 0126007 CertiOne for Certification and Management Systems

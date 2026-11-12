@@ -1,0 +1,342 @@
+# RvA conversion review
+
+Generated 2026-11-05: 47 bodies, 91 accreditations, 129 scope rows before pruning.
+
+## Notes
+
+- C495 Safex Certificatie Instelling B.V.: no importable standard in the annex (only national / product schemes); not imported
+- C499 Control Union Certifications B.V.: ISO 9001 section found but no sectors read — check the annex
+- C558 Bureau Veritas Inspection and Certification The Netherlands: no importable standard in the annex (only national / product schemes); not imported
+- C589 DEKRA Certification B.V.: second registration of C013 (annex valid 26-11-2025 – 01-03-2027); its schemes are merged into C013's rows and dates
+- C621 Energie Consult Holland B.V.: no importable standard in the annex (only national / product schemes); not imported
+- C625 SGS Nederland B.V.: no importable standard in the annex (only national / product schemes); not imported
+- C683 Scarlet NB B.V.: phone '0746-0099101' is not an international number; left empty
+- C700 Kiwa Assurance B.V.: no importable standard in the annex (only national / product schemes); not imported
+- C709 NHG Praktijk Accreditering B.V.: no importable standard in the annex (only national / product schemes); not imported
+- C717 SGS Brightsight B.V.: no importable standard in the annex (only national / product schemes); not imported
+- C721 UL International (Netherlands) B.V.: no importable standard in the annex (only national / product schemes); not imported
+- C071 ISSPL Limited: already in nabcb-india; that dataset's body row is used
+- C584 ControlCase Infosec Pvt. Ltd.: already in nabcb-india; that dataset's body row is used
+- C264 Qlip B.V.: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- C584 ControlCase Infosec Pvt. Ltd.: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- C590 Duijnborgh Certification BV: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- C630 Rwanda Standards Board: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- C663 Noordbeek Certification B.V.: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- C676 GLI Europe B.V.: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- C684 Kiwa VERIN B.V.: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- C693 Forvis Mazars Certification Hub B.V.: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- C707 ProCertify B.V.: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- C708 3angles Certify B.V.: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- C714 CERCOMS B.V.: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+
+## Sections not imported (heading: registrations)
+
+- (geldig tot 14-01-2028): C501
+- * Connotation: C248
+- 1 Dr. Lategan Road - Groenkloof Pretoria South Africa Location 1 Dr. L: C109
+- 1 Product as defined in ISO 9000:2005, 3.4.2 2 Indien wordt verwezen n: C700
+- 10086 Haidian: C276
+- 101-103 Stefánia út Budapest 1143 Hungary: C024
+- 104, COPIA CORPORATE JASOLA, DELHI, Pin Code India: C071
+- 1066 EP: C122
+- 12 General Stolipin Street 9002 Varna Bulgaria: C024
+- 15 Garth Road Waterval Park Durban South Africa: C109
+- 1521 RW: C250
+- 15th Floor, Merlin Acropolis, 1858/1 Rajdanga Main Road, Kolkata – 700: C024
+- 169A, Floreasca Street, 2011, 1st District, Bucharest,: C024
+- 19219 Katy Fwy, Suite 175, United States: C024
+- 1st Floor, Sunrise House, Plot No 158 , DC-2 Kutch, Gandhidham, Kandla: C071
+- 2 If there is a reference to a code starting with: C616
+- 202, Babukhan Millenium Rajbhavan Road, Hyderabad India: C024
+- 2030 Antwerp: C024
+- 21/F, No. 3 Lockhart Road, Wanchai, Hong Kong: C024
+- 2288 EA: C025
+- 2994 LB: C024
+- 2nd Floor, House No.277, Bharat Nagar, Narela Sankri, 462 022 India: C071
+- 30 Stamford Street Vivo 9LQ London, United Kingdom: C024
+- 3rd Floor, Tower 3 Unit 2B, Lal Bahadur Shastri Marg, Village Kurla, K: C024
+- 401, 4th Floor, Corporate P. N. Marg JAMNAGAR, Gujarat 361 008, India: C071
+- 408-409, 4th Floor, Neptune Campus, Vadodara - 390007,: C024
+- 42 Chaim Levanon Street 69977 Tel Aviv Israel: C096
+- 5/33, Deen Dayalu Nagar Nadu 620013 India: C071
+- 500007 India Bldg: Diamond Heritage Units: 710 & 711, 7th Floor,16, St: C071
+- 52/A, Adi Shankaracharya 400 0072 Near Powai Lake, Powai, India Locati: C071
+- 54 rue Marcel Dassault, 69740 Genas, France: C024
+- 6F-3, No. 25, Chenggong Kaohsiung City 80661 Taiwan: C024
+- 710-711, Neptune Edge, Sarabhai Marg, Vadiwadi, VADODARA-390007,: C071
+- 72, Maker Towers, 'F' 7th MUMBAI, Maharashtra 400: C071
+- 7327 AC: C025
+- 7th Floor, Office Unit 703, Deccan Heights, National Tumkur Road, Yesh: C024
+- [1] If no date or version number is mentioned [1] If there is a refere: C683
+- A-503, 5th Floor Mayfair Old Mumbai Pune Road, India: C071
+- A/S8, 2nd Floor, Tuborg Hellerup, DK 2900, Denmark Box 6046, Solna, 17: C024
+- accreditation can be granted by the RvA, as: C584
+- Achtseweg Zuid 159 5651 GW Eindhoven Nederland Location Achtseweg Zuid: C618
+- Algemeen: C013, C024
+- Algemeen organisatiedeel: C010, C025, C322
+- Algemeen organisatiedeel Rubrieken 4 t/m 9: C029
+- Amsterdam: C122
+- Apeldoorn: C025
+- AQAP 2110: C024
+- AQAP 2110 SHE Checklist Contractors (VCA): C122
+- ARcc4reedSitattaionn dCaourndc il/ Dutch R vA: C248
+- Assessment Guideline Groenkeur Landscaping, including: C025, C029, C171
+- Auditreglement riskplaza – audit+ system: C010
+- Auditreglement Riskplaza-audit+-systeem: C055
+- Av. Leandro N. Alem 790, Ciudad de Buenos Aires: C024
+- Av. Roque Petroni Júnior, Bacetava) Jardim das Acácias, São Paulo, SP,: C024
+- BANGALORE: C071
+- Barendrecht: C024
+- Beijing: C276
+- Belgium: C024
+- Boompjes 258 3011 XZ Rotterdam The Netherlands Location Cross Towers, : C466
+- Brassersplein 2 2612CT Delft The Netherlands Location Brassersplein 2 : C717
+- BRL SVMS 007: C025, C029, C625
+- BRL SVMS 007 (Hoofdstukken 2 t/m 5): C274
+- Building B 5th Floor: C560
+- C-107, Siddhi Vinayak Tower, S. G. Highway, Makarba, Gujarat, India: C071
+- c/ Sta. María Magdalena, 28016, Spain: C024
+- Calle Magdalena 181 Edificio 1201 (Sur) Las Condes, 7550055 Santiago -: C024
+- CERTEX kwaliteitshandboek textielverzorging, deel 2, eisen NEN-EN 1406: C029
+- Certificatieregeling Deelregeling (ISO 9001) scope 10: C248
+- Certificatieregeling Deelregeling (ISO 9001) scope 10 en 12: C013
+- Certificatieregeling Deelregeling (ISO 9001) scope 12: C025
+- Certificatieregeling Deelregeling (ISO 9001) scope 8 en 9: C013
+- Certificatieregeling Deelregeling (ISO 9001) scope 8 t/m 10: C025
+- Certification of Amusement Centres Product / Product: C013
+- China: C276
+- CIIO Maatstaf 2016: C559
+- cLocation 610AB,611AB, 6th Floor Road, Dhole Patil Road, Maharashtra, : C024
+- cLocation DNV Doha LLC, Office 11, Street 100, Building 121, Qatar: C024
+- cLocation Insurgentes Sur No. 859, Benito Juárez, C.P. 03810, México: C024
+- cLocation Level 3, CJ building, 2bis-4-6 Sai Gon ward, HCM city,: C024
+- cLocation No. 5 Jinghuan South Street, Beijing 100020, P.R. China: C024
+- cLocation No.293, Sec.2, Wenhua 220 New Taipei City, Taiwan: C024
+- cLocation Noorderlaan 147: C024
+- cLocation Roma, 2nd Floor, No. 10, 600016, Tamil Nadu INDIA: C024
+- cLocation Wolbeckstr. 25, Essen, 45329,: C024
+- CO2 Prestatieladder versie 4.0: C029, C501
+- Critical Products: C717, C721
+- Critical Products Important products class I Important products class : C013
+- Cybersecurity The Critical Products: C122
+- D.No.7-18-1, Kirlampudi VISAKHAPATNAM Andhra Pradesh 530017 India: C071
+- Davy Avenue: C122
+- De CKB-regeling: C025, C248, C250
+- De Drukapparatuur en samenstellen: C621
+- De Kwaliteitsmanagement- systeem van arbodiensten: C024
+- De Onderstaande activiteiten: C010, C558, C700
+- De Opsporen van ontplofbare oorlogsresten managementsysteemcertificati: C029
+- de zorg: C024, C029, C548
+- Deelregeling (ISO 9001) scope 8 en 9: C248
+- Diakenhuisweg 29-35 2033 AP Haarlem Netherlands Location Diakenhuisweg: C676
+- Door No.: 107/18D/22/6, 008, India: C071
+- Drukapparatuur: C010, C558, C700
+- Ekkersrijt 4401 5692 DL Son en Breugel The Netherlands Location Ekkers: C029
+- en welzijn: C029
+- End connotation SH Checklist Temporary Employment Agencies (VCU): C248
+- European Code to good collection, transport, storage, industrial manuf: C625
+- European Code to good practice for the collection,: C010
+- FAMI-QS Code of Practice: C010, C625
+- Finland Oy/Ab. Keilaranta Finland 8, Sabinovská, 82 102 Bratislava,: C024
+- First floor, Building 12 Unity District, Expo City, P.O Arab Emirates: C024
+- Flat No. 302, 3rd Floor Kishore 7-66 HMT Road HYDERABAD Andhra Pradesh: C071
+- Floor 2, Building 2, No. 48: C276
+- Floor 2, Building 2, No. 48 10086 Haidian Beijing China: C276
+- Gedung World Trade Center Jendral Sudirman Kav 29-31, 8/RW3, Karet, Ja: C024
+- George Hintzenweg 77 3068 AX Rotterdam The Netherlands NCS 7510:2025 C: C010
+- Goldlion Digital Network Dong Road, Tian He District, P.R. China: C024
+- Gr. Floor of MMD Building, Shahid Road, Atlanta Point PORT BLAIR 74410: C071
+- Gran Via de les Corts Catalanes, Floor, Sants-Montjuïc, 08038: C024
+- Groeneweg 2E 2718 AA Zoetermeer Nederland: C322
+- Groenkeur - beoordelingsrichtlijn Groenvoorzieningen, incl.: C499
+- Group: C013
+- Hambakenwetering 8d 5231 DC 's-Hertogenbosch Nederland Location Hambak: C548
+- Handboek CO -: C274, C501
+- Handboek CO2 Prestatieladder versie 4.0: C248, C435
+- Handboek CO2- Prestatieladder Versie 3.1 (Geldig tot 14-01-2028): C250
+- Handboek CO2- Prestatieladder Versie 3.1 (geldig tot 14-01-2028): C399
+- Handboek CO2- Prestatieladder Versie 4.0: C013, C025, C055, C250, C274, C399, C499
+- Handboek CO2- Prestatieladder versie 4.0: C024
+- Handboek CO2- Prestatieladder Version 3.1 (Valid until 14-01-2028): C013, C025, C055, C435
+- Handboek CO2- Prestatieladder Version 3.1 (valid until 14-01-2028): C024, C029, C248, C499
+- Harbor Drive Cor. Sunset E-com Center, Mall of Asia Pasay City 1300, M: C024
+- Heliotroopring 1100 3316KG Dordrecht Nederland: C399
+- Hertzstraat 14 6716 BT Ede Nederland: C621
+- Hertzstraat 14 6716 BT Ede Nederland Product / productgroep: C621
+- HKZ certificatie client- /patiënt veiligheid: C010, C024, C025
+- HKZ certificatie kleine: C029
+- HKZ certificatie kleine organisaties: C013, C024, C025
+- HKZ certificatie kwaliteitsmanagement- systemen, compatibel met ISO 90: C013
+- HKZ certificatie kwaliteitsmanagementsy: C024
+- HKZ certificatie kwaliteitsmanagementsy stemen, compatibel met ISO 900: C025, C029
+- HKZ certificatie kwaliteitsmanagementsyste: C010, C322
+- HKZ Zorg en Welzijn: C013, C024, C025, C322
+- House No. 9, No.1591 Hongqiao 200336, P.R. China: C024
+- Important products class I Important products class II: C717
+- Important products class I Important products class II Default-categor: C122, C721
+- Inc. 70 Richmond Street Ontario M5C 1N8 Canada: C024
+- India 52/A, Adi Shankaracharya Powai, Mumbai 400 072,: C071
+- Informatiebeveiliging in: C024
+- Informatiebeveiliging in de: C618
+- Informatiebeveiliging in de zorg: C548
+- International Financial Center, Yuzhong District, Chongqing: C024
+- ISO 9001 Assessment Guideline Groenkeur Green roofs and Green facades,: C025, C171
+- ISO 9001 Assessment Guideline Groenkeur Tree care, including: C025, C171
+- ISO 9001 Groenkeur - beoordelingsrichtlijn Boomverzorging, incl.: C499
+- ISO 9001:2015 Assessment Guideline Groenkeur Green roofs and Green fac: C029
+- ISO 9001:2015 Assessment Guideline Groenkeur Tree care, including: C029
+- Israel: C560
+- Jan de Snoostraat 17 3065 NE Rotterdam The Netherlands: C616
+- JIA Building, 4-10 AKASAKA 107-0052 MINATO-KU TOKYO Japan Location JIA: C141
+- John M. Keynesplein 9 1066 EP Amsterdam The Netherlands Location John : C122
+- Jongno-gu 18F, 20F Kyobo Seoul, Korea: C024
+- K.K., West Wing 7F, 1-28-10 Akebono-Cho, Tachikawa-shi, Tokyo, Japan 5: C589
+- Karnataka Pin Code : 560 022 India: C071
+- Keizersgracht 555, 2nd floor 1017 DR Amsterdam Netherlands Location Ke: C683
+- KGN Towers, 6 th Floor, Egmore, Chennai – 600008: C071
+- Kicukiro District, KK15 RD, KK15 RD, 49 Kigali City Rwanda Location Ki: C630
+- Kiryat Ono: C560
+- Kitemark Court: C122
+- Knowlhill, Milton Keynes, United Kingdom Al. "Solidarności" 171 00-877: C122
+- Kwaliteitsmanagementsyste men – EN ISO 9001:2015 voor zorg en welzijn: C322
+- Level 18, Menara Prestige, 50450 Kuala Lumpur, Malaysia: C024
+- Level 4, TEC Centre, DLF Connaught Place, New Delhi INDIA: C024
+- Liesbeek Park Way Rosebank Cape Town South Africa: C109
+- lijst).: C495
+- Locatie(s): C060, C063, C274, C322, C399, C495, C501, C559, C590, C617, C621, C663, C669, C693, C700, C707, C708, C709, C714, C715
+- Location: C025
+- Location 2nd Floor, BAM Musee Tower 52 Sir Marcus Fernando Colombo 7 S: C499
+- Location Boompjes 270 3011XZ Rotterdam Nederland: C499
+- Location Gabmar Apartments, Opp. St. Andrews Church, Goa 403802, India: C071
+- Location Loading/Unloading complex, Odesa Oblast, 65481 Oekraïne 585 B: C625
+- Location Puthuran Plaza,6th Floor, KPCC Junction, KOCHI Kerala 682 011: C071
+- Location Room No.201, 2nd Floor, Ferry Road Urwa Stores, Karnataka, In: C071
+- Location Suite 29.01, Level 29 The Gardens North Tower Mid Valley City: C122
+- Location Virkevangen 60 DK-8960 Randers SØ Denmark 1er Callejón 11 N-E: C499
+- Location(s): C010, C013, C024, C025, C029, C055, C058, C071, C096, C109, C122, C141, C171, C248, C250, C259, C264, C276, C435, C466, C499, C548, C560, C584, C589, C616, C618, C625, C630, C637, C676, C683, C684, C717, C721
+- Location(s) Head Office Plotterweg 38 3821 BB Amersfoort The Netherlan: C558
+- Lot 33, La colline II, Résidence Maarouf, 20270 Casablanca,: C024
+- Malledijk 18 3208 LA Spijkenisse Nederland: C055
+- Malledijk 18 3208 LA Spijkenisse The Netherlands Location Malledijk 18: C625
+- Maxwellstraat 49a 6716 BX Ede The Netherlands Location Maxwellstraat 4: C250
+- Meander 1051 6802 ED Arnhem The Netherlands Location Meander 1051 6802: C589
+- Meander 1051 6825 MJ Arnhem The Netherlands Location Meander 1051 6825: C013
+- Medische informatica –: C024, C548, C618
+- Medische informatica – Informatiebeveiliging in: C029, C548
+- men, compatibel met ISO 9001:2015: C010, C322
+- Mercatorlaan 1200 3528 BL Utrecht Nederland: C709
+- Mercatorlaan 1200 3528 CL Utrecht Nederland Kwaliteitsnormen NPA- Cert: C709
+- Merumerkerkweg 1 6049 BX Herten Nederland: C715
+- Middelbroekweg 29 2675 KB Honselersdijk The Netherlands Location Midde: C171
+- Nederland: C024
+- NEN 7510-1 Medische informatica – Informatiebeveiliging in de zorg: C025
+- NEN 7510-1:2024: C024, C029, C548, C618
+- NEN 7510-1:2024 Medische informatica – Informatiebeveiliging in de zor: C010, C013, C559, C663
+- NEN 7510-1:2024 Medische informatica: Informatiebeveiliging in de zorg: C122
+- NEN 7510:2017: C548
+- NEN 7510:2017 informatica – Informatiebeveiliging in de zorg: C122
+- NEN 7510:2017 Medische informatica – Informatiebeveiliging in: C024
+- NEN 7510:2017 Medische informatica – Informatiebeveiliging in de zorg: C010, C013, C029
+- NEN-EN-ISO/IEC 27001 NEN 7510:2017 +A1:2020 Medische informatica – Inf: C618
+- NEN-EN-ISO/IEC 27001 NEN 7510:2017 Medische informatica – Informatiebe: C559
+- Nevelgaarde 20D 3436 ZZ Nieuwegein Nederland Location Nevelgaarde 20D : C684
+- Nevelgaarde 20d 3436 ZZ Nieuwegein The Netherlands: C025
+- Nieuwe Kanaal 9F 6709 PA Wageningen Nederland: C060
+- Nijverheidstraat 17 2984 AH Ridderkerk Nederland: C495
+- Nijverheidstraat 17 2984 AH Ridderkerk Nederland VGM Checklist Aanneme: C495
+- nit 102, 1st Floor, 424 - Sector Building, North 90th Street, Egypt DN: C024
+- No 105x, 2nd Floor, 3rd Goraguntepalya Yeshwanthpur BANGALORE: C071
+- No. 2-10-1, Venkat Nagar, KAKINADA, Andhra Pradesh 533 003, India: C071
+- No. 258 200050 Shanghai China: C259
+- No.2F Gangdong Wu Jie, P.R. China: C024
+- Normenkader ten behoeve van certificering van uitvoerende organisaties: C322
+- Obalaan 8 3233 BL Oostvoorne Nederland: C435
+- Office # 21, Building # 986ª 332 Mahooz, Manama BAHRAI: C024
+- Office no. 202A, Second The Cotton Exchange Building Chundrigar Road 7: C499
+- Oostzeestraat 2a 7202 CM Zutphen The Netherlands Location Zweedsestraa: C264
+- Ordamstraat 9 2030 Antwerpen Belgium Av. Brigadeiro Faria Lima Torre N: C499
+- organisatiedeel: C013
+- organisatiedeel Rubrieken 4 t/m 9: C024
+- organisaties: C029
+- Papendorpseweg 100 3528 BJ Utrecht Nederland: C590
+- PCSN I (PEFC Standaard Nederland) PCSN II (PEFC Groepscertificering - : C060
+- PGS 29, appendix F4: C558
+- PGS 29, bijlage F4: C010
+- Piet van de Polsingel 168 3056 AK Rotterdam Nederland: C669
+- Ping'an Mansion, No. 59, District, Tianjin 300203,: C024
+- Plot No. 2139 / E-F-G, Office Surabhi Mall Commercial Bhavnagar, Gujar: C071
+- Plotterweg 38 3821 BB Amersfoort The Netherlands Location Plotterweg 3: C248
+- Poppenbouwing 56 4191 NZ Geldermalsen Nederland: C063
+- Pressure equipment and assemblies: C010
+- Prestatieladder: C274, C501
+- Pretoria: C109
+- Product / product Group: C010, C558
+- Product / Product Group: C010, C122
+- Product1 / productgroep Drukapparatuur: C700
+- Qts No. P- IIR/ 54, Near PARADIP - 754 142, India: C071
+- Reeweg 146 3343 AP Hendrik-Ido-Ambacht Nederland: C559
+- Regus Business Center, Mazoon Street, Al Mawaleh Sultanate of Oman.: C024
+- Riemsdijkweg 12 3088 HC Rotterdam Nederland Product1 / productgroep: C700
+- Rijndijk 235 2394 CD Hazerswoude-Rijndijk Nederland: C663
+- Rijndijk 235 2394 CD Hazerswoude-Rijndijk Nederland NEN 7510:2017 Medi: C663
+- Rijswijk: C025
+- Room 901, AVIC Center, Futian District, Shenzhen: C024
+- Room3309-3310, Qingdao Center, No. 66 Lianyuangang China: C024
+- Rosbayerweg 77: C250
+- Rubrieken 4 t/m 9: C010, C013, C025, C322
+- Ružićeva 32, 51000 Rijeka. 177, 10000 Zagreb CROATIA: C024
+- Sai Kripa, D.No.2-59-9, KAKINADA, Andhra Pradesh 533 003, India: C071
+- Sannomiya Building South Goko-dori, Chuo-ku, Kobe: C024
+- SCIOS Certificatieregeling Hoofddocument (ISO Certificatieregeling Dee: C013, C025, C248
+- SCIOS Certificatiereglement: C013, C025, C248
+- SH Checklist Temporary Employment Agencies (VCU): C010, C029, C055
+- SH Checklist Temporary Employment Agencies (VCU) SHE Checklist Contrac: C024, C025, C435
+- Shamira Imber Gadish 9 Building B 5th Floor Kiryat Ono Israel Location: C560
+- SHE Checklist Contractors (VCA): C010, C013, C029, C055, C058, C248, C250
+- Sir Winston Churchill-laan 2288 EA Rijswijk The Netherlands Location S: C025
+- Sir Winston Churchilllaan 2288 AE Rijswijk Nederland: C700
+- Sir Winston Churchilllaan 2288 AE Rijswijk The Netherlands Location Vi: C637
+- Sirály u. 4 1124, Budapest Hongarije: C625
+- South Africa: C109
+- Stationsplein 13 8011 CW Zwolle The Netherlands Location Stationsplein: C499
+- Stationsweg 2 4191 KK Geldermalsen Nederland: C274
+- stemen – EN ISO 9001:2015 voor zorg en welzijn: C024
+- stemen, compatibel met ISO 9001:2015: C024
+- The accreditation This accreditation: C013
+- The Acres Office Park 20 Nile Road Perridgevale Port Elizabeth South A: C109
+- The Netherlands: C010, C025, C122, C250
+- The Pressure equipment and assemblies: C558
+- The Pressure equipment and assemblies The accreditation for accreditat: C122
+- transport, storage, trading and industrial manufacturing of safe feed/: C010
+- Type managementsysteem: C024, C029
+- Ul. Łużycka 6E, 81-537: C024
+- Unit 2101, 2102 E 2103,2104 Reem lsland, - Abu Dhabi: C024
+- Unit 700, Jameel Square Mohammed Bin Abdulaziz Jeddah, 22234-3965, Sau: C024
+- Unit No.407 4th Floor, Corporate 400059 ANDHERI EAST-MUMBAI India Loca: C584
+- Until 20-02-2027: C013
+- Van der Waalsweg 42 3241 ME Middelharnis Nederland: C617
+- Van der Waalsweg 42 3241ME Middelharnis Nederland: C617
+- Vd Houven van Oordtlaan 7316 AH Apeldoorn Nederland: C707
+- Velserweg 14 1942 LD Beverwijk Nederland: C501
+- Veritasveien 1, 1363 Høvik,: C024
+- Verlengde Tolweg 2C 2517 JV 'S-Gravenhage Nederland: C714
+- Verlengde Tolweg 2C 2517 JV ’S-Gravenhage Nederland: C714
+- Versie 3.1: C501
+- Versie 3.1 (Geldig tot 14-01-2028): C274
+- VG Checklist Uitzendorganisaties (VCU): C399, C495, C499
+- VG Checklist Uitzendorganisaties (VCU) VGM Checklist Aannemers (VCA): C501, C617
+- VGM Checklist Aannemers (VCA): C060, C063, C274, C399, C499
+- Vibhawadee Rangsit Road, Bangkok 10900, Thailand: C024
+- Warenwetbesluit: C558
+- Watermanweg 80 3067 GG Rotterdam Nederland: C693
+- Weerlaan 4B 2181 HH Hillegom Nederland: C708
+- Weerlaan 4B 2182 HH Hillegom Nederland: C708
+- Westervoortsedijk 60 6827 AT Arnhem The Netherlands Product / Product : C721
+- Westervoortsedijk 73 6827 AV Arnhem The Netherlands Location Westervoo: C058
+- Wilmersdorf 50: C025
+- Wormerveer: C250
+- zorg: C618
+- Zwolseweg 1 2994 LB Barendrecht The Netherlands cLocation Zwolseweg 1: C024
+
+## Removed by prune_inactive
+

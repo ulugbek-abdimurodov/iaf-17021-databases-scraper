@@ -1,0 +1,285 @@
+# ARMNAB dataset review
+
+- Retrieved: 2026-11-04
+- Bodies: 5
+- Accreditations: 22
+- Scope rows: 43
+- Standards used: FSSC 22000 (4), ISO 13485 (2), ISO 14001 (4), ISO 20121 (1), ISO 21001 (1), ISO 22000 (4), ISO 22301 (2), ISO 28000 (1), ISO 30301 (1), ISO 30401 (1), ISO 37001 (1), ISO 37101 (1), ISO 37301 (1), ISO 45001 (3), ISO 50001 (3), ISO 55001 (1), ISO 56001 (1), ISO 7101 (1), ISO 9001 (5), ISO/IEC 20000-1 (1), ISO/IEC 27001 (4)
+
+## Decisions to confirm (2)
+
+- Records before 2015 are written under ISO/IEC 17021-1; they may have been granted under ISO/IEC 17021:2011
+- English names are translations of the Armenian legal names (ENGLISH_NAMES); the register has no English version
+
+## Mappings (167)
+
+- MS00000016 ISO 9001: removed by reduction: 14, 17, 19, 24, 29/2, 32/2, 35, 36, 39
+- MS00000016 ISO 14001: removed by reduction: 6, 10, 11, 12, 14, 17, 17.1, 17.2, 19, 22, 23, 24, 29/1, 29/2, 30, 31/1, 32, 33, 35, 36, 37, 38/3, 39
+- MS00000016 ISO 22000: food category A -> 1
+- MS00000016 ISO 22000: food category B -> 1
+- MS00000016 ISO 22000: food category C -> 3
+- MS00000016 ISO 22000: food category D -> 3
+- MS00000016 ISO 22000: food category E -> 30
+- MS00000016 ISO 22000: food category F -> 29
+- MS00000016 ISO 22000: food category G -> 31
+- MS00000016 ISO 22000: food category H -> 35
+- MS00000016 ISO 22000: food category I -> 7;14-15;17
+- MS00000016 ISO 22000: food category K -> 12-13
+- MS00000016 FSSC 22000: food category C -> 3
+- MS00000016 FSSC 22000: food category D -> 3
+- MS00000016 FSSC 22000: food category E -> 3
+- MS00000016 FSSC 22000: food category L -> 12-13
+- MS00000016 FSSC 22000: food category M -> 7;14-15;17
+- MS00000016 ISO/IEC 27001: section B -> 2
+- MS00000016 ISO/IEC 27001: section D -> 25-27
+- MS00000016 ISO/IEC 27001: section E -> 27;39
+- MS00000016 ISO/IEC 27001: section J -> 8;31;33;39
+- MS00000016 ISO/IEC 27001: section K -> 32
+- MS00000016 ISO/IEC 27001: section P -> 37
+- MS00000016 ISO/IEC 27001: section Q -> 38
+- MS00000016 ISO/IEC 27001: section R -> 39
+- MS00000016 ISO/IEC 27001: sections removed by reduction: C, G, H, I, L, M, N, O, S, T, U
+- MS00000016 ISO 50001: technical area A -> 3-9;12-14;18-19;22-24
+- MS00000016 ISO 50001: technical area B -> 10;15-17;20-21;28;34
+- MS00000016 ISO 50001: technical area C -> 30;32;36-39
+- MS00000016 ISO 50001: technical area D -> 30;32;36-39
+- MS00000016 ISO 50001: technical area F -> 2
+- MS00000016 ISO 50001: technical area H -> 25-27
+- MS00000016 ISO 50001: technical areas removed by reduction: E, G
+- MS00000016 ISO 22301: section A -> 1
+- MS00000016 ISO 22301: section B -> 2
+- MS00000016 ISO 22301: section I -> 30
+- MS00000016 ISO 22301: section J -> 8;31;33;39
+- MS00000016 ISO 22301: section K -> 32
+- MS00000016 ISO 22301: sections removed by reduction: C, D, E, F, G, H, L, M, N, O, P, Q, R, S, T, U
+- MS00000016 ISO 45001: removed by reduction: 17, 6, 10, 12, 14, 31, 24, 29, 36
+- MS00000015 ISO 14001: removed by reduction: 20, 21
+- MS00000015 ISO 22000: food category A -> 1
+- MS00000015 ISO 22000: food category B -> 1
+- MS00000015 ISO 22000: food category C -> 3
+- MS00000015 ISO 22000: food category D -> 3
+- MS00000015 ISO 22000: food category E -> 30
+- MS00000015 ISO 22000: food category F -> 29
+- MS00000015 ISO 22000: food category G -> 31
+- MS00000015 ISO 22000: food category H -> 35
+- MS00000015 ISO 22000: food category I -> 7;14-15;17
+- MS00000015 ISO 22000: food category J -> 18
+- MS00000015 ISO 22000: food category K -> 12-13
+- MS00000015 FSSC 22000: food category C -> 3
+- MS00000015 FSSC 22000: food category D -> 3
+- MS00000015 FSSC 22000: food category E -> 3
+- MS00000015 FSSC 22000: food category L -> 12-13
+- MS00000015 FSSC 22000: food category M -> 7;14-15;17
+- MS00000015 ISO/IEC 27001: section B -> 2
+- MS00000015 ISO/IEC 27001: section C -> 3-7;9-10;12-15;17-23
+- MS00000015 ISO/IEC 27001: section D -> 25-27
+- MS00000015 ISO/IEC 27001: section E -> 27;39
+- MS00000015 ISO/IEC 27001: section G -> 29
+- MS00000015 ISO/IEC 27001: section H -> 31
+- MS00000015 ISO/IEC 27001: section I -> 30
+- MS00000015 ISO/IEC 27001: section J -> 8;31;33;39
+- MS00000015 ISO/IEC 27001: section K -> 32
+- MS00000015 ISO/IEC 27001: section L -> 32
+- MS00000015 ISO/IEC 27001: section M -> 34-35;38
+- MS00000015 ISO/IEC 27001: section N -> 32;35
+- MS00000015 ISO/IEC 27001: section O -> 36
+- MS00000015 ISO/IEC 27001: section P -> 37
+- MS00000015 ISO/IEC 27001: section Q -> 38
+- MS00000015 ISO/IEC 27001: section R -> 39
+- MS00000015 ISO/IEC 27001: section S -> 19;29;39
+- MS00000015 ISO 50001: technical area A -> 3-9;12-14;18-19;22-24
+- MS00000015 ISO 50001: technical area B -> 10;15-17;20-21;28;34
+- MS00000015 ISO 50001: technical area C -> 30;32;36-39
+- MS00000015 ISO 50001: technical area D -> 30;32;36-39
+- MS00000015 ISO 50001: technical area E -> 31
+- MS00000015 ISO 50001: technical area F -> 2
+- MS00000015 ISO 50001: technical area G -> 1
+- MS00000015 ISO 50001: technical area H -> 25-27
+- MS00000015 ISO 22301: all NACE sections listed -> ALL
+- MS00000015 ISO 28000: all NACE sections listed -> ALL
+- MS00000015 ISO 45001: all NACE sections listed -> ALL
+- MS00000015 ISO 13485: table A.1. 1 -> 13-14;17
+- MS00000015 ISO 13485: table A.1. 2 -> 19
+- MS00000015 ISO 13485: table A.1. 3 -> 19
+- MS00000015 ISO 13485: table A.1. 4 -> 12-13;19
+- MS00000015 ISO 13485: table A.1. 5 -> 35
+- MS00000015 ISO 13485: table A.1. 6 -> 13
+- MS00000015 ISO 13485: table A.1. 7 -> 18;29;31;34-35
+- MS00000015 ISO 7101: no sector list on the register -> ALL
+- MS00000015 ISO/IEC 20000-1: no sector list on the register -> ALL
+- MS00000015 ISO 20121: no sector list on the register -> ALL
+- MS00000015 ISO 37301: no sector list on the register -> ALL
+- MS00000015 ISO 37001: no sector list on the register -> ALL
+- MS00000015 ISO 56001: no sector list on the register -> ALL
+- MS00000015 ISO 55001: no sector list on the register -> ALL
+- MS00000015 ISO 30301: no sector list on the register -> ALL
+- MS00000015 ISO 37101: no sector list on the register -> ALL
+- MS00000015 ISO 21001: no sector list on the register -> ALL
+- MS00000015 ISO 30401: no sector list on the register -> ALL
+- MS00000013: merged extension block rows into ISO 50001
+- MS00000013: merged extension block rows into ISO/IEC 27001
+- MS00000013 ISO 22000: food category A -> 1
+- MS00000013 ISO 22000: food category B -> 1
+- MS00000013 ISO 22000: food category C -> 3
+- MS00000013 ISO 22000: food category D -> 3
+- MS00000013 ISO 22000: food category E -> 30
+- MS00000013 ISO 22000: food category F -> 29
+- MS00000013 ISO 22000: food category G -> 31
+- MS00000013 ISO 22000: food category H -> 35
+- MS00000013 ISO 22000: food category I -> 7;14-15;17
+- MS00000013 ISO 22000: food category J -> 18
+- MS00000013 ISO 22000: food category K -> 12-13
+- MS00000013 FSSC 22000: food category C -> 3
+- MS00000013 FSSC 22000: food category D -> 3
+- MS00000013 FSSC 22000: food category E -> 3
+- MS00000013 FSSC 22000: food category L -> 12-13
+- MS00000013 FSSC 22000: food category M -> 7;14-15;17
+- MS00000013 ISO 45001: section O -> 36
+- MS00000013 ISO 13485: table A.1. 1 -> 13-14;17
+- MS00000013 ISO 13485: table A.1. 2 -> 19
+- MS00000013 ISO 13485: table A.1. 3 -> 19
+- MS00000013 ISO 13485: table A.1. 4 -> 12-13;19
+- MS00000013 ISO 13485: table A.1. 5 -> 35
+- MS00000013 ISO 13485: table A.1. 6 -> 13
+- MS00000013 ISO 13485: table A.1. 7 -> 18;29;31;34-35
+- MS00000013 ISO 50001: technical area A -> 3-9;12-14;18-19;22-24
+- MS00000013 ISO 50001: technical area B -> 10;15-17;20-21;28;34
+- MS00000013 ISO 50001: technical area C -> 30;32;36-39
+- MS00000013 ISO 50001: technical area D -> 30;32;36-39
+- MS00000013 ISO 50001: technical area E -> 31
+- MS00000013 ISO 50001: technical area F -> 2
+- MS00000013 ISO 50001: technical area G -> 1
+- MS00000013 ISO 50001: technical area H -> 25-27
+- MS00000013 ISO/IEC 27001: section B -> 2
+- MS00000013 ISO/IEC 27001: section C -> 3-7;9-10;12-15;17-23
+- MS00000013 ISO/IEC 27001: section D -> 25-27
+- MS00000013 ISO/IEC 27001: section E -> 27;39
+- MS00000013 ISO/IEC 27001: section G -> 29
+- MS00000013 ISO/IEC 27001: section H -> 31
+- MS00000013 ISO/IEC 27001: section I -> 30
+- MS00000013 ISO/IEC 27001: section J -> 8;31;33;39
+- MS00000013 ISO/IEC 27001: section K -> 32
+- MS00000013 ISO/IEC 27001: section L -> 32
+- MS00000013 ISO/IEC 27001: section M -> 34-35;38
+- MS00000013 ISO/IEC 27001: section N -> 32;35
+- MS00000013 ISO/IEC 27001: section O -> 36
+- MS00000013 ISO/IEC 27001: section P -> 37
+- MS00000013 ISO/IEC 27001: section Q -> 38
+- MS00000013 ISO/IEC 27001: section S -> 19;29;39
+- MS00000012: merged extension block rows into ISO 22000
+- MS00000012: merged extension block rows into FSSC 22000
+- MS00000012 ISO 22000: food category A -> 1
+- MS00000012 ISO 22000: food category C -> 3
+- MS00000012 ISO 22000: food category E -> 30
+- MS00000012 ISO 22000: food category G -> 31
+- MS00000012 ISO 22000: food category H -> 35
+- MS00000012 ISO 22000: food category I -> 7;14-15;17
+- MS00000012 FSSC 22000: food category A -> 1
+- MS00000012 FSSC 22000: food category C -> 3
+- MS00000012 FSSC 22000: food category E -> 30
+- MS00000012 FSSC 22000: food category G -> 31
+- MS00000012 FSSC 22000: food category H -> 35
+- MS00000012 FSSC 22000: food category I -> 7;14-15;17
+
+## Exclusions (11)
+
+- MS00000011: WITHDRAWN record 007/M-007 (2023-02-20 to 2026-02-20) left out
+- MS00000010: WITHDRAWN record 006/M-006 (2022-10-11 to 2025-10-11) left out
+- MS00000009: WITHDRAWN record 005/M-005 (2022-09-19 to 2025-09-19) left out
+- MS00000008: WITHDRAWN record 004/M-004 (2022-08-24 to 2025-08-24) left out
+- MS00000007: WITHDRAWN record 003/M-003 (2020-12-14 to 2024-10-24) left out
+- MS00000006: WITHDRAWN record 002/M-002 (2020-06-09 to 2023-12-24) left out
+- MS00000005: WITHDRAWN record 001/M-001 (2018-10-10 to 2022-10-10) left out
+- MS00000003: WITHDRAWN record 003/Q-004, 003/E-004, 003/F-004, 002/L-002, 002/H-002 (2017-12-08 to 2020-12-08) left out
+- MS00000002: WITHDRAWN record 001/Q-003, 001/E-003, 001/F-003 (2017-11-28 to 2020-12-13) left out
+- MS00000004: WITHDRAWN record 002/Q-002, 002/E-002, 002/F-002, 001/K-001, 001/L-001, 001/H-001 (2015-03-24 to 2018-10-10) left out
+- MS00000001: WITHDRAWN record 001/Q-001, 001/E-001, 001/F-001 (2014-10-31 to 2017-10-31) left out
+
+## Fallbacks (0)
+
+- none
+
+## Cleaned values (21)
+
+- MS00000016: name `«ՆԱՐԵԿ» ԳԻՏԱՀԵՏԱԶՈՏԱԿԱՆ ՓԲԸ-ի կառավարման համակարգերի սերտիֆիկացման մարմին` -> `«ՆԱՐԵԿ» ԳԻՏԱՀԵՏԱԶՈՏԱԿԱՆ ՓԲԸ`
+- MS00000016 ISO 9001: 1 wrapped line(s) joined to the coded row after them
+- MS00000016 ISO/IEC 27001: 1 wrapped line(s) joined to the coded row after them
+- MS00000016 ISO 50001: 10 wrapped line(s) joined to the coded row after them
+- MS00000016 ISO 22301: 2 wrapped line(s) joined to the coded row after them
+- MS00000016 ISO 45001: 1 wrapped line(s) joined to the coded row after them
+- MS00000016: phone `+37491-00-57-57` -> `+374 91 005757`
+- MS00000015: name `«ԻՆՍՏՐՈՒԿՏԱՐԻՈՒՄ» ՍՊԸ-ի ԻՆՍՏՐՈՒԿՏԱՐԻՈՒՄ կառավարման համակարգերի սերտիֆիկացման մարմին` -> `«ԻՆՍՏՐՈՒԿՏԱՐԻՈՒՄ» ՍՊԸ`
+- MS00000015 ISO 9001: 1 wrapped line(s) joined to the coded row after them
+- MS00000015 FSSC 22000: 1 wrapped line(s) joined to the coded row after them
+- MS00000015 ISO 50001: 9 wrapped line(s) joined to the coded row after them
+- MS00000015 ISO 13485: 1 wrapped line(s) joined to the coded row after them
+- MS00000015: phone `+37494926512` -> `+374 94 926512`
+- MS00000014: name `«ՏԵՍՏՍՎՅԱԶ» ՍՊԸ կառավարման համակարգերի սերտիֆիկացման մարմին` -> `«ՏԵՍՏՍՎՅԱԶ» ՍՊԸ`
+- MS00000014 ISO 9001: 9 wrapped line(s) joined to the coded row after them
+- MS00000014: phone `37411661001` -> `+374 11 661001`
+- MS00000013: name `«ՍՏԱՆԴԱՐՏԱՑՄԱՆ ԵՎ ՉԱՓԱԳԻՏՈՒԹՅԱՆ ԱԶԳԱՅԻՆ ՄԱՐՄԻՆ» ՓԲԸ-ի կառավարման համակարգերի սերտիֆիկացման մարմին` -> `«ՍՏԱՆԴԱՐՏԱՑՄԱՆ ԵՎ ՉԱՓԱԳԻՏՈՒԹՅԱՆ ԱԶԳԱՅԻՆ ՄԱՐՄԻՆ» ՓԲԸ`
+- MS00000013 ISO 9001: 1 wrapped line(s) joined to the coded row after them
+- MS00000013: phone `+37410232600` -> `+374 10 232600`
+- MS00000012: name `«ՍԵՐՏԻՖԻԿԱՑՈՒՄ ԵՎ ՈՐԱԿ» ՍՊԸ-ի կառավարման համակարգերի սերտիֆիկացման մարմին` -> `«ՍԵՐՏԻՖԻԿԱՑՈՒՄ ԵՎ ՈՐԱԿ» ՍՊԸ`
+- MS00000012: phone `+37433350001` -> `+374 33 350001`
+
+## Unread scope lines (24)
+
+- MS00000016: ISO 22000: ԳՅՈՒՂԱՏՆՏԵՍՈՒԹՅՈՒՆ, ԱՆՏԱՌԱՅԻՆ ՏՆՏԵՍՈՒԹՅՈՒՆ ԵՎ ՁԿՆՈՐՍՈՒԹՅՈՒՆ -- Բաժին A
+- MS00000016: ISO 22000: ՄՇԱԿՈՂ ԱՐԴՅՈՒՆԱԲԵՐՈՒԹՅՈՒՆ
+- MS00000016: ISO 22000: Սննդամթերքի արտադրություն
+- MS00000016: ISO 22000: Խմիչքների արտադրություն
+- MS00000016: ISO 22000: Բույսերի ֆերմերային տնտեսություն
+- MS00000016: ISO 22000: Հանրային սննունդ
+- MS00000016: ISO 22000: Բաշխում սննդամթերքի
+- MS00000016: ISO 22000: Փոխադրման ապահովման և պահեստավորման ծառայություններ -- Բաժին C
+- MS00000015: ISO 22000: ԳՅՈՒՂԱՏՆՏԵՍՈՒԹՅՈՒՆ, ԱՆՏԱՌԱՅԻՆ ՏՆՏԵՍՈՒԹՅՈՒՆ ԵՎ ՁԿՆՈՐՍՈՒԹՅՈՒՆ -- Բաժին A
+- MS00000015: ISO 22000: ՄՇԱԿՈՂ ԱՐԴՅՈՒՆԱԲԵՐՈՒԹՅՈՒՆ
+- MS00000015: ISO 22000: Սննդամթերքի արտադրություն
+- MS00000015: ISO 22000: Խմիչքների արտադրություն
+- MS00000015: ISO 22000: Բույսերի ֆերմերային տնտեսություն
+- MS00000015: ISO 22000: Հանրային սննունդ
+- MS00000015: ISO 22000: Բաշխում սննդամթերքի
+- MS00000015: ISO 22000: Փոխադրման ապահովման և պահեստավորման ծառայություններ -- Բաժին C
+- MS00000015: FSSC 22000: Այլ կատեգորիաներ
+- MS00000015: scheme not recognised: 15 Սոցիալական կառավարման համակարգեր - -
+- MS00000015: standard outside any scheme: ԻՍՕ 26000, FSSC 24000, SA8000 SOCIAL ACCOUNTABILITY
+- MS00000015: scheme not recognised: 16 Հակակոռուպցիոն կառավարման համակարգեր
+- MS00000015: ISO 37101: 21 Կազմակերպության ենթակառուցվածքների կառավարում. Կառավարման համակարգ - -
+- MS00000015: ISO 21001: ԻՍՕ/ՏՌ 29996:2024
+- MS00000013: row outside any scheme: 04/11/2025
+- MS00000012: row outside any scheme: 18/05/2026
+
+## Additional documents named in scopes (23)
+
+- MS00000015 ISO 9001: `ԻՍՕ 15378:2017` not written as a scope
+- MS00000015 ISO 9001: `ՀՍՏ ԻՍՕ 31000-2021 /ISO 31000:2018` not written as a scope
+- MS00000015 ISO 9001: `3834` not written as a scope
+- MS00000015 ISO 9001: `ԻՍՕ 30414:2018 Մարդկային ռեսուրսների կառավարում. Ներքին և արտաքին մարդկային կապիտալի հաշվետվությունների ուղեցույցներ ԻՍՕ 30410:2018 Մարդկային ռեսուրսների կառավարման. Աշխատակիցների ընդունման չափանիշի ազդեցությունը` not written as a scope
+- MS00000015 ISO 9001: `ԻՍՕ 21500:2021 Նախագծի, ծրագրի և պորտֆելի կառավարում․ Համատեքստ և հասկացություններ` not written as a scope
+- MS00000015 ISO 9001: `ԻՍՕ 10001:2018 Որակի կառավարում. Հաճախորդների գոհունակություն. Կազմակերպությունների վարքագծի կանոնների ուղեցույցներ` not written as a scope
+- MS00000015 ISO 9001: `ԻՍՕ 22320:2018 Անվտանգություն և կայունություն․ Արտակարգ իրավիճակների կառավարում․ Միջադեպերի կառավարման ուղեցույցներ` not written as a scope
+- MS00000015 ISO 14001: `ՀՍՏ ԻՍՕ 31000-2021 /ԻՍՕ 31000:2018/` not written as a scope
+- MS00000015 ISO 14001: `ԻՍՕ 22320:2018` not written as a scope
+- MS00000015 ISO 22000: `HACCP/ՎՎՀԿԿ /CAC/RCP 1-1969` not written as a scope
+- MS00000015 ISO 22000: `ГОСТ 33980-2016 / CAC/GL 32-1999` not written as a scope
+- MS00000015 ISO/IEC 27001: `ԻՍՕ/ԻԷԿ 27701,` not written as a scope
+- MS00000015 ISO/IEC 27001: `ՀՍՏ ԻՍՕ 31000-2021 /ISO 31000:2018` not written as a scope
+- MS00000015 ISO 50001: `ՀՍՏ ԻՍՕ 31000-2021 /ԻՍՕ 31000:2018/` not written as a scope
+- MS00000015 ISO 45001: `ՀՍՏ ԻՍՕ 31000-2021 /ԻՍՕ 31000:2018/` not written as a scope
+- MS00000015 ISO 45001: `ԻՍՕ 22320:2018` not written as a scope
+- MS00000015 ISO 37001: `ԻՍՕ 37003:2025` not written as a scope
+- MS00000015 ISO 37101: `ԻՍՕ 41001:2018` not written as a scope
+- MS00000015 ISO 37101: `ԻՍՕ 41012:2017` not written as a scope
+- MS00000015 ISO 21001: `ԻՍՕ 29993:2017 ԻՍՕ 29992:2018 ԻՍՕ 29994:2021` not written as a scope
+- MS00000013 FSSC 22000: `ՀՍՏ ԻՍՕ 22000-2019/ԻՍՕ 22000:2018` not written as a scope
+- MS00000013 ISO 50001: `50001` not written as a scope
+- MS00000013 ISO/IEC 27001: `27001` not written as a scope
+
+## Missing annexes (5)
+
+- MS00000016: no annex or certificate file; scope read from the page
+- MS00000015: no annex or certificate file; scope read from the page
+- MS00000014: no annex or certificate file; scope read from the page
+- MS00000013: no annex or certificate file; scope read from the page
+- MS00000012: no annex or certificate file; scope read from the page

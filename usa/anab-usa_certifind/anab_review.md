@@ -1,0 +1,130 @@
+# ANAB conversion review
+
+Generated 2026-11-10: 105 bodies, 233 accreditations, 364 scope rows before pruning.
+
+## Notes
+
+- ABS Quality Evaluations, Inc. (MS-4771): reuses body row 'ABS Quality Evaluations, Inc' from ema-mexico
+- BSI Assurance UK Limited (MS-5664): reuses body row 'BSI Assurance UK Ltd' from ukas-united-kingdom
+- LRQA Limited (MS-6916): reuses body row 'LRQA Limited' from ukas-united-kingdom
+- NVT Quality Certification International LLP (MS-6355): reuses body row 'NVT Quality Certification International LLP' from nabcb-india
+- Perry Johnson Registrars, Inc. (MS-3912): reuses body row 'Perry Johnson Registrars, Inc.' from ema-mexico
+- TÜV SÜD America Inc. (MS-8254): reuses body row 'TÜV SÜD America Inc.' from scc-canada
+- World Certification Services Ltd. (MS-3343): reuses body row 'World Certification Services Limited' from ukas-united-kingdom
+- Global Standards S.C. (MS-5327): reuses body row 'Global Standards S.C.' from ema-mexico
+- AENOR CONFÍA, S.A. (Unipersonal) (MS-5976): reuses body row 'AENOR CONFÍA, S.A. (Unipersonal)' from enac-spain
+- BCC Inc. (MS-7895): reuses body row 'BCC Inc.' from ukas-united-kingdom
+- FAHSS W.L.L. (MS-6116): reuses body row 'FAHSS W.L.L' from eiac-uae
+- Schellman Compliance, LLC (MS-3780): reuses body row 'Schellman Compliance, LLC' from ukas-united-kingdom
+- Viscount Quality Certifications (MS-6115): reuses body row 'Viscount Quality Certifications' from eiac-uae
+- Baltic Control Certification A/S (MS-8936): reuses body row 'Baltic Control Certification A/S' from danak-denmark
+- EQA Group, S.A. de C.V. (MS-5467): reuses body row 'EQA GROUP S.A. DE C.V.' from ema-mexico
+- Japan Chemical Quality Assurance Ltd. (MS-2472): reuses body row 'Japan Chemical Quality Assurance Ltd.' from isms-ac-japan
+- A-LIGN Compliance and Security, Inc. dba A-LIGN (MS-4760): reuses body row 'A-LIGN Compliance and Security, Inc. dba A-LIGN' from ukas-united-kingdom
+- LL-C (Certification) Czech Republic a.s. (MS-5294): reuses body row 'LL-C (Certification) Czech Republic a. s.' from cai-czechia
+- Cotecna Inspection India Pvt. Ltd. (MS-1438): reuses body row 'Cotecna Inspection India Pvt. Ltd.' from nabcb-india
+- Global Compliance Certification Pty. Ltd. (MS-2510): reuses body row 'Global Compliance Certification Pty Ltd' from jasanz-australia
+- Scientific Certification Systems, Inc., DBA SCS Global Services (MS-3467): directory gives no address or dates; country set to United States
+- Scientific Certification Systems, Inc., DBA SCS Global Services (MS-3467): no importable scheme; dropped
+- Eurofins Assurance Audit and Certification Services US, LLC (MS-1032): directory gives no address or dates; country set to United States
+- Eurofins Assurance Audit and Certification Services US, LLC (MS-1032): no importable scheme; dropped
+- ISSPL Limited (MS-6950): directory gives no address or dates; country set to India
+- ISSPL Limited (MS-6950): no accreditation date in the directory (importer requires one); dropped (ISO 28000)
+- Speeki Pte. Ltd. (MS-5479): directory gives no address or dates; country set to Singapore
+- Speeki Pte. Ltd. (MS-5479): no accreditation date in the directory (importer requires one); dropped (ISO 37001)
+- Shanghai Ingeer Certification Assessment Co., Ltd (MS-1036): directory gives no address or dates; country set to China
+- Shanghai Ingeer Certification Assessment Co., Ltd (MS-1036): no accreditation date in the directory (importer requires one); dropped (ISO 37301)
+- Palindrome Technologies (MS-4287): directory gives no address or dates; country set to United States
+- Palindrome Technologies (MS-4287): no accreditation date in the directory (importer requires one); dropped (ISO/IEC 42001)
+- Zertia USA Corp. (MS-1033): directory gives no address or dates; country set to United States
+- Zertia USA Corp. (MS-1033): ANAB id already used by Emagine Compliance; record skipped
+- Averum, LLC (MS-1431): directory gives no address or dates; country set to United States
+- Averum, LLC (MS-1431): no importable scheme; dropped
+
+## Schemes not imported (scheme: bodies)
+
+- AS6081 (not in the standards table): National Quality Assurance, USA (MS-4126)
+- AS9110 (not in the standards table): National Quality Assurance, USA (MS-4126); ABS Quality Evaluations, Inc. (MS-4771); Amtivo (USA), Inc. (MS-3993); Aviation Suppliers Association dba ASACB (MS-9669); BSI Assurance UK Limited (MS-5664); Bureau Veritas Certification Holding SAS (MS-9222); DEKRA Certification, Inc. (MS-7497); DNV Business Assurance USA Inc. (MS-7496); Intertek Testing Services NA, Inc. dba Intertek and Intertek SAI Global (MS-4176); ISOQAR Inc. (MS-8976); NSF International Strategic Registrations, Ltd. (MS-6620); NVT Quality Certification International LLP (MS-6355); Perry Johnson Registrars, Inc. (MS-3912); Performance Review Institute dba PRI Certification (MS-3829); IAPMO R&T DBA IAPMO SCB (MS-9202); Smithers Quality Assessments, Inc. (MS-6209); Total Quality Certification Services International (Group) Pty Ltd. (MS-3260); TUV USA, Inc. (MS-8240)
+- AS9120 (not in the standards table): National Quality Assurance, USA (MS-4126); ABS Quality Evaluations, Inc. (MS-4771); Amtivo (USA), Inc. (MS-3993); Aviation Suppliers Association dba ASACB (MS-9669); BSI Assurance UK Limited (MS-5664); Bureau Veritas Certification Holding SAS (MS-9222); DEKRA Certification, Inc. (MS-7497); DNV Business Assurance USA Inc. (MS-7496); DQS Inc. (MS-7328); EAGLE Registrations Inc. (MS-7266); Intertek Testing Services NA, Inc. dba Intertek and Intertek SAI Global (MS-4176); International Standards Authority, Inc. (MS-9097); ISOQAR Inc. (MS-8976); Kalos Certifications LLC (MS-8961); LRQA Limited (MS-6916); Novo Star Management Systems Solutions India Private Limited (MS-6623); The National Standards Authority of Ireland, Inc. (MS-4070); NSF International Strategic Registrations, Ltd. (MS-6620); NVT Quality Certification International LLP (MS-6355); Perry Johnson Registrars, Inc. (MS-3912); Performance Review Institute dba PRI Certification (MS-3829); IAPMO R&T DBA IAPMO SCB (MS-9202); SGS North America Inc. (MS-3454); The Standards Institution of Israel, Quality and Certification Division (MS-4932); Smithers Quality Assessments, Inc. (MS-6209); Total Quality Certification Services International (Group) Pty Ltd. (MS-3260); TUV Rheinland of North America, Inc. (MS-8450); TUV USA, Inc. (MS-8240); TÜV SÜD America Inc. (MS-8254)
+- ATFS (US national forestry scheme): Bureau Veritas Certification Holding SAS (MS-9222); NSF International Strategic Registrations, Ltd. (MS-6620); Scientific Certification Systems, Inc., DBA SCS Global Services (MS-3467)
+- BA 9000 (US national scheme (body armor)): Perry Johnson Registrars, Inc. (MS-3912)
+- FAMI-QS (not in the standards table): Eurofins Assurance Audit and Certification Services US, LLC (MS-1032)
+- Leading Harvest (US national agriculture scheme): Averum, LLC (MS-1431)
+- R2 (electronics recycling sector scheme, not in the standards table): Amtivo (USA), Inc. (MS-3993); Intertek Testing Services NA, Inc. dba Intertek and Intertek SAI Global (MS-4176); The National Standards Authority of Ireland, Inc. (MS-4070); NSF International Strategic Registrations, Ltd. (MS-6620); Perry Johnson Registrars, Inc. (MS-3912)
+- RC14001 (US national scheme (Responsible Care)): ABS Quality Evaluations, Inc. (MS-4771); Amtivo (USA), Inc. (MS-3993); BSI Assurance UK Limited (MS-5664); DNV Business Assurance USA Inc. (MS-7496); DQS Inc. (MS-7328); Intertek Testing Services NA, Inc. dba Intertek and Intertek SAI Global (MS-4176); LRQA Limited (MS-6916); NSF International Strategic Registrations, Ltd. (MS-6620); FAHSS W.L.L. (MS-6116)
+- RIOS (recycling sector scheme, not in the standards table): Amtivo (USA), Inc. (MS-3993); NSF International Strategic Registrations, Ltd. (MS-6620); Perry Johnson Registrars, Inc. (MS-3912)
+- SFI (North American forestry scheme): Bureau Veritas Certification Holding SAS (MS-9222); Intertek Testing Services NA, Inc. dba Intertek and Intertek SAI Global (MS-4176); NSF International Strategic Registrations, Ltd. (MS-6620); Scientific Certification Systems, Inc., DBA SCS Global Services (MS-3467)
+- SN 9001 (not in the standards table): Smithers Quality Assessments, Inc. (MS-6209)
+- TL 9000 (not in the standards table): National Quality Assurance, USA (MS-4126); BSI Assurance UK Limited (MS-5664); Bureau Veritas Certification Holding SAS (MS-9222); DEKRA Certification, Inc. (MS-7497); DNV Business Assurance USA Inc. (MS-7496); DQS Inc. (MS-7328); The National Standards Authority of Ireland, Inc. (MS-4070); Perry Johnson Registrars, Inc. (MS-3912); TÜV SÜD America Inc. (MS-8254)
+
+## Removed by prune_inactive
+
+- accreditation MS-1025 (20000) (ISO/IEC 20000-6) NOA Testing & Certification Group Ltd.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1025 (22000) (ISO 22003-1) NOA Testing & Certification Group Ltd.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1025 (27006) (ISO/IEC 27006) NOA Testing & Certification Group Ltd.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1027 (27006) (ISO/IEC 27006) SC&H Group, Inc.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1028 (27006) (ISO/IEC 27006) Armanino Certified, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1028 (42001) (ISO/IEC 42006) Armanino Certified, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1033 (27006) (ISO/IEC 27006) Emagine Compliance: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1035 (27006) (ISO/IEC 27006) Fortreum INTL: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1038 (27006) (ISO/IEC 27006) IS Partners, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1093 (27006) (ISO/IEC 27006) Boulay Certifications, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1128 (27006) (ISO/IEC 27006) Sensiba LLP: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1128 (42001) (ISO/IEC 42006) Sensiba LLP: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1233 (27006) (ISO/IEC 27006) Linford & Company LLP: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1493 (27006) (ISO/IEC 27006) Payment Software Company, Inc.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1655 (22000) (ISO 22003-1) QIMA Food Certification LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1685 (27006) (ISO/IEC 27006) 360 Advanced Compass Rose: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-1845 (27006) (ISO/IEC 27006) Deloitte & Touche LLP: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-2169 (27006) (ISO/IEC 27006) ControlCase Assessments LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-2169 (42001) (ISO/IEC 42006) ControlCase Assessments LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-2444 (27006) (ISO/IEC 27006) BARR Certifications LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-2444 (42001) (ISO/IEC 42006) BARR Certifications LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-2472 (22000) (ISO 22003-1) Japan Chemical Quality Assurance Ltd.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-2510 (27006) (ISO/IEC 27006) Global Compliance Certification Pty Ltd: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-2550 (27006) (ISO/IEC 27006) Securisea CB, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-2550 (42001) (ISO/IEC 42006) Securisea CB, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-2562 (27006) (ISO/IEC 27006) Certification Institute for Research Quality: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-2666 (27006) (ISO/IEC 27006) Smith & Howard, P.C.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-2829 (27006) (ISO/IEC 27006) Frank, Rimerman Information Security, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-3086 (27006) (ISO/IEC 27006) LBMC Certification Services, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-3102 (27006) (ISO/IEC 27006) Consilium Labs Inc.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-4293 (22000) (ISO 22003-1) FSNS Certification and Audit, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-4418 (50003) (ISO 50003) CWB Registration, A division of CWB Industry Solutions, Ltd.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-4550 (27006) (ISO/IEC 27006) Ampcus Cyber India Private Limited: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-4760 (22301) (ISO/IEC 17021-6) A-LIGN Compliance and Security, Inc. dba A-LIGN: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-4760 (27006) (ISO/IEC 27006) A-LIGN Compliance and Security, Inc. dba A-LIGN: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-4760 (42001) (ISO/IEC 42006) A-LIGN Compliance and Security, Inc. dba A-LIGN: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-7631 (22000) (ISO 22003-1) China Quality Mark Certification Group Co., Ltd.: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-8529 (27006) (ISO/IEC 27006) CBIZ Security & Compliance, LLC: no valid ISO/IEC 17021-1 accreditation
+- accreditation MS-8936 (22000) (ISO 22003-1) Baltic Control Certification A/S: no valid ISO/IEC 17021-1 accreditation
+- body 360 Advanced Compass Rose (United States)
+- body A-LIGN Compliance and Security, Inc. dba A-LIGN (United States)
+- body Ampcus Cyber India Private Limited (India)
+- body Armanino Certified, LLC (United States)
+- body Baltic Control Certification A/S (Denmark)
+- body BARR Certifications LLC (United States)
+- body Boulay Certifications, LLC (United States)
+- body CBIZ Security & Compliance, LLC (United States)
+- body Certification Institute for Research Quality (United States)
+- body China Quality Mark Certification Group Co., Ltd. (China)
+- body Consilium Labs Inc. (United States)
+- body ControlCase Assessments LLC (United States)
+- body CWB Registration, A division of CWB Industry Solutions, Ltd. (Canada)
+- body Deloitte & Touche LLP (United States)
+- body Emagine Compliance (United States)
+- body Fortreum INTL (United States)
+- body Frank, Rimerman Information Security, LLC (United States)
+- body FSNS Certification and Audit, LLC (United States)
+- body Global Compliance Certification Pty Ltd (Australia)
+- body IS Partners, LLC (United States)
+- body Japan Chemical Quality Assurance Ltd. (Japan)
+- body LBMC Certification Services, LLC (United States)
+- body Linford & Company LLP (United States)
+- body NOA Testing & Certification Group Ltd. (China)
+- body Payment Software Company, Inc. (United States)
+- body QIMA Food Certification LLC (United States)
+- body SC&H Group, Inc. (United States)
+- body Securisea CB, LLC (United States)
+- body Sensiba LLP (United States)
+- body Smith & Howard, P.C. (United States)

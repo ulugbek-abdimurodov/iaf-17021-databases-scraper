@@ -1,0 +1,54 @@
+# NCA (Kazakhstan) review log
+
+Skipped registrations and schemes from https://techreg.kezekte.kz/ru/acc/subjects (activity type: ОПС системы менеджмента).
+
+- KZ.Q.01.0720 CAPITAL MANAGMENT LLP: skipped scheme LEGACY — generic NACE table without scheme
+- KZ.Q.01.0720 CAPITAL MANAGMENT LLP: skipped scheme OHSAS 18001 — withdrawn standard (replaced by ISO 45001)
+- KZ.Q.02.E0570 EUROASIA MS LLP (BIN 990540000275): accreditation Отозван (valid 07.10.2021–07.10.2026); not imported
+- KZ.Q.10.E0589 Сертификационный центр "Тарту-Стандарт" LLP (BIN 070640009394): accreditation Отозван (valid 07.10.2021–07.10.2026); not imported
+- KZ.Q.06.E0402 ЦЕНТР СЕРТИФИКАЦИИ "БАТЫС СЕРТ" LLP (BIN 100140002159): accreditation Отозван (valid 17.08.2021–17.08.2026); not imported
+- KZ.Q.02.E0370 QS АЛАТАУ СЕРТ LLP (BIN 150240022876): accreditation Отозван (valid 30.06.2021–30.06.2026); not imported
+- KZ.Q.01.E0363 ЦЕНТР СЕРТИФИКАЦИИ "АСТАНА МЕНЕДЖМЕНТ" LLP (BIN 100440000014): accreditation Отозван (valid 30.06.2021–30.06.2026); not imported
+- KZ.Q.09.E0310 ҰЛТТЫҚ СТАНДАРТ" СЕРТИФИКАТТАУ ОРТАЛЫҒЫ" LLP (BIN 091240006534): accreditation Отозван (valid 14.06.2021–14.06.2026); not imported
+- KZ.Q.02.0940 КАЗЭКСПОАУДИТ LLP (BIN 051140007834): accreditation Отозван (valid 03.02.2021–03.02.2026); not imported
+- KZ.O.01.0943 СТОЛИЧНЫЙ ЦЕНТР КАЧЕСТВА И МЕТРОЛОГИИ LLP (BIN 050840001055): accreditation Отозван (valid 03.02.2021–03.02.2026); not imported
+- KZ.Q.04.0040 Талдыкорганский центр сертификации и экспертизы LLP (BIN 141040009023): accreditation Отозван (valid 15.01.2021–15.01.2026); not imported
+- KZ.Q.02.0872 Т-СТАНДАРТ LLP (BIN 990940001103): accreditation Отозван (valid 07.12.2020–07.12.2025); not imported
+- KZ.Q.01.0858 КАЗ СЕРТ LLP (BIN 070540000941): accreditation Отозван (valid 16.10.2020–16.10.2025); not imported
+- KZ.Q.01.0994 CERTIFICATION CENTER LLP (BIN 140640022624): accreditation Отозван (valid 30.09.2020–30.09.2025); not imported
+- KZ.Q.01.0996 M-Company KZ LLP (BIN 141140026809): accreditation Отозван (valid 01.09.2020–01.09.2025); not imported
+- KZ.Q.02.0729 Казахстанский центр качества LLP (BIN 031240003594): accreditation Отозван (valid 14.08.2020–14.08.2025); not imported
+- KZ.Q.09.0070 Ekspert Group LLP (BIN 180640013890): accreditation Отозван (valid 07.08.2020–07.08.2025); not imported
+- KZ.Q.02.0740 Алматинское Бюро по Сертификации LLP (BIN 091240013067): accreditation Отозван (valid 07.08.2020–07.08.2025); not imported
+- KZ.Q.10.0069 Smart Cert LLP (BIN 190240003147): accreditation Отозван (valid 01.07.2020–01.07.2025); not imported
+- KZ.Q.01.0318 НАЦИОНАЛЬНЫЙ ЦЕНТР ЭКСПЕРТИЗЫ И СЕРТИФИКАЦИИ JSC (BIN 001040000498): accreditation Отозван (valid 01.07.2019–01.07.2024); not imported
+- KZ.Q.02.0305 QS Azia Sertik LLP (BIN 050940004241): accreditation Отозван (valid 03.05.2019–03.05.2024); not imported
+- KZ.Q.09.0533 НАЦИОНАЛЬНЫЙ ЦЕНТР СЕРТИФИКАЦИИ LLP (BIN 180640016171): accreditation Отозван (valid 24.01.2019–24.01.2024); not imported
+- KZ.Q.01.0483 КАЗПРОМ СЕРТ LLP (BIN 151140008348): accreditation Отозван (valid 29.12.2018–29.12.2023); not imported
+- KZ.Q.14.0974 РЕГИОНАЛЬНЫЙ НАУЧНО-ПРАКТИЧЕСКИЙ ЦЕНТР "СИСТЕМА" LLP (BIN 121240014330): accreditation Отозван (valid 04.12.2018–04.12.2023); not imported
+- KZ.Q.13.0194 ПРИКАСПИЙСКИЙ ЦЕНТР СЕРТИФИКАЦИИ LLP (BIN 050140005499): accreditation Отозван (valid 29.11.2018–29.11.2023); not imported
+- KZ.Q.08.0977 ЦЕНТР КАЧЕСТВА "НЕЗАВИСИМЫЙ ЭКСПЕРТ" LLP (BIN 130740018390): accreditation Отозван (valid 05.11.2018–05.11.2023); not imported
+- KZ.Q.02.0207 ЦЕНТР СЕРТИФИКАЦИИ "INTERCERT" LLP (BIN 050640007740): accreditation Отозван (valid 12.09.2018–12.09.2023); not imported
+- KZ.Q.02.0467 Премиум Серт Qazaqstan LLP (BIN 170340025712): accreditation Отозван (valid 04.09.2018–04.09.2023); not imported
+- KZ.Q.01.0448 РЕСПУБЛИКАНСКИЙ ЦЕНТР СЕРТИФИКАЦИИ СИСТЕМ МЕНЕДЖМЕНТА LLP (BIN 180340026168): accreditation Отозван (valid 20.07.2018–20.07.2023); not imported
+- KZ.Q.01.0970 TEAM EXPERT SM LLP (BIN 120740007452): accreditation Отозван (valid 14.06.2018–14.06.2023); not imported
+- KZ.Q.10.0863 PRIME CERT LLP (BIN 170840024366): accreditation Отозван (valid 06.06.2018–06.06.2023); not imported
+- KZ.Q.02.0831 QAZAQ certification LLP (BIN 170540031526): accreditation Отозван (valid 26.04.2018–26.07.2023); not imported
+- KZ.Q.02.0489 ЦЕНТР СЕРТИФИКАЦИИ ISO KZ LLP (BIN 161140018743): accreditation Отозван (valid 28.07.2017–28.07.2022); not imported
+- KZ.Q.13.0458 КАЗАХСТАНСКОЕ АГЕНТСТВО ЭКСПЕРТИЗЫ И СЕРТИФИКАЦИИ "СОЮЗ ЕВРАЗИЯ" LLP (BIN 170340010010): accreditation Отозван (valid 05.07.2017–05.07.2022); not imported
+- KZ.O.02.0399 Metrology&Certification LLP (BIN 161040015319): accreditation Отозван (valid 27.04.2017–27.04.2022); not imported
+- KZ.Q.16.0963 ТУРАН БИЗНЕС ГРУПП LLP (BIN 110940003930): accreditation Отозван (valid 17.04.2017–17.04.2022); not imported
+- KZ.Q.02.0293 Business Expert KZ LLP (BIN 160140013016): accreditation Отозван (valid 30.12.2016–30.12.2021); not imported
+- KZ.Q.02.0141 САПА ИНТЕРСИСТЕМ LLP (BIN 020140000778): accreditation Отозван (valid 15.12.2016–15.12.2021); not imported
+- KZ.Q.10.0959 РАСТАМА-СЕРТ LLP (BIN 110440014670): accreditation Отозван (valid 15.12.2016–15.12.2021); not imported
+- KZ.Q.02.0952 ОРДА СЕРТ LLP (BIN 160140016299): accreditation Отозван (valid 24.11.2016–24.11.2021); not imported
+- KZ.Q.02.0961 КАЗСЕРТЦЕНТР LLP (BIN 110540011005): accreditation Отозван (valid 14.11.2016–14.11.2021); not imported
+- KZ.Q.08.0958 ГРУППА ПО СТАНДАРТИЗАЦИИ, СЕРТИФИКАЦИИ И МЕТРОЛОГИИ "ZHAMBYL STANDART" LLP (BIN 070740013138): accreditation Отозван (valid 02.11.2016–02.11.2021); not imported
+- KZ.Q.02.0178 ТЕКС LLP (BIN 960740000539): accreditation Отозван (valid 18.10.2016–18.10.2021); not imported
+- KZ.Q.01.0957 BUSINESS CERTIFICATION CENTRE LLP (BIN 110240017310): accreditation Отозван (valid 13.09.2016–13.09.2021); not imported
+- KZ.Q.03.0954 АЛТЫН СЕРТИФ LLP (BIN 100440016497): accreditation Отозван (valid 02.08.2016–02.08.2021); not imported
+- KZ.Q.02.0151 АЛМАТЫЭКСПЕРТИЗА LLP (BIN 050640001642): accreditation Отозван (valid 26.07.2016–26.07.2021); not imported
+- KZ.Q.06.0955 ЦЕНТР СЕРТИФИКАЦИИ "БАТЫС СЕРТ" LLP (BIN 100140002159): accreditation Отозван (valid 29.06.2016–29.06.2021); not imported
+- KZ.Q.01.0950 ЦЕНТР СЕРТИФИКАЦИИ "АСТАНА МЕНЕДЖМЕНТ" LLP (BIN 100440000014): accreditation Отозван (valid 21.06.2016–21.06.2021); not imported
+- KZ.Q.02.0175 QS АЛАТАУ СЕРТ LLP (BIN 150240022876): accreditation Отозван (valid 29.04.2016–29.04.2021); not imported
+- KZ.Q.10.0944 СЕРТИФИКАЦИОННЫЙ ЦЕНТР "ТАРТУ-СТАНДАРТ" LLP (BIN 070640009394): accreditation Отозван (valid 08.02.2016–08.02.2021); not imported

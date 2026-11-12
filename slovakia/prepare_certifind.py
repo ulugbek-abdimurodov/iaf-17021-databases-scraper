@@ -51,6 +51,9 @@ ACCREDITATION_COLUMNS = ["ab_code", "certificate_number", "body_name", "accredit
                          "status", "issue_date", "expiry_date", "proof_url"]
 SCOPE_COLUMNS = ["certificate_number", "certification_standard", "ea_codes", "status", "scope_note"]
 SOURCE_URL = "https://ais.snas.sk/web-report"
+# Public download of one annex PDF ("Rozsah akreditácie"); used as each accreditation's proof link.
+ANNEX_URL = "https://ais.snas.sk/api/web/download/{}"
+ANNEX_IDS: dict[str, dict[str, str]] = {}  # certificate number -> language -> SNAS file id
 ALL_NOTE = "No sector list in the SNAS annex; recorded for all EA sectors"
 
 # SNAS accreditation field id -> (certification standard, kind of sector list).
@@ -302,6 +305,7 @@ def main() -> None:
     for f in csv.DictReader(open(args.scrape / "files.csv", encoding="utf-8-sig")):
         if f["status"] in ("downloaded", "already_present"):
             files[f["certificate_no"]][f["language"]] = args.scrape / f["path"]
+            ANNEX_IDS.setdefault(f["certificate_no"], {})[f["language"]] = f["file_id"]
 
     review: list[str] = []
     entries = []  # one per SNAS certificate with an importable scheme
@@ -447,7 +451,14 @@ def main() -> None:
 def acc_row(cert: str, body: str, standard: str, e: dict) -> dict:
     return {"ab_code": AB_CODE, "certificate_number": cert, "body_name": body,
             "accreditation_standard": standard, "status": e["status"], "issue_date": e["issue"],
-            "expiry_date": e["expiry"], "proof_url": SOURCE_URL}
+            "expiry_date": e["expiry"], "proof_url": annex_url(cert)}
+
+
+def annex_url(cert: str) -> str:
+    """Link to the certificate's annex PDF (English if published, else Slovak), else the register."""
+    ids = ANNEX_IDS.get(cert, {})
+    file_id = ids.get("en") or ids.get("sk")
+    return ANNEX_URL.format(file_id) if file_id else SOURCE_URL
 
 
 def scope_row(cert: str, std: str, codes: set[int], note: str) -> dict:

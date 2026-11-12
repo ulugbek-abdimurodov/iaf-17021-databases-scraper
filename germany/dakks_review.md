@@ -1,0 +1,122 @@
+# DAkkS conversion review
+
+Generated 2026-11-05: 103 bodies, 221 accreditations, 345 scope rows before pruning.
+
+## Notes
+
+- D-ZM-11200-01-03 Steinbeis GmbH & Co. KG für Technologietransfer EQ ZERT: MAAS-BGW (German statutory accident insurance scheme) not imported
+- D-ZM-11200-01-04 Steinbeis GmbH & Co. KG für Technologietransfer EQ ZERT: BAR / rehabilitation QM schemes (German social law) not imported
+- D-ZM-12007-01-04 TÜV NORD CERT GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-12007-01-06 TÜV NORD CERT GmbH: IEC 62443 (industrial automation security; not in CertiFind) not imported
+- D-ZM-12007-01-06 TÜV NORD CERT GmbH: ISO/SAE 21434 (vehicle cybersecurity; not in CertiFind) not imported
+- D-ZM-12007-01-06 TÜV NORD CERT GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-12007-01-06 TÜV NORD CERT GmbH: VDA prototype protection (German automotive industry) not imported
+- D-ZM-12007-01-08 TÜV NORD CERT GmbH: FAMI-QS (feed additives; not in CertiFind) not imported
+- D-ZM-12007-01-09 TÜV NORD CERT GmbH: IATF 16949 (IATF oversight, not accreditation) not imported
+- D-ZM-12007-01-11 TÜV NORD CERT GmbH: BAR / rehabilitation QM schemes (German social law) not imported
+- D-ZM-12007-07-00 TÜV NORD CERT GmbH: EN 9110 / 9120 (aviation maintenance / distributors; not in CertiFind) not imported
+- D-ZM-14137-01-03 TÜV Technische Überwachung Hessen GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-14137-01-04 TÜV Technische Überwachung Hessen GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-14137-01-05 TÜV Technische Überwachung Hessen GmbH: BAR / rehabilitation QM schemes (German social law) not imported
+- D-ZM-14137-01-06 TÜV Technische Überwachung Hessen GmbH: IATF 16949 (IATF oversight, not accreditation) not imported
+- D-ZM-14143-01-02 TÜV SÜD Management Service GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-14143-01-03 TÜV SÜD Management Service GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-14143-01-03 TÜV SÜD Management Service GmbH: VDA prototype protection (German automotive industry) not imported
+- D-ZM-14143-01-05 TÜV SÜD Management Service GmbH: IATF 16949 (IATF oversight, not accreditation) not imported
+- D-ZM-14143-02-01 TÜV SÜD Management Service GmbH: FAMI-QS (feed additives; not in CertiFind) not imported
+- D-ZM-14143-04-00 TÜV SÜD Management Service GmbH: EN 9110 / 9120 (aviation maintenance / distributors; not in CertiFind) not imported
+- D-ZM-14169-01-01 TÜV Rheinland LGA Products GmbH: EU directive / regulation modules (notified-body activities) not imported
+- D-ZM-14169-01-02 TÜV Rheinland LGA Products GmbH: EU directive / regulation modules (notified-body activities) not imported
+- D-ZM-16001-01-03 ICG Zertifizierung GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16002-06-00 mdc medical device certification GmbH: EU directive / regulation modules (notified-body activities) not imported
+- D-ZM-16003-01-02 GUT Certifizierungsgesellschaft für Managementsysteme mbH Umweltgutachter: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-16004-01-02 Zertifizierung Bau GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16006-03-01 Technischer Überwachungs-Verein Thüringen e.V. Zertifizierungsstelle für Systeme und Personal: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-16006-05-02 Technischer Überwachungs-Verein Thüringen e.V.: IATF 16949 (IATF oversight, not accreditation) not imported
+- D-ZM-16006-05-03 Technischer Überwachungs-Verein Thüringen e.V.: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16007-01-03 PÜG Prüf- und Überwachungsgesellschaft mbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-16007-01-05 PÜG Prüf- und Überwachungsgesellschaft mbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16007-01-06 PÜG Prüf- und Überwachungsgesellschaft mbH: EU directive / regulation modules (notified-body activities) not imported
+- D-ZM-16012-01-03 InterCert GmbH – Group of MTIC -: status Teilweise ausgesetzt since 26.06.2026; ISO 50001 left out
+- D-ZM-16012-01-04 InterCert GmbH – Group of MTIC -: status Teilweise ausgesetzt since 07.10.2026; ISO/IEC 27001 left out
+- D-ZM-16012-01-05 InterCert GmbH – Group of MTIC -: EU directive / regulation modules (notified-body activities) not imported
+- D-ZM-16013-01-02 ZDH-ZERT GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16014-01-02 CERTiQ Zertifizierungsdienstleistungen GmbH: BAR / rehabilitation QM schemes (German social law) not imported
+- D-ZM-16015-01-03 ÖHMI EuroCert GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-16023-01-02 infaz Institut für Auditierung und Zertifizierung GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-16024-01-04 Bureau Veritas Certification Germany GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16029-01-02 DEKRA Certification GmbH: EN 9110 / 9120 (aviation maintenance / distributors; not in CertiFind) not imported
+- D-ZM-16029-01-03 DEKRA Certification GmbH: IATF 16949 (IATF oversight, not accreditation) not imported
+- D-ZM-16029-01-04 DEKRA Certification GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-16029-01-04 DEKRA Certification GmbH: VDA prototype protection (German automotive industry) not imported
+- D-ZM-16029-01-08 DEKRA Certification GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16029-01-09 DEKRA Certification GmbH: BAR / rehabilitation QM schemes (German social law) not imported
+- D-ZM-16031-01-02 TÜV Rheinland Cert GmbH: EN 9110 / 9120 (aviation maintenance / distributors; not in CertiFind) not imported
+- D-ZM-16031-01-04 TÜV Rheinland Cert GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-16031-01-07 TÜV Rheinland Cert GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16031-01-09 TÜV Rheinland Cert GmbH: IATF 16949 (IATF oversight, not accreditation) not imported
+- D-ZM-16033-01-02 DMSZ Deutsche Managementsystem Zertifizierungsgesellschaft mbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16033-01-04 DMSZ Deutsche Managementsystem Zertifizierungsgesellschaft mbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-16039-01-02 LGA InterCert Zertifizierungsgesellschaft mbH: BAR / rehabilitation QM schemes (German social law) not imported
+- D-ZM-16064-01-03 GZQ GmbH: EU directive / regulation modules (notified-body activities) not imported
+- D-ZM-16070-01-02 DeuZert Deutsche Zertifizierung in Bildung und Wirtschaft GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-16074-01-01 DQS GmbH Deutsche Gesellschaft zur Zertifizierung von Managementsystemen: EN 9110 / 9120 (aviation maintenance / distributors; not in CertiFind) not imported
+- D-ZM-16074-01-02 DQS GmbH Deutsche Gesellschaft zur Zertifizierung von Managementsystemen: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-16074-01-03 DQS GmbH Deutsche Gesellschaft zur Zertifizierung von Managementsystemen: IATF 16949 (IATF oversight, not accreditation) not imported
+- D-ZM-16074-01-04 DQS GmbH Deutsche Gesellschaft zur Zertifizierung von Managementsystemen: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16074-01-08 DQS GmbH Deutsche Gesellschaft zur Zertifizierung von Managementsystemen: BAR / rehabilitation QM schemes (German social law) not imported
+- D-ZM-16077-01-01 datenschutz cert GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-16083-01-02 DVS ZERT GmbH Geschäftsstelle Halle (Saale): SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16089-01-03 ESC Cert GmbH: BAR / rehabilitation QM schemes (German social law) not imported
+- D-ZM-16092-01-04 IFU-CERT GmbH Zertifizierungsgesellschaft und Umweltgutachterorganisation: BAR / rehabilitation QM schemes (German social law) not imported
+- D-ZM-16095-01-03 MSzert GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16102-01-03 Kiwa International Cert GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-16102-01-04 Kiwa International Cert GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-16103-01-02 KPMG Cert GmbH Umweltgutachterorganisation: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-17431-01-02 ZER-QMS Zertifizierungsstelle GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-17431-01-04 ZER-QMS Zertifizierungsstelle GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-17751-03-02 Normec VQZ GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-18453-01-00 DNV Business Assurance Zertifizierung GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-18824-01-01 GTÜ Certification GmbH: IATF 16949 (IATF oversight, not accreditation) not imported
+- D-ZM-18855-01-01 SOCOTEC Certification Deutschland GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-18926-01-00 Würth IT GmbH ccSec, Certification Center Security, Zertifizierungsstelle der Würth IT GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-18979-01-01 GFA Certification GmbH: PEFC national forest management standard (national scheme) not imported
+- D-ZM-19660-01-02 DC Deutsche Cert GmbH & Co. KG: BAR / rehabilitation QM schemes (German social law) not imported
+- D-ZM-20736-01-02 Qualidata GmbH: SCC / SCP (German-Dutch contractor safety scheme) not imported
+- D-ZM-21011-01-02 TÜV Saarland Certification GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-21371-01-01 RSM Certification GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-23224-01-01 CERTIAS GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-23393-01-01 WSS Würth Shared Services GmbH ccSec, Certification Center Security, Zertifizierungsstelle der WSS Würth Shared Services GmbH: IT-Sicherheitskatalog § 11 EnWG (German energy-sector law) not imported
+- D-ZM-12007-05-00: merged into D-ZM-12007-01-00 (one accreditation per body and standard)
+- D-ZM-12007-07-00: merged into D-ZM-12007-01-00 (one accreditation per body and standard)
+- D-ZM-14143-02-00: merged into D-ZM-14143-01-00 (one accreditation per body and standard)
+- D-ZM-14143-04-00: merged into D-ZM-14143-01-00 (one accreditation per body and standard)
+- D-ZM-14150-05-00: merged into D-ZM-14150-01-00 (one accreditation per body and standard)
+- D-ZM-15110-02-00: merged into D-ZM-15110-01-00 (one accreditation per body and standard)
+- D-ZM-16002-06-00: merged into D-ZM-16002-01-00 (one accreditation per body and standard)
+- D-ZM-16006-02-00: merged into D-ZM-16006-01-00 (one accreditation per body and standard)
+- D-ZM-16006-03-00: merged into D-ZM-16006-01-00 (one accreditation per body and standard)
+- D-ZM-16006-04-00: merged into D-ZM-16006-01-00 (one accreditation per body and standard)
+- D-ZM-16006-05-00: merged into D-ZM-16006-01-00 (one accreditation per body and standard)
+- D-ZM-16007-02-00: merged into D-ZM-16007-01-00 (one accreditation per body and standard)
+- D-ZM-16013-04-00: merged into D-ZM-16013-01-00 (one accreditation per body and standard)
+- D-ZM-16013-06-00: merged into D-ZM-16013-01-00 (one accreditation per body and standard)
+- D-ZM-16019-02-00: merged into D-ZM-16019-01-00 (one accreditation per body and standard)
+- D-ZM-16021-02-00: merged into D-ZM-16021-01-00 (one accreditation per body and standard)
+- D-ZM-16029-08-00: merged into D-ZM-16029-01-00 (one accreditation per body and standard)
+- D-ZM-14530-01-00 Eurofins ARS PROBATA GmbH: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- D-ZM-16030-02-00 PwC Certification Services GmbH: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- D-ZM-16077-01-00 datenschutz cert GmbH: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- D-ZM-18855-01-00 SOCOTEC Certification Deutschland GmbH: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- D-ZM-18926-01-00 Würth IT GmbH ccSec, Certification Center Security: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- D-ZM-20244-01-00 OmniCert Umweltgutachter GmbH: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- D-ZM-20646-01-00 Normec Zertifizierung Umweltgutachter GmbH: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- D-ZM-21575-01-00 Zertifizierungsinstitut für Informationssicherheit Dr. Scharff GmbH: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- D-ZM-22467-01-00 FiduCert GmbH: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- D-ZM-22855-01-00 China Quality Certification Centre Co., Ltd.: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- D-ZM-23224-01-00 CERTIAS GmbH: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- D-ZM-23239-01-00 intellcert GmbH: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+- D-ZM-23393-01-00 WSS Würth Shared Services GmbH ccSec, Certification Center Security: only schemes with their own accreditation standard; ISO/IEC 17021-1 row kept without scopes
+
+## Removed by prune_inactive
+
