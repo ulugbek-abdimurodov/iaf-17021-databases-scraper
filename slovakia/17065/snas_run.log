@@ -1,0 +1,49 @@
+List 'valid': 593 rows, 39 selected
+List 'suspended': 7 rows, 0 selected
+List 'expired': 164 rows, 3 selected
+Processing 42 certificates
+[1/42] P-012  EVPÚ a.s.
+[2/42] P-035  Slovenský metrologický ústav
+[3/42] P-048  LIGNOTESTING, a.s.
+[4/42] P-006  Výskumný ústav chemických vlákien, a.s.
+[5/42] P-021  KONŠTRUKTA - Defence, a.s.
+[6/42] P-028  VUJE, a.s.
+[7/42] P-041  PRVÁ ZVÁRAČSKÁ, a.s.
+[8/42] P-060  Vojenský technický a skúšobný ústav Záhorie
+[9/42] P-020  TÜV SÜD Slovakia s.r.o.
+[10/42] P-053  QUALIFORM SLOVAKIA s.r.o.
+[11/42] P-022  Naturalis SK, s.r.o.
+[12/42] P-025  Štátna veterinárna a potravinová správa Slovenskej republiky
+[13/42] P-061  VUIS – CESTY, spol. s r. o.
+[14/42] P-059  Cech zváračských odborníkov
+[15/42] P-032  E.I.C.Engineering inspection company s.r.o.
+[16/42] P-009  Výskumný ústav zváračský
+[17/42] P-001  Výskumný ústav dopravný, a.s.
+[18/42] P-034  ZEN - SERVIS, spol. s r.o.
+[19/42] P-068  SMC Slovensko a. s.
+[20/42] P-016  Technický a skúšobný ústav stavebný, n.o.
+[21/42] P-007  FIRES, s.r.o.
+[22/42] P-046  VIPO a.s.
+[23/42] P-011  VÚSAPL, a.s.
+[24/42] P-047  Bratislavská metrologická spoločnosť s.r.o.
+[25/42] P-063  Certifikačný a inšpekčný orgán SR, s. r. o. 
+[26/42] P-051  bqs. s.r.o.
+[27/42] P-017  Slovenská legálna metrológia, n.o.
+[28/42] P-052  VIACARE, s.r.o.
+[29/42] P-055  CertiWise, s. r. o.
+[30/42] P-054  Bundesamt für Eich- und Vermessungswesen
+[31/42] P-057  TÜV Thüringen Slovakia s.r.o.
+[32/42] P-056  PRVÁ CERTIFIKAČNÁ s.r.o.
+[33/42] P-058  VUZ Slovakia, s.r.o.
+[34/42] P-062  SK PRODUKT CERT s.r.o.
+[35/42] P-002  VUTCH s.r.o.
+[36/42] P-064  CERTEX, a.s.
+[37/42] P-065  ENVIROTREE s. r. o. 
+[38/42] P-066  Národný bezpečnostný úrad
+[39/42] P-067  OETI Slovakia s.r.o.
+[40/42] P-018  Technický skúšobný ústav Piešťany, a. s.
+[41/42] P-049  QSCert, spol. s r.o.
+[42/42] P-019  Technická inšpekcia, a.s.
+
+Done: 42 bodies, 42 certificates, 38 units, 62 files in C:\Users\vbrgr\Desktop\CertiFind\database\slovakia\17065\snas_17065_output
+exit 0

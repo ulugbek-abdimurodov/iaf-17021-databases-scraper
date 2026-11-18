@@ -1,0 +1,20 @@
+2026-11-18 14:59:40,038 INFO    Category 4 Organisme de certificare produse (act_id=6)
+2026-11-18 14:59:40,402 INFO      list act_id=6: 15/15
+2026-11-18 14:59:40,903 INFO    Total records: 15
+2026-11-18 14:59:42,682 INFO    [1/15] AEROQ SA | PR 008 | exp 20.11.2028 | pdf: Y/Y
+2026-11-18 14:59:42,852 INFO    [2/15] CERTIND SA | PR 100 | exp 20.03.2029 | pdf: Y/Y
+2026-11-18 14:59:43,225 INFO    [3/15] ALL CERT PRODUCT SRL | PR 085 | exp 18.12.2029 | pdf: Y/Y
+2026-11-18 14:59:43,402 INFO    [4/15] ELECTRIC PRODUCTS CERTIFICATION INDEPENDENT BODY - OICPE SRL | PR 017 | exp 10.11.2030 | pdf: Y/Y
+2026-11-18 14:59:44,076 INFO    [5/15] EXPERT CERT SYSTEMS SRL | PR 096 | exp 13.06.2030 | pdf: Y/Y
+2026-11-18 14:59:48,960 INFO    [6/15] QUALITAS SA | PR 015 | exp 27.08.2030 | pdf: Y/Y
+2026-11-18 14:59:56,914 INFO    [7/15] QUALITY-CERT SA | PR 027 | exp 03.09.2029 | pdf: Y/Y
+2026-11-18 15:00:01,790 INFO    [8/15] RAD CERT SRL | PR 087 | exp 28.04.2030 | pdf: Y/Y
+2026-11-18 15:00:05,798 INFO    [9/15] INSTITUTUL NAȚIONAL DE CERCETARE DEZVOLTARE PENTRU TEXTILE ȘI PIELĂRIE - INCDTP BUCUREȘTI | PR 099 | exp 11.12.2028 | pdf: Y/Y
+2026-11-18 15:00:10,581 INFO    [10/15] SOCIETATEA DE CERTIFICARE ICECON CERT SR | PR 049 | exp 21.10.2029 | pdf: Y/Y
+2026-11-18 15:00:18,280 INFO    [11/15] SOCIETATEA DE INSPECȚIE TEHNICĂ UTIL-ECHIP INSPECT SRL | PR 098 | exp 01.08.2028 | pdf: Y/Y
+2026-11-18 15:00:23,079 INFO    [12/15] SRAC CERT SRL | PR 095 | exp 24.08.2029 | pdf: Y/Y
+2026-11-18 15:00:29,639 ERROR   Download failed https://cms.renar.ro/alfresco/api/-default-/public/alfresco/versions/1/shared-links/VgZfgFZZT4WGX4BWWV-FmA/content -> 429 Client Error: Too Many Requests for url: https://cms.renar.ro/alfresco/api/-default-/public/alfresco/versions/1/shared-links/VgZfgFZZT4WGX4BWWV-FmA/content
+2026-11-18 15:00:30,182 INFO    [13/15] IRD CERTIFICARE | PR 097 | exp 05.05.2030 | pdf: Y/Y
+2026-11-18 15:00:30,770 INFO    [14/15] LACECA SA | PR 101 | exp 03.09.2030 | pdf: -/Y
+2026-11-18 15:00:48,719 INFO    [15/15] RINA SIMTEX - ORGANISMUL DE CERTIFICARE SRL | PR 089 | exp 15.04.2027 | pdf: Y/Y
+2026-11-18 15:00:49,118 INFO    Done. 15 records | 14 certificate PDFs | 15 annex PDFs | output: C:\Users\vbrgr\Desktop\CertiFind\database\romania\17065\renar_17065_output
