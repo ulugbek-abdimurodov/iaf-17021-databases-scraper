@@ -328,7 +328,7 @@ def industry_of(text: str) -> str:
     return next((ind for rx, ind in INDUSTRY_WORDS if rx.search(text)), "")
 
 
-REF = re.compile(r"\b((?:SS|NS|SFS|DS|PN|ČSN|STN|MSZ|EVS|NP|SR|DSTU|BS|DIN|NF|UNI|CEI|ÖNORM|SN|SIST)\s+)*"
+REF = re.compile(r"(?:\b|(?<=pr))((?:SS|NS|SFS|DS|PN|ČSN|STN|MSZ|EVS|NP|SR|DSTU|BS|DIN|NF|UNI|CEI|ÖNORM|SN|SIST)\s+)*"
                  r"(?:(EN)\s+)?(ISO/IEC|ISO/TS|ISO|IEC|CEN/TS|EN|AS|ANSI|UL|CSA|ASTM|JIS)\s*(\d{2,5})((?:-\d{1,3})*)")
 ETSI = re.compile(r"ETSI\s+(EN|TS)\s+(\d{3})\s+(\d{3})((?:-\d+)?)")
 EU_ACT = re.compile(r"\b(?:\(EU\)|\(EC\)|\(EEC\)|EU|EC|EEC)?\s*(?:No\.?\s*|nr\.?\s*)?(\d{2,4}/\d{1,4})(?:/(EU|EC|EEC|EG|EØF))?\b")

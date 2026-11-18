@@ -59,7 +59,7 @@ PIPELINES_17065: dict[str, list] = {
     ],
     "cyprus": [
         scrape("cyprus/cysab-cyprus-17065/scrape_cy_cysab_17065.py"),
-        prepare("cyprus/cysab-cyprus-17065/prepare_certifind_17065.py", "cysab_17065", "{DATA}/cysab-cyprus-17065"),
+        prepare("cyprus/cysab-cyprus-17065/prepare_certifind_17065.py", "cysab_17065/pdf", "{DATA}/cysab-cyprus-17065"),
     ],
     "egypt": [
         scrape("egypt/egac-egypt-17065/scrape_eg_egac_17065.py"),

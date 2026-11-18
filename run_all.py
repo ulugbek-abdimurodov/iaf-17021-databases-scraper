@@ -189,8 +189,8 @@ PIPELINES: dict[str, list] = {
         prepare("malaysia/prepare_certifind.py", "jsm_certifind/data/jsm-malaysia", "{DATA}/jsm-malaysia"),
     ],
     "mauritius": [
-        scrape("mauritius/scrape_mu_mauritas.py"),
-        prepare("mauritius/prepare_certifind.py"),
+        scrape("mauritius/database/mauritius/scrape_mu_mauritas.py"),
+        prepare("mauritius/database/mauritius/prepare_certifind.py"),  # writes mauritius/data/mauritas-mauritius
         copy("mauritius/data/mauritas-mauritius", "mauritas-mauritius"),
     ],
     "mexico": [

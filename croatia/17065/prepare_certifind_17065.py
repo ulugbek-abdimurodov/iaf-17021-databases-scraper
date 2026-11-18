@@ -122,6 +122,11 @@ def iso(d):
     return f"{m.group(3)}-{int(m.group(2)):02d}-{int(m.group(1)):02d}" if m else ""
 
 
+MS_ALIASES = {}  # certificate number -> body name in data/haa-croatia/bodies.csv (filled in main from MS_NAME_HINTS)
+MS_NAME_HINTS = {"Bureau Veritas Croatia": "Bureau Veritas Croatia d.o.o.",
+                 "Hrvatski registar brodova": "Croatian Register of Shipping"}
+
+
 def known_bodies():
     by_name = {}
     for f in sorted(DB.rglob("bodies.csv")):
@@ -145,6 +150,9 @@ def main():
     args.out.mkdir(parents=True, exist_ok=True)
     records = json.loads((args.data / "bodies.json").read_text(encoding="utf-8"))
     by_name = known_bodies()
+    # Same legal entities as the HAA management-system dataset: reuse those rows exactly.
+    ms_rows = {r["name"]: r for r in csv.DictReader(open(DB.parent / "certifind" / "data" / "haa-croatia" / "bodies.csv",
+                                                         encoding="utf-8-sig", newline=""))}
     catalogue = {c for _, c in it.SCHEMES}
     review, reused = [], []
     new_schemes, dropped = collections.Counter(), collections.defaultdict(list)
@@ -156,17 +164,29 @@ def main():
         tp = args.data / rec["folder"] / "document_text.txt"
         text = tp.read_text(encoding="utf-8") if tp.exists() else ""
         name = ws(rec["AkreditornoTijelo"])
+        for hint, ms_prefix in MS_NAME_HINTS.items():
+            if name.startswith(hint):
+                MS_ALIASES[cert] = next(n for n in ms_rows if n.startswith(ms_prefix))
         website = ws(rec.get("WebAdresa", "")).strip("_")
         if website and not website.startswith("http"):
             website = "http://" + website
         body = {"name": name, "country": COUNTRY, "registration_no": "", "phone": phone(rec.get("Telefon", "")), "email": "",
                 "website": website, "address": ", ".join(x for x in (ws(rec.get("UlicaKucniBroj", "")), ws(rec.get("Mjesto", ""))) if x),
                 "source_url": REGISTER_URL, "verified_at": ""}
-        hit = by_name.get((it.key(name), COUNTRY)) or by_name.get((it.key(name.split(",")[0]), COUNTRY))
+        hit = (MS_ALIASES.get(cert) and ("haa-croatia", ms_rows[MS_ALIASES[cert]])) \
+            or by_name.get((it.key(name), COUNTRY)) or by_name.get((it.key(name.split(",")[0]), COUNTRY))
         if hit:
             body = dict(hit[1])
             reused.append(f"{name} ({cert}) -> '{body['name']}' from {hit[0]}")
-        ini = re.search(r"Prva akreditacija:\s*(\d{4}-\d{2}-\d{2})", text)
+        # label and date may sit on separate lines; fall back to the start of the current period
+        DT = r"(\d{4}-\d{2}-\d{2}|\d{1,2}\.\d{1,2}\.\d{4})"
+        ini = (re.search(r"Prva akreditacija:?\s*(?:Initial accreditation:?\s*)?" + DT, text)
+               or re.search(r"Akreditacija vrijedi od:?\s*(?:Accreditation valid from:?\s*)?" + DT, text))
+        if ini and "." in ini.group(1):
+            d_, m_, y_ = ini.group(1).split(".")
+            ini_date = f"{y_}-{int(m_):02d}-{int(d_):02d}"
+        else:
+            ini_date = ini.group(1) if ini else ""
         if not text:
             review.append(f"{cert} {name}: no document text; one line from the register 'Podrucje' field")
         lines = []
@@ -187,7 +207,7 @@ def main():
         else:
             review.append(f"{body['name']}: second accreditation {cert}")
         accs.append({"ab_code": AB_CODE, "certificate_number": cert, "body_name": body["name"], "accreditation_standard": STD,
-                     "status": "ACTIVE", "issue_date": ini.group(1) if ini else "", "expiry_date": iso(rec.get("DatumIsteka", "")),
+                     "status": "ACTIVE", "issue_date": ini_date, "expiry_date": iso(rec.get("DatumIsteka", "")),
                      "proof_url": REGISTER_URL})
         seen, n = set(), 0
         for l in lines:
