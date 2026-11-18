@@ -1,3 +1,6 @@
+
+
+
 # SADCAS (SADC — multi-economy)
 
 Source: SADCAS register of accredited management system certification bodies, https://www.sadcas.org/accredited-organisations/management-bodies (ISO/IEC 17021-1). Scraped with `database/sadc/scrape_sadc_sadcas.py`, converted with `database/sadc/prepare_certifind.py`; every skipped scheme is listed in `database/sadc/sadcas_review.md`. Not yet verified by a person, so `verified_at` is empty. `source_url` is the register page; `proof_url` is the Cert & SoA PDF that was read.

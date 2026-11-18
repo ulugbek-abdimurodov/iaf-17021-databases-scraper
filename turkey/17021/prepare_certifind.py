@@ -524,7 +524,7 @@ def run(args: argparse.Namespace) -> int:
     write_csv(args.out / "accreditations.csv", ACCREDITATION_COLUMNS, accreditations)
     write_csv(args.out / "scopes.csv", SCOPE_COLUMNS, scopes)
     # CertiFind keeps only bodies with a valid accreditation (database/prune_inactive.py).
-    sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+    sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
     from prune_inactive import prune
     for line in prune(args.out):
         print(f"removed (not valid): {line}")

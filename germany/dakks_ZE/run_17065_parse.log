@@ -1,0 +1,817 @@
+09:52:53 INFO D-ZE-11020 scope lines: 7  SGS Germany GmbH Zertifzierungsstelle Meat and Food
+09:52:53 INFO D-ZE-11021 scope lines: 74  Gesellschaft für Materialforschung und Prüfungsanstalt für d
+09:52:53 INFO D-ZE-11024 scope lines: 26  Gütegemeinschaft Schlösser und Beschläge e.V. PIV Prüfinstit
+09:52:53 INFO D-ZE-11027 scope lines: 186  Universität Stuttgart Materialprüfungsanstalt (MPA Stuttgart
+09:52:53 INFO D-ZE-11048 scope lines: 51  Technische Universität Darmstadt Institut für Stahlbau und W
+09:52:53 INFO D-ZE-11052 scope lines: 329  TÜV Rheinland Industrie Service GmbH Zertifizierungsstelle f
+09:52:53 INFO D-ZE-11054 scope lines: 52  Entwicklungs- und Prüflabor Holztechnologie GmbH
+09:52:53 INFO D-ZE-11060 scope lines: 6  DEKRA Automobil GmbH DEKRA Benannte Stelle für Bauprodukte
+09:52:53 INFO D-ZE-11068 scope lines: 232  Karlsruher Institut für Technologie Sicherheit und Umwelt
+09:52:53 INFO D-ZE-11074 scope lines: 149  TÜV NORD Systems GmbH & Co. KG
+09:52:53 INFO D-ZE-11086 scope lines: 26  IFO Institut für Oberflächentechnik GmbH
+09:52:53 INFO D-ZE-11109 scope lines: 64  TÜV NORD Mobilität GmbH & Co. KG
+09:52:53 INFO D-ZE-11111 scope lines: 17  Institut für Schweißtechnik und Ingenieurbüro Dr. Möll GmbH
+09:52:53 INFO D-ZE-11117 scope lines: 61  LGA Bautechnik GmbH
+09:52:53 INFO D-ZE-11120 scope lines: 71  TÜV Rheinland Energy & Environment GmbH Zertifizierungsstell
+09:52:53 INFO D-ZE-11125 scope lines: 112  DIN CERTCO Gesellschaft für Konformitätsbewertung mbH
+09:52:53 INFO D-ZE-11140 scope lines: 22  Fraunhofer-Gesellschaft zur Förderung der angewandten Forsch
+09:52:53 INFO D-ZE-11142 scope lines: 183  Materialprüfungsamt Nordrhein-Westfalen
+09:52:53 INFO D-ZE-11143 scope lines: 86  Materialforschungs- und -prüfanstalt an der Bauhaus-Universi
+09:52:53 INFO D-ZE-11146 scope lines: 12  ECB European Certification Body GmbH
+09:52:53 INFO D-ZE-11149 scope lines: 110  VdS Schadenverhütung GmbH Zertifizierungsstelle
+09:52:53 INFO D-ZE-11156 scope lines: 8  WSPLab + Cert GmbH WSPCert
+09:52:53 INFO D-ZE-11190 scope lines: 98  TÜV SÜD Rail GmbH Certification Body for Products TRC
+09:52:53 INFO D-ZE-11200 scope lines: 5  Steinbeis GmbH & Co. KG für Technologietransfer EQ ZERT Euro
+09:52:53 INFO D-ZE-11217 scope lines: 339  Kiwa GmbH
+09:52:53 WARNING D-ZE-11220 scope lines: 0 (annex parsed to 0 lines; status: Aktiv)  Materialprüfanstalt für das Bauwesen und Produktionstechnik
+09:52:53 INFO D-ZE-11222 scope lines: 4  Siebert und Knipschild GmbH Ingenieurbüro für Kunststofftech
+09:52:53 INFO D-ZE-11239 scope lines: 26  Sächsisches Textilforschungsinstitut e. V. Zertifizierungsst
+09:52:53 INFO D-ZE-11240 scope lines: 57  Leibniz-Institut für Werkstofforientierte Technologien - IWT
+09:52:53 INFO D-ZE-11241 scope lines: 33  MPA Eberswalde Materialprüfanstalt Brandenburg GmbH Zertifiz
+09:52:53 INFO D-ZE-11267 scope lines: 264  Materialprüfanstalt für das Bauwesen (MPA BS)
+09:52:53 INFO D-ZE-11309 scope lines: 68  Güteschutz Beton Nordrhein-Westfalen Beton- und Fertigteilwe
+09:52:53 INFO D-ZE-11312 scope lines: 34  CERTIFER Deutschland GmbH Certifer Zertifizierungsstelle
+09:52:53 INFO D-ZE-11321 scope lines: 314  TÜV SÜD Product Service GmbH Zertifizierungsstelle für Produ
+09:52:53 INFO D-ZE-11326 scope lines: 247  DEWI-OCC Offshore and Certification Centre GmbH
+09:52:53 INFO D-ZE-11349 scope lines: 141  ift Rosenheim GmbH Zertifizierungs- und Überwachungsstelle
+09:52:53 INFO D-ZE-12005 scope lines: 61  Moeller Operating Engineering GmbH
+09:52:53 INFO D-ZE-12007 scope lines: 775  TÜV NORD CERT GmbH
+09:52:53 INFO D-ZE-12024 scope lines: 76  Bureau Veritas Consumer Products Services Germany GmbH
+09:52:53 INFO D-ZE-12030 scope lines: 16  CSA Group Bayern GmbH
+09:52:53 INFO D-ZE-12047 scope lines: 5  cetecom advanced GmbH
+09:52:53 INFO D-ZE-12055 scope lines: 32  ABE Zertifizierung GmbH
+09:52:53 INFO D-ZE-12061 scope lines: 36  VDE Prüf- und Zertifizierungsinstitut GmbH NB-MID
+09:52:53 INFO D-ZE-12072 scope lines: 207  PEHLA GmbH PEHLA Produktzertifizierung
+09:52:53 INFO D-ZE-12083 scope lines: 45  Hohenstein Laboratories GmbH & Co. KG
+09:52:53 INFO D-ZE-12085 scope lines: 82  Intertek Deutschland GmbH
+09:52:53 INFO D-ZE-12088 scope lines: 130  SGS-TÜV Saar GmbH Zertifizierungsstelle für Funktionale Sich
+09:52:53 INFO D-ZE-12089 scope lines: 255  Kiwa Primara GmbH
+09:52:53 INFO D-ZE-12091 scope lines: 19  KRIWAN Testzentrum GmbH
+09:52:53 INFO D-ZE-12092 scope lines: 14  Eurofins Product Service GmbH
+09:52:53 INFO D-ZE-12127 scope lines: 79  PZT GmbH
+09:52:53 WARNING D-ZE-12142 scope lines: 0 (no annex published; status: Zurückgezogen)  QIMA Certification (Germany) GmbH Zertifizierungsstelle
+09:52:53 INFO D-ZE-12157 scope lines: 23  WIND-certification GmbH
+09:52:53 INFO D-ZE-13042 scope lines: 26  Verein des Hygiene-Instituts des Ruhrgebiets e.V. HyCert im 
+09:52:53 INFO D-ZE-13119 scope lines: 26  IMA Materialforschung und Anwendungstechnik GmbH IMA-Cert
+09:52:53 INFO D-ZE-13199 scope lines: 19  Technische Universität Dresden Fakultät Bauingenieurwesen, I
+09:52:53 INFO D-ZE-14008 scope lines: 43  Ceres CERtification of Environmental Standards GmbH
+09:52:53 INFO D-ZE-14009 scope lines: 64  LACON GmbH
+09:52:53 INFO D-ZE-14042 scope lines: 32  QC&I Gesellschaft für Kontrolle und Zertifizierung von Quali
+09:52:53 INFO D-ZE-14044 scope lines: 8  Tentacontrol GmbH
+09:52:53 INFO D-ZE-14057 scope lines: 43  Kiwa BCS Öko-Garantie GmbH
+09:52:53 INFO D-ZE-14063 scope lines: 95  Technische Universität München Materialprüfungsamt für das B
+09:52:53 INFO D-ZE-14071 scope lines: 16  ADIA-Zert Gesellschaft für Audit- und Zertifizierungsdienstl
+09:52:53 INFO D-ZE-14115 scope lines: 12  SGS INSTITUT FRESENIUS GmbH
+09:52:53 INFO D-ZE-14116 scope lines: 80  Forschungsinstitut für Wärmeschutz eingetragener Verein Münc
+09:52:53 INFO D-ZE-14137 scope lines: 12  TÜV Technische Überwachung Hessen GmbH Bereich Managementsys
+09:52:53 INFO D-ZE-14143 scope lines: 28  TÜV SÜD Management Service GmbH
+09:52:53 INFO D-ZE-14150 scope lines: 55  Prüf- und Forschungsinstitut Pirmasens e.V.
+09:52:53 INFO D-ZE-14153 scope lines: 315  TÜV SÜD Industrie Service GmbH Zertifizierungsstelle der TÜV
+09:52:53 WARNING D-ZE-14160 scope lines: 0 (no annex published; status: Zurückgezogen)  ISEGA, Forschungs- und Untersuchungs-Gesellschaft mit beschr
+09:52:53 INFO D-ZE-14169 scope lines: 478  TÜV Rheinland LGA Products GmbH Zentralbereich Zertifizierun
+09:52:53 INFO D-ZE-14225 scope lines: 2  MAYACERT S.A.
+09:52:53 WARNING D-ZE-14254 scope lines: 0 (annex parsed to 0 lines; status: Aktiv)  auditpartner GmbH
+09:52:53 INFO D-ZE-14265 scope lines: 14  Jordan Standards and Metrology Organization Certification De
+09:52:53 INFO D-ZE-14335 scope lines: 50  ABCERT AG
+09:52:53 INFO D-ZE-14408 scope lines: 81  FLOCERT GmbH
+09:52:53 INFO D-ZE-14457 scope lines: 8  Alko-Cert Agrar- und Lebensmittel Kontrollorganisation GmbH
+09:52:53 INFO D-ZE-14503 scope lines: 25  Control Union Certifications Germany GmbH
+09:52:53 INFO D-ZE-14530 scope lines: 30  Eurofins ARS PROBATA GmbH
+09:52:53 INFO D-ZE-14535 scope lines: 21  ACG Agrar-Control GmbH
+09:52:53 INFO D-ZE-14563 scope lines: 30  QIMA Testing (Germany) GmbH
+09:52:53 INFO D-ZE-14579 scope lines: 46  QAL GmbH - Gesellschaft für Qualitätssicherung in der Agrar-
+09:52:53 INFO D-ZE-14626 scope lines: 5  Certplus GmbH
+09:52:53 INFO D-ZE-14632 scope lines: 15  LKS - Landwirtschaftliche Kommunikations- und Servicegesells
+09:52:53 INFO D-ZE-14644 scope lines: 3  BIO LATINA S.A.C.
+09:52:53 INFO D-ZE-15110 scope lines: 63  SLG Prüf- und Zertifizierungs GmbH
+09:52:53 INFO D-ZE-15183 scope lines: 10  SPEKTRA Schwingungstechnik und Akustik GmbH Dresden
+09:52:53 INFO D-ZE-15209 scope lines: 3  Ghana Standards Authority Product Certification Department
+09:52:53 INFO D-ZE-16001 scope lines: 14  ICG Zertifizierung GmbH
+09:52:53 INFO D-ZE-16002 scope lines: 4  mdc medical device certification GmbH Niederlassung Berlin
+09:52:53 INFO D-ZE-16003 scope lines: 7  GUT Certifizierungsgesellschaft für Managementsysteme mbH Um
+09:52:53 INFO D-ZE-16004 scope lines: 157  Zertifizierung Bau GmbH
+09:52:53 INFO D-ZE-16006 scope lines: 53  Technischer Überwachungs-Verein Thüringen e.V. Zertifizierun
+09:52:53 INFO D-ZE-16012 scope lines: 5  InterCert GmbH – Group of MTIC -
+09:52:53 INFO D-ZE-16013 scope lines: 35  ZDH-ZERT GmbH
+09:52:53 INFO D-ZE-16015 scope lines: 6  ÖHMI EuroCert GmbH
+09:52:53 INFO D-ZE-16028 scope lines: 236  DVGW CERT GmbH
+09:52:53 INFO D-ZE-16029 scope lines: 25  DEKRA Certification GmbH
+09:52:53 INFO D-ZE-16030 scope lines: 7  PwC Certification Services GmbH
+09:52:53 INFO D-ZE-16031 scope lines: 29  TÜV Rheinland Cert GmbH
+09:52:53 WARNING D-ZE-16034 scope lines: 0 (no annex published; status: Vollständig ausgesetzt)  ClarCert GmbH
+09:52:53 INFO D-ZE-16035 scope lines: 13  TQCert GmbH
+09:52:53 INFO D-ZE-16040 scope lines: 7  Kiwa ZERTPUNKT GmbH
+09:52:53 INFO D-ZE-16050 scope lines: 5  LRQA Deutschland GmbH
+09:52:53 INFO D-ZE-16056 scope lines: 7  Cert-IT - GmbH
+09:52:53 INFO D-ZE-16064 scope lines: 13  GZQ GmbH
+09:52:53 INFO D-ZE-16066 scope lines: 4  ZertSozial GmbH Prüfungsdienstleister für Soziales, Gesundhe
+09:52:53 INFO D-ZE-16069 scope lines: 33  VDZ Service GmbH
+09:52:53 INFO D-ZE-16070 scope lines: 7  DeuZert Deutsche Zertifizierung in Bildung und Wirtschaft Gm
+09:52:53 INFO D-ZE-16072 scope lines: 3  IFTA AG
+09:52:53 INFO D-ZE-16074 scope lines: 7  DQS GmbH Deutsche Gesellschaft zur Zertifizierung von Manage
+09:52:53 INFO D-ZE-16077 scope lines: 34  datenschutz cert GmbH
+09:52:53 INFO D-ZE-16078 scope lines: 6  CERTQUA, Gesellschaft der Deutschen Wirtschaft zur Förderung
+09:52:53 INFO D-ZE-16083 scope lines: 42  DVS ZERT GmbH Geschäftsstelle Halle (Saale)
+09:52:53 INFO D-ZE-16086 scope lines: 7  EUROPANOZERT Zertifizierungen und Schulungen GmbH
+09:52:53 INFO D-ZE-16087 scope lines: 16  AGRIZERT Zertifizierungs GmbH
+09:52:53 INFO D-ZE-16090 scope lines: 2  SGS-International Certification Services GmbH
+09:52:53 INFO D-ZE-16100 scope lines: 4  TAWCert Zertifizierungsgesellschaft mbH für Management-Syste
+09:52:53 INFO D-ZE-17009 scope lines: 340  Deutsche Gesetzliche Unfallversicherung e.V. (DGUV) Institut
+09:52:53 INFO D-ZE-17012 scope lines: 26  PfB GmbH & Co. Prüfzentrum für Bauelemente KG
+09:52:53 INFO D-ZE-17047 scope lines: 5  Regierungspräsidium Tübingen Beschussamt Ulm
+09:52:53 INFO D-ZE-17152 scope lines: 16  TFI Aachen GmbH
+09:52:53 INFO D-ZE-17164 scope lines: 16  IBExU Institut für Sicherheitstechnik GmbH
+09:52:53 INFO D-ZE-17165 scope lines: 5  CEA Certification GmbH
+09:52:53 INFO D-ZE-17186 scope lines: 4  NMi TESTLAB GmbH
+09:52:53 INFO D-ZE-17195 scope lines: 85  WindGuard Certification GmbH
+09:52:53 INFO D-ZE-17299 scope lines: 19  Institut Dr. Haag GmbH
+09:52:53 INFO D-ZE-17407 scope lines: 213  BAU-ZERT e.V. Baustoffüberwachung Gesteinsbaustoffe Baustoff
+09:52:53 INFO D-ZE-17438 scope lines: 350  DEKRA Testing and Certification GmbH
+09:52:53 INFO D-ZE-17459 scope lines: 26  Roxeler Ingenieurgesellschaft mbH
+09:52:53 INFO D-ZE-17500 scope lines: 3  QUACERT Gesellschaft zur Zertifizierung von Qualitätsmanagem
+09:52:53 INFO D-ZE-17504 scope lines: 19  LC GmbH Schleswig-Holstein
+09:52:53 INFO D-ZE-17527 scope lines: 24  QUALITÄTSGEMEINSCHAFT DEUTSCHE BAUCHEMIE
+09:52:53 INFO D-ZE-17550 scope lines: 40  Güteschutz Hessenbeton e.V.
+09:52:53 INFO D-ZE-17639 scope lines: 8  Prüf-, Überwachungs- und Zertifizierungsgemeinschaft der Str
+09:52:53 INFO D-ZE-17658 scope lines: 10  Qualitätsgemeinschaft Mauerwerksprodukte e. V.
+09:52:53 INFO D-ZE-17670 scope lines: 32  GG-CERT e.V. - zertifizierte Produkte - zertifizierte Prozes
+09:52:53 INFO D-ZE-17688 scope lines: 17  ABCG Agrar-Beratungs- und Controll GmbH
+09:52:53 INFO D-ZE-17727 scope lines: 8  Rhein-Ruhr Feuerstättenprüfstelle GmbH
+09:52:53 INFO D-ZE-17751 scope lines: 3  Normec VQZ GmbH
+09:52:53 INFO D-ZE-17774 scope lines: 5  I. F. I. Institut für Industrieaerodynamik Gesellschaft mit 
+09:52:53 INFO D-ZE-17998 scope lines: 90  TÜV NORD LUXEMBOURG S.à r.l.
+09:52:53 INFO D-ZE-18003 scope lines: 18  GfRS Gesellschaft für Ressourcenschutz mbH
+09:52:53 INFO D-ZE-18039 scope lines: 10  Holz und Wald Zertifizierungsgesellschaft mbH (HW-Zert GmbH)
+09:52:53 INFO D-ZE-18133 scope lines: 3  Caucascert LLC
+09:52:53 INFO D-ZE-18141 scope lines: 13  Baustoffüberwachungs- und Zertifizierungsverband Nordrhein-W
+09:52:53 INFO D-ZE-18143 scope lines: 34  Baustoffüberwachungs- und Zertifizierungsverband Baden-Württ
+09:52:53 INFO D-ZE-18154 scope lines: 3  ECOGLOBE LLC
+09:52:53 INFO D-ZE-18194 scope lines: 16  Baustoffüberwachungsverein Hessen - Rheinland-Pfalz - Saarla
+09:52:53 INFO D-ZE-18218 scope lines: 25  Bayerischer Baustoffüberwachungs- und Zertifizierungsverein 
+09:52:53 INFO D-ZE-18230 scope lines: 13  P&M Power Certification GmbH
+09:52:53 INFO D-ZE-18248 scope lines: 11  DGNB GmbH DGNB Zertifizierungsstelle
+09:52:53 INFO D-ZE-18265 scope lines: 18  IfM Institut für Materialprüfung Dr. Schellenberg Rottweil G
+09:52:53 INFO D-ZE-18297 scope lines: 12  Baustoffüberwachungs- und Zertifizierungsverband Nord (BÜV N
+09:52:53 INFO D-ZE-18308 scope lines: 48  Güteschutz und Landesverband Beton- und Bimsindustrie Rheinl
+09:52:53 INFO D-ZE-18323 scope lines: 16  KWS Kommunal-Wasserversorgung Saar GmbH
+09:52:53 INFO D-ZE-18345 scope lines: 40  Rheinisch-Westfälische Technische Hochschule Aachen RWTH Aac
+09:52:53 INFO D-ZE-18372 scope lines: 11  Säurefliesner-Vereinigung e.V. Institut für Wand- und Bodenb
+09:52:53 INFO D-ZE-18402 scope lines: 16  DQS CFS GmbH Deutsche Gesellschaft für Nachhaltigkeit
+09:52:53 INFO D-ZE-18410 scope lines: 14  Güteüberwachung Kies, Sand, Splitt und Recycling-Baustoffe N
+09:52:53 INFO D-ZE-18430 scope lines: 7  HZA Hanseatische Zertifizierungsagentur GmbH
+09:52:53 WARNING D-ZE-18444 scope lines: 0 (annex parsed to 0 lines; status: Aktiv)  Institut für Baustoffprüfung Waldkirch GmbH
+09:52:53 INFO D-ZE-18455 scope lines: 6  GüteZert Zertifizierungsgesellschaft und Umweltgutachter der
+09:52:53 INFO D-ZE-18466 scope lines: 16  Institut Dr. Körner u. Partner - Ingenieurgesellschaft mbH
+09:52:53 INFO D-ZE-18468 scope lines: 30  Güteschutzgemeinschaft Hartschaum e. V.
+09:52:53 INFO D-ZE-18471 scope lines: 22  Dr. Hutschenreuther GmbH
+09:52:53 INFO D-ZE-18497 scope lines: 20  GfB Baustoffprüfstelle Erft - Labor GmbH
+09:52:53 INFO D-ZE-18562 scope lines: 6  SocialCert GmbH Gesellschaft zur Zertifizierung von Organisa
+09:52:53 INFO D-ZE-18563 scope lines: 30  Baustofflabor Nord GmbH
+09:52:53 INFO D-ZE-18571 scope lines: 46  IEA GmbH & Co. KG
+09:52:53 INFO D-ZE-18642 scope lines: 8  AKF gbd GmbH
+09:52:53 INFO D-ZE-18660 scope lines: 7  Well Done Zertifizierungsgesellschaft mbH
+09:52:53 INFO D-ZE-18661 scope lines: 14  HFB Engineering GmbH
+09:52:53 WARNING D-ZE-18688 scope lines: 0 (no annex published; status: Zurückgezogen)  Gemeinschaft für Qualitätsüberwachung von Polymerbitumen und
+09:52:53 INFO D-ZE-18743 scope lines: 32  Prüfstelle für Betonstahl Prof. Dr.-Ing. Gallus Rehm GmbH
+09:52:53 INFO D-ZE-18757 scope lines: 14  Prüfgesellschaft ökologischer Landbau mbH
+09:52:53 INFO D-ZE-18777 scope lines: 16  Handwerkskammer Dresden Zertifizierungsstelle der Handwerksk
+09:52:53 INFO D-ZE-18810 scope lines: 21  CERT Baustoffe GmbH
+09:52:53 INFO D-ZE-18814 scope lines: 23  asphalt-labor Arno J. Hinrichsen GmbH & Co. KG
+09:52:53 INFO D-ZE-18819 scope lines: 16  Zertifizierung BauProdukte e.V. (ZertBauP e.V.)
+09:52:53 INFO D-ZE-18874 scope lines: 238  PÜZ Bau - Gesellschaft zur Prüfung, Überwachung und Zertifiz
+09:52:53 INFO D-ZE-18979 scope lines: 18  GFA Certification GmbH
+09:52:53 INFO D-ZE-19033 scope lines: 114  SKZ - Testing GmbH
+09:52:53 INFO D-ZE-19042 scope lines: 26  bupZert GmbH
+09:52:53 INFO D-ZE-19066 scope lines: 3  IMO Control Private Limited
+09:52:53 INFO D-ZE-19184 scope lines: 45  IFBT GmbH Institut für Fassaden- und Befestigungstechnik
+09:52:53 INFO D-ZE-19192 scope lines: 17  Metall-Zert GmbH
+09:52:53 INFO D-ZE-19344 scope lines: 5  Certuria Certification Germany GmbH
+09:52:53 INFO D-ZE-19363 scope lines: 13  NETZ-ING. AB GmbH
+09:52:53 INFO D-ZE-19397 scope lines: 13  fkks cert gmbh
+09:52:53 INFO D-ZE-19404 scope lines: 21  Kontrollgesellschaft ökologischer Landbau mbH
+09:52:53 INFO D-ZE-19479 scope lines: 34  ZERT bauprüf GmbH
+09:52:53 INFO D-ZE-19571 scope lines: 24  Grünstempel - Ökoprüfstelle eingetragener Verein EU-Kontroll
+09:52:53 INFO D-ZE-19575 scope lines: 3  IMOcert Latinoamérica Ltda
+09:52:53 INFO D-ZE-19578 scope lines: 28  ÖkoP-Zertifizierungs GmbH
+09:52:53 INFO D-ZE-19580 scope lines: 31  AGRECO R. F. GÖDERZ GmbH
+09:52:53 INFO D-ZE-19599 scope lines: 20  MKH Greenergy Cert GmbH
+09:52:53 INFO D-ZE-19615 scope lines: 92  Bundesamt für Sicherheit in der Informationstechnik Abteilun
+09:52:53 INFO D-ZE-19648 scope lines: 26  Ecocert Deutschland GmbH
+09:52:53 INFO D-ZE-19697 scope lines: 3  TÜV SÜD Czech s.r.o. Certification Body for Food, Household 
+09:52:53 INFO D-ZE-19926 scope lines: 6  präQ Gesellschaft zur Präqualifizierung mbH
+09:52:53 INFO D-ZE-19998 scope lines: 9  milchZert GmbH
+09:52:53 INFO D-ZE-20089 scope lines: 39  FGH Zertifizierungsgesellschaft mbH FGH Zertifizierungsstell
+09:52:53 INFO D-ZE-20105 scope lines: 4  TechnologieCentrum Kleben GmbH TC-Kleben GmbH
+09:52:53 INFO D-ZE-20147 scope lines: 5  F&E Technologiebroker Bremen GmbH TBBCert
+09:52:53 INFO D-ZE-20214 scope lines: 6  APV-Zertifizierungs GmbH
+09:52:53 INFO D-ZE-20243 scope lines: 25  Milchprüfring Baden-Württemberg - Gesellschaft für Dienstlei
+09:52:53 INFO D-ZE-20267 scope lines: 58  argus CERT BAU Güteschutz-Gesellschaft zur Prüfung, Überwach
+09:52:53 INFO D-ZE-20316 scope lines: 14  Handwerkskammer Potsdam Bildungs- und Innovationscampus Hand
+09:52:53 INFO D-ZE-20364 scope lines: 3  BUREAU VERITAS CÔTE D'IVOIRE
+09:52:53 INFO D-ZE-20397 scope lines: 7  IFCS Institute for Food Chain Standards GmbH
+09:52:53 INFO D-ZE-20508 scope lines: 36  Fachgesellschaft ÖKO-Kontrolle mbH
+09:52:53 INFO D-ZE-20531 scope lines: 112  TÜV Rheinland Rail Certification B.V.
+09:52:53 INFO D-ZE-20736 scope lines: 9  Qualidata GmbH
+09:52:53 INFO D-ZE-20924 scope lines: 24  KPMG (Liechtenstein) AG Zertifizierungsstelle FLCES006
+09:52:53 INFO D-ZE-20934 scope lines: 3  Deutsche Gesellschaft zur Präqualifizierung im Gesundheitswe
+09:52:53 INFO D-ZE-20953 scope lines: 3  GPQG Gesellschaft für Präqualifizierung im Gesundheitswesen 
+09:52:53 INFO D-ZE-20972 scope lines: 17  SRS Certification GmbH
+09:52:53 INFO D-ZE-20984 scope lines: 5  AO-Präqualifizierungs-GmbH
+09:52:53 INFO D-ZE-20988 scope lines: 3  Agentur für Präqualifizierung GmbH
+09:52:53 INFO D-ZE-21030 scope lines: 7  DIZERT GmbH
+09:52:53 INFO D-ZE-21363 scope lines: 4  WOOD.BE Technisch Centrum der Houtnijverheid – Centre Techni
+09:52:53 INFO D-ZE-21372 scope lines: 121  DQB Deutsche Gesellschaft für Qualifizierung und Bewertung m
+09:52:53 INFO D-ZE-21409 scope lines: 121  VMC Präqualifikation GmbH
+09:52:53 INFO D-ZE-21410 scope lines: 11  8.2 Certification GmbH
+09:52:53 INFO D-ZE-21452 scope lines: 10  JN Schulung&Service GmbH
+09:52:53 INFO D-ZE-21463 scope lines: 121  PQ-Bau GmbH
+09:52:53 INFO D-ZE-21481 scope lines: 9  BMFcert GmbH
+09:52:53 INFO D-ZE-21528 scope lines: 109  Railway Approvals Germany GmbH
+09:52:53 INFO D-ZE-21557 scope lines: 29  GSCI Services GmbH
+09:52:53 WARNING D-ZE-21586 scope lines: 0 (no annex published; status: Zurückgezogen)  FFCert GmbH Facade Fixing Certification
+09:52:53 INFO D-ZE-21596 scope lines: 10  Relibell Zertifizierungsgesellschaft mbH
+09:52:53 INFO D-ZE-21631 scope lines: 16  Deutsche Telekom Security GmbH
+09:52:53 INFO D-ZE-21733 scope lines: 7  GREENCERT LIMITED
+09:52:53 INFO D-ZE-21849 scope lines: 21  SAFE+ Certification GmbH
+09:52:53 INFO D-ZE-21989 scope lines: 8  BiRN - Bau-Institut für Ressourceneffizientes und Nachhaltig
+09:52:53 INFO D-ZE-21990 scope lines: 4  Verein zur Förderung der Nachhaltigkeit im Wohnungsbau e.V.
+09:52:53 INFO D-ZE-21995 scope lines: 19  Steinbeis + Akademie GmbH Steinbeis-Transfer-Institut Bau- u
+09:52:53 INFO D-ZE-22095 scope lines: 21  KWF Services GmbH
+09:52:53 INFO D-ZE-22226 scope lines: 6  Zertifizierung für Dezentrale Erzeugungsanlagen ZFDE GmbH
+09:52:53 INFO D-ZE-22287 scope lines: 11  REVISA CycleProof GmbH
+09:52:53 INFO D-ZE-22290 scope lines: 2  DNV Renewables Certification GmbH
+09:52:53 INFO D-ZE-22317 scope lines: 15  Fremdüberwachung und Zertifizierung Süd - FÜZ Süd UG (haftun
+09:52:53 WARNING D-ZE-22337 scope lines: 0 (annex parsed to 0 lines; status: Aktiv)  EZA-Zert GmbH
+09:52:53 INFO D-ZE-22361 scope lines: 4  Merieux NutriSciences Certification (Shanghai) Co., Ltd.
+09:52:53 INFO D-ZE-22371 scope lines: 5  Lloyd's Register Marine Deutschland GmbH
+09:52:53 INFO D-ZE-22422 scope lines: 20  Infinity Certification GmbH
+09:52:53 INFO D-ZE-22474 scope lines: 11  CONTROL UNION SERVICES S.A.C.
+09:52:53 INFO D-ZE-22540 scope lines: 29  FixING Solutions GmbH
+09:52:53 INFO D-ZE-22546 scope lines: 3  GOCert GmbH
+09:52:53 INFO D-ZE-22549 scope lines: 11  Sachverständigenbüro Widmayer GmbH
+09:52:53 INFO D-ZE-22597 scope lines: 19  Bio-Kontroll Institut GmbH
+09:52:53 INFO D-ZE-22698 scope lines: 4  Letis Audit & Certification S.A.
+09:52:53 INFO D-ZE-22766 scope lines: 11  RIGK GmbH PlastCert
+09:52:53 INFO D-ZE-22769 scope lines: 13  ISEGA Cert GmbH
+09:52:53 INFO D-ZE-22797 scope lines: 12  NSF BELGIUM BV
+09:52:53 INFO D-ZE-22815 scope lines: 15  Con4Mare GmbH & Cie. KG
+09:52:53 INFO D-ZE-22855 scope lines: 9  China Quality Certification Centre Co., Ltd.
+09:52:53 WARNING D-ZE-22939 scope lines: 0 (annex parsed to 0 lines; status: Aktiv)  gridforce GmbH
+09:52:53 INFO D-ZE-23109 scope lines: 80  SRC Zert GmbH & Co. KG
+09:52:53 INFO D-ZE-23157 scope lines: 30  Railway Approvals Luxembourg S.à r.l.
+09:52:53 INFO D-ZE-23217 scope lines: 12  NSF Europe NV
+09:52:53 WARNING D-ZE-11024-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11024-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11027-05-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11052-02-01: page 3: ruled table without header
+09:52:53 WARNING D-ZE-11052-02-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11052-02-02: page 3: ruled table without header
+09:52:53 WARNING D-ZE-11052-02-02: page 4: ruled table without header
+09:52:53 WARNING D-ZE-11052-02-02: page 5: ruled table without header
+09:52:53 WARNING D-ZE-11052-02-03: page 2: ruled table without header
+09:52:53 WARNING D-ZE-11052-02-03: page 3: ruled table without header
+09:52:53 WARNING D-ZE-11052-02-03: page 4: ruled table without header
+09:52:53 WARNING D-ZE-11052-03-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11052-04-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11052-07-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11052-10-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11054-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11054-01-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11068-02-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11068-03-00: page 3: ruled table without header
+09:52:53 WARNING D-ZE-11074-03-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11074-03-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11086-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11086-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11111-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-11111-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11120-02-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-11120-02-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11120-02-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11120-02-00: page 4: borderless table without header
+09:52:53 WARNING D-ZE-11120-02-00: page 5: borderless table without header
+09:52:53 WARNING D-ZE-11120-02-00: page 6: borderless table without header
+09:52:53 WARNING D-ZE-11120-02-00: page 7: borderless table without header
+09:52:53 WARNING D-ZE-11120-02-00: page 8: borderless table without header
+09:52:53 WARNING D-ZE-11125-01-03: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11125-01-03: annex is DIN EN ISO/IEC 17025:2018, not ISO/IEC 17065: its 3 lines are left out
+09:52:53 WARNING D-ZE-11125-01-04: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11125-01-04: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11125-01-04: page 4: borderless table without header
+09:52:53 WARNING D-ZE-11125-01-05: page 1: borderless table without header
+09:52:53 WARNING D-ZE-11125-01-06: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11125-01-06: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11125-01-06: page 4: borderless table without header
+09:52:53 WARNING D-ZE-11125-01-07: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11125-01-07: annex is DIN EN ISO/IEC 17025:2018, not ISO/IEC 17065: its 13 lines are left out
+09:52:53 WARNING D-ZE-11140-02-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11140-02-01: annex is DIN EN ISO/IEC 17025:2018, not ISO/IEC 17065: its 21 lines are left out
+09:52:53 WARNING D-ZE-11142-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11142-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11142-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-11142-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-11142-01-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-11142-01-01: page 7: borderless table without header
+09:52:53 WARNING D-ZE-11142-01-01: page 8: borderless table without header
+09:52:53 WARNING D-ZE-11143-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11143-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11156-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11190-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11190-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11190-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-11190-01-02: page 3: ruled table without header
+09:52:53 WARNING D-ZE-11200-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-11200-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 7: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 8: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 9: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 10: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 12: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 13: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 14: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 15: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 16: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 17: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-01: page 18: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11217-01-02: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11220-01-01: no text layer on page 1 (scanned PDF?)
+09:52:53 WARNING D-ZE-11220-01-01: end of preamble not found on pages 1-2, page 1 skipped
+09:52:53 WARNING D-ZE-11220-01-01: standard ('nach DIN EN ISO/IEC 17065') not found on page 1
+09:52:53 WARNING D-ZE-11222-02-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11240-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11241-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11241-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 7: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 8: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 9: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 10: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 11: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 12: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 13: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 14: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 15: borderless table without header
+09:52:53 WARNING D-ZE-11267-01-01: page 16: borderless table without header
+09:52:53 WARNING D-ZE-11309-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11309-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-11312-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11312-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11312-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-11321-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11321-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-11321-01-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-11321-01-01: page 7: borderless table without header
+09:52:53 WARNING D-ZE-11321-01-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11321-01-02: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11321-01-02: page 5: borderless table without header
+09:52:53 WARNING D-ZE-11326-01-00: page 6: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 4: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 5: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 6: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 7: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 8: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 9: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 10: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 11: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 12: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 13: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 14: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 15: borderless table without header
+09:52:53 WARNING D-ZE-11349-01-00: page 16: borderless table without header
+09:52:53 WARNING D-ZE-12005-01-00: page 2: ruled table without header
+09:52:53 WARNING D-ZE-12005-01-00: page 3: ruled table without header
+09:52:53 WARNING D-ZE-12007-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-12007-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-12007-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-12007-01-02: page 2: ruled table without header
+09:52:53 WARNING D-ZE-12007-01-02: page 3: ruled table without header
+09:52:53 WARNING D-ZE-12007-01-02: page 6: ruled table without header
+09:52:53 WARNING D-ZE-12007-01-02: page 7: ruled table without header
+09:52:53 WARNING D-ZE-12007-01-02: page 8: ruled table without header
+09:52:53 WARNING D-ZE-12007-01-06: page 2: borderless table without header
+09:52:53 WARNING D-ZE-12007-01-06: page 3: borderless table without header
+09:52:53 WARNING D-ZE-12007-01-06: page 4: borderless table without header
+09:52:53 WARNING D-ZE-12007-01-06: page 5: borderless table without header
+09:52:53 WARNING D-ZE-12007-01-06: page 6: borderless table without header
+09:52:53 WARNING D-ZE-12007-01-07: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-12007-01-07: page 2: borderless table without header
+09:52:53 WARNING D-ZE-12007-01-12: page 2: borderless table without header
+09:52:53 WARNING D-ZE-12007-01-12: page 3: borderless table without header
+09:52:53 WARNING D-ZE-12007-01-12: page 8: borderless table without header
+09:52:53 WARNING D-ZE-12007-09-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-12007-09-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-12024-01-01: page 2: ruled table without header
+09:52:53 WARNING D-ZE-12024-01-01: page 3: ruled table without header
+09:52:53 WARNING D-ZE-12024-01-01: page 4: ruled table without header
+09:52:53 WARNING D-ZE-12024-01-01: page 5: ruled table without header
+09:52:53 WARNING D-ZE-12024-01-01: page 6: ruled table without header
+09:52:53 WARNING D-ZE-12024-01-01: page 7: ruled table without header
+09:52:53 WARNING D-ZE-12047-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-12047-01-01: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-12055-01-01: page 2: ruled table without header
+09:52:53 WARNING D-ZE-12061-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-12083-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-12085-01-02: page 2: ruled table without header
+09:52:53 WARNING D-ZE-12088-10-00: page 4: borderless table without header
+09:52:53 WARNING D-ZE-12088-10-00: page 5: borderless table without header
+09:52:53 WARNING D-ZE-12088-10-00: page 6: borderless table without header
+09:52:53 WARNING D-ZE-12088-10-00: page 7: borderless table without header
+09:52:53 WARNING D-ZE-12088-10-00: page 8: borderless table without header
+09:52:53 WARNING D-ZE-12088-10-00: page 9: borderless table without header
+09:52:53 WARNING D-ZE-12088-10-00: page 10: borderless table without header
+09:52:53 WARNING D-ZE-12088-10-00: page 11: borderless table without header
+09:52:53 WARNING D-ZE-12088-10-00: page 12: borderless table without header
+09:52:53 WARNING D-ZE-12088-10-00: page 13: borderless table without header
+09:52:53 WARNING D-ZE-12088-10-00: page 14: borderless table without header
+09:52:53 WARNING D-ZE-12089-01-00: page 2: ruled table without header
+09:52:53 WARNING D-ZE-12092-01-00: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-12157-01-01: page 2: ruled table without header
+09:52:53 WARNING D-ZE-12157-01-01: page 3: ruled table without header
+09:52:53 WARNING D-ZE-13042-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-13042-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-13119-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-13119-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-14008-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-14008-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-14009-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-14009-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-14009-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-14009-01-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-14057-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14071-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14071-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-14116-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14116-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-14137-03-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-14143-02-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-14153-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14153-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-14153-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-14153-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-14153-01-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-14153-01-01: page 7: borderless table without header
+09:52:53 WARNING D-ZE-14153-01-01: page 8: borderless table without header
+09:52:53 WARNING D-ZE-14153-01-01: page 9: borderless table without header
+09:52:53 WARNING D-ZE-14153-01-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14153-01-02: page 6: borderless table without header
+09:52:53 WARNING D-ZE-14153-01-02: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-14153-01-03: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14153-03-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14153-03-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14153-03-03: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14153-03-04: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14153-06-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14153-06-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-14153-06-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-14153-06-02: page 2: ruled table without header
+09:52:53 WARNING D-ZE-14153-06-03: page 2: ruled table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 1: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 3: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 4: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 5: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 6: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 7: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 8: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 9: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 10: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 11: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 12: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 13: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 14: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 15: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 16: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 17: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 18: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 19: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 20: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 21: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 22: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-02: page 23: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-04: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-04: page 3: borderless table without header
+09:52:53 WARNING D-ZE-14169-01-05: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-14169-01-05: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14225-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-14225-01-01: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-14254-01-01: annex is DIN EN ISO/IEC 17025:2018, not ISO/IEC 17065: its 10 lines are left out
+09:52:53 WARNING D-ZE-14265-01-00: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-14265-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14265-01-00: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-14335-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-14335-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-14408-01-00: page 2: ruled table without header
+09:52:53 WARNING D-ZE-14408-01-00: page 3: ruled table without header
+09:52:53 WARNING D-ZE-14408-01-00: page 4: ruled table without header
+09:52:53 WARNING D-ZE-14408-01-00: page 5: ruled table without header
+09:52:53 WARNING D-ZE-14457-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14503-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-14579-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-14644-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-15110-06-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-15110-06-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-15110-06-00: page 4: borderless table without header
+09:52:53 WARNING D-ZE-15183-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-15209-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-15209-01-01: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-16001-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16001-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16003-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16003-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16004-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-16004-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16004-01-01: page 2: ruled table without header
+09:52:53 WARNING D-ZE-16004-01-01: page 3: ruled table without header
+09:52:53 WARNING D-ZE-16004-01-01: page 4: ruled table without header
+09:52:53 WARNING D-ZE-16004-01-01: page 5: ruled table without header
+09:52:53 WARNING D-ZE-16004-01-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16004-01-02: page 3: borderless table without header
+09:52:53 WARNING D-ZE-16004-01-02: page 4: borderless table without header
+09:52:53 WARNING D-ZE-16006-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16006-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16006-04-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16006-05-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16012-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16013-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16013-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-16013-02-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16013-02-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16015-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16015-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16028-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16028-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-16028-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-16028-01-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-16028-01-01: page 7: borderless table without header
+09:52:53 WARNING D-ZE-16028-01-01: page 8: borderless table without header
+09:52:53 WARNING D-ZE-16028-05-00: page 1: ruled table without header
+09:52:53 WARNING D-ZE-16028-05-00: page 2: ruled table without header
+09:52:53 WARNING D-ZE-16028-05-00: page 3: ruled table without header
+09:52:53 WARNING D-ZE-16028-05-00: page 4: ruled table without header
+09:52:53 WARNING D-ZE-16028-05-00: page 5: ruled table without header
+09:52:53 WARNING D-ZE-16029-01-03: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16029-03-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16030-01-00: page 2: ruled table without header
+09:52:53 WARNING D-ZE-16031-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16031-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-16031-02-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16031-02-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16035-02-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16035-02-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16056-01-01: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16056-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16064-02-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16064-02-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16066-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16066-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16069-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16070-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16070-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16074-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16074-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16077-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16077-01-01: page 4: ruled table without header
+09:52:53 WARNING D-ZE-16077-02-01: page 2: ruled table without header
+09:52:53 WARNING D-ZE-16083-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16083-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-16083-01-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16086-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16086-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-16100-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-16100-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17009-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-17009-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-17009-01-01: annex is DIN EN ISO/IEC 17025:2018, not ISO/IEC 17065: its 57 lines are left out
+09:52:53 WARNING D-ZE-17009-01-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17009-02-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17009-02-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-17009-02-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-17009-02-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-17009-02-01: page 7: borderless table without header
+09:52:53 WARNING D-ZE-17009-02-01: page 8: borderless table without header
+09:52:53 WARNING D-ZE-17009-05-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-17009-05-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17009-05-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-17009-07-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17009-08-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17009-08-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-17009-08-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-17009-08-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-17009-08-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-17009-09-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17009-09-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17009-29-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17009-33-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17009-33-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17009-33-02: page 3: borderless table without header
+09:52:53 WARNING D-ZE-17012-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17012-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-17047-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17152-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17164-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-17186-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-17186-01-01: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-17195-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17195-01-01: page 3: ruled table without header
+09:52:53 WARNING D-ZE-17195-01-01: page 4: ruled table without header
+09:52:53 WARNING D-ZE-17195-01-01: page 5: ruled table without header
+09:52:53 WARNING D-ZE-17195-01-01: page 6: ruled table without header
+09:52:53 WARNING D-ZE-17407-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17407-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-17407-01-00: page 4: borderless table without header
+09:52:53 WARNING D-ZE-17407-01-00: page 5: borderless table without header
+09:52:53 WARNING D-ZE-17407-01-00: page 6: borderless table without header
+09:52:53 WARNING D-ZE-17407-01-00: page 7: borderless table without header
+09:52:53 WARNING D-ZE-17407-01-00: page 8: borderless table without header
+09:52:53 WARNING D-ZE-17407-01-00: page 9: borderless table without header
+09:52:53 WARNING D-ZE-17407-01-00: page 10: borderless table without header
+09:52:53 WARNING D-ZE-17407-01-00: page 11: borderless table without header
+09:52:53 WARNING D-ZE-17407-01-00: page 12: borderless table without header
+09:52:53 WARNING D-ZE-17407-03-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17407-03-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-17407-03-00: page 4: borderless table without header
+09:52:53 WARNING D-ZE-17438-02-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17438-02-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-17438-02-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-17438-02-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-17438-02-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-17438-02-01: page 7: borderless table without header
+09:52:53 WARNING D-ZE-17438-02-01: page 9: borderless table without header
+09:52:53 WARNING D-ZE-17438-02-02: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17438-02-02: page 6: borderless table without header
+09:52:53 WARNING D-ZE-17438-02-05: page 3: ruled table without header
+09:52:53 WARNING D-ZE-17459-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17550-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17998-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-17998-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-17998-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-17998-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-17998-01-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-17998-01-01: page 7: borderless table without header
+09:52:53 WARNING D-ZE-17998-01-01: page 8: borderless table without header
+09:52:53 WARNING D-ZE-17998-01-01: page 9: borderless table without header
+09:52:53 WARNING D-ZE-17998-01-01: page 10: borderless table without header
+09:52:53 WARNING D-ZE-17998-01-01: page 11: borderless table without header
+09:52:53 WARNING D-ZE-17998-01-01: page 12: borderless table without header
+09:52:53 WARNING D-ZE-18039-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-18039-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18133-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-18133-01-01: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-18143-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18143-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-18154-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-18154-01-01: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-18218-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18230-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18248-02-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18308-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18308-01-01: page 4: ruled table without header
+09:52:53 WARNING D-ZE-18323-01-01: page 2: ruled table without header
+09:52:53 WARNING D-ZE-18323-01-01: page 3: ruled table without header
+09:52:53 WARNING D-ZE-18430-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-18430-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18444-01-00: no text layer on page 1 (scanned PDF?)
+09:52:53 WARNING D-ZE-18444-01-00: end of preamble not found on pages 1-2, page 1 skipped
+09:52:53 WARNING D-ZE-18444-01-00: standard ('nach DIN EN ISO/IEC 17065') not found on page 1
+09:52:53 WARNING D-ZE-18455-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18562-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-18562-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18660-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-18660-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18743-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18743-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-18777-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 4: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 5: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 6: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 7: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 8: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 9: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 10: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 11: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 12: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 13: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 14: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 15: borderless table without header
+09:52:53 WARNING D-ZE-18874-01-00: page 16: borderless table without header
+09:52:53 WARNING D-ZE-18979-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-18979-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-19033-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-19033-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-19033-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-19033-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-19066-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-19066-01-01: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-19192-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-19344-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-19344-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-19363-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-19397-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-19404-02-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-19575-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-19575-01-01: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-19599-01-01: page 2: ruled table without header
+09:52:53 WARNING D-ZE-19599-01-01: page 3: ruled table without header
+09:52:53 WARNING D-ZE-19615-01-01: page 3: ruled table without header
+09:52:53 WARNING D-ZE-19615-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-19615-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-19697-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-20089-01-01: page 2: ruled table without header
+09:52:53 WARNING D-ZE-20089-01-01: page 3: ruled table without header
+09:52:53 WARNING D-ZE-20105-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-20147-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-20214-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-20243-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-20316-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-20364-01-00: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-20531-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-20531-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-20531-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-20531-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-20531-01-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-20531-01-01: page 7: borderless table without header
+09:52:53 WARNING D-ZE-20531-01-02: page 3: ruled table without header
+09:52:53 WARNING D-ZE-20736-01-00: page 1: borderless table without header
+09:52:53 WARNING D-ZE-20736-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-21363-02-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-21372-01-00: page 1: ruled table without header
+09:52:53 WARNING D-ZE-21372-01-00: page 2: ruled table without header
+09:52:53 WARNING D-ZE-21372-01-00: page 3: ruled table without header
+09:52:53 WARNING D-ZE-21372-01-00: page 4: ruled table without header
+09:52:53 WARNING D-ZE-21372-01-00: page 5: ruled table without header
+09:52:53 WARNING D-ZE-21409-01-00: page 2: ruled table without header
+09:52:53 WARNING D-ZE-21409-01-00: page 3: ruled table without header
+09:52:53 WARNING D-ZE-21409-01-00: page 4: ruled table without header
+09:52:53 WARNING D-ZE-21409-01-00: page 5: ruled table without header
+09:52:53 WARNING D-ZE-21410-01-00: page 2: ruled table without header
+09:52:53 WARNING D-ZE-21463-01-00: page 1: ruled table without header
+09:52:53 WARNING D-ZE-21463-01-00: page 2: ruled table without header
+09:52:53 WARNING D-ZE-21463-01-00: page 3: ruled table without header
+09:52:53 WARNING D-ZE-21463-01-00: page 4: ruled table without header
+09:52:53 WARNING D-ZE-21463-01-00: page 5: ruled table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 7: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 8: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 9: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 10: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 11: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 12: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 13: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 14: borderless table without header
+09:52:53 WARNING D-ZE-21528-01-01: page 15: borderless table without header
+09:52:53 WARNING D-ZE-21733-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-21733-01-00: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-21849-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-21849-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-21989-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-21990-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-21995-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-21995-01-00: page 3: borderless table without header
+09:52:53 WARNING D-ZE-22095-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-22226-01-00: page 2: ruled table without header
+09:52:53 WARNING D-ZE-22290-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-22337-01-01: page 2: ruled table without header
+09:52:53 WARNING D-ZE-22337-01-01: annex is DIN EN ISO/IEC 17025:2018, not ISO/IEC 17065: its 8 lines are left out
+09:52:53 WARNING D-ZE-22361-01-01: page 1: preamble ended by fallback pattern
+09:52:53 WARNING D-ZE-22361-01-01: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-22371-01-00: page 2: ruled table without header
+09:52:53 WARNING D-ZE-22422-01-01: page 2: ruled table without header
+09:52:53 WARNING D-ZE-22422-01-01: page 3: ruled table without header
+09:52:53 WARNING D-ZE-22474-01-00: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-22546-01-00: page 2: ruled table without header
+09:52:53 WARNING D-ZE-22698-01-00: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-22769-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-22797-01-00: page 2: borderless table without header
+09:52:53 WARNING D-ZE-22815-01-01: page 3: ruled table without header
+09:52:53 WARNING D-ZE-22855-01-00: no German annex; English annex parsed
+09:52:53 WARNING D-ZE-22939-01-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-22939-01-01: page 3: ruled table without header
+09:52:53 WARNING D-ZE-22939-01-01: annex is DIN EN ISO/IEC 17025:2018, not ISO/IEC 17065: its 15 lines are left out
+09:52:53 WARNING D-ZE-23109-01-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-23109-01-01: page 4: ruled table without header
+09:52:53 WARNING D-ZE-23109-01-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-23109-01-01: page 5: ruled table without header
+09:52:53 WARNING D-ZE-23109-01-01: page 6: ruled table without header
+09:52:53 WARNING D-ZE-23157-02-01: page 2: borderless table without header
+09:52:53 WARNING D-ZE-23157-02-01: page 3: borderless table without header
+09:52:53 WARNING D-ZE-23157-02-01: page 4: borderless table without header
+09:52:53 WARNING D-ZE-23157-02-01: page 5: borderless table without header
+09:52:53 WARNING D-ZE-23157-02-01: page 6: borderless table without header
+09:52:53 WARNING D-ZE-23217-01-01: page 2: borderless table without header
+09:52:53 INFO Scope: 12066 lines from 362 annexes, 262 bodies (10 with zero lines) -> dakks_ZE\scope_lines.csv

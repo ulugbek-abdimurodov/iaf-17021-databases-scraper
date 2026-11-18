@@ -1,0 +1,724 @@
+09:17:31 INFO Search ZE/all: 518 hits
+09:17:31 INFO   page 2: 50/518
+09:17:33 INFO   page 3: 75/518
+09:17:34 INFO   page 4: 100/518
+09:17:34 INFO   page 5: 125/518
+09:17:36 INFO   page 6: 150/518
+09:17:36 INFO   page 7: 175/518
+09:17:38 INFO   page 8: 200/518
+09:17:39 INFO   page 9: 225/518
+09:17:39 INFO   page 10: 250/518
+09:17:41 INFO   page 11: 275/518
+09:17:41 INFO   page 12: 300/518
+09:17:43 INFO   page 13: 325/518
+09:17:43 INFO   page 14: 350/518
+09:17:44 INFO   page 15: 375/518
+09:17:45 INFO   page 16: 400/518
+09:17:46 INFO   page 17: 425/518
+09:17:48 INFO   page 18: 450/518
+09:17:48 INFO   page 19: 475/518
+09:17:49 INFO   page 20: 500/518
+09:17:50 INFO   page 21: 518/518
+09:17:51 INFO [1/518] D-ZE-11020-01-00 SGS Germany GmbH Zertifzierungsstelle Meat and Foo
+09:17:51 INFO [2/518] D-ZE-11020-01-01 SGS Germany GmbH Zertifzierungsstelle Meat and Foo
+09:17:51 INFO [3/518] D-ZE-11021-01-00 Gesellschaft für Materialforschung und Prüfungsans
+09:17:51 INFO [4/518] D-ZE-11024-01-00 Gütegemeinschaft Schlösser und Beschläge e.V. PIV 
+09:17:51 INFO [5/518] D-ZE-11024-01-01 Gütegemeinschaft Schlösser und Beschläge e.V. PIV 
+09:17:51 INFO [6/518] D-ZE-11027-05-00 Universität Stuttgart Materialprüfungsanstalt (MPA
+09:17:51 INFO [7/518] D-ZE-11027-05-01 Universität Stuttgart Materialprüfungsanstalt (MPA
+09:17:53 INFO [8/518] D-ZE-11048-02-00 Technische Universität Darmstadt Institut für Stah
+09:17:54 INFO [9/518] D-ZE-11048-02-01 Technische Universität Darmstadt Institut für Stah
+09:17:57 INFO [10/518] D-ZE-11052-02-00 TÜV Rheinland Industrie Service GmbH Zertifizierun
+09:17:58 INFO [11/518] D-ZE-11052-02-01 TÜV Rheinland Industrie Service GmbH Zertifizierun
+09:18:01 INFO [12/518] D-ZE-11052-02-02 TÜV Rheinland Industrie Service GmbH Zertifizierun
+09:18:03 INFO [13/518] D-ZE-11052-02-03 TÜV Rheinland Industrie Service GmbH Zertifizierun
+09:18:05 INFO [14/518] D-ZE-11052-03-00 TÜV Rheinland Industrie Service GmbH Zertifizierun
+09:18:08 INFO [15/518] D-ZE-11052-03-01 TÜV Rheinland Industrie Service GmbH Zertifizierun
+09:18:11 INFO [16/518] D-ZE-11052-04-00 TÜV Rheinland Industrie Service GmbH Zertifizierun
+09:18:12 INFO [17/518] D-ZE-11052-05-00 TÜV Rheinland Industrie Service GmbH Zertifizierun
+09:18:14 INFO [18/518] D-ZE-11052-05-01 TÜV Rheinland Industrie Service GmbH Zertifizierun
+09:18:16 INFO [19/518] D-ZE-11052-07-00 TÜV Rheinland Industrie Service GmbH Zertifizierun
+09:18:18 INFO [20/518] D-ZE-11052-07-01 TÜV Rheinland Industrie Service GmbH Zertifizierun
+09:18:21 INFO [21/518] D-ZE-11052-10-00 TÜV Rheinland Industrie Service GmbH Zertifizierun
+09:18:23 INFO [22/518] D-ZE-11054-01-00 Entwicklungs- und Prüflabor Holztechnologie GmbH
+09:18:25 INFO [23/518] D-ZE-11054-01-01 Entwicklungs- und Prüflabor Holztechnologie GmbH
+09:18:26 INFO [24/518] D-ZE-11054-01-02 Entwicklungs- und Prüflabor Holztechnologie GmbH
+09:18:28 INFO [25/518] D-ZE-11060-03-00 DEKRA Automobil GmbH DEKRA Benannte Stelle für Bau
+09:18:30 INFO [26/518] D-ZE-11068-01-00 Karlsruher Institut für Technologie Institut für M
+09:18:33 INFO [27/518] D-ZE-11068-01-01 Karlsruher Institut für Technologie Institut für M
+09:18:37 INFO [28/518] D-ZE-11068-02-00 Karlsruher Institut für Technologie Versuchsanstal
+09:18:39 INFO [29/518] D-ZE-11068-02-01 Karlsruher Institut für Technologie Versuchsanstal
+09:18:43 INFO [30/518] D-ZE-11068-03-00 Karlsruher Institut für Technologie Sicherheit und
+09:18:45 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(25, 0, 2378122381904), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:45 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(25, 0, 2378122381904), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:45 INFO [31/518] D-ZE-11074-01-00 TÜV NORD Systems GmbH & Co. KG Zertifizierungsstel
+09:18:46 INFO [32/518] D-ZE-11074-01-01 TÜV NORD Systems GmbH & Co. KG Zertifizierungsstel
+09:18:48 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ITABLB+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378102816848), '/Type': '/Font', '/FirstChar': 183, '/LastChar': 183, '/Widths': [460], '/Encoding': IndirectObject(61, 0, 2378102816848), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:48 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378102816848), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:48 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378102816848), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:49 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ITABLB+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378102816848), '/Type': '/Font', '/FirstChar': 183, '/LastChar': 183, '/Widths': [460], '/Encoding': IndirectObject(61, 0, 2378102816848), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:49 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378102816848), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:49 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378102816848), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:49 INFO [33/518] D-ZE-11074-01-02 TÜV NORD Systems GmbH & Co. KG Zertifizierungsstel
+09:18:51 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ITABLB+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378129911120), '/Type': '/Font', '/FirstChar': 183, '/LastChar': 183, '/Widths': [460], '/Encoding': IndirectObject(61, 0, 2378129911120), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:51 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378129911120), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:51 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378129911120), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:51 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ITABLB+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378129911120), '/Type': '/Font', '/FirstChar': 183, '/LastChar': 183, '/Widths': [460], '/Encoding': IndirectObject(61, 0, 2378129911120), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:51 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378129911120), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:51 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378129911120), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:51 INFO [34/518] D-ZE-11074-01-03 TÜV NORD Systems GmbH & Co. KG Zertifizierungsstel
+09:18:53 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378109154128), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:53 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378109154128), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:53 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ITABLB+Symbol', '/FontDescriptor': IndirectObject(25, 0, 2378109154128), '/Type': '/Font', '/FirstChar': 183, '/LastChar': 183, '/Widths': [460], '/Encoding': IndirectObject(54, 0, 2378109154128), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:53 INFO [35/518] D-ZE-11074-03-00 TÜV NORD Systems GmbH & Co. KG
+09:18:55 INFO [36/518] D-ZE-11074-03-01 TÜV NORD Systems GmbH & Co. KG
+09:18:57 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378129759056), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:57 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378129759056), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:57 INFO [37/518] D-ZE-11074-03-02 TÜV NORD Systems GmbH & Co. KG
+09:18:59 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378129759312), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:18:59 INFO [38/518] D-ZE-11086-01-00 IFO Institut für Oberflächentechnik GmbH
+09:19:02 INFO [39/518] D-ZE-11109-01-00 TÜV NORD Mobilität GmbH & Co. KG
+09:19:04 INFO [40/518] D-ZE-11109-01-01 TÜV NORD Mobilität GmbH & Co. KG
+09:19:06 INFO [41/518] D-ZE-11109-01-02 TÜV NORD Mobilität GmbH & Co. KG
+09:19:08 INFO [42/518] D-ZE-11111-01-00 Institut für Schweißtechnik und Ingenieurbüro Dr. 
+09:19:11 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(18, 0, 2378124410192), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:19:11 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(18, 0, 2378124410192), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:19:11 INFO [43/518] D-ZE-11117-01-00 LGA Bautechnik GmbH
+09:19:12 INFO [44/518] D-ZE-11117-01-01 LGA Bautechnik GmbH
+09:19:14 INFO [45/518] D-ZE-11120-02-00 TÜV Rheinland Energy & Environment GmbH Zertifizie
+09:19:16 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378109695568), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:19:16 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378109695568), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:19:16 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378109695568), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:19:16 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378109695568), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:19:16 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378109695568), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:19:16 INFO [46/518] D-ZE-11125-01-00 DIN CERTCO Gesellschaft für Konformitätsbewertung 
+09:19:19 INFO [47/518] D-ZE-11125-01-01 DIN CERTCO Gesellschaft für Konformitätsbewertung 
+09:19:22 INFO [48/518] D-ZE-11125-01-02 DIN CERTCO Gesellschaft für Konformitätsbewertung 
+09:19:26 INFO [49/518] D-ZE-11125-01-03 DIN CERTCO Gesellschaft für Konformitätsbewertung 
+09:19:28 INFO [50/518] D-ZE-11125-01-04 DIN CERTCO Gesellschaft für Konformitätsbewertung 
+09:19:31 INFO [51/518] D-ZE-11125-01-05 DIN CERTCO Gesellschaft für Konformitätsbewertung 
+09:19:34 INFO [52/518] D-ZE-11125-01-06 DIN CERTCO Gesellschaft für Konformitätsbewertung 
+09:19:38 INFO [53/518] D-ZE-11125-01-07 DIN CERTCO Gesellschaft für Konformitätsbewertung 
+09:19:41 INFO [54/518] D-ZE-11140-02-00 Fraunhofer-Gesellschaft zur Förderung der angewand
+09:19:44 INFO [55/518] D-ZE-11140-02-01 Fraunhofer-Gesellschaft zur Förderung der angewand
+09:19:46 INFO [56/518] D-ZE-11140-03-00 Fraunhofer-Gesellschaft zur Förderung der angewand
+09:19:48 INFO [57/518] D-ZE-11142-01-00 Materialprüfungsamt Nordrhein-Westfalen
+09:19:51 INFO [58/518] D-ZE-11142-01-01 Materialprüfungsamt Nordrhein-Westfalen
+09:19:55 INFO [59/518] D-ZE-11143-01-00 Materialforschungs- und -prüfanstalt an der Bauhau
+09:19:56 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378114869072), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:19:56 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(25, 0, 2378114869072), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:19:56 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(25, 0, 2378114869072), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:19:56 INFO [60/518] D-ZE-11146-01-00 ECB European Certification Body GmbH
+09:20:00 INFO [61/518] D-ZE-11146-01-01 ECB European Certification Body GmbH
+09:20:02 INFO [62/518] D-ZE-11149-01-00 VdS Schadenverhütung GmbH Zertifizierungsstelle
+09:20:04 INFO [63/518] D-ZE-11149-01-01 VdS Schadenverhütung GmbH Zertifizierungsstelle
+09:20:06 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378109184080), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:20:06 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ASFDEF+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378109184080), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 45, '/Widths': [278, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:20:06 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378109184080), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:20:06 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ASFDEF+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378109184080), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 45, '/Widths': [278, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:20:07 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ASFDEF+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378109185616), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 45, '/Widths': [278, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:20:07 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378109185616), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:20:07 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378109185616), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:20:07 INFO [64/518] D-ZE-11149-01-02 VdS Schadenverhütung GmbH Zertifizierungsstelle
+09:20:09 INFO [65/518] D-ZE-11149-01-03 VdS Schadenverhütung GmbH Zertifizierungsstelle
+09:20:12 INFO [66/518] D-ZE-11149-01-04 VdS Schadenverhütung GmbH Zertifizierungsstelle
+09:20:14 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ASFDEF+Helvetica', '/FontDescriptor': IndirectObject(25, 0, 2378124050768), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 45, '/Widths': [278, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:20:14 INFO [67/518] D-ZE-11156-01-00 WSPLab + Cert GmbH WSPCert
+09:20:15 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378110876240), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:20:15 INFO [68/518] D-ZE-11190-01-00 TÜV SÜD Rail GmbH Certification Body for Products 
+09:20:18 INFO [69/518] D-ZE-11190-01-01 TÜV SÜD Rail GmbH Certification Body for Products 
+09:20:21 INFO [70/518] D-ZE-11190-01-02 TÜV SÜD Rail GmbH Certification Body for Products 
+09:20:25 INFO [71/518] D-ZE-11200-01-00 Steinbeis GmbH & Co. KG für Technologietransfer EQ
+09:20:26 INFO [72/518] D-ZE-11217-01-00 Kiwa GmbH
+09:20:28 INFO [73/518] D-ZE-11217-01-01 Kiwa GmbH
+09:20:32 INFO [74/518] D-ZE-11217-01-02 Kiwa GmbH
+09:20:34 INFO [75/518] D-ZE-11220-01-00 Materialprüfanstalt für das Bauwesen und Produktio
+09:20:37 INFO [76/518] D-ZE-11220-01-01 Materialprüfanstalt für das Bauwesen und Produktio
+09:20:45 INFO [77/518] D-ZE-11222-02-00 Siebert und Knipschild GmbH Ingenieurbüro für Kuns
+09:20:47 INFO [78/518] D-ZE-11222-02-01 Siebert und Knipschild GmbH Ingenieurbüro für Kuns
+09:20:49 INFO [79/518] D-ZE-11239-03-00 Sächsisches Textilforschungsinstitut e. V. Zertifi
+09:20:51 INFO [80/518] D-ZE-11240-01-00 Leibniz-Institut für Werkstofforientierte Technolo
+09:20:53 INFO [81/518] D-ZE-11241-01-00 MPA Eberswalde Materialprüfanstalt Brandenburg Gmb
+09:20:55 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378109470288), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:20:55 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378109470288), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:20:55 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378109470288), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:20:55 INFO [82/518] D-ZE-11267-01-00 Materialprüfanstalt für das Bauwesen (MPA BS)
+09:20:58 INFO [83/518] D-ZE-11267-01-01 Materialprüfanstalt für das Bauwesen (MPA BS)
+09:21:02 INFO [84/518] D-ZE-11309-01-00 Güteschutz Beton Nordrhein-Westfalen Beton- und Fe
+09:21:03 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378110542416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:03 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378110542416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:03 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JBURLE+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378110542416), '/Type': '/Font', '/FirstChar': 45, '/LastChar': 45, '/Widths': [549], '/Encoding': IndirectObject(93, 0, 2378110542416), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:03 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378110542416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:03 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JBURLE+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378110542416), '/Type': '/Font', '/FirstChar': 45, '/LastChar': 45, '/Widths': [549], '/Encoding': IndirectObject(93, 0, 2378110542416), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:03 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378110542416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:03 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JBURLE+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378110542416), '/Type': '/Font', '/FirstChar': 45, '/LastChar': 45, '/Widths': [549], '/Encoding': IndirectObject(93, 0, 2378110542416), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:04 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378109375056), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:04 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378109375056), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:04 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JBURLE+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378109375056), '/Type': '/Font', '/FirstChar': 45, '/LastChar': 45, '/Widths': [549], '/Encoding': IndirectObject(93, 0, 2378109375056), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:04 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378109375056), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:04 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JBURLE+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378109375056), '/Type': '/Font', '/FirstChar': 45, '/LastChar': 45, '/Widths': [549], '/Encoding': IndirectObject(93, 0, 2378109375056), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:04 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378109375056), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:04 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JBURLE+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378109375056), '/Type': '/Font', '/FirstChar': 45, '/LastChar': 45, '/Widths': [549], '/Encoding': IndirectObject(93, 0, 2378109375056), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:04 INFO [85/518] D-ZE-11309-01-01 Güteschutz Beton Nordrhein-Westfalen Beton- und Fe
+09:21:07 INFO [86/518] D-ZE-11312-01-00 CERTIFER Deutschland GmbH Certifer Zertifizierungs
+09:21:09 INFO [87/518] D-ZE-11312-01-01 CERTIFER Deutschland GmbH Certifer Zertifizierungs
+09:21:11 INFO [88/518] D-ZE-11321-01-00 TÜV SÜD Product Service GmbH Zertifizierungsstelle
+09:21:13 INFO [89/518] D-ZE-11321-01-01 TÜV SÜD Product Service GmbH Zertifizierungsstelle
+09:21:15 INFO [90/518] D-ZE-11321-01-02 TÜV SÜD Product Service GmbH Zertifizierungsstelle
+09:21:17 INFO [91/518] D-ZE-11321-01-03 TÜV SÜD Product Service GmbH Zertifizierungsstelle
+09:21:19 INFO [92/518] D-ZE-11321-01-04 TÜV SÜD Product Service GmbH Zertifizierungsstelle
+09:21:21 INFO [93/518] D-ZE-11321-01-05 TÜV SÜD Product Service GmbH Zertifizierungsstelle
+09:21:23 INFO [94/518] D-ZE-11321-01-06 TÜV SÜD Product Service GmbH Zertifizierungsstelle
+09:21:25 INFO [95/518] D-ZE-11326-01-00 DEWI-OCC Offshore and Certification Centre GmbH
+09:21:27 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(31, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:27 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/IWMNYN+Helvetica', '/FontDescriptor': IndirectObject(33, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 121, '/Widths': [278, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 722, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 667, 611, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 556, 556, 500, 556, 556, 278, 0, 556, 222, 0, 0, 222, 833, 556, 556, 556, 0, 333, 500, 278, 556, 0, 722, 0, 500], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(31, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZBGSHV+Times-Roman', '/FontDescriptor': IndirectObject(53, 0, 2378127225168), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:28 INFO [96/518] D-ZE-11349-01-00 ift Rosenheim GmbH Zertifizierungs- und Überwachun
+09:21:31 INFO [97/518] D-ZE-12005-01-00 Moeller Operating Engineering GmbH
+09:21:32 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378109470288), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:32 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378109470288), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:21:33 INFO [98/518] D-ZE-12007-01-00 TÜV NORD CERT GmbH
+09:21:35 INFO [99/518] D-ZE-12007-01-01 TÜV NORD CERT GmbH
+09:21:39 INFO [100/518] D-ZE-12007-01-02 TÜV NORD CERT GmbH
+09:21:43 INFO [101/518] D-ZE-12007-01-04 TÜV NORD CERT GmbH
+09:21:45 INFO [102/518] D-ZE-12007-01-06 TÜV NORD CERT GmbH
+09:21:46 INFO [103/518] D-ZE-12007-01-07 TÜV NORD CERT GmbH
+09:21:48 INFO [104/518] D-ZE-12007-01-10 TÜV NORD CERT GmbH
+09:21:51 INFO [105/518] D-ZE-12007-01-12 TÜV NORD CERT GmbH
+09:21:54 INFO [106/518] D-ZE-12007-09-00 TÜV NORD CERT GmbH
+09:21:56 INFO [107/518] D-ZE-12024-01-00 Bureau Veritas Consumer Products Services Germany 
+09:21:57 INFO [108/518] D-ZE-12024-01-01 Bureau Veritas Consumer Products Services Germany 
+09:22:00 INFO [109/518] D-ZE-12030-01-00 CSA Group Bayern GmbH
+09:22:02 INFO [110/518] D-ZE-12047-01-00 cetecom advanced GmbH
+09:22:04 INFO [111/518] D-ZE-12047-01-01 cetecom advanced GmbH
+09:22:05 INFO [112/518] D-ZE-12055-01-00 ABE Zertifizierung GmbH
+09:22:07 INFO [113/518] D-ZE-12055-01-01 ABE Zertifizierung GmbH
+09:22:09 INFO [114/518] D-ZE-12061-01-00 VDE Prüf- und Zertifizierungsinstitut GmbH
+09:22:12 INFO [115/518] D-ZE-12061-01-01 VDE Prüf- und Zertifizierungsinstitut GmbH
+09:22:13 INFO [116/518] D-ZE-12061-01-02 VDE Prüf- und Zertifizierungsinstitut GmbH
+09:22:15 INFO [117/518] D-ZE-12061-02-00 VDE Prüf- und Zertifizierungsinstitut GmbH NB-MID
+09:22:18 INFO [118/518] D-ZE-12072-01-00 PEHLA GmbH PEHLA Produktzertifizierung
+09:22:21 INFO [119/518] D-ZE-12072-01-01 PEHLA GmbH PEHLA Produktzertifizierung
+09:22:24 INFO [120/518] D-ZE-12083-01-00 Hohenstein Laboratories GmbH & Co. KG
+09:22:25 INFO [121/518] D-ZE-12083-01-01 Hohenstein Laboratories GmbH & Co. KG
+09:22:27 INFO [122/518] D-ZE-12083-01-02 Hohenstein Laboratories GmbH & Co. KG
+09:22:29 INFO [123/518] D-ZE-12085-01-00 Intertek Deutschland GmbH
+09:22:31 INFO [124/518] D-ZE-12085-01-01 Intertek Deutschland GmbH
+09:22:33 INFO [125/518] D-ZE-12085-01-02 Intertek Deutschland GmbH
+09:22:35 INFO [126/518] D-ZE-12088-10-00 SGS-TÜV Saar GmbH Zertifizierungsstelle für Funkti
+09:22:37 INFO [127/518] D-ZE-12089-01-00 Kiwa Primara GmbH
+09:22:39 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ITABLB+Symbol', '/FontDescriptor': IndirectObject(23, 0, 2378108479056), '/Type': '/Font', '/FirstChar': 183, '/LastChar': 183, '/Widths': [460], '/Encoding': IndirectObject(182, 0, 2378108479056), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:22:39 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(25, 0, 2378108479056), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:22:39 INFO [128/518] D-ZE-12091-01-00 KRIWAN Testzentrum GmbH
+09:22:41 INFO [129/518] D-ZE-12092-01-00 Eurofins Product Service GmbH
+09:22:43 INFO [130/518] D-ZE-12127-01-00 PZT GmbH
+09:22:45 INFO [131/518] D-ZE-12142-01-00 QIMA Certification (Germany) GmbH Zertifizierungss
+09:22:46 INFO [132/518] D-ZE-12157-01-00 WIND-certification GmbH
+09:22:48 INFO [133/518] D-ZE-12157-01-01 WIND-certification GmbH
+09:22:50 INFO [134/518] D-ZE-13042-01-00 Verein des Hygiene-Instituts des Ruhrgebiets e.V. 
+09:22:52 INFO [135/518] D-ZE-13042-01-01 Verein des Hygiene-Instituts des Ruhrgebiets e.V. 
+09:22:54 INFO [136/518] D-ZE-13119-01-00 IMA Materialforschung und Anwendungstechnik GmbH I
+09:22:57 INFO [137/518] D-ZE-13119-01-01 IMA Materialforschung und Anwendungstechnik GmbH I
+09:23:00 INFO [138/518] D-ZE-13199-01-00 Technische Universität Dresden Fakultät Bauingenie
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 WARNING Unexpected escaped string: 
+09:23:02 INFO [139/518] D-ZE-14008-01-00 Ceres CERtification of Environmental Standards Gmb
+09:23:05 INFO [140/518] D-ZE-14008-01-01 Ceres CERtification of Environmental Standards Gmb
+09:23:08 INFO [141/518] D-ZE-14009-01-00 LACON GmbH
+09:23:10 INFO [142/518] D-ZE-14009-01-01 LACON GmbH
+09:23:12 INFO [143/518] D-ZE-14042-01-00 QC&I Gesellschaft für Kontrolle und Zertifizierung
+09:23:14 INFO [144/518] D-ZE-14042-01-01 QC&I Gesellschaft für Kontrolle und Zertifizierung
+09:23:16 INFO [145/518] D-ZE-14044-01-00 Tentacontrol GmbH
+09:23:18 INFO [146/518] D-ZE-14044-01-01 Tentacontrol GmbH
+09:23:20 INFO [147/518] D-ZE-14057-01-00 Kiwa BCS Öko-Garantie GmbH
+09:23:22 INFO [148/518] D-ZE-14057-01-01 Kiwa BCS Öko-Garantie GmbH
+09:23:24 INFO [149/518] D-ZE-14063-01-00 Technische Universität München Holzforschung Münch
+09:23:27 INFO [150/518] D-ZE-14063-01-01 Technische Universität München Holzforschung Münch
+09:23:28 INFO [151/518] D-ZE-14063-02-00 Technische Universität München Materialprüfungsamt
+09:23:31 INFO [152/518] D-ZE-14063-02-01 Technische Universität München Materialprüfungsamt
+09:23:33 INFO [153/518] D-ZE-14063-03-00 Technische Universität München Holzforschung Münch
+09:23:35 INFO [154/518] D-ZE-14063-05-00 Technische Universität München Materialprüfungsamt
+09:23:37 INFO [155/518] D-ZE-14071-01-00 ADIA-Zert Gesellschaft für Audit- und Zertifizieru
+09:23:39 INFO [156/518] D-ZE-14115-01-00 SGS INSTITUT FRESENIUS GmbH
+09:23:42 INFO [157/518] D-ZE-14115-01-01 SGS INSTITUT FRESENIUS GmbH
+09:23:43 INFO [158/518] D-ZE-14116-01-00 Forschungsinstitut für Wärmeschutz eingetragener V
+09:23:46 INFO [159/518] D-ZE-14116-01-01 Forschungsinstitut für Wärmeschutz eingetragener V
+09:23:49 INFO [160/518] D-ZE-14137-03-00 TÜV Technische Überwachung Hessen GmbH
+09:23:51 INFO [161/518] D-ZE-14137-04-00 TÜV Technische Überwachung Hessen GmbH Bereich Man
+09:23:53 INFO [162/518] D-ZE-14143-01-00 TÜV SÜD Management Service GmbH
+09:23:56 INFO [163/518] D-ZE-14143-01-01 TÜV SÜD Management Service GmbH
+09:23:59 INFO [164/518] D-ZE-14143-02-00 TÜV SÜD Management Service GmbH
+09:24:01 INFO [165/518] D-ZE-14150-02-00 Prüf- und Forschungsinstitut Pirmasens e.V.
+09:24:03 INFO [166/518] D-ZE-14150-02-01 Prüf- und Forschungsinstitut Pirmasens e.V.
+09:24:05 INFO [167/518] D-ZE-14150-03-00 Prüf- und Forschungsinstitut Pirmasens e.V.
+09:24:07 INFO [168/518] D-ZE-14153-01-00 TÜV SÜD Industrie Service GmbH Zertifizierungsstel
+09:24:09 INFO [169/518] D-ZE-14153-01-01 TÜV SÜD Industrie Service GmbH Zertifizierungsstel
+09:24:11 INFO [170/518] D-ZE-14153-01-02 TÜV SÜD Industrie Service GmbH Zertifizierungsstel
+09:24:13 INFO [171/518] D-ZE-14153-01-03 TÜV SÜD Industrie Service GmbH Zertifizierungsstel
+09:24:15 INFO [172/518] D-ZE-14153-03-00 TÜV SÜD Industrie Service GmbH
+09:24:17 INFO [173/518] D-ZE-14153-03-01 TÜV SÜD Industrie Service GmbH
+09:24:19 INFO [174/518] D-ZE-14153-03-02 TÜV SÜD Industrie Service GmbH
+09:24:21 INFO [175/518] D-ZE-14153-03-03 TÜV SÜD Industrie Service GmbH
+09:24:23 INFO [176/518] D-ZE-14153-03-04 TÜV SÜD Industrie Service GmbH
+09:24:25 INFO [177/518] D-ZE-14153-06-00 TÜV SÜD Industrie Service GmbH Zertifizierungsstel
+09:24:28 INFO [178/518] D-ZE-14153-06-01 TÜV SÜD Industrie Service GmbH Zertifizierungsstel
+09:24:32 INFO [179/518] D-ZE-14153-06-02 TÜV SÜD Industrie Service GmbH Zertifizierungsstel
+09:24:33 INFO [180/518] D-ZE-14153-06-03 TÜV SÜD Industrie Service GmbH Zertifizierungsstel
+09:24:36 INFO [181/518] D-ZE-14160-01-00 ISEGA, Forschungs- und Untersuchungs-Gesellschaft 
+09:24:37 INFO [182/518] D-ZE-14169-01-00 TÜV Rheinland LGA Products GmbH Zentralbereich Zer
+09:24:39 INFO [183/518] D-ZE-14169-01-01 TÜV Rheinland LGA Products GmbH Zentralbereich Zer
+09:24:41 INFO [184/518] D-ZE-14169-01-02 TÜV Rheinland LGA Products GmbH Zentralbereich Zer
+09:24:50 INFO [185/518] D-ZE-14169-01-03 TÜV Rheinland LGA Products GmbH Zentralbereich Zer
+09:24:51 INFO [186/518] D-ZE-14169-01-04 TÜV Rheinland LGA Products GmbH Zentralbereich Zer
+09:24:53 INFO [187/518] D-ZE-14169-01-05 TÜV Rheinland LGA Products GmbH Zentralbereich Zer
+09:24:55 INFO [188/518] D-ZE-14169-01-06 TÜV Rheinland LGA Products GmbH Zentralbereich Zer
+09:24:57 INFO [189/518] D-ZE-14169-01-07 TÜV Rheinland LGA Products GmbH Zentralbereich Zer
+09:24:59 INFO [190/518] D-ZE-14169-01-08 TÜV Rheinland LGA Products GmbH Zentralbereich Zer
+09:25:01 INFO [191/518] D-ZE-14225-01-00 MAYACERT S.A.
+09:25:03 INFO [192/518] D-ZE-14225-01-01 MAYACERT S.A.
+09:25:05 INFO [193/518] D-ZE-14254-01-00 auditpartner GmbH
+09:25:07 INFO [194/518] D-ZE-14254-01-01 auditpartner GmbH
+09:25:09 INFO [195/518] D-ZE-14265-01-00 Jordan Standards and Metrology Organization Certif
+09:25:12 INFO [196/518] D-ZE-14335-01-00 ABCERT AG
+09:25:13 INFO [197/518] D-ZE-14335-01-01 ABCERT AG
+09:25:15 INFO [198/518] D-ZE-14408-01-00 FLOCERT GmbH
+09:25:19 INFO [199/518] D-ZE-14457-01-00 Alko-Cert Agrar- und Lebensmittel Kontrollorganisa
+09:25:22 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378117612368), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:25:22 INFO [200/518] D-ZE-14503-01-00 Control Union Certifications Germany GmbH
+09:25:23 INFO [201/518] D-ZE-14503-01-01 Control Union Certifications Germany GmbH
+09:25:25 INFO [202/518] D-ZE-14530-01-00 Eurofins ARS PROBATA GmbH
+09:25:28 INFO [203/518] D-ZE-14530-01-01 Eurofins ARS PROBATA GmbH
+09:25:31 INFO [204/518] D-ZE-14535-01-00 ACG Agrar-Control GmbH
+09:25:33 INFO [205/518] D-ZE-14535-01-01 ACG Agrar-Control GmbH
+09:25:35 INFO [206/518] D-ZE-14563-01-00 QIMA Testing (Germany) GmbH
+09:25:37 INFO [207/518] D-ZE-14563-01-01 QIMA Testing (Germany) GmbH
+09:25:39 INFO [208/518] D-ZE-14579-01-00 QAL GmbH - Gesellschaft für Qualitätssicherung in 
+09:25:41 INFO [209/518] D-ZE-14579-01-01 QAL GmbH - Gesellschaft für Qualitätssicherung in 
+09:25:43 INFO [210/518] D-ZE-14626-01-00 Certplus GmbH
+09:25:45 INFO [211/518] D-ZE-14626-01-01 Certplus GmbH
+09:25:47 INFO [212/518] D-ZE-14632-01-00 LKS - Landwirtschaftliche Kommunikations- und Serv
+09:25:49 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378103176016), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:25:49 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/YSHFCY+Times-Bold', '/FontDescriptor': IndirectObject(31, 0, 2378103176016), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:25:49 INFO [213/518] D-ZE-14644-01-00 BIO LATINA S.A.C.
+09:25:51 INFO [214/518] D-ZE-14644-01-01 BIO LATINA S.A.C.
+09:25:53 INFO [215/518] D-ZE-15110-06-00 SLG Prüf- und Zertifizierungs GmbH
+09:25:55 INFO [216/518] D-ZE-15183-01-00 SPEKTRA Schwingungstechnik und Akustik GmbH Dresde
+09:25:57 INFO [217/518] D-ZE-15209-01-00 Ghana Standards Authority Product Certification De
+09:25:59 INFO [218/518] D-ZE-15209-01-01 Ghana Standards Authority Product Certification De
+09:26:01 INFO [219/518] D-ZE-16001-01-00 ICG Zertifizierung GmbH
+09:26:03 INFO [220/518] D-ZE-16001-03-00 ICG Zertifizierung GmbH
+09:26:05 INFO [221/518] D-ZE-16001-03-01 ICG Zertifizierung GmbH
+09:26:07 INFO [222/518] D-ZE-16002-05-00 mdc medical device certification GmbH Niederlassun
+09:26:09 INFO [223/518] D-ZE-16002-05-01 mdc medical device certification GmbH Niederlassun
+09:26:11 INFO [224/518] D-ZE-16003-01-00 GUT Certifizierungsgesellschaft für Managementsyst
+09:26:13 INFO [225/518] D-ZE-16003-02-00 GUT Certifizierungsgesellschaft für Managementsyst
+09:26:14 INFO [226/518] D-ZE-16004-01-00 Zertifizierung Bau GmbH
+09:26:16 INFO [227/518] D-ZE-16004-01-01 Zertifizierung Bau GmbH
+09:26:18 INFO [228/518] D-ZE-16004-01-02 Zertifizierung Bau GmbH
+09:26:20 INFO [229/518] D-ZE-16004-01-03 Zertifizierung Bau GmbH
+09:26:22 INFO [230/518] D-ZE-16004-01-04 Zertifizierung Bau GmbH
+09:26:24 INFO [231/518] D-ZE-16006-01-00 Technischer Überwachungs-Verein Thüringen e.V. Zer
+09:26:26 INFO [232/518] D-ZE-16006-04-00 Technischer Überwachungs-Verein Thüringen e.V. Zer
+09:26:28 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378102851152), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:26:28 INFO [233/518] D-ZE-16006-05-00 Technischer Überwachungs-Verein Thüringen e.V. Zer
+09:26:30 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(25, 0, 2378102850896), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:26:30 INFO [234/518] D-ZE-16006-07-00 Technischer Überwachungs-Verein Thüringen e.V. Zer
+09:26:32 INFO [235/518] D-ZE-16012-01-00 InterCert GmbH – Group of MTIC -
+09:26:34 INFO [236/518] D-ZE-16013-01-00 ZDH-ZERT GmbH
+09:26:36 INFO [237/518] D-ZE-16013-01-01 ZDH-ZERT GmbH
+09:26:38 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378115544144), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:26:38 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378115544144), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:26:38 INFO [238/518] D-ZE-16013-01-02 ZDH-ZERT GmbH
+09:26:40 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(17, 0, 2378121824080), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:26:40 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(17, 0, 2378121824080), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:26:40 INFO [239/518] D-ZE-16013-02-00 ZDH-ZERT GmbH
+09:26:42 INFO [240/518] D-ZE-16015-01-00 ÖHMI EuroCert GmbH
+09:26:44 INFO [241/518] D-ZE-16028-01-01 DVGW CERT GmbH
+09:26:46 INFO [242/518] D-ZE-16028-05-00 DVGW CERT GmbH
+09:26:48 INFO [243/518] D-ZE-16029-01-00 DEKRA Certification GmbH
+09:26:50 INFO [244/518] D-ZE-16029-01-01 DEKRA Certification GmbH
+09:26:52 INFO [245/518] D-ZE-16029-01-02 DEKRA Certification GmbH
+09:26:54 INFO [246/518] D-ZE-16029-01-03 DEKRA Certification GmbH
+09:26:56 INFO [247/518] D-ZE-16029-03-00 DEKRA Certification GmbH
+09:26:58 INFO [248/518] D-ZE-16029-03-01 DEKRA Certification GmbH
+09:27:00 INFO [249/518] D-ZE-16029-06-00 DEKRA Certification GmbH
+09:27:02 INFO [250/518] D-ZE-16030-01-00 PwC Certification Services GmbH
+09:27:04 INFO [251/518] D-ZE-16031-01-00 TÜV Rheinland Cert GmbH
+09:27:06 INFO [252/518] D-ZE-16031-01-01 TÜV Rheinland Cert GmbH
+09:27:09 INFO [253/518] D-ZE-16031-01-02 TÜV Rheinland Cert GmbH
+09:27:11 INFO [254/518] D-ZE-16031-02-00 TÜV Rheinland Cert GmbH
+09:27:13 INFO [255/518] D-ZE-16034-01-00 ClarCert GmbH
+09:27:14 INFO [256/518] D-ZE-16035-02-00 TQCert GmbH
+09:27:16 INFO [257/518] D-ZE-16035-03-00 TQCert GmbH
+09:27:18 INFO [258/518] D-ZE-16040-01-00 Kiwa ZERTPUNKT GmbH
+09:27:20 INFO [259/518] D-ZE-16040-01-01 Kiwa ZERTPUNKT GmbH
+09:27:22 INFO [260/518] D-ZE-16050-09-00 LRQA Deutschland GmbH
+09:27:24 INFO [261/518] D-ZE-16056-01-00 Cert-IT - GmbH
+09:27:26 INFO [262/518] D-ZE-16056-01-01 Cert-IT - GmbH
+09:27:28 INFO [263/518] D-ZE-16064-02-00 GZQ GmbH
+09:27:30 INFO [264/518] D-ZE-16064-03-00 GZQ GmbH
+09:27:32 INFO [265/518] D-ZE-16066-01-00 ZertSozial GmbH Prüfungsdienstleister für Soziales
+09:27:34 INFO [266/518] D-ZE-16069-01-00 VDZ Service GmbH
+09:27:37 INFO [267/518] D-ZE-16069-01-01 VDZ Service GmbH
+09:27:40 INFO [268/518] D-ZE-16070-01-00 DeuZert Deutsche Zertifizierung in Bildung und Wir
+09:27:42 INFO [269/518] D-ZE-16072-01-00 IFTA AG
+09:27:44 INFO [270/518] D-ZE-16074-01-00 DQS GmbH Deutsche Gesellschaft zur Zertifizierung 
+09:27:46 INFO [271/518] D-ZE-16077-01-00 datenschutz cert GmbH
+09:27:48 INFO [272/518] D-ZE-16077-01-01 datenschutz cert GmbH
+09:27:50 INFO [273/518] D-ZE-16077-02-00 datenschutz cert GmbH
+09:27:52 INFO [274/518] D-ZE-16077-02-01 datenschutz cert GmbH
+09:27:54 INFO [275/518] D-ZE-16078-01-00 CERTQUA, Gesellschaft der Deutschen Wirtschaft zur
+09:27:56 INFO [276/518] D-ZE-16083-01-00 DVS ZERT GmbH Geschäftsstelle Halle (Saale)
+09:27:58 INFO [277/518] D-ZE-16083-01-01 DVS ZERT GmbH Geschäftsstelle Halle (Saale)
+09:28:00 INFO [278/518] D-ZE-16083-01-02 DVS ZERT GmbH Geschäftsstelle Halle (Saale)
+09:28:02 INFO [279/518] D-ZE-16086-01-00 EUROPANOZERT Zertifizierungen und Schulungen GmbH
+09:28:04 INFO [280/518] D-ZE-16087-01-00 AGRIZERT Zertifizierungs GmbH
+09:28:06 INFO [281/518] D-ZE-16087-01-01 AGRIZERT Zertifizierungs GmbH
+09:28:08 INFO [282/518] D-ZE-16090-01-00 SGS-International Certification Services GmbH
+09:28:10 INFO [283/518] D-ZE-16100-01-00 TAWCert Zertifizierungsgesellschaft mbH für Manage
+09:28:12 INFO [284/518] D-ZE-17009-01-00 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:14 INFO [285/518] D-ZE-17009-01-01 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:16 INFO [286/518] D-ZE-17009-01-02 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:18 INFO [287/518] D-ZE-17009-02-00 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:20 INFO [288/518] D-ZE-17009-02-01 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:22 INFO [289/518] D-ZE-17009-05-00 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:24 INFO [290/518] D-ZE-17009-06-00 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:26 INFO [291/518] D-ZE-17009-06-01 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:28 INFO [292/518] D-ZE-17009-07-00 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:30 INFO [293/518] D-ZE-17009-07-01 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:32 INFO [294/518] D-ZE-17009-07-02 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:34 INFO [295/518] D-ZE-17009-07-03 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:36 INFO [296/518] D-ZE-17009-08-00 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:38 INFO [297/518] D-ZE-17009-08-01 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:40 INFO [298/518] D-ZE-17009-09-00 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:42 INFO [299/518] D-ZE-17009-09-01 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:44 INFO [300/518] D-ZE-17009-09-02 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:46 INFO [301/518] D-ZE-17009-29-00 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:48 INFO [302/518] D-ZE-17009-33-00 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:50 INFO [303/518] D-ZE-17009-33-01 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:52 INFO [304/518] D-ZE-17009-33-02 Deutsche Gesetzliche Unfallversicherung e.V. (DGUV
+09:28:54 INFO [305/518] D-ZE-17012-01-00 PfB GmbH & Co. Prüfzentrum für Bauelemente KG
+09:28:56 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378205206608), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:28:56 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378205206608), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:28:57 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378243845456), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:28:57 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378243845456), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:28:57 INFO [306/518] D-ZE-17047-01-00 Regierungspräsidium Tübingen Beschussamt Ulm
+09:28:59 INFO [307/518] D-ZE-17047-01-01 Regierungspräsidium Tübingen Beschussamt Ulm
+09:29:01 INFO [308/518] D-ZE-17152-01-00 TFI Aachen GmbH
+09:29:03 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JBURLE+Symbol', '/FontDescriptor': IndirectObject(25, 0, 2378110020432), '/Type': '/Font', '/FirstChar': 45, '/LastChar': 45, '/Widths': [549], '/Encoding': IndirectObject(51, 0, 2378110020432), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:03 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378110020432), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:04 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JBURLE+Symbol', '/FontDescriptor': IndirectObject(25, 0, 2378110019664), '/Type': '/Font', '/FirstChar': 45, '/LastChar': 45, '/Widths': [549], '/Encoding': IndirectObject(53, 0, 2378110019664), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:04 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378110019664), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:04 INFO [309/518] D-ZE-17164-01-00 IBExU Institut für Sicherheitstechnik GmbH
+09:29:06 INFO [310/518] D-ZE-17165-01-00 CEA Certification GmbH
+09:29:08 INFO [311/518] D-ZE-17186-01-00 NMi TESTLAB GmbH
+09:29:10 INFO [312/518] D-ZE-17186-01-01 NMi TESTLAB GmbH
+09:29:12 INFO [313/518] D-ZE-17195-01-00 WindGuard Certification GmbH
+09:29:15 INFO [314/518] D-ZE-17195-01-01 WindGuard Certification GmbH
+09:29:18 INFO [315/518] D-ZE-17299-01-00 Institut Dr. Haag GmbH
+09:29:20 INFO [316/518] D-ZE-17299-01-01 Institut Dr. Haag GmbH
+09:29:22 INFO [317/518] D-ZE-17407-01-00 BAU-ZERT e.V. Güteschutz Betonbauteile
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/YMIHNZ+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 51, '/Widths': [278, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 556], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/YMIHNZ+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 51, '/Widths': [278, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 556], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/YMIHNZ+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378124814416), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 51, '/Widths': [278, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 556], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:24 INFO [318/518] D-ZE-17407-03-00 BAU-ZERT e.V. Baustoffüberwachung Gesteinsbaustoff
+09:29:26 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JBURLE+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378109562192), '/Type': '/Font', '/FirstChar': 45, '/LastChar': 45, '/Widths': [549], '/Encoding': IndirectObject(77, 0, 2378109562192), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:26 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378109562192), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:26 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378109562192), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:26 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JBURLE+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378109562192), '/Type': '/Font', '/FirstChar': 45, '/LastChar': 45, '/Widths': [549], '/Encoding': IndirectObject(77, 0, 2378109562192), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:26 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378109562192), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:26 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JBURLE+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378109562192), '/Type': '/Font', '/FirstChar': 45, '/LastChar': 45, '/Widths': [549], '/Encoding': IndirectObject(77, 0, 2378109562192), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:26 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378109562192), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:26 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378109562192), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:26 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378109562192), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:26 INFO [319/518] D-ZE-17438-02-00 DEKRA Testing and Certification GmbH
+09:29:28 INFO [320/518] D-ZE-17438-02-01 DEKRA Testing and Certification GmbH
+09:29:30 INFO [321/518] D-ZE-17438-02-02 DEKRA Testing and Certification GmbH
+09:29:32 INFO [322/518] D-ZE-17438-02-04 DEKRA Testing and Certification GmbH
+09:29:34 INFO [323/518] D-ZE-17438-02-05 DEKRA Testing and Certification GmbH
+09:29:36 INFO [324/518] D-ZE-17459-01-00 Roxeler Ingenieurgesellschaft mbH
+09:29:38 INFO [325/518] D-ZE-17459-01-01 Roxeler Ingenieurgesellschaft mbH
+09:29:40 INFO [326/518] D-ZE-17500-01-00 QUACERT Gesellschaft zur Zertifizierung von Qualit
+09:29:42 INFO [327/518] D-ZE-17504-01-00 LC GmbH Schleswig-Holstein
+09:29:44 INFO [328/518] D-ZE-17504-01-01 LC GmbH Schleswig-Holstein
+09:29:46 INFO [329/518] D-ZE-17527-01-00 QUALITÄTSGEMEINSCHAFT DEUTSCHE BAUCHEMIE
+09:29:48 INFO [330/518] D-ZE-17527-01-01 QUALITÄTSGEMEINSCHAFT DEUTSCHE BAUCHEMIE
+09:29:50 INFO [331/518] D-ZE-17550-01-00 Güteschutz Hessenbeton e.V.
+09:29:52 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JBURLE+Symbol', '/FontDescriptor': IndirectObject(27, 0, 2378129013328), '/Type': '/Font', '/FirstChar': 45, '/LastChar': 45, '/Widths': [549], '/Encoding': IndirectObject(61, 0, 2378129013328), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:52 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(29, 0, 2378129013328), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:52 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378129013328), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:52 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378129013328), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:29:52 INFO [332/518] D-ZE-17639-01-00 Prüf-, Überwachungs- und Zertifizierungsgemeinscha
+09:29:54 INFO [333/518] D-ZE-17658-01-00 Qualitätsgemeinschaft Mauerwerksprodukte e. V.
+09:29:56 INFO [334/518] D-ZE-17670-01-00 GG-CERT e.V. - zertifizierte Produkte - zertifizie
+09:29:58 INFO [335/518] D-ZE-17670-01-01 GG-CERT e.V. - zertifizierte Produkte - zertifizie
+09:30:00 INFO [336/518] D-ZE-17688-01-00 ABCG Agrar-Beratungs- und Controll GmbH
+09:30:02 INFO [337/518] D-ZE-17727-01-00 Rhein-Ruhr Feuerstättenprüfstelle GmbH
+09:30:04 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/WKWVUB+Times-Roman', '/FontDescriptor': IndirectObject(25, 0, 2378124019024), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:30:05 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/WKWVUB+Times-Roman', '/FontDescriptor': IndirectObject(25, 0, 2378127296336), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:30:05 INFO [338/518] D-ZE-17751-01-00 Normec VQZ GmbH
+09:30:07 INFO [339/518] D-ZE-17774-01-00 I. F. I. Institut für Industrieaerodynamik Gesells
+09:30:09 INFO [340/518] D-ZE-17998-01-00 TÜV NORD LUXEMBOURG S.à r.l.
+09:30:11 INFO [341/518] D-ZE-17998-01-01 TÜV NORD LUXEMBOURG S.à r.l.
+09:30:13 INFO [342/518] D-ZE-18003-01-00 GfRS Gesellschaft für Ressourcenschutz mbH
+09:30:15 INFO [343/518] D-ZE-18003-01-01 GfRS Gesellschaft für Ressourcenschutz mbH
+09:30:17 INFO [344/518] D-ZE-18039-01-00 Holz und Wald Zertifizierungsgesellschaft mbH (HW-
+09:30:19 INFO [345/518] D-ZE-18133-01-00 Caucascert LLC
+09:30:21 INFO [346/518] D-ZE-18133-01-01 Caucascert LLC
+09:30:23 INFO [347/518] D-ZE-18141-01-00 Baustoffüberwachungs- und Zertifizierungsverband N
+09:30:25 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(25, 0, 2378109795920), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:30:25 INFO [348/518] D-ZE-18143-01-00 Baustoffüberwachungs- und Zertifizierungsverband B
+09:30:27 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(25, 0, 2378110540368), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:30:27 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378110540368), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:30:27 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(25, 0, 2378110540368), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:30:27 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378110540368), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:30:27 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378110540368), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:30:27 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(25, 0, 2378110540368), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:30:27 INFO [349/518] D-ZE-18154-01-00 ECOGLOBE LLC
+09:30:29 INFO [350/518] D-ZE-18154-01-01 ECOGLOBE LLC
+09:30:38 INFO [351/518] D-ZE-18194-01-00 Baustoffüberwachungsverein Hessen - Rheinland-Pfal
+09:30:40 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(23, 0, 2378126939728), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:30:40 INFO [352/518] D-ZE-18218-01-00 Bayerischer Baustoffüberwachungs- und Zertifizieru
+09:30:44 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378128914256), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:30:44 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/QDQQMC+Helvetica', '/FontDescriptor': IndirectObject(27, 0, 2378128914256), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:30:44 INFO [353/518] D-ZE-18230-01-00 P&M Power Certification GmbH
+09:30:48 INFO [354/518] D-ZE-18248-02-00 DGNB GmbH DGNB Zertifizierungsstelle
+09:30:50 INFO [355/518] D-ZE-18265-01-00 IfM Institut für Materialprüfung Dr. Schellenberg 
+09:30:52 INFO [356/518] D-ZE-18297-01-00 Baustoffüberwachungs- und Zertifizierungsverband N
+09:30:54 INFO [357/518] D-ZE-18297-01-01 Baustoffüberwachungs- und Zertifizierungsverband N
+09:30:56 INFO [358/518] D-ZE-18308-01-00 Güteschutz und Landesverband Beton- und Bimsindust
+09:30:58 INFO [359/518] D-ZE-18308-01-01 Güteschutz und Landesverband Beton- und Bimsindust
+09:31:00 INFO [360/518] D-ZE-18323-01-00 KWS Kommunal-Wasserversorgung Saar GmbH
+09:31:02 INFO [361/518] D-ZE-18323-01-01 KWS Kommunal-Wasserversorgung Saar GmbH
+09:31:04 INFO [362/518] D-ZE-18345-01-00 Rheinisch-Westfälische Technische Hochschule Aache
+09:31:07 INFO [363/518] D-ZE-18372-01-00 Säurefliesner-Vereinigung e.V. Institut für Wand- 
+09:31:09 INFO [364/518] D-ZE-18402-01-00 DQS CFS GmbH Deutsche Gesellschaft für Nachhaltigk
+09:31:12 INFO [365/518] D-ZE-18402-01-01 DQS CFS GmbH Deutsche Gesellschaft für Nachhaltigk
+09:31:15 INFO [366/518] D-ZE-18410-01-00 Güteüberwachung Kies, Sand, Splitt und Recycling-B
+09:31:17 INFO [367/518] D-ZE-18410-01-01 Güteüberwachung Kies, Sand, Splitt und Recycling-B
+09:31:19 INFO [368/518] D-ZE-18430-01-00 HZA Hanseatische Zertifizierungsagentur GmbH
+09:31:21 INFO [369/518] D-ZE-18444-01-00 Institut für Baustoffprüfung Waldkirch GmbH
+09:31:23 INFO [370/518] D-ZE-18455-01-00 GüteZert Zertifizierungsgesellschaft und Umweltgut
+09:31:25 INFO [371/518] D-ZE-18466-01-00 Institut Dr. Körner u. Partner - Ingenieurgesellsc
+09:31:27 INFO [372/518] D-ZE-18468-01-00 Güteschutzgemeinschaft Hartschaum e. V.
+09:31:29 INFO [373/518] D-ZE-18471-01-00 Dr. Hutschenreuther GmbH
+09:31:31 INFO [374/518] D-ZE-18497-01-00 GfB Baustoffprüfstelle Erft - Labor GmbH
+09:31:33 INFO [375/518] D-ZE-18562-01-00 SocialCert GmbH Gesellschaft zur Zertifizierung vo
+09:31:35 INFO [376/518] D-ZE-18563-01-00 Baustofflabor Nord GmbH
+09:31:37 INFO [377/518] D-ZE-18571-01-00 IEA GmbH & Co. KG
+09:31:39 INFO [378/518] D-ZE-18642-01-00 AKF gbd GmbH
+09:31:41 INFO [379/518] D-ZE-18642-01-01 AKF gbd GmbH
+09:31:43 INFO [380/518] D-ZE-18660-01-00 Well Done Zertifizierungsgesellschaft mbH
+09:31:45 INFO [381/518] D-ZE-18661-01-00 HFB Engineering GmbH
+09:31:47 INFO [382/518] D-ZE-18661-01-01 HFB Engineering GmbH
+09:31:49 INFO [383/518] D-ZE-18688-01-00 Gemeinschaft für Qualitätsüberwachung von Polymerb
+09:31:50 INFO [384/518] D-ZE-18688-01-01 Gemeinschaft für Qualitätsüberwachung von Polymerb
+09:31:51 INFO [385/518] D-ZE-18743-01-00 Prüfstelle für Betonstahl Prof. Dr.-Ing. Gallus Re
+09:31:53 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378115386704), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:31:53 INFO [386/518] D-ZE-18757-02-00 Prüfgesellschaft ökologischer Landbau mbH
+09:31:55 INFO [387/518] D-ZE-18757-02-01 Prüfgesellschaft ökologischer Landbau mbH
+09:31:57 INFO [388/518] D-ZE-18777-01-00 Handwerkskammer Dresden Zertifizierungsstelle der 
+09:31:59 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378109794896), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:31:59 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZCWJHJ+Times-Bold', '/FontDescriptor': IndirectObject(34, 0, 2378109794896), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:31:59 INFO [389/518] D-ZE-18810-01-00 CERT Baustoffe GmbH
+09:32:01 INFO [390/518] D-ZE-18814-01-00 asphalt-labor Arno J. Hinrichsen GmbH & Co. KG
+09:32:03 INFO [391/518] D-ZE-18814-01-01 asphalt-labor Arno J. Hinrichsen GmbH & Co. KG
+09:32:05 INFO [392/518] D-ZE-18819-01-00 Zertifizierung BauProdukte e.V. (ZertBauP e.V.)
+09:32:07 INFO [393/518] D-ZE-18874-01-00 PÜZ Bau - Gesellschaft zur Prüfung, Überwachung un
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/MFONXT+Helvetica', '/FontDescriptor': IndirectObject(31, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:09 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(29, 0, 2378119970384), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:10 INFO [394/518] D-ZE-18979-01-00 GFA Certification GmbH
+09:32:12 INFO [395/518] D-ZE-19033-01-00 SKZ - Testing GmbH
+09:32:14 INFO [396/518] D-ZE-19033-01-01 SKZ - Testing GmbH
+09:32:16 INFO [397/518] D-ZE-19042-01-00 bupZert GmbH
+09:32:18 INFO [398/518] D-ZE-19066-01-00 IMO Control Private Limited
+09:32:20 INFO [399/518] D-ZE-19066-01-01 IMO Control Private Limited
+09:32:22 INFO [400/518] D-ZE-19184-01-00 IFBT GmbH Institut für Fassaden- und Befestigungst
+09:32:24 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZCWJHJ+Times-Bold', '/FontDescriptor': IndirectObject(53, 0, 2378148524880), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [250], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:32:24 INFO [401/518] D-ZE-19192-01-00 Metall-Zert GmbH
+09:32:26 INFO [402/518] D-ZE-19192-01-01 Metall-Zert GmbH
+09:32:28 INFO [403/518] D-ZE-19344-01-00 Certuria Certification Germany GmbH
+09:32:30 INFO [404/518] D-ZE-19363-01-00 NETZ-ING. AB GmbH
+09:32:32 INFO [405/518] D-ZE-19397-01-00 fkks cert gmbh
+09:32:34 INFO [406/518] D-ZE-19397-01-01 fkks cert gmbh
+09:32:36 INFO [407/518] D-ZE-19404-02-00 Kontrollgesellschaft ökologischer Landbau mbH
+09:32:38 INFO [408/518] D-ZE-19479-01-00 ZERT bauprüf GmbH
+09:32:40 INFO [409/518] D-ZE-19571-01-00 Grünstempel - Ökoprüfstelle eingetragener Verein E
+09:32:42 INFO [410/518] D-ZE-19575-01-00 IMOcert Latinoamérica Ltda
+09:32:44 INFO [411/518] D-ZE-19575-01-01 IMOcert Latinoamérica Ltda
+09:32:46 INFO [412/518] D-ZE-19578-01-00 ÖkoP-Zertifizierungs GmbH
+09:32:48 INFO [413/518] D-ZE-19578-01-01 ÖkoP-Zertifizierungs GmbH
+09:32:50 INFO [414/518] D-ZE-19580-01-00 AGRECO R. F. GÖDERZ GmbH
+09:32:52 INFO [415/518] D-ZE-19580-01-01 AGRECO R. F. GÖDERZ GmbH
+09:32:54 INFO [416/518] D-ZE-19599-01-00 MKH Greenergy Cert GmbH
+09:32:56 INFO [417/518] D-ZE-19599-01-01 MKH Greenergy Cert GmbH
+09:32:58 INFO [418/518] D-ZE-19615-01-00 Bundesamt für Sicherheit in der Informationstechni
+09:33:00 INFO [419/518] D-ZE-19615-01-01 Bundesamt für Sicherheit in der Informationstechni
+09:33:02 INFO [420/518] D-ZE-19648-01-00 Ecocert Deutschland GmbH
+09:33:04 INFO [421/518] D-ZE-19648-01-01 Ecocert Deutschland GmbH
+09:33:06 INFO [422/518] D-ZE-19697-01-00 TÜV SÜD Czech s.r.o. Certification Body for Food, 
+09:33:08 INFO [423/518] D-ZE-19697-01-01 TÜV SÜD Czech s.r.o. Certification Body for Food, 
+09:33:10 INFO [424/518] D-ZE-19926-01-00 präQ Gesellschaft zur Präqualifizierung mbH
+09:33:12 INFO [425/518] D-ZE-19998-01-00 milchZert GmbH
+09:33:14 INFO [426/518] D-ZE-19998-01-01 milchZert GmbH
+09:33:16 INFO [427/518] D-ZE-20089-01-00 FGH Zertifizierungsgesellschaft mbH FGH Zertifizie
+09:33:18 INFO [428/518] D-ZE-20089-01-01 FGH Zertifizierungsgesellschaft mbH FGH Zertifizie
+09:33:20 INFO [429/518] D-ZE-20105-01-00 TechnologieCentrum Kleben GmbH TC-Kleben GmbH
+09:33:22 INFO [430/518] D-ZE-20105-01-01 TechnologieCentrum Kleben GmbH TC-Kleben GmbH
+09:33:24 INFO [431/518] D-ZE-20147-01-00 F&E Technologiebroker Bremen GmbH TBBCert
+09:33:26 INFO [432/518] D-ZE-20147-01-01 F&E Technologiebroker Bremen GmbH TBBCert
+09:33:28 INFO [433/518] D-ZE-20214-01-00 APV-Zertifizierungs GmbH
+09:33:30 INFO [434/518] D-ZE-20243-01-00 Milchprüfring Baden-Württemberg - Gesellschaft für
+09:33:32 INFO [435/518] D-ZE-20243-01-01 Milchprüfring Baden-Württemberg - Gesellschaft für
+09:33:34 INFO [436/518] D-ZE-20267-01-00 argus CERT BAU Güteschutz-Gesellschaft zur Prüfung
+09:33:36 INFO [437/518] D-ZE-20316-01-00 Handwerkskammer Potsdam Bildungs- und Innovationsc
+09:33:38 INFO [438/518] D-ZE-20316-01-01 Handwerkskammer Potsdam Bildungs- und Innovationsc
+09:33:40 INFO [439/518] D-ZE-20364-01-00 BUREAU VERITAS CÔTE D'IVOIRE
+09:33:42 INFO [440/518] D-ZE-20397-01-00 IFCS Institute for Food Chain Standards GmbH
+09:33:44 INFO [441/518] D-ZE-20397-01-01 IFCS Institute for Food Chain Standards GmbH
+09:33:46 INFO [442/518] D-ZE-20508-01-00 Fachgesellschaft ÖKO-Kontrolle mbH
+09:33:48 INFO [443/518] D-ZE-20508-01-01 Fachgesellschaft ÖKO-Kontrolle mbH
+09:33:50 INFO [444/518] D-ZE-20531-01-00 TÜV Rheinland Rail Certification B.V.
+09:33:53 INFO [445/518] D-ZE-20531-01-01 TÜV Rheinland Rail Certification B.V.
+09:33:56 INFO [446/518] D-ZE-20531-01-02 TÜV Rheinland Rail Certification B.V.
+09:33:59 INFO [447/518] D-ZE-20736-01-00 Qualidata GmbH
+09:34:01 INFO [448/518] D-ZE-20736-02-00 Qualidata GmbH
+09:34:04 INFO [449/518] D-ZE-20924-01-00 KPMG (Liechtenstein) AG Zertifizierungsstelle FLCE
+09:34:05 INFO [450/518] D-ZE-20924-01-01 KPMG (Liechtenstein) AG Zertifizierungsstelle FLCE
+09:34:07 INFO [451/518] D-ZE-20934-01-00 Deutsche Gesellschaft zur Präqualifizierung im Ges
+09:34:09 INFO [452/518] D-ZE-20953-01-00 GPQG Gesellschaft für Präqualifizierung im Gesundh
+09:34:11 INFO [453/518] D-ZE-20972-01-00 SRS Certification GmbH
+09:34:14 INFO [454/518] D-ZE-20972-01-01 SRS Certification GmbH
+09:34:17 INFO [455/518] D-ZE-20984-01-00 AO-Präqualifizierungs-GmbH
+09:34:19 INFO [456/518] D-ZE-20988-01-00 Agentur für Präqualifizierung GmbH
+09:34:21 INFO [457/518] D-ZE-21030-01-00 DIZERT GmbH
+09:34:23 INFO [458/518] D-ZE-21363-02-00 WOOD.BE Technisch Centrum der Houtnijverheid – Cen
+09:34:26 INFO [459/518] D-ZE-21363-02-01 WOOD.BE Technisch Centrum der Houtnijverheid – Cen
+09:34:29 INFO [460/518] D-ZE-21372-01-00 DQB Deutsche Gesellschaft für Qualifizierung und B
+09:34:31 INFO [461/518] D-ZE-21409-01-00 VMC Präqualifikation GmbH
+09:34:33 INFO [462/518] D-ZE-21410-01-00 8.2 Certification GmbH
+09:34:35 INFO [463/518] D-ZE-21452-01-00 JN Schulung&Service GmbH
+09:34:37 INFO [464/518] D-ZE-21463-01-00 PQ-Bau GmbH
+09:34:40 INFO [465/518] D-ZE-21481-01-00 BMFcert GmbH
+09:34:41 INFO [466/518] D-ZE-21528-01-00 Railway Approvals Germany GmbH
+09:34:43 INFO [467/518] D-ZE-21528-01-01 Railway Approvals Germany GmbH
+09:34:45 INFO [468/518] D-ZE-21557-01-01 GSCI Services GmbH
+09:34:47 INFO [469/518] D-ZE-21586-01-00 FFCert GmbH Facade Fixing Certification
+09:34:48 INFO [470/518] D-ZE-21596-01-00 Relibell Zertifizierungsgesellschaft mbH
+09:34:50 INFO [471/518] D-ZE-21596-01-01 Relibell Zertifizierungsgesellschaft mbH
+09:34:52 INFO [472/518] D-ZE-21631-01-01 Deutsche Telekom Security GmbH
+09:34:54 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(12, 0, 2378127524944), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:34:54 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(12, 0, 2378127524944), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:34:54 INFO [473/518] D-ZE-21733-01-00 GREENCERT LIMITED
+09:34:56 INFO [474/518] D-ZE-21849-01-00 SAFE+ Certification GmbH
+09:34:58 INFO [475/518] D-ZE-21849-01-01 SAFE+ Certification GmbH
+09:35:00 INFO [476/518] D-ZE-21989-01-00 BiRN - Bau-Institut für Ressourceneffizientes und 
+09:35:02 INFO [477/518] D-ZE-21990-01-00 Verein zur Förderung der Nachhaltigkeit im Wohnung
+09:35:04 INFO [478/518] D-ZE-21995-01-00 Steinbeis + Akademie GmbH Steinbeis-Transfer-Insti
+09:35:06 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(17, 0, 2378117704272), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:35:06 INFO [479/518] D-ZE-22095-01-00 KWF Services GmbH
+09:35:08 INFO [480/518] D-ZE-22095-01-01 KWF Services GmbH
+09:35:10 INFO [481/518] D-ZE-22095-01-02 KWF Services GmbH
+09:35:12 INFO [482/518] D-ZE-22226-01-00 Zertifizierung für Dezentrale Erzeugungsanlagen ZF
+09:35:14 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/LJZHCC+Helvetica-Bold', '/FontDescriptor': IndirectObject(25, 0, 2378147629136), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:35:14 INFO [483/518] D-ZE-22287-03-00 REVISA CycleProof GmbH
+09:35:16 INFO [484/518] D-ZE-22287-03-01 REVISA CycleProof GmbH
+09:35:18 INFO [485/518] D-ZE-22290-01-00 DNV Renewables Certification GmbH
+09:35:20 INFO [486/518] D-ZE-22290-01-01 DNV Renewables Certification GmbH
+09:35:23 INFO [487/518] D-ZE-22317-01-00 Fremdüberwachung und Zertifizierung Süd - FÜZ Süd 
+09:35:24 INFO [488/518] D-ZE-22337-01-00 EZA-Zert GmbH
+09:35:26 INFO [489/518] D-ZE-22337-01-01 EZA-Zert GmbH
+09:35:28 INFO [490/518] D-ZE-22361-01-00 Merieux NutriSciences Certification (Shanghai) Co.
+09:35:30 INFO [491/518] D-ZE-22361-01-01 Merieux NutriSciences Certification (Shanghai) Co.
+09:35:32 INFO [492/518] D-ZE-22371-01-00 Lloyd's Register Marine Deutschland GmbH
+09:35:34 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378120125264), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:35:34 INFO [493/518] D-ZE-22422-01-00 Infinity Certification GmbH
+09:35:36 INFO [494/518] D-ZE-22422-01-01 Infinity Certification GmbH
+09:35:38 INFO [495/518] D-ZE-22474-01-00 CONTROL UNION SERVICES S.A.C.
+09:35:40 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378102831184), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:35:40 INFO [496/518] D-ZE-22540-01-00 FixING Solutions GmbH
+09:35:43 INFO [497/518] D-ZE-22540-01-01 FixING Solutions GmbH
+09:35:45 INFO [498/518] D-ZE-22546-01-00 GOCert GmbH
+09:35:47 INFO [499/518] D-ZE-22549-03-00 Sachverständigenbüro Widmayer GmbH
+09:35:49 INFO [500/518] D-ZE-22549-03-01 Sachverständigenbüro Widmayer GmbH
+09:35:51 INFO [501/518] D-ZE-22597-01-00 Bio-Kontroll Institut GmbH
+09:35:53 INFO [502/518] D-ZE-22698-01-00 Letis Audit & Certification S.A.
+09:35:55 WARNING fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/JOQGLS+Helvetica-Bold', '/FontDescriptor': IndirectObject(23, 0, 2378128399440), '/Type': '/Font', '/FirstChar': 32, '/LastChar': 32, '/Widths': [278], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+09:35:55 INFO [503/518] D-ZE-22766-02-00 RIGK GmbH PlastCert
+09:35:57 INFO [504/518] D-ZE-22766-02-01 RIGK GmbH PlastCert
+09:35:59 INFO [505/518] D-ZE-22769-01-00 ISEGA Cert GmbH
+09:36:01 INFO [506/518] D-ZE-22769-01-01 ISEGA Cert GmbH
+09:36:03 INFO [507/518] D-ZE-22797-01-00 NSF BELGIUM BV
+09:36:06 INFO [508/518] D-ZE-22815-01-00 Con4Mare GmbH & Cie. KG
+09:36:08 INFO [509/518] D-ZE-22815-01-01 Con4Mare GmbH & Cie. KG
+09:36:10 INFO [510/518] D-ZE-22855-01-00 China Quality Certification Centre Co., Ltd.
+09:36:12 INFO [511/518] D-ZE-22939-01-00 gridforce GmbH
+09:36:14 INFO [512/518] D-ZE-22939-01-01 gridforce GmbH
+09:36:16 INFO [513/518] D-ZE-23109-01-00 SRC Zert GmbH & Co. KG
+09:36:18 INFO [514/518] D-ZE-23109-01-01 SRC Zert GmbH & Co. KG
+09:36:20 INFO [515/518] D-ZE-23157-02-00 Railway Approvals Luxembourg S.à r.l.
+09:36:22 INFO [516/518] D-ZE-23157-02-01 Railway Approvals Luxembourg S.à r.l.
+09:36:24 INFO [517/518] D-ZE-23217-01-00 NSF Europe NV
+09:36:27 INFO [518/518] D-ZE-23217-01-01 NSF Europe NV
+09:36:30 INFO Done: 518 accreditations, 262 bodies, 583/583 PDFs, 0 failures -> dakks_ZE

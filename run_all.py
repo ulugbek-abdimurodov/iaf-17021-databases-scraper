@@ -53,22 +53,34 @@ def copy(src, dataset):
 # Paths are relative to this folder; "{DATA}" is certifind/data, "{TODAY}" is today's date.
 # A step runs in its script's folder unless cwd= says otherwise.
 PIPELINES: dict[str, list] = {
-    "armenia": [scrape("armenia/armnab_scraper.py"), prepare("armenia/prepare_certifind.py")],
+    "armenia": [
+        scrape("armenia/armnab_scraper.py"),
+        prepare("armenia/prepare_certifind.py"),
+        scrape("armenia/armnab-armenia-17065/scrape_am_armnab_17065.py"),
+        prepare("armenia/armnab-armenia-17065/prepare_certifind_17065.py", "armnab_17065", "{DATA}/armnab-armenia-17065"),
+    ],
     "australia": [
         scrape("australia/database/australia/scrape_au_jasanz.py"),
         prepare("australia/database/australia/prepare_certifind.py", ".", "{DATA}/jasanz-australia"),
+        # 17065: API blocked from some networks; scrape step works where the API is reachable
+        scrape("australia/jasanz-australia-17065/scrape_au_jasanz_17065.py"),
+        prepare("australia/jasanz-australia-17065/prepare_certifind_17065.py", "raw/jasanz_17065_raw.json", "{DATA}/jasanz-australia-17065"),
     ],
     "austria": [
-        scrape("austria/scrape_akkreditierung_austria.py"),
-        prepare("austria/prepare_certifind.py", "akkreditierung_output", "{DATA}/aa-austria"),
+        scrape("austria/17021/scrape_akkreditierung_austria.py"),
+        prepare("austria/17021/prepare_certifind.py", "akkreditierung_output", "{DATA}/aa-austria"),
+        scrape("austria/17065/scrape_at_aa_17065.py"),
+        prepare("austria/17065/prepare_certifind_17065.py", "raw/aa_17065_raw.json", "{DATA}/aa-austria-17065"),
     ],
     "bahrain-gcc": [
         scrape("bahrain/database/gcc/scrape_gcc_gac.py"),
         prepare("bahrain/database/gcc/prepare_certifind.py", "{DATA}/gac-saudi-arabia"),
     ],
     "belgium": [
-        scrape("belgium/belac_qms_scraper.py"),
-        prepare("belgium/prepare_certifind.py", "belac_qms_data", "{DATA}/belac-belgium"),
+        scrape("belgium/17021/belac_qms_scraper.py"),
+        prepare("belgium/17021/prepare_certifind.py", "belac_qms_data", "{DATA}/belac-belgium"),
+        scrape("belgium/17065/belac_prod_scraper.py"),
+        prepare("belgium/17065/prepare_certifind_17065.py", "belac_prod_data", "{DATA}/belac-belgium-17065"),
     ],
     "bulgaria": [
         scrape("bulgaria/nab_scraper.py"),
@@ -86,7 +98,11 @@ PIPELINES: dict[str, list] = {
     "costa-rica": [  # eca.or.cr: browser-only
         prepare("costa-rica/prepare_certifind.py", "database/costa_rica", "{DATA}/eca-costa-rica"),
     ],
-    "croatia": [scrape("croatia/haa_scraper.py"), prepare("croatia/prepare_certifind.py")],
+    "croatia": [
+        scrape("croatia/17021/haa_scraper.py"), prepare("croatia/17021/prepare_certifind.py"),
+        scrape("croatia/17021/haa_scraper.py", "--scheme", "certifikaciju proizvoda", "--out", "../17065/haa_prod_data"),
+        prepare("croatia/17065/prepare_certifind_17065.py", "haa_prod_data", "{DATA}/haa-croatia-17065"),
+    ],
     "czechia": [
         scrape("czechia/cai_scraper.py"),
         prepare("czechia/prepare_certifind.py", "cai_output", "{DATA}/cai-czechia"),
@@ -235,9 +251,15 @@ PIPELINES: dict[str, list] = {
     "thailand": [  # center.tisi.go.th: browser-only
         prepare("thailand/prepare_certifind.py", "v3", "{DATA}/tisi-thailand"),
     ],
+    "tunisia": [  # 17021 dataset transcribed by hand from scanned annexes (tunisia/tunac_scraper.py downloads them)
+        scrape("tunisia/tunac-tunisia-17065/scrape_tn_tunac_17065.py"),
+        prepare("tunisia/tunac-tunisia-17065/prepare_certifind_17065.py", "tunac_17065", "{DATA}/tunac-tunisia-17065"),
+    ],
     "turkey": [
-        scrape("turkey/turkak_scraper.py"),
-        prepare("turkey/prepare_certifind.py", "--out", "{DATA}/turkak-turkey"),
+        scrape("turkey/17021/turkak_scraper.py"),
+        prepare("turkey/17021/prepare_certifind.py", "--out", "{DATA}/turkak-turkey"),
+        scrape("turkey/17065/scrape_tr_turkak_17065.py"),
+        prepare("turkey/17065/prepare_certifind_17065.py", "turkak_17065", "{DATA}/turkak-turkey-17065"),
     ],
     "uae": [  # eiac.gov.ae: browser-only
         prepare("uae/database/uae/prepare_certifind.py"),

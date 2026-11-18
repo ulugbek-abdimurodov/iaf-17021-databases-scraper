@@ -179,6 +179,20 @@ SCHEMES = EU_SCHEMES + [
     (r"11352", "UNI CEI 11352"),
     (r"15085", "EN 15085-2"),
     (r"3834", "ISO 3834"),
+    # service schemes (V71): each line is its own activity, so it starts its own block
+    (r"2999[0-4]", "ISO 29993"),
+    (r"13009", "ISO 13009"),
+    (r"11911", "UNI 11911"),
+    (r"PdR 131", "UNI/PdR 131"),
+    (r"GSTC", "GSTC Criteria"),
+    (r"Breast Cent", "Breast Centres Certification"),
+    (r"PdR 88", "UNI/PdR 88"),
+    (r"Plastica Seconda Vita", "Plastica Seconda Vita"),
+    (r"REMADE|Remade in Italy", "ReMade in Italy"),
+    (r"18295", "ISO 18295"),
+    (r"22222", "ISO 22222"),
+    (r"10891", "UNI 10891"),
+    (r"11926", "UNI 11926"),
 ]
 SCHEMES = [(re.compile(p, re.I), c) for p, c in SCHEMES]
 
@@ -211,29 +225,47 @@ EN_HEADER = re.compile(r"^Certification of products", re.I)
 # sector headings: not imported, reset the block and give an industry to scheme-less lines below
 SECTORS = [(re.compile(p, re.I), ind) for p, ind in [
     (r"^(Prodotti agricoli|Prodotti alimentari|Agricultural products|Food products|Agro-food)", "food"),
-    (r"^(Imballaggi|Packaging and packaging materials)", "packaging"),
-    (r"^(Prodotti di consumo|Consumer products in)", "chemicals"),
-    (r"^(Trasporti e logistica|Transport and logistics)", "transport"),
+    (r"^(Imballaggi|Packaging and packaging materials)", "rubber_plastics"),
+    (r"^(Prodotti di consumo|Consumer products in)", "other_manufacturing"),
+    (r"^(Trasporti e logistica|Transport and logistics)", "trade_logistics"),
 ]]
+# First match wins: specific service sectors first, then manufacturing, then broad words.
 INDUSTRY_WORDS = [(re.compile(p, re.I), ind) for p, ind in [
-    (r"cosmetic|detergent|chimic|chemical", "chemicals"),
-    (r"ferroviar|railway|rolling stock|\bEN 5012[689]\b|\bEN 15085", "transport"),
-    (r"saldatura|welding|brasatura|brazing|\bISO 3834|\bISO 15614|\bISO 9606", "machinery"),
+    (r"turism|touris|strutture ricettive|stabiliment[oi] balneari|spiaggia|beach|ristoraz|restaurant|catering|"
+     r"\bhotel|alberg", "tourism"),
+    (r"operatori sanitari|socio.sanitar|ospedal|hospital|breast|\bhealth|assistenza sanitaria|\bcura\b|"
+     r"dispositivi medici|medical device|disabilit|diagnostic|terapeut|PDTA", "health"),
+    (r"educativ|educat|\bformazione|training|scuol|school|pubblica amministrazione|public administration|"
+     r"\bcomun[ei]\b|municipal", "public_education"),
+    (r"cyber|informatic|software|\bICT\b|dati personali|privacy|IEC 62443|IEC 27\d\d\d|\bOT\b|SPID|"
+     r"servizio fiduciario|trust service|digital", "ict"),
+    (r"credit management|finanziari|financial|vigilanza|servizi ausiliari alla sicurezza|security services|"
+     r"centri di contatto|contact cent|allarme|alarm|consulen|consult", "professional"),
+    (r"cosmetic|detergent|chimic|chemical|farmac|pharma|vernic|paint", "chemicals"),
+    (r"plastic|gomma|rubber|polimer|polymer|imballag|packaging", "rubber_plastics"),
+    (r"ferrovi|railway|ANSFISA|rolling stock|rotabil|veicol|vehicle|automotive|nautic|aeronaut|\bEN 5012[689]\b|"
+     r"\bEN 15085|\bEN 45545|\bEN 1746\d", "transport_equipment"),
+    (r"saldatura|welding|brasatura|brazing|\bISO 3834|\bISO 15614|\bISO 9606|acciai|steel|allumini|alumini|"
+     r"metall|anodi|QUALANOD|ghisa|cast iron|zincatur|galvaniz", "metals"),
     (r"\bmacchin|\bmachine|trattori|tractor|motozappatric|tiller|\bISO 4254|\bISO 11684|\bISO 5395|\bISO 1168[01]|"
-     r"sollevamento|lifting|pressione|pressure", "machinery"),
-    (r"cyber|informatic|software|\bICT\b|dati personali|privacy|IEC 62443|IEC 27\d\d\d|\bOT\b", "ict"),
+     r"sollevamento|lifting|pressione|pressure|verricell|winch|ascensor|\blift|legge di bilancio|iperammortament", "machinery"),
     (r"elettric|electric|elettronic|electronic|fotovolta|photovolta|\bIEC 6\d{4}|trasformator|transformer|"
-     r"switchgear|quadri|cavi\b|cables?\b|lampad|luminair", "electrical"),
-    (r"calcestruzz|concrete|edil|costruzion|construction|cemento|cement|laterizi|ghisa|cast iron|tubi|pipes?\b|"
-     r"acque destinate al consumo umano|drinking water|serramenti|windows", "construction"),
+     r"switchgear|quadri|cavi\b|cables?\b|lampad|luminair|ottic|optic|bassa tensione|low voltage", "electrical"),
+    (r"calcestruzz|concrete|edil|costruzion|construction|cemento|cement|laterizi|tubi|pipes?\b|vetr|glass|"
+     r"acque destinate al consumo umano|drinking water|serramenti|windows|porte\b|doors?\b|isolant|insulat|"
+     r"aggregat|cava\b|quarr|estrazion", "construction"),
     (r"tessil|textile|abbigliament|clothing|calzatur|footwear|pelle\b|leather|concia|tanning", "textiles"),
-    (r"biocarbur|biocombust|biofuel|biometano|biogas|energia|energy|rottami|scrap|end-of-waste|cessano di essere", "energy"),
-    (r"legno|\bwood|\bcarta\b|paper|forest", "forestry"),
-    (r"imballag|packaging", "packaging"),
-    (r"alimentar|\bfood|mangim|\bfeed|\bvino\b|\bwine|\bcarne|\bmeat|\blatte\b|dairy|ittic|\bfish|seafood|pesce", "food"),
-    (r"agricol|agricultur|acquacoltura|aquaculture|zootecn|livestock", "agriculture"),
-    (r"servizi|services|formazione|training|centri di contatto|contact cent|turism|touris|sanitari|health|"
-     r"finanziari|financial|breast", "services"),
+    (r"biocarbur|biocombust|biofuel|biometano|biogas|combustibil|\bfuel|pellet|energia|energy|"
+     r"impianti? (di produzione|fotovoltaic)|TERNA|idrogeno|hydrogen|raffin|refin", "energy"),
+    (r"rottami|scrap|end-of-waste|cessano di essere|ricicl|recycl|REMADE|riuso|reuse|giocattol|\btoys?\b|"
+     r"mobili|furniture|gioiell|jewel", "other_manufacturing"),
+    (r"legno|\bwood|\bcarta\b|paper|forest|stampa\b|printing", "wood_paper"),
+    (r"alimentar|\bfood|mangim|\bfeed|\bvino\b|\bwine|\bcarne|\bmeat|\blatte\b|dairy|ittic|\bfish|seafood|pesce|"
+     r"bevand|beverage", "food"),
+    (r"agricol|agricultur|acquacoltura|aquaculture|zootecn|livestock|suini|bovini|benessere animale|"
+     r"animal welfare|\bpesca\b|fishing", "agriculture"),
+    (r"logistic|trasport|transport|magazzin|warehous|commercio|\btrade\b|distribuzion", "trade_logistics"),
+    (r"servizi|services", "professional"),
 ]]
 CHILD = re.compile(r"^([-–•·]|\d{1,2}(\.\d{1,2})*[.)]?\s|[a-zA-Z]\)\s|[ivx]+\)\s)")
 REF = re.compile(r"\b((?:UNI|CEI|BS|DIN|NF)\s+)*(?:(EN)\s+)?(ISO/IEC|ISO/TS|ISO|IEC|CEN/TS|EN)\s*(\d{3,5})((?:-\d{1,3})?)")
@@ -255,7 +287,9 @@ def scheme_of(t: str):
 
 
 # Italian schemes kept on request: searchable although they cite national decrees.
-KEEP_NATIONAL = re.compile(r"11352", re.I)
+KEEP_NATIONAL = re.compile(r"11352|11911|PdR 131|PdR 88|Plastica Seconda Vita|REMADE|Remade in Italy|10891|11926", re.I)
+# a line opening a new certification never belongs to the block above (EU or colon heading)
+NEW_ACTIVITY = re.compile(r"^(Certificazione|Certification|Valutazione e certificazione)\b", re.I)
 
 
 def drop_of(t: str):
@@ -444,7 +478,8 @@ def classify(rows, dropped, reg):
             continue
         own_drop, own_scheme = drop_of(own), scheme_of(own)
         sticky = block["scheme"] in EU_CODES
-        child = (CHILD.match(prod) is not None or block["colon"] or sticky) and not is_row and block["head"] != ""
+        child = ((CHILD.match(prod) is not None or block["colon"] or sticky) and not is_row and block["head"] != ""
+                 and not NEW_ACTIVITY.match(prod))
         if child and not own_scheme and not (own_drop and not block["drop"] and own_drop != "Italian national scheme"):
             # inherits the heading
             block["children"] += 1
