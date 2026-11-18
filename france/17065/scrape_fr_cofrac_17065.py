@@ -126,7 +126,7 @@ def parse_active(htmltext):
             "standard": "ISO/IEC 17065" if "17065" in activity else "",
             "activity": activity, "type": typ, "address": addr,
             "address_parts": parts, "phone": phone, "fax": fax,
-            "certificate_pdf": BASE + "/annexes/sect4/%s.pdf" % ident,
+            "certificate_pdf": BASE + "/annexes/sect5/%s.pdf" % ident,
             "source_url": SEARCH_URL,
         })
     return out

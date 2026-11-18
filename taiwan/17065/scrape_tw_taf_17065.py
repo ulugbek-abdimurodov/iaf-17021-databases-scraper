@@ -10,7 +10,8 @@ viewApplyItems page as the MS scraper, through its scope() helper.
 Output (raw/): pc_bodies.txt and pc_scopes.txt, same columns as the MS raw files (msv_bodies.txt,
 msv_scopes.txt).
 
-Usage:  python scrape_tw_taf_17065.py
+Usage:  python scrape_tw_taf_17065.py            # bodies + code scopes
+        python scrape_tw_taf_17065.py --items    # then: item names/comments -> raw/pc_items.json
 """
 import sys
 from pathlib import Path
@@ -61,10 +62,39 @@ def bodies():
     return unique
 
 
-if __name__ == "__main__":
+if __name__ == "__main__" and "--items" not in sys.argv:
     RAW.mkdir(parents=True, exist_ok=True)
     rows = bodies()
     (RAW / "pc_bodies.txt").write_text("\n".join("|".join(r) for r in rows) + "\n", encoding="utf-8")
     scopes = [ms.scope(r[0]) for r in rows]
     (RAW / "pc_scopes.txt").write_text("\n".join(scopes) + "\n", encoding="utf-8")
     print(f"Bodies: {len(rows)}  Scope lines: {len(scopes)}", file=sys.stderr)
+
+
+# ---------------------------------------------------------------- item-level scope (names, comments, status)
+def items(unit_no):
+    """Every scope item of a body: code path names (EN), English comment and status, from the
+    `result = {...}` JSON objects embedded in the viewApplyItems page."""
+    import json
+    html = ms.S.get(ms.SCOPE.format(unit_no), timeout=120).text
+    dec, out, pos = json.JSONDecoder(), [], 0
+    while True:
+        i = html.find("result = {", pos)
+        if i < 0:
+            return out
+        try:
+            obj, end = dec.raw_decode(html, i + len("result = "))
+        except ValueError:
+            pos = i + 10
+            continue
+        pos = end
+        out.append({k: obj.get(k) for k in ("itemCode", "code1EnName", "code2EnName", "code3EnName",
+                                             "fieldCodeEnName", "enComment", "status")})
+
+
+if __name__ == "__main__" and "--items" in sys.argv:
+    import json
+    rows = [l.split("|") for l in (RAW / "pc_bodies.txt").read_text(encoding="utf-8").splitlines() if l]
+    data = {r[0]: items(r[0]) for r in rows}
+    (RAW / "pc_items.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"Items: {sum(len(v) for v in data.values())} for {len(data)} bodies", file=sys.stderr)

@@ -56,6 +56,9 @@ for line in physical:
                               address="" if city.lower().startswith("outside") else city)
     elif section == "c" and len(f) >= 10:
         cid, bi, fld, status, start, end, *_rest = f
+        if not re.match(r"^[A-Z]-[A-Z]-\d+$", cid) or bi not in body_info:
+            notes.append(f"unreadable certificate row skipped: {line[:80]}")
+            continue
         info = body_info[bi]
         b = c.Body(reg=cid, name=info["name"], country=info["country"], phone=info["phone"], email=info["email"],
                    website=info["website"], address=info["address"], issued=c.iso_date(start.replace("/", "-")) if False else "",
@@ -65,7 +68,8 @@ for line in physical:
         b.issued = f"{m1[3]}-{int(m1[1]):02d}-{int(m1[2]):02d}" if m1 else ""
         b.expiry = f"{m2[3]}-{int(m2[1]):02d}-{int(m2[2]):02d}" if m2 else ""
         for t in f[9].split("|"):
-            b.lines.append(c.Line(product_text=t, scheme_text=fld))
+            # industry from the line itself: the register's main field lists several schemes at once
+            b.lines.append(c.Line(product_text=t, scheme_text=fld, industry=c.industry_of(t)))
         bodies[cid] = b
 c.run("SAAC", "saac-saudi-arabia-17065", "saac-saudi-arabia", URL, list(bodies.values()),
       HERE / "saac_17065_review.md", TODAY,

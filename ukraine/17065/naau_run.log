@@ -182,3 +182,78 @@ Register: 197 bodies, 0 English entries
 [180/244] 1О335 scope: downloaded
 [181/244] 10357 scope: downloaded
 [182/244] 1О376 scope: downloaded
+[183/244] 1О376 scan: downloaded
+[184/244] 10372 scope: downloaded
+[185/244] 10372 scan: downloaded
+[186/244] 1О362 scope: downloaded
+[187/244] 1О374 scope: downloaded
+[188/244] 1О374 scan: downloaded
+[189/244] 10371 scope: downloaded
+[190/244] 10393 scope: downloaded
+[191/244] 10393 scan: downloaded
+[192/244] 1О402 scope: downloaded
+[193/244] 1О385 scope: downloaded
+[194/244] 1О401 scope: downloaded
+[195/244] 1О404 scope: downloaded
+[196/244] 1О403 scope: downloaded
+[197/244] 1О403 scan: downloaded
+[198/244] 10394 scope: downloaded
+[199/244] 1О399 scope: downloaded
+[200/244] 1О400 scope: downloaded
+[201/244] 1О405 scope: downloaded
+[202/244] 10386 scope: downloaded
+[203/244] 10395 scope: downloaded
+[204/244] 1О351 scope: downloaded
+[205/244] 1О416 scope: downloaded
+[206/244] 1О421 scope: downloaded
+[207/244] 1О410 scope: downloaded
+[208/244] 1О420 scope: downloaded
+[209/244] 1О230 scope: downloaded
+[210/244] 1О230 scan: downloaded
+[211/244] 1О409 scope: downloaded
+[212/244] 1О269 scope: downloaded
+[213/244] 10415 scope: downloaded
+[214/244] 1О383 scope: downloaded
+[215/244] 1О425 scope: downloaded
+[216/244] 1О119 scope: downloaded
+[217/244] 1О119 scan: downloaded
+[218/244] 1О422 scope: downloaded
+[219/244] 1О429 scope: downloaded
+[220/244] 1О424 scope: downloaded
+[221/244] 1О417 scope: downloaded
+[222/244] 1О428 scope: downloaded
+[223/244] 10418 scope: downloaded
+[224/244] 10436 scope: downloaded
+[225/244] 10434 scope: downloaded
+[226/244] 1О407 scope: downloaded
+[227/244] 1О407 scan: downloaded
+[228/244] 10430 scope: downloaded
+[229/244] 1О423 scope: downloaded
+[230/244] 1О435 scope: downloaded
+[231/244] 1О435 scan: downloaded
+[232/244] 1О431 scope: downloaded
+[233/244] 10433 scope: downloaded
+[234/244] 1О411 scope: downloaded
+[235/244] 1О411 scan: downloaded
+[236/244] 1О439 scope: downloaded
+[237/244] 1О439 scan: downloaded
+[238/244] 1О438 scope: downloaded
+[239/244] 1О285 scope: downloaded
+[240/244] 1О432 scope: downloaded
+[241/244] 1О440 scope: downloaded
+[242/244] 1О445 scope: downloaded
+[243/244] 1О443 scope: downloaded
+[244/244] 1О437 scope: downloaded
+
+Run date: 2026-11-18
+Register XLSX: https://naau.org.ua/userfiles/files/17065_18_11_2026.xlsx
+Register DOC:  https://naau.org.ua/userfiles/files/17065-Products-CBs-18_11_2026.doc
+Bodies: 197  {'suspended': 25, 'active': 121, 'expired': 31, 'cancelled': 20}
+NAAU page counts: {'valid': 124, 'invalid': 92, 'total': 217}
+CHECK: counts differ from the NAAU page. The page and files can be dated differently.
+Links attempted: 244, failed: 0
+Bodies with no file link in the register (4): 1О188, 1О208, 1О209, 1О292
+Bodies with no English entry (197): 1О011, 1О042, 1О053, 1О032, 1О001, 1О024, 1О075, 1О070, 1О101, 1О085, 1О054, 1О076, 1О080, 1О023, 1О094, 1О071, 1О096, 1О018, 1О090, 1О139, 1О106, 1О082, 1О102, 1О177, 1О112, 1О179, 1О146, 1О140, 1О156, 1О175, 1О188, 1О184, 1О202, 1О122, 1О196, 1О199, 1О176, 1О186, 1О114, 1О174, 1О120, 1О194, 1О183, 1О190, 1О208, 1О207, 1О198, 1О200, 1О095, 1О209, 1О159, 1О206, 1О223, 1О226, 1О033, 1О056, 1О210, 1О229, 1О221, 1О240, 1О205, 1О083, 1О213, 1О227, 1О189, 1О180, 1О191, 1О078, 1О216, 1О135, 1О195, 1О233, 1О252, 1О220, 1О217, 1О244, 1О212, 1О246, 1О231, 1О257, 1О266, 1О201, 1О267, 1О276, 1О264, 1О241, 1О232, 1О273, 1О247, 1О234, 1О235, 1О052, 1О111, 1О265, 1О238, 1О171, 1О222, 1О239, 1О248, 1О224, 1О271, 1О237, 1О278, 1О283, 1О251, 1О289, 1О161, 1О282, 1О254, 1О292, 1О296, 1О302, 1О304, 1О290, 1О305, 1О298, 1О301, 1О310, 1О315, 1О320, 1О327, 1О319, 1О263, 1О330, 1О328, 1О318, 1О343, 1О341, 1О332, 1О323, 1О326, 1О345, 1О337, 1О354, 10355, 1О363, 1О360, 1О366, 1О356, 1О353, 1О346, 1О358, 1О314, 1О335, 10357, 1О376, 10372, 1О362, 1О374, 10371, 10393, 1О402, 1О385, 1О401, 1О404, 1О403, 10394, 1О399, 1О400, 1О405, 10386, 10395, 1О351, 1О416, 1О421, 1О410, 1О420, 1О230, 1О409, 1О269, 10415, 1О383, 1О425, 1О119, 1О422, 1О429, 1О424, 1О417, 1О428, 10418, 10436, 10434, 1О407, 10430, 1О423, 1О435, 1О431, 10433, 1О411, 1О439, 1О438, 1О285, 1О432, 1О440, 1О445, 1О443, 1О437
+
+Saved to: C:\Users\vbrgr\Desktop\CertiFind\database\ukraine\17065\naau_17065_bodies
+exit 0

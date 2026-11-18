@@ -607,13 +607,14 @@ def run(ab: str, folder: str, ms: str | None, url: str, bodies: list[Body], revi
 
 # ------------------------------------------------------------------ header-driven table mapping
 HDR_PRODUCT = re.compile(r"product|produkt|toode|tuote|termék|výrob|wyrób|produto|produs|продукц|"
-                         r"process|item|family|scope|covered|kategor", re.I)
+                         r"process|item|family|famille|catégor|produit|scope|covered|kategor|title|description|"
+                         r"denumire|název", re.I)
 HDR_NORM = re.compile(r"normative|standard|norm|technical spec|specification|szabvány|regulation|criteria|"
-                      r"critérios|requirement|vaatimus|kravspec|документ", re.I)
-HDR_SCHEME = re.compile(r"scheme|skeem|system|avcp|module|moodul|modul|procedure|procedur|"
+                      r"critérios|référentiel|requirement|vaatimus|kravspec|документ", re.I)
+HDR_SCHEME = re.compile(r"scheme|skeem|system|avcp|module|moodul|modul|procedure|procedur|programme|"
                         r"procedimento|järjestelmä|схем", re.I)
 HDR_SKIP = re.compile(r"^(no\.?|nr\.?|jrk\.? ?nr|s\.? ?no\.?|sl\.? ?no\.?|item no|#|iaf scope|ea code|"
-                      r"otsus decision|decision|remarks?|märkus)(?=[\s:.,]|$)", re.I)
+                      r"otsus decision|decision|remarks?|märkus|type)(?=[\s:.,(]|$)", re.I)
 
 
 def header_map(cells: list[str]) -> dict[int, str] | None:
@@ -622,14 +623,17 @@ def header_map(cells: list[str]) -> dict[int, str] | None:
     filled = [t for t in texts if t]
     # header cells are short labels; a data row that mentions "standard" or "process" is not a header
     # (a trailing footnote mark such as "Degrees of freedom1" is allowed)
-    if not filled or any(len(t) > 90 or len(t.split()) > 8 or re.search(r"\d", re.sub(r"\d+\)?$", "", t))
+    # "(ISO/IEC 17067)" in a "Type" column label is allowed too
+    if not filled or any(len(t) > 110 or len(t.split()) > 14 or
+                         re.search(r"\d", re.sub(r"\d+\)?$", "", re.sub(r"\(?(cf\. )?ISO/IEC 17067\)?", "", t)))
                          for t in filled):
         return None
     m: dict[int, str] = {}
     for i, t in enumerate(texts):
         if not t or HDR_SKIP.match(t):
             continue
-        if HDR_SCHEME.search(t) and not HDR_PRODUCT.search(t.split("/")[0]):
+        if HDR_SCHEME.search(t) and not re.search(r"product|produkt|výrob|toode|tuote|termék|wyrób|produto",
+                                                  t.split("/")[0], re.I):
             m[i] = "scheme"
         elif HDR_NORM.search(t):
             m[i] = "norm"
@@ -695,11 +699,34 @@ ICS_INDUSTRY = {"11": "health", "17": "other_manufacturing", "21": "machinery", 
                 "87": "chemicals", "91": "construction", "93": "construction", "97": "other_manufacturing"}
 ICS_RE = re.compile(r"\bICS\b\W*((?:\d{2}(?:\.\d{2,3})*[\s,;]*)+)", re.I)
 EXTRA_WORDS = [(re.compile(p, re.I), ind) for p, ind in [
+    # French
+    (r"viande|abats|volaille|lait|fromage|boisson|spiritueu|\bvins?\b|fruits?\b|légume|céréal|alimentaire|"
+     r"charcut|poisson|\bmiel\b|œufs?|oeufs?|denrée|produits laitiers|beurre|huile d'olive|pain\b|farine", "food"),
+    (r"formation|compétences|enseignement|apprentissage", "public_education"),
+    (r"services immobiliers|conseil|audit\b|prestataire", "professional"),
+    (r"agricult|végét|animaux|semence|aquacult|biologique|élevage", "agriculture"),
     # Spanish (Uruguay, Latin America)
     (r"calentador|cilindro|propano|butano|supergás|gas licuado|eficiencia energ|petróleo|combustible", "energy"),
     (r"interruptor|lámpara|envolvente|cajas? (de|para)|artefactos? eléctric|baja tensión|eléctric|enchufe|"
      r"tomacorriente|conductor|cable", "electrical"),
     (r"juguete|toy", "other_manufacturing"),
+    # Ukrainian
+    (r"медичн|діагностик|лікар|фармац", "health"),
+    (r"колісн|транспортн|залізнич|рухом|причеп|причіп|автомобіл|вагон|трактор|мотоцикл", "transport_equipment"),
+    (r"будівел|конструкці|труб|цемент|бетон|вікн|двер|скл[оа]\b|покрівл|утеплюв", "construction"),
+    (r"електричн|електронн|радіообладн|кабел|світильн|ламп|акумулятор|вимірювальн|прилад", "electrical"),
+    (r"бензин|палив|дизельн|газ\b|котл|енерг|нафт", "energy"),
+    (r"машин|устаткуван|обладнання.{0,20}тиском|тиском|ліфт|підйомн|верстат", "machinery"),
+    (r"харчов|продукти харчув|м'яс|молок|напо|зерн|борошн|хліб|риб|корм", "food"),
+    (r"насінн|садивн|сільськогосподарськ|лісогосподарськ|добрив|рослин|тварин|органічн", "agriculture"),
+    (r"мийн|хімічн|косметик|фарб|лак|пестицид", "chemicals"),
+    (r"текстильн|одяг|взутт|шкір", "textiles"),
+    (r"металев|з металу|сталь|сталев|чавун|прокат", "metals"),
+    (r"іграш|меблі|посуд|вироби побутов", "other_manufacturing"),
+    (r"індивідуального захисту|засоби захисту|безпеки", "machinery"),
+    (r"послуг|обслуговуван|зелений офіс", "professional"),
+    (r"\bIEC 6\d{4}|\bEN 6\d{4}", "electrical"),
+    (r"surg|scissor|forceps|medical", "health"),
     (r"vehículo|neumático|bicicleta|casco", "transport_equipment"),
     # Portuguese / Spanish / Romanian
     (r"leite|queij|vinh|azeit|água mineral|agua mineral|bebida|pão\b|enchid|presunto|fruta|hortí|mel\b|"
@@ -707,7 +734,7 @@ EXTRA_WORDS = [(re.compile(p, re.I), ind) for p, ind in [
     (r"agregad|cimento|betão|cerâmic|telha|tijolo|argamass|caixilh|vidro|tubagem|torneira|loiça sanit", "construction"),
     (r"lâmpad|ilumin|seccionador|corrente|tensão|aparelhos de cozinha|eletrodom|electrodom|elétric|eléctric|"
      r"electric|motor\b|motors\b|transformer|tap-changer|switch|relay|meter\b|thermometer", "electrical"),
-    (r"máscara|calçado|vestuário|têxt|footwear|garment|cord|rope|corda", "textiles"),
+    (r"máscara|calçado|vestuário|têxt|footwear|garment|\bcords?\b|\bropes?\b|\bcorda", "textiles"),
     (r"fio de máquina|aço|varão|chapa|laminad|perfis metálicos|axle|wheel|rail\b", "metals"),
     (r"clínic|saúde|hospitalar|surgical|syringe|thermometer|condom|glove", "health"),
     (r"pump|valve|compressor|bomba|válvul|closet|cistern|tap\b|faucet|boiler", "machinery"),
@@ -735,8 +762,13 @@ def industry_of(text: str) -> str:  # noqa: F811
     return hit or _base_industry_of(text)
 
 
+# ISO/IEC 17067 scheme-type lines ("Elementele prevazute de schema 5 din SR EN ISO/IEC 17067") have no column
+SCHEME_TYPE = re.compile(r"^(?=.*17067)(?!.*\b(EN|ISO|IEC)\s*(?!17067)\d{3,5}).{0,160}$", re.I)
+
+
 def is_boiler(text: str) -> bool:  # noqa: F811
-    return _base_is_boiler(text) or bool(JUNK.match(clean(text)))
+    t = clean(text)
+    return _base_is_boiler(t) or bool(JUNK.match(t)) or bool(SCHEME_TYPE.match(t))
 
 
 STATEMENT = re.compile(r"(szerint akkreditálva|accredited (according|in accordance|to)|akkrediteret|ackrediter|"

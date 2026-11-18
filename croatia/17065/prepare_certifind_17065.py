@@ -43,13 +43,23 @@ REF = re.compile(
     r"|Halal|Kosher|GMP\+|Friend of the Sea|2BSvs|REDcert\w*)\b", re.I)
 # Croatian-specific schemes, then the shared catalogue table.
 HR_SCHEMES = [(re.compile(p, re.I), c) for p, c in [
-    (r"protuminsk|mine action|detekciju mina", "Croatian Mine Action Equipment Certification"),
+    # Croatian national schemes (mine action equipment, Hrvatska kvaliteta) get no code: text + industry only.
+    (r"2014/90|\bMED\b|marine equipment|pomorsk\w* oprem", "Marine Equipment Directive 2014/90/EU"),
+    (r"2013/53|\bRCD\b|recreational craft|rekreacijsk", "Recreational Craft Directive 2013/53/EU"),
     (r"2017/625|2018/848|834/2007|ekološk|organic", "EU Organic Regulation (EU) 2018/848"),
     (r"1151/2012|2024/1143|oznak\w* izvornosti|zemljopisn|designation of origin|geographical indication", "EU Geographical Indications (DOP/IGP/STG)"),
     (r"2016/797|interoperab", "Rail Interoperability Directive (EU) 2016/797"),
-    (r"Hrvatsk\w* kvalitet|Izvorno hrvatsko|Croatian quality", "Hrvatska kvaliteta / Izvorno hrvatsko"),
 ]]
 WS = re.compile(r"\s+")
+
+
+def local_industry(text):
+    """Fallback for lines the shared INDUSTRY_WORDS miss (national mine-action scheme, IECEx)."""
+    if re.search(r"protuminsk|mine action|detekciju mina", text, re.I):
+        return "machinery"
+    if re.search(r"IECEx|explosive atmosphere|eksplozivn", text, re.I):
+        return "electrical"
+    return ""
 
 
 def ws(t):
@@ -168,7 +178,7 @@ def main():
                 s = scheme_of(r) if r and not sch else sch
                 if s and s not in catalogue:
                     new_schemes[s] += 1
-                lines.append({"scheme": s or "", "industry": "" if s else (it.industry_of(f"{area} {based}") or ""),
+                lines.append({"scheme": s or "", "industry": "" if s else (it.industry_of(f"{area} {based}") or local_industry(f"{area} {based}")),
                               "product_text": area, "product_text_en": "", "scheme_text": based[:300],
                               "normative_docs": "; ".join(x for x in (r, app) if x)[:400],
                               "standard_refs": it.refs(r) if r else "", "status": "ACTIVE"})
