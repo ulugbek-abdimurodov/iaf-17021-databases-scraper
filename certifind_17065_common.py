@@ -73,7 +73,7 @@ DIAL = {"Albania": "355", "Algeria": "213", "Argentina": "54", "Armenia": "374",
         "Sri Lanka": "94", "Sweden": "46", "Switzerland": "41", "Taiwan": "886", "Thailand": "66", "Tunisia": "216",
         "Turkey": "90", "Ukraine": "380", "United Arab Emirates": "971", "United Kingdom": "44",
         "United States": "1", "Uruguay": "598", "Uzbekistan": "998", "Vietnam": "84", "Bahrain": "973",
-        "Kuwait": "965", "Bosnia and Herzegovina": "387", "Belarus": "375", "Iceland": "354"}
+        "Côte d’Ivoire": "225", "Burkina Faso": "226", "Kuwait": "965", "Bosnia and Herzegovina": "387", "Belarus": "375", "Iceland": "354"}
 TRUNK_ZERO_KEPT = {"39"}  # Italy keeps the leading 0
 
 
