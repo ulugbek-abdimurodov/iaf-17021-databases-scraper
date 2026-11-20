@@ -56,10 +56,10 @@ for pdf, name, country, base, issue, exp, schemes in BODIES:
         if cert not in seen:
             seen.add(cert)
             accs.append({"ab_code": "NINAS", "certificate_number": cert, "body_name": name,
-                         "accreditation_standard": acc_std, "status": "active" if r["status"] == "Active" else "inactive",
+                         "accreditation_standard": acc_std, "status": "ACTIVE" if r["status"] == "Active" else "WITHDRAWN",
                          "issue_date": issue, "expiry_date": exp, "proof_url": r["pdf"]})
         scopes.append({"certificate_number": cert, "certification_standard": std, "ea_codes": compress_ea_codes(ea),
-                       "status": "active", "scope_note": NOTES.get(std, {}).get(base, "IAF codes as listed on the schedule")})
+                       "status": "ACTIVE", "scope_note": NOTES.get(std, {}).get(base, "IAF codes as listed on the schedule")})
 
 write_certifind_csvs(OUT, bodies, accs, scopes)
 print("Excluded: 0")
