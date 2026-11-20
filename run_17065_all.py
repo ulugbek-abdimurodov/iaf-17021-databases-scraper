@@ -98,7 +98,16 @@ PIPELINES_17065: dict[str, list] = {
     "india": [scrape("india/17065/scrape_in_nabcb_17065.py", "--no-media")],
     "malaysia": [scrape("malaysia/17065/scrape_my_jsm_17065.py")],
     "ecuador": [scrape("ecuador/17065/scrape_ec_sae_17065.py")],  # not verified: the host returned 403 from the build machine
-    "usa-ias": [scrape("usa/ias_certifind/17065/scrape_us_ias_17065.py")],
+    "usa-ias": [scrape("usa/ias_certifind/17065/scrape_us_ias_17065.py"),
+                prepare("usa/ias_certifind/17065/prepare_certifind_17065.py", "raw")],
+    "usa-a2la": [scrape("usa/a2la-usa-17065/scrape_us_a2la_17065.py"),
+                 prepare("usa/a2la-usa-17065/prepare_certifind_17065.py", "a2la_17065")],
+    "usa-ioas": [scrape("usa/ioas-usa-17065/scrape_us_ioas_17065.py"),
+                 prepare("usa/ioas-usa-17065/prepare_certifind_17065.py", "ioas_17065")],
+    "usa-uaf": [scrape("usa/uaf_certifind/17065/scrape_us_uaf_17065.py"),
+                prepare("usa/uaf_certifind/17065/prepare_certifind_17065.py", "uaf_17065")],
+    # ANAB: the collection runs in a browser (Cloudflare); see scrape_us_anab_17065.py --print-js / --from-json
+    "usa-anab": [prepare("usa/anab-usa_certifind/17065/prepare_certifind_17065.py", "anab_17065")],
     "denmark": [scrape("denmark/17065/scrape_dk_danak_17065.py")],
     "slovakia": [scrape("slovakia/17065/scrape_sk_snas_17065.py")],
     "hungary": [scrape("hungary/17065/scrape_hu_nah_17065.py")],

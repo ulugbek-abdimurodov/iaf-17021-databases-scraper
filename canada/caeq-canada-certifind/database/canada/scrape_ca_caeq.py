@@ -12,11 +12,11 @@ LABELS = ["ADDRESS","CITY","ZIP CODE","REGION","COUNTRY","PHONE","FAX","EMAIL","
 
 def parse(text):
     out = []
-    for blk in re.split(r"\n(?=[^\n]+\n+SEE THE DETAILS)", text)[1:]:
-        lines = [l.strip() for l in blk.splitlines() if l.strip() and l.strip() != "SHOW MORE"]
+    for blk in re.split(r"\n(?=[^\n]+\n+see the details)", re.sub(r"\n\s*\n+", "\n", text), flags=re.I)[1:]:
+        lines = [l.strip() for l in blk.splitlines() if l.strip() and l.strip().upper() not in ("SHOW MORE","HIDE","SEE THE DETAILS","SHOW CERTIFICATE")]
         rec, key = {"name": lines[0]}, None
         for l in lines[1:]:
-            if l in LABELS: key = l; rec[key] = []
+            if l.upper() in LABELS: key = l.upper(); rec[key] = []
             elif key: rec[key].append(l)
         out.append({k: v for k, v in rec.items()})
     return out

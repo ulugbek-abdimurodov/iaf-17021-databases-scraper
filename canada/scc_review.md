@@ -43,4 +43,5 @@
 - QFS MANAGEMENT SYSTEMS LLP (8073): register areas ['ABMS', 'BCMS', 'EMS', 'ISMS', 'OH&SMS', 'QMS']; imported ['ISO 14001', 'ISO 22301', 'ISO 37001', 'ISO 45001', 'ISO 9001', 'ISO/IEC 27001']
 - 8082: skipped CyberSecure Canada (CAN/CIOSC 104 / CAN/DGSI 104) - national scheme
 - SAV Advisory Inc. (8082): register areas ['CSC', 'ISMS', 'QMS']; imported ['ISO 9001', 'ISO/IEC 27001']
+- TÜV SÜD America Inc. (8023): reuses existing body row 'TÜV SÜD America Inc.' (United States)
 - TÜV SÜD America Inc. (8023): register areas ['MDMS', 'QMS']; imported ['ISO 13485', 'ISO 9001']

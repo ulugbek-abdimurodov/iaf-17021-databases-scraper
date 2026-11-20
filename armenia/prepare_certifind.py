@@ -38,11 +38,13 @@ STATUS_MAP = {"Գործող": "ACTIVE", "Կասեցված": "SUSPENDED", "Դադ
 # (լրացուցիչ հավատարմագրման ստանդարտ).
 SCHEME_OVERRIDES = {
     "ISO 22301": ("ISO/IEC 17021-6", " (22301)"),
-    "ISO 28000": ("ISO 28003", " (28000)"),
+    # ISO 28000 stays under the plain ISO/IEC 17021-1 row, as in every other CertiFind dataset.
+    "ISO 28000": ("ISO/IEC 17021-1", ""),
     "ISO 20121": ("ISO/IEC 17021-4", " (20121)"),
 }
 # Standards CertiFind does not carry. Rows for them are listed in REVIEW.md, not written.
-UNSUPPORTED_STANDARDS = {"OHSAS 18001": "withdrawn standard, replaced by ISO 45001"}
+UNSUPPORTED_STANDARDS = {"OHSAS 18001": "withdrawn standard, replaced by ISO 45001",
+                         "ISO 30301": "not in the CertiFind standards table"}
 
 # English names, translated from the Armenian legal names (the register is Armenian only).
 # Keyed by the quoted part of the name, upper case.

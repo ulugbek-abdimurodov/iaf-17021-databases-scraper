@@ -2,16 +2,16 @@
 
 - Retrieved: 2026-11-04
 - Bodies: 5
-- Accreditations: 22
-- Scope rows: 43
-- Standards used: FSSC 22000 (4), ISO 13485 (2), ISO 14001 (4), ISO 20121 (1), ISO 21001 (1), ISO 22000 (4), ISO 22301 (2), ISO 28000 (1), ISO 30301 (1), ISO 30401 (1), ISO 37001 (1), ISO 37101 (1), ISO 37301 (1), ISO 45001 (3), ISO 50001 (3), ISO 55001 (1), ISO 56001 (1), ISO 7101 (1), ISO 9001 (5), ISO/IEC 20000-1 (1), ISO/IEC 27001 (4)
+- Accreditations: 21
+- Scope rows: 42
+- Standards used: FSSC 22000 (4), ISO 13485 (2), ISO 14001 (4), ISO 20121 (1), ISO 21001 (1), ISO 22000 (4), ISO 22301 (2), ISO 28000 (1), ISO 30401 (1), ISO 37001 (1), ISO 37101 (1), ISO 37301 (1), ISO 45001 (3), ISO 50001 (3), ISO 55001 (1), ISO 56001 (1), ISO 7101 (1), ISO 9001 (5), ISO/IEC 20000-1 (1), ISO/IEC 27001 (4)
 
 ## Decisions to confirm (2)
 
 - Records before 2015 are written under ISO/IEC 17021-1; they may have been granted under ISO/IEC 17021:2011
 - English names are translations of the Armenian legal names (ENGLISH_NAMES); the register has no English version
 
-## Mappings (167)
+## Mappings (166)
 
 - MS00000016 ISO 9001: removed by reduction: 14, 17, 19, 24, 29/2, 32/2, 35, 36, 39
 - MS00000016 ISO 14001: removed by reduction: 6, 10, 11, 12, 14, 17, 17.1, 17.2, 19, 22, 23, 24, 29/1, 29/2, 30, 31/1, 32, 33, 35, 36, 37, 38/3, 39
@@ -112,7 +112,6 @@
 - MS00000015 ISO 37001: no sector list on the register -> ALL
 - MS00000015 ISO 56001: no sector list on the register -> ALL
 - MS00000015 ISO 55001: no sector list on the register -> ALL
-- MS00000015 ISO 30301: no sector list on the register -> ALL
 - MS00000015 ISO 37101: no sector list on the register -> ALL
 - MS00000015 ISO 21001: no sector list on the register -> ALL
 - MS00000015 ISO 30401: no sector list on the register -> ALL
@@ -181,8 +180,9 @@
 - MS00000012 FSSC 22000: food category H -> 35
 - MS00000012 FSSC 22000: food category I -> 7;14-15;17
 
-## Exclusions (11)
+## Exclusions (12)
 
+- MS00000015 004/M-011: ISO 30301 left out (not in the CertiFind standards table)
 - MS00000011: WITHDRAWN record 007/M-007 (2023-02-20 to 2026-02-20) left out
 - MS00000010: WITHDRAWN record 006/M-006 (2022-10-11 to 2025-10-11) left out
 - MS00000009: WITHDRAWN record 005/M-005 (2022-09-19 to 2025-09-19) left out

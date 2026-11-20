@@ -1,6 +1,6 @@
 # CAEQ review
 
-Register: https://caeq.ca/accredited-organizations/ (read 2026-11-10 via browser; workspace HTTP blocked by proxy 403).
+Register: https://caeq.ca/accredited-organizations/ (re-read 2026-11-19 over HTTP; 20 bodies, unchanged).
 
 CAEQ (Conseil des appellations réservées et des termes valorisants, Québec) accredits only **organic and reserved-designation product certification** (ISO/IEC 17065; Canada Organic Regime, Quebec CAAQ appellations, EU 2018/848 equivalence). No ISO/IEC 17021-1 management system scheme appears anywhere on the register, so **all 20 bodies are excluded**.
 

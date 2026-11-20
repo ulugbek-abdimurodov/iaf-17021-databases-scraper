@@ -88,6 +88,9 @@ PIPELINES: dict[str, list] = {
     ],
     "canada": [  # scc-ccn.ca: browser-only, rebuilt from scc_raw.tsv
         prepare("canada/prepare_certifind.py", ".", "{DATA}/scc-canada"),
+        # CAEQ 17065 (organic / Québec reserved designations): server-rendered register, HTTP works
+        scrape("canada/caeq-canada-17065/scrape_ca_caeq_17065.py", "caeq_17065"),
+        prepare("canada/caeq-canada-17065/prepare_certifind_17065.py", "caeq_17065", "{DATA}/caeq-canada-17065"),
     ],
     "chile": [  # directorio.inn.cl: browser-only
         prepare("chile/prepare_certifind.py", "database/chile", "{DATA}/inn-chile"),

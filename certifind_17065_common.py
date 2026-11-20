@@ -54,6 +54,7 @@ COUNTRY_FIX = {
     "th": "Thailand", "id": "Indonesia", "vn": "Vietnam", "ae": "United Arab Emirates", "sa": "Saudi Arabia",
     "eg": "Egypt", "pk": "Pakistan", "bd": "Bangladesh", "lk": "Sri Lanka", "br": "Brazil", "mx": "Mexico",
     "ca": "Canada", "au": "Australia", "nz": "New Zealand", "za": "South Africa", "ie": "Ireland", "il": "Israel",
+    "qa": "Qatar", "sm": "San Marino", "korea, south": "South Korea", "south korea": "South Korea",
     "hk": "Hong Kong", "ph": "Philippines", "co": "Colombia", "ar": "Argentina", "cl": "Chile", "pe": "Peru",
 }
 DIAL = {"Albania": "355", "Algeria": "213", "Argentina": "54", "Armenia": "374", "Australia": "61", "Austria": "43",
@@ -64,7 +65,7 @@ DIAL = {"Albania": "355", "Algeria": "213", "Argentina": "54", "Armenia": "374",
         "Hungary": "36", "Iceland": "354", "India": "91", "Indonesia": "62", "Iran": "98", "Ireland": "353",
         "Israel": "972", "Italy": "39", "Japan": "81", "Jordan": "962", "Kazakhstan": "7", "Kenya": "254",
         "Latvia": "371", "Lebanon": "961", "Lithuania": "370", "Luxembourg": "352", "Malaysia": "60", "Malta": "356",
-        "Mexico": "52", "Moldova": "373", "Mongolia": "976", "Montenegro": "382", "Morocco": "212", "Nepal": "977",
+        "Mexico": "52", "Costa Rica": "506", "Honduras": "504", "Moldova": "373", "Mongolia": "976", "Montenegro": "382", "Morocco": "212", "Nepal": "977",
         "Netherlands": "31", "New Zealand": "64", "Nigeria": "234", "North Macedonia": "389", "Norway": "47",
         "Oman": "968", "Pakistan": "92", "Peru": "51", "Philippines": "63", "Poland": "48", "Portugal": "351",
         "Qatar": "974", "Romania": "40", "Russia": "7", "Saudi Arabia": "966", "Serbia": "381", "Singapore": "65",
@@ -96,7 +97,8 @@ def phone(raw: str, country: str, notes: list, who: str) -> str:
     p = clean(raw)
     if not p:
         return ""
-    p = re.split(r"\s*(?:[,;/]|\bor\b|\bfax\b|\bmob\w*\b)\s*(?=\+?\(?\d)", p, flags=re.I)[0]
+    p = re.split(r"\s*(?:[,;/]|\bor\b|\by\b|\bfax\b|\bmob\w*\b)\s*(?=\+?\(?\d)", p, flags=re.I)[0]
+    p = re.split(r"(?<=\d)\s+(?=\+\s*\d)", p)[0]  # two numbers separated only by a space
     p = re.sub(r"\((?:0)\)", "", p)  # +31 (0)88 -> +31 88
     p = re.sub(r"(?i)^(tel\.?|phone|telefon|t\.?)\s*:?\s*", "", p)
     p = re.sub(r"\s*(#|ext\.?|x)\s*\d+$", "", p, flags=re.I)
@@ -227,6 +229,9 @@ EU_SCHEMES = [
 PRIVATE_SCHEMES = [
     (r"GLOBAL ?G\.?A\.?P\.?,? *(Chain of Custody|CoC)", "GLOBALG.A.P. Chain of Custody"),
     (r"GLOBAL ?G\.?A\.?P", "GLOBALG.A.P. IFA"),
+    (r"PRIMUS ?GFS", "PrimusGFS"),
+    (r"Best +Aquaculture +Practices|\bBAP\b.{0,40}(aquacult|acuicult|seafood|shrimp|camar)", "Best Aquaculture Practices"),
+    (r"Flor ?verde", "Florverde Sustainable Flowers"),
     (r"BRC\w*.{0,40}Packaging", "BRCGS Packaging Materials"),
     (r"BRC\w*.{0,40}Storage and Distribution", "BRCGS Storage and Distribution"),
     (r"BRC\w*.{0,40}Agents? and Brokers", "BRCGS Agents and Brokers"),
