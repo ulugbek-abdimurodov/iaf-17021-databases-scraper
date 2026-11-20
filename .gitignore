@@ -18,6 +18,8 @@
 *.jpeg
 *.sql
 *.md
+*.gif
+*.log
 
 # Python
 __pycache__/

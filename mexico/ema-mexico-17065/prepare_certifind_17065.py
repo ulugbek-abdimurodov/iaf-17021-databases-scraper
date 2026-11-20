@@ -35,15 +35,34 @@ def clean_reg(s: str) -> str:
     return re.sub(r"[\s.]+$", "", s.strip())
 
 
+# Spanish country names in EMA's foreign addresses -> the English names used in data/*/bodies.csv.
+SPANISH = {"estados unidos": "United States", "usa": "United States", "el salvador": "El Salvador",
+           "república dominicana": "Dominican Republic", "republica dominicana": "Dominican Republic",
+           "colombia": "Colombia", "canada": "Canada", "canadá": "Canada", "guatemala": "Guatemala",
+           "honduras": "Honduras", "costa rica": "Costa Rica", "panamá": "Panama", "perú": "Peru"}
+
+
 def address(a: str) -> str:
-    return re.sub(r",\s*,?\s*Extranjero, CP\. 99999, Extranjero", "", a or "").strip(" ,")
+    """EMA pads foreign addresses with ', Extranjero, CP. 99999, Extranjero' and marks countries with '#'."""
+    if "Extranjero" not in (a or ""):
+        return (a or "").strip(" ,")
+    a = re.sub(r"(,\s*)*(Extranjero\s*,?\s*)+(CP\. 99999,\s*Extranjero)?\s*$", "", a)
+    a = re.sub(r"\.?\s*#\s*(?=,|$)", "", a)  # "EL SALVADOR. #" -> "EL SALVADOR" (house numbers keep their #)
+    return re.sub(r"(,\s*)+$", "", a).strip(" ,")
 
 
 def country(a: str) -> str:
-    if "Extranjero" in (a or ""):
-        tail = address(a).split(",")[-1].strip()
-        return cf.country_name(tail, "") or ""
-    return "Mexico"
+    if "Extranjero" not in (a or ""):
+        return "Mexico"
+    parts = [p.strip(" .").casefold() for p in address(a).split(",") if p.strip(" .")]
+    for p in reversed(parts):  # the country is the last part that names one ("... TORONTO CANADA")
+        hit = SPANISH.get(p) or next((v for k, v in SPANISH.items() if re.search(rf"\b{re.escape(k)}$", p)), "")
+        if hit:
+            return hit
+        named = cf.country_name(p, "")
+        if named in cf.DIAL:  # country_name returns unknown text unchanged; accept known countries only
+            return named
+    return ""
 
 
 def main():

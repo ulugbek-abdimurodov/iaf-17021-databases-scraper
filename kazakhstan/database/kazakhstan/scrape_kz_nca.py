@@ -1,93 +1,61 @@
-"""Scrape Kazakhstan NCA register (techreg.kezekte.kz) for management system
-certification bodies (ISO/IEC 17021-1): list, accreditation scope tables,
-attestat PDFs (RU/KZ) and scope annex PDFs.
+"""Scrape the Kazakhstan NCA register for management system certification bodies (ISO/IEC 17021-1, ОПС СМ):
+register rows, contacts and scope annexes (.doc/.docx/.pdf).
 
-Usage:  python scrape_kz_nca.py [--out raw] [--no-pdf]
-Output: <out>/subjects_full.json  (all list fields + every scope table, verbatim)
-        <out>/kz_nca_ms_bodies.json (compact input for prepare_certifind.py)
-        <out>/pdf/<id>_attestat_ru.pdf, <id>_attestat_kz.pdf, <id>_scope.pdf
+Source: the NCA register linked from www.nca.kz (kz_nca_register.py), activity fldActivityType[] = 7.
+techreg.kezekte.kz/ru/acc/subjects, used until Nov 2026, now only shows an archive (mostly "Inactive",
+no detail pages, files answer 404), so this scraper no longer uses it.
+
+The register gives no scope tables on the page: scope is in the annex files, one file per scheme in most cases
+("32.2.6  9001 - 3896.doc"), sometimes one file for all schemes. Annexes are turned into text by Microsoft Word
+(COM, filtered HTML; antiword fails on many of them), then split into per-scheme pseudo tables that the
+unchanged compact() reduces to IAF ranges / ISO 22003 categories / ISO 50003 areas.
+
+Usage:  python scrape_kz_nca.py [--out ../../raw] [--limit N] [--no-pdf]
+Output: <out>/subjects_full.json    register rows + per-file scope tables
+        <out>/kz_nca_ms_bodies.json  compact input for prepare_certifind.py (same shape as before; the first
+                                     field is now the first annex file id instead of a kezekte view id, and the
+                                     BIN field holds the certificate number because the register has no BIN)
+        <out>/pdf/<row>/<file_id>.doc|.docx|.pdf (+ .htm made by Word)
 """
 import argparse
 import json
 import re
-import time
+import sys
 from pathlib import Path
 
-import requests
-from bs4 import BeautifulSoup
+sys.path.insert(0, str(Path(__file__).parent))
+import kz_nca_register as reg  # noqa: E402
 
-BASE = "https://techreg.kezekte.kz"
-LIST_URL = BASE + "/ru/acc/subjects"
-VIEW_URL = BASE + "/ru/acc/subjects/verifications/view/{id}"
-FILES = {
-    "attestat_ru": "/ru/acc/subjects/verifications/attestat-download/{id}",
-    "attestat_kz": "/ru/acc/subjects/verifications/attestat-kz-download/{id}",
-    "scope": "/ru/acc/subjects/verifications/download/{id}",
-}
-MS_TYPE = "ОрганПоПодтверждениюСоответствияСистемыМенеджментаКачества"
 STD_RE = re.compile(r"(ISO/IEC 27001|ISO/IEC 20000-1|ISO 9001|ISO 14001|ISO 45001|ISO 50001|22000|OHSAS 18001|29001|1179|1352|12\.0\.\d+)")
-
-S = requests.Session()
-S.headers["User-Agent"] = "Mozilla/5.0 (registry-scraper)"
-
-
-def get(url, **kw):
-    for attempt in range(4):
-        try:
-            r = S.get(url, timeout=60, **kw)
-            r.raise_for_status()
-            return r
-        except requests.RequestException:
-            if attempt == 3:
-                raise
-            time.sleep(2 * (attempt + 1))
+FILE_STD = [(r"(?<!\d)27001(?!\d)", "ISO/IEC 27001"), (r"(?<!\d)20000(?!\d)", "ISO/IEC 20000-1"),
+            (r"(?<!\d)9001(?!\d)", "ISO 9001"), (r"(?<!\d)14001(?!\d)", "ISO 14001"),
+            (r"(?<!\d)45001(?!\d)", "ISO 45001"), (r"(?<!\d)50001(?!\d)", "ISO 50001"),
+            (r"(?<!\d)22000(?!\d)", "22000"), (r"(?<!\d)29001(?!\d)", "29001"), (r"(?<!\d)37001(?!\d)", "37001")]
+# a line that names a scheme as a heading, e.g. "СТ РК ISO 9001-2016 Системы менеджмента качества. Требования"
+HEAD_RE = re.compile(r"^(?:СТ\s*РК\s*|ГОСТ\s*(?:Р\s*)?)?(?:ISO(?:/IEC)?|ИСО)\s*(\d{4,5})", re.I)
 
 
-def txt(el):
-    return re.sub(r"\s+", " ", el.get_text(" ")).strip()
-
-
-def scrape_list():
-    rows, page = [], 1
-    while True:
-        soup = BeautifulSoup(get(LIST_URL, params={"flApplicantType": MS_TYPE, "p": page}).text, "html.parser")
-        hdr = [txt(th) for th in soup.select("table thead th")]
-        trs = [tr for tr in soup.select("table tbody tr") if tr.find("a", href=re.compile(r"/view/\d+"))]
-        if not trs:
-            break
-        for tr in trs:
-            cells = [c.get_text("\n").strip() for c in tr.find_all("td")]
-            cells = [re.sub(r"[ \t]*\n\s*", "\n", c) for c in cells]
-            rec = dict(zip(hdr, cells))
-            rec["_id"] = re.search(r"/view/(\d+)", tr.find("a", href=re.compile(r"/view/\d+"))["href"]).group(1)
-            rows.append(rec)
-        page += 1
-    return rows
-
-
-def heading(table):
-    """Nearest preceding non-empty text = scheme/standard title of a scope table."""
-    el = table
-    for _ in range(6):
-        sib = el.find_previous_sibling()
-        while sib is not None:
-            t = txt(sib)
-            if t:
-                return t[-200:]
-            sib = sib.find_previous_sibling()
-        el = el.parent
-        if el is None:
-            break
+def file_std(name: str) -> str:
+    for pat, std in FILE_STD:
+        if re.search(pat, name):
+            return std
     return ""
 
 
-def scrape_view(vid):
-    soup = BeautifulSoup(get(VIEW_URL.format(id=vid)).text, "html.parser")
-    tables = []
-    for t in soup.find_all("table"):
-        rows = [[txt(c) for c in tr.find_all(["td", "th"])] for tr in t.find_all("tr")]
-        if rows:
-            tables.append({"std": heading(t), "hdr": rows[0], "rows": rows[1:]})
+def tables_for_file(fname: str, lines: list[str]) -> list[dict]:
+    """Split annex text into pseudo scope tables, one per scheme heading; rows are '|' cells."""
+    tables, cur = [], {"std": file_std(fname) or fname, "hdr": [], "rows": []}
+    for ln in lines:
+        m = HEAD_RE.match(ln) if len(ln) < 220 else None
+        if m:
+            std = file_std(m.group(1)) or ln[:200]
+            if cur["rows"]:
+                tables.append(cur)
+            cur = {"std": std, "hdr": [], "rows": []}
+            continue
+        cur["rows"].append([c.strip() for c in ln.split("|")])
+    if cur["rows"]:
+        tables.append(cur)
     return tables
 
 
@@ -104,7 +72,7 @@ def compress(nums):
 
 
 def compact(rec, tables):
-    """Per scheme: [IAF/EA ranges, ISO 22003 categories, ISO 50003 areas, NACE divisions]."""
+    """Per scheme: [IAF/EA ranges, ISO 22003 categories, ISO 50003 areas, NACE divisions]. (unchanged)"""
     sc = {}
     for t in tables:
         m = STD_RE.search(t["std"])
@@ -122,42 +90,55 @@ def compact(rec, tables):
     for k, v in sc.items():
         kp = [] if (v["iaf"] or v["c"]) else sorted(v["kp"])
         out[k] = [compress(v["iaf"]), "/".join(v["c"]), "/".join(v["z"]), " ".join(kp)]
-    g = lambda key: next((val for h, val in rec.items() if h.startswith(key)), "")
-    contacts = re.sub(r"Республика Казахстан,?\s*", "", g("Контактные"))
-    return [rec["_id"], g("Номер Аттестата"), g("Дата начала"), g("Дата окончания"), g("Статус"),
-            g("БИН"), g("Наименование субъекта"), contacts, out]
+    return out
+
+
+def contacts_text(r):
+    addr = re.split(r"\s*(?:тел\.?|телефон|факс)\s*[.:]", r["address_block"], maxsplit=1, flags=re.I)[0]
+    return f"Email: {r['email']}\nТелефон: {r['phone']}\nФактический адрес: {addr.strip(' ,;')}"
 
 
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default="raw")
-    ap.add_argument("--no-pdf", action="store_true")
+    ap = argparse.ArgumentParser(description="Scrape NCA Kazakhstan management system certification bodies.")
+    ap.add_argument("--out", default=str(Path(__file__).resolve().parents[2] / "raw"))
+    ap.add_argument("--limit", type=int)
+    ap.add_argument("--no-pdf", "--no-files", dest="no_pdf", action="store_true")
     a = ap.parse_args()
     out = Path(a.out)
-    (out / "pdf").mkdir(parents=True, exist_ok=True)
+    out.mkdir(parents=True, exist_ok=True)
 
-    rows = scrape_list()
-    full, comp, seen = [], [], {}
-    for rec in rows:
-        vid = rec["_id"]
-        if vid not in seen:
-            seen[vid] = scrape_view(vid)
-            time.sleep(0.5)
-        full.append({**rec, "scope_tables": seen[vid], "view_url": VIEW_URL.format(id=vid),
-                     "files": {k: BASE + v.format(id=vid) for k, v in FILES.items()}})
-        comp.append(compact(rec, seen[vid]))
-        if not a.no_pdf:
-            for k, path in FILES.items():
-                dest = out / "pdf" / f"{vid}_{k}.pdf"
-                if not dest.exists():
-                    r = get(BASE + path.format(id=vid))
-                    if r.content[:4] == b"%PDF":
-                        dest.write_bytes(r.content)
-                    time.sleep(0.3)
+    rows = reg.fetch_list(reg.ACT_MS)
+    print(f"register: {len(rows)} rows")
+    if a.limit:
+        rows = rows[:a.limit]
+    paths, failed = {}, 0
+    if not a.no_pdf:
+        for r in rows:
+            for f in r["files"]:
+                try:
+                    paths[f["id"]] = reg.download(f["id"], out / "pdf" / r["row_no"].zfill(3), f["name"])
+                except Exception as e:
+                    failed += 1
+                    print(f"file failed {r['registration_no']} {f['name']}: {e}")
+        reg.convert_with_word(out / "pdf")
+
+    full, comp = [], []
+    for r in rows:
+        tables = []
+        for f in r["files"]:
+            p = paths.get(f["id"])
+            if p:
+                tables += tables_for_file(f["name"], reg.text_lines(p))
+        full.append({**r, "scope_tables": tables, "files": {f["name"]: reg.file_url(f["id"]) for f in r["files"]}})
+        vid = r["files"][0]["id"] if r["files"] else ""
+        status = "Действует" if r["status"] == "Active" else r["status"]
+        comp.append([vid, r["registration_no"], r["issued"], r["expiry"], status, r["registration_no"], r["name"],
+                     contacts_text(r), compact(r, tables)])
 
     (out / "subjects_full.json").write_text(json.dumps(full, ensure_ascii=False, indent=1), encoding="utf-8")
     (out / "kz_nca_ms_bodies.json").write_text(json.dumps(comp, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"Registrations: {len(rows)} | Scope pages: {len(seen)} | PDFs: {len(list((out / 'pdf').glob('*.pdf')))}")
+    print(f"Registrations: {len(rows)} | bodies: {len({r['registration_no'] for r in rows})} | "
+          f"files: {len(paths)} ok, {failed} failed | rows with schemes: {sum(1 for c in comp if c[-1])}")
 
 
 if __name__ == "__main__":

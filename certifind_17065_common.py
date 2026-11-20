@@ -232,6 +232,15 @@ PRIVATE_SCHEMES = [
     (r"PRIMUS ?GFS", "PrimusGFS"),
     (r"Best +Aquaculture +Practices|\bBAP\b.{0,40}(aquacult|acuicult|seafood|shrimp|camar)", "Best Aquaculture Practices"),
     (r"Flor ?verde", "Florverde Sustainable Flowers"),
+    (r"Global Recycled? Standard", "Global Recycled Standard"),
+    (r"Recycled Claim Standard", "Recycled Claim Standard"),
+    (r"Organic Content Standard", "Organic Content Standard"),
+    (r"Content Claim Standard", "Content Claim Standard"),
+    (r"IECEx", "IECEx Certified Equipment Scheme"),
+    (r"\bGOTS\b|Global Organic Textile Standard", "GOTS"),
+    (r"Sustainable Fibre Alliance|\bSFA\b.{0,30}(C00\d|cashmere|ноолуур)", "SFA Cashmere Standard"),
+    (r"\bhalal\b|\bhelal\b|حلال", "Halal"),
+    (r"OIML[- ]?CS\b|OIML Certification System", "OIML-CS"),
     (r"BRC\w*.{0,40}Packaging", "BRCGS Packaging Materials"),
     (r"BRC\w*.{0,40}Storage and Distribution", "BRCGS Storage and Distribution"),
     (r"BRC\w*.{0,40}Agents? and Brokers", "BRCGS Agents and Brokers"),
@@ -430,6 +439,9 @@ class Dataset:
                 self.known.setdefault((r["country"], key(r["name"])), r)
         self.ms_acc = _read(DATA / ms_dataset / "accreditations.csv") if ms_dataset else []
         self.ms_bodies = {r["name"]: r for r in _read(DATA / ms_dataset / "bodies.csv")} if ms_dataset else {}
+        # the AB's own MS dataset wins over other datasets that spell the same body differently
+        for r in self.ms_bodies.values():
+            self.known[(r["country"], key(r["name"]))] = r
         self.ms_certs = {r["certificate_number"]: r for r in self.ms_acc}
 
     def note(self, text: str) -> None:

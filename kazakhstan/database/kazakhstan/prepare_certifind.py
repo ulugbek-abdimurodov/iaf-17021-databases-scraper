@@ -12,8 +12,8 @@ from certifind_common import (ISO22003_TO_EA, ISO50003_TO_EA, compress_ea_codes,
 ROOT = Path(__file__).resolve().parents[2]
 RAW = ROOT / "raw" / "kz_nca_ms_bodies.json"
 OUT = ROOT / "data" / "nca-kazakhstan"
-BASE = "https://techreg.kezekte.kz"
-SOURCE_URL = BASE + "/ru/acc/subjects"
+BASE = "http://77.245.104.163/index.php?do=web_search"  # NCA register linked from www.nca.kz
+SOURCE_URL = BASE
 
 SCHEMES = {"ISO 9001": "ISO 9001", "ISO 14001": "ISO 14001", "ISO 45001": "ISO 45001",
            "ISO 50001": "ISO 50001", "22000": "ISO 22000", "ISO/IEC 27001": "ISO/IEC 27001",
@@ -37,6 +37,15 @@ def iso(d):
 
 def clean_name(n):
     n = n.strip().strip('"').replace('""', '"')
+    # register style: 'ОПС СМ ТОО "Каз Серт", г. Астана (ОПС СМ)' -> 'ТОО "Каз Серт"'
+    n = re.sub(r"\s*\((?:ОПС[^)]*)\)\s*$", "", n)
+    n = re.sub(r",\s*г\.\s*[^,]+$", "", n)
+    n = re.sub(r"^.*?ОПС(?:\s+СМ|\s+системы менеджмента)?\s+(?=(?:ТОО|АО)\b)", "", n)  # incl. "<Region> филиал"
+    n = re.sub(r"^ОПС(?:\s+СМ|\s+системы менеджмента)?\s+", "", n)
+    n = re.sub(r"\s*\((?:НаЦЭкС)\)\s*$", "", n)
+    n = re.sub(r"^ТОО\s*", "Товарищество с ограниченной ответственностью ", n)
+    n = re.sub(r"^АО\s*", "Акционерное общество ", n)
+    n = n.replace("«", '"').replace("»", '"')
     form = "JSC" if re.search(r"(?i)акционерное общество", n) else "LLP"
     n = re.sub(r"(?i)^товарищество с ограниченной ответственностью\s*", "", n)
     n = re.sub(r"(?i)^акционерное общество\s*", "", n)
@@ -105,7 +114,7 @@ def main():
         bodies[bin_] = {"name": bname, "country": "Kazakhstan", "registration_no": num,
                         "phone": contact(contacts, "Телефон"), "email": contact(contacts, "Email"),
                         "website": "", "address": address(contacts), "source_url": SOURCE_URL, "verified_at": ""}
-        proof = f"{BASE}/ru/acc/subjects/verifications/download/{vid}"
+        proof = f"{BASE}&file={vid}" if vid else SOURCE_URL
         acc_done = set()
         for k, v in inscope.items():
             std = SCHEMES[k]
@@ -124,7 +133,7 @@ def main():
     print(f"Excluded: {excluded}")
     (Path(__file__).parent / "nca_review.md").write_text(
         "# NCA (Kazakhstan) review log\n\nSkipped registrations and schemes from "
-        f"{SOURCE_URL} (activity type: ОПС системы менеджмента).\n\n" + "\n".join(review) + "\n", encoding="utf-8")
+        f"{SOURCE_URL} (activity type 7: ОПС СМ).\n\n" + "\n".join(review) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":
